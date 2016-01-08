@@ -1,0 +1,146 @@
+/* ========================================================================== */
+/*  Style - Orange Differences                                                */
+/* ========================================================================== */
+
+/* ========================================================================== */
+/*  General & Helper Styles                                                   */
+/* ========================================================================== */
+a { color:#447d90; }
+a:hover { color:#444444; }
+
+/* ========================================================================== */
+/*  Main Navigation                                                           */
+/* ========================================================================== */
+
+#navigation a:hover, #navigation .active a {  color:#5aa6c0;  }
+
+/* ========================================================================== */
+/*  Header Stylings Home and Inner                                            */
+/* ========================================================================== */
+
+.bg1 {  background: #41616c url(../images/slide-3-background.jpg) center top no-repeat; }
+
+/* ========================================================================== */
+/* Generic Text Headings Styles & Breadcrumbs                                 */
+/* ========================================================================== */
+
+h5 {
+  color:#ff8932;
+  margin-top:10px;
+  margin-bottom:8px;
+  font-size:14px;
+  line-height:19px;
+  text-transform:uppercase;
+}
+
+/* ========================================================================== */
+/* Footers                                                                    */
+/* ========================================================================== */
+
+.big-footer {
+  background:#41616c url(../images/slide-3-background.jpg) top center no-repeat;
+  min-height:200px;
+  min-width:960px;
+  font-size:12px;
+  line-height:19px;
+  padding-bottom:24px;
+  padding-top:10px;
+  color:#ffffff;
+  position:relative;
+}
+
+/* ========================================================================== */
+/* Form Styles                                                                */
+/* ========================================================================== */
+
+form ol.forms .inputError:focus {  border-color: #447d90; }
+form ol.forms .inputError textarea:focus {  border-color: #447d90; }
+form .required { color:#447d90; font-weight:normal; font-family:"Lucida Sans Unicode", Arial, sans-serif; }
+form input:focus, form textarea:focus, form select:focus {  border-color: #447d90; }
+form input:hover, form textarea:hover, form select:focus {  border-color: #447d90; }
+.contactThanks { background: #F2F3F6; border: 1px solid #447d90; padding:10px; }
+
+
+/* ========================================================================== */
+/* Content Lists                                                              */
+/* ========================================================================== */
+
+
+ul.pricing-col .top {
+  background:#f1f1f1 url(../images/slide-3-background.jpg) top repeat-x;
+  color:#ffffff;
+  border-bottom:1px solid #dbdbdb;
+  font-size:17px;
+  text-align:center;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+ul.highlight .top {
+  background:#f1f1f1 url(../images/slide-3-background.jpg) top repeat-x;
+  color:#ffffff;
+  border-bottom:1px solid #dbdbdb;
+  font-size:17px;
+  text-align:center;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+
+ul.pricing-col-small .top {
+  background:#f1f1f1 url(../images/slide-3-background.jpg) top repeat-x;
+  color:#ffffff;
+  border-bottom:1px solid #dbdbdb;
+  font-size:17px;
+  text-align:center;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+ul.highlight-small .top {
+  background:#f1f1f1 url(../images/slide-3-background.jpg) top repeat-x;
+  color:#ffffff;
+  border-bottom:1px solid #dbdbdb;
+  font-size:17px;
+  text-align:center;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+/* Generic pagination */
+ul.pagination li.active a, ul.pagination li.active a:hover {
+  background:#99c7d7;
+  border:1px solid #70a9bd;
+  color:#4e8aa0;
+}
+
+/* Accordion used on the faq page */
+/* accordion header */
+.accordion-faq span {
+	background:#ffffff url(../images/faq-open-left.jpg) top left no-repeat;
+	margin:0px;;
+    margin-bottom:5px;
+	padding-top:8px;
+    padding-bottom:5px;
+    padding-left:50px;
+    padding-right:0px;
+	font-size:17px;
+	font-weight:normal;
+	cursor:pointer;
+    color:#447d90;
+}
+
+/* This contains the scrollable image carousel */
+.items div a:hover img {
+  border:2px solid #447d90;
+}
+/* active item */
+.scrollable .active {
+	border:2px solid #447d90;
+	position:relative;
+	cursor:default;
+}
+
+
+
+
+

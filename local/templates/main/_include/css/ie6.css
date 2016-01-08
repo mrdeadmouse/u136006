@@ -1,0 +1,62 @@
+.style-switcher {   position:absolute !important;  top:50%;  }
+.header .slide { width:100%; height:387px; overflow:hidden; }
+.header-alt .slide { width:100%; height:277px !important; overflow:hidden; }
+.header-alt-sec .slide { width:100%; height:310px; overflow:hidden; }
+
+.main-menu {  position:relative; z-index:999; }
+
+.sf-sub-indicator {	top: 0.8em; }
+a > .sf-sub-indicator { top: .8em; }
+
+.sf-menu ul .sf-sub-indicator { background-position:  -10px 0; top: 1em;}
+.sf-menu ul a > .sf-sub-indicator { background-position:  0 0; 	top: 1em; }
+
+a.btn-medium { width:auto; overflow:hidden; margin-right:4px; }
+a.btn-medium span { width:auto; letter-spacing:-0.02em; }
+
+.full-width .one-half {  width:470px;}
+.full-width .one-half-last {  width:470px;  overflow:hidden;}
+.full-width .one-half .pad, .full-width .one-half-last .pad {  padding-left:20px; padding-right:18px; }
+.full-width .one-half .padleft, .full-width .one-half-last .padleft {  padding-left:20px;  }
+.full-width .one-half .padright, .full-width .one-half-last .padright {  padding-right:18px;  }
+
+.full-width .one-third {  width:300px;  overflow:hidden; }
+.full-width .one-third-last {  width:300px;  overflow:hidden; }
+.full-width .one-third .pad, .full-width .one-third-last .pad {  padding-left:20px; padding-right:18px; }
+.full-width .one-third .padleft, .full-width .one-third-last .padleft {  padding-left:20px;  }
+.full-width .one-third .padright, .full-width .one-third-last .padright {  padding-right:18px;  }
+
+.full-width .two-third {  width:620px;   overflow:hidden; }
+.full-width .two-third-last {  width:620px;   overflow:hidden; }
+.full-width .two-third .pad, .full-width .two-third-last .pad {  padding-left:20px; padding-right:18px; }
+.full-width .two-third .padleft, .full-width .two-third-last .padleft {  padding-left:20px;  }
+.full-width .two-third .padright, .full-width .two-third-last .padright {  padding-right:18px;  }
+
+.roundabout-desclinkbox { height:40px; overflow:hidden; background-repeat:repeat-y;}
+.roundabout-desc { width:520px; overflow:hidden; }
+
+.small-footer { font-size:11px; }
+
+ul.services li .service-desc {  width:310px;  display:table-cell; }
+ul.blog-post-grid-list li {  margin-right:0px;  margin-bottom:0px;  padding-right:18px;  padding-bottom:28px; }
+
+ul.gallery-main li a {  height:30px;  width:150px; }
+.gallery-item {
+  overflow:hidden;
+  margin-right:0px;
+  margin-left:0px;
+  margin-bottom:0px;
+  padding-right:8px;
+  padding-left:8px;
+  padding-bottom:0px;
+}
+.less-spacing {
+  margin-top:0px;
+  margin-right:0px;
+  margin-left:0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-right:15px;
+  padding-left:0px;
+}
+form ol.forms .inline {  height:1px; } 

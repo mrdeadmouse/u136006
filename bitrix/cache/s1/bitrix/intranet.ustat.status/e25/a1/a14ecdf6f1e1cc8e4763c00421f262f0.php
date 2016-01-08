@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001452277652';
-$dateexpire = '001452278252';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:1:{s:11:"STATUS_INFO";a:2:{s:8:"ACTIVITY";i:0;s:11:"INVOLVEMENT";i:0;}}s:18:"templateCachedData";a:3:{s:6:"frames";a:2:{i:0;a:6:{s:2:"id";s:10:"pulse-rate";s:11:"containerId";s:10:"pulse-rate";s:10:"staticPart";s:0:"";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}i:1;a:6:{s:2:"id";s:9:"pulse-cnt";s:11:"containerId";s:9:"pulse-cnt";s:10:"staticPart";s:0:"";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}}s:9:"frameMode";b:1;s:6:"__view";a:1:{s:7:"sidebar";a:1:{i:0;a:2:{i:0;s:17055:"
+$datecreate = '001452282180';
+$dateexpire = '001452282780';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:1:{s:11:"STATUS_INFO";a:2:{s:8:"ACTIVITY";d:18;s:11:"INVOLVEMENT";i:0;}}s:18:"templateCachedData";a:3:{s:6:"frames";a:2:{i:0;a:6:{s:2:"id";s:10:"pulse-rate";s:11:"containerId";s:10:"pulse-rate";s:10:"staticPart";s:0:"";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}i:1;a:6:{s:2:"id";s:9:"pulse-cnt";s:11:"containerId";s:9:"pulse-cnt";s:10:"staticPart";s:0:"";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}}s:9:"frameMode";b:1;s:6:"__view";a:1:{s:7:"sidebar";a:1:{i:0;a:2:{i:0;s:17056:"
 <script type="text/javascript">
 
 BX.INTRANET_USTAT_LAST_PARAMETERS = null;
@@ -284,7 +284,7 @@ BX.ready(function() {
 			</td>
 			<td class="sidebar-pulse-cell-r">
 				<div class="sidebar-pulse-nums">
-					<div class="sidebar-pulse-counter" title="Активность компании на текущий момент (сумма действий всех сотрудников компании в течение последнего часа)."><span id="pulse-cnt"></span><!--\'start_frame_cache_pulse-cnt\'-->0<!--\'end_frame_cache_pulse-cnt\'--><div class="sidebar-pulse-counter-line"></div>
+					<div class="sidebar-pulse-counter" title="Активность компании на текущий момент (сумма действий всех сотрудников компании в течение последнего часа)."><span id="pulse-cnt"></span><!--\'start_frame_cache_pulse-cnt\'-->18<!--\'end_frame_cache_pulse-cnt\'--><div class="sidebar-pulse-counter-line"></div>
 					</div>
 					<div class="sidebar-pulse-percent" title="Текущая вовлеченность сотрудников - показывает, какой процент от всех сотрудников компании использовал за сегодня хотя бы четыре рабочих инструмента."><span id="pulse-rate"></span><!--\'start_frame_cache_pulse-rate\'-->0<span class="sidebar-pulse-percent-icon">%</span><!--\'end_frame_cache_pulse-rate\'--><div class="sidebar-pulse-percent-bg"></div>
 					</div>
