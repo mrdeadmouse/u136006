@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5199</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416928768</timestamp_x>
+<date_create>1359537626</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Создание и обработка лида из веб-формы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Посетитель вашего сайта заполняет веб-форму:</p>
+ 
+<p><img src="cid:resources/res359/7kMV2.anketa.png" width="561" height="564"  /></p>
+ 
+<p>При настроенной <a href="/learning/course/index.php?COURSE_ID=41&LESSON_ID=3642" >интеграции веб-формы с CRM</a>, данные анкеты пересылаются через API в CRM в качестве лида. Откройте лид в режиме просмотра для проверки данных:</p>
+ 
+<p><img src="cid:resources/res359/WbL2e.new_lid3.png" border="0" width="693" height="459"  /></p>
+ 
+<p>Укажите статус лида как <b>В обработке</b> и назначьте нужного менеджера.</p>
+ 
+<p>При необходимости можно добавить товары к лиду:</p>
+ 
+<p><img src="cid:resources/res359/CEMg0.new-tov.png" border="0" width="698" height="246"  /></p>
+ 
+<p>С помощью кнопки <b>Дела</b> можно создавать действия и планировать события:</p>
+ 
+<p><img src="cid:resources/res359/MAtnl.dela.png" border="0" width="632" height="235"  /></p>
+ 
+<p>Например, создать <b>Звонок</b> и через определенное количество времени получить уведомление:</p>
+ 
+<p><img src="cid:resources/res359/YKHpN.uvedo.png" border="0" width="584" height="144"  /></p>
+ 
+<p>Менеджер добавляет задачу в окне просмотра лида:</p>
+ 
+<p><img src="cid:resources/res359/Q71ll.prov_opl2.png" border="0" width="627" height="385"  /></p>
+ 
+<p>Далее <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2350#convert" >конвертирует лид</a> в контакт (поля из лида проставляются автоматически):</p>
+ 
+<p><img src="cid:resources/res359/baikl.konvert.png" border="0" width="694" height="318"  /></p>
+ 
+<p>и в сделку:</p>
+ 
+<p><img src="cid:resources/res359/xRbaH.vsdelku.png" border="0" width="503" height="488"  /></p>
+ 
+<p>Товары сделки, переданные из лида, можно отредактировать тут же.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5199</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

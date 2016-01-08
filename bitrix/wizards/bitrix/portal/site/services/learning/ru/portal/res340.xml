@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5032</lesson_id>
+<was_chapter_id>1302</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>13</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1200</sort>
+<timestamp_x>1416899983</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Настройки</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>В данном разделе можно менять настройки, относящиеся к сущностям модуля CRM:</p>
+ 
+<p><img src="cid:resources/res340/BwBCT.nastr.png" border="0" width="615" height="781"  /></p>
+ 
+<p></p>
+
+<div class="hint"><b>Примечание</b>: по умолчанию доступ к настройкам CRM имеют сотрудники с правом crm <b>Администратор</b>.</div>
+
+<p></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1200</edge_sort>
+<id>5032</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

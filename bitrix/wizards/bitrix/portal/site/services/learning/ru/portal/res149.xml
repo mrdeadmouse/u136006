@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5366</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>900</sort>
+<timestamp_x>1405412969</timestamp_x>
+<date_create>1371802354</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Бизнес-процессы</b> отображается список заданий бизнес-процессов, которые необходимо выполнить.</p>
+<p>Задания используются для получения от пользователей какой-либо информации, необходимой для дальнейшего выполнения бизнес-процесса.</p>
+
+
+
+<p><div class="hint"><b>Примечание:</b> Счетчик рядом с пунктом меню показывает количество назначенных заданий, которые необходимо выполнить.
+	<p><img src="cid:resources/res149/lAEX5.bizproc_counter.png" border="0"></p>
+</div></p>
+
+
+<!-- <p><div class="hint"><b>Примечание:</b> Данный пункт отображается только в случае, если в системе был хоть раз запущен любой бизнес-процесс с выставлением задания.</div></p> -->
+
+
+	<br>
+
+<p>Для перехода к просмотру и выполнению задания воспользуйтесь пунктом меню действий <b>Подробнее</b> или же двойным кликом по заданию в списке.</p>
+	<p><img src="cid:resources/res149/kiY4k.bizproc_tasks.png" border="0"></p>
+
+<p>После чего на странице будет отображена форма задания бизнес-процесса, в которой непосредственно и выполняется задание. </p>
+	<p><img src="cid:resources/res149/jMDiH.bizproc_task_form.png" border="0"></p>
+<p><div class="hint"><b>Примечание:</b> внешний вид формы будет зависеть от типа задания.</div></p>
+
+	<br>
+
+<p>Для фильтрации заданий в списке используется форма <b>Поиск</b>.</p>
+	<p><img src="cid:resources/res149/FW4xU.bizproc_tasks_filter.png" border="0"></p>
+
+<p></p><div class="hint"><b>Примечание:</b> При желании в фильтре можно указать дополнительные параметры поиска, предварительно настроив их с помощью меню фильтра:
+	<p><img src="cid:resources/res149/0ZzFK.bizproc_tasks_filter_custom.png" border="0"></p>
+<p>Например, можно добавить в поиск поле <b>Дата изменения</b>:</p>
+	<p><img src="cid:resources/res149/zWio2.bizproc_tasks_filter_2.png" border="0"></p>
+</div><p></p>
+
+
+
+	<br>
+	<br>
+	
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про работу с бизнес-процессами можно посмотреть в курсе <a href="/learning/course/index.php?COURSE_ID=57&INDEX=Y" target="_blank">Бизнес-процессы</a>. </div><p>
+
+<br>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>900</edge_sort>
+<id>5366</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

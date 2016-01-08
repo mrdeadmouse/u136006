@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6436</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>600</sort>
+<timestamp_x>1405068194</timestamp_x>
+<date_create>1404819603</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Фотографии</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="hint"><b>Примечание:</b> функционал фотогалереи может быть отключен. Для включения функционала необходимо обратиться к администратору портала.</div>
+
+<p>В разделе <b>Фото</b> располагается личная фотогалерея сотрудника, которая позволяет:</p>
+<ul>
+<li>сортировать фото по альбомам (с возможностью создания вложенных альбомов);</li>
+<li>загружать в них фото;</li>
+<li>делать подписи к фотографиям;</li>
+<li>при просмотре оставлять отзывы и голосовать за понравившиеся фото;</li>
+<li>вести обсуждение и т.д.</li>
+</ul>
+
+<p><img src="cid:resources/res140/YXsGy.album_view1.png" border="0" height="391" width="572"></p>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>6436</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

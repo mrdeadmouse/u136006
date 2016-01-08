@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5029</lesson_id>
+<was_chapter_id>1299</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1000</sort>
+<timestamp_x>1407244358</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Товары</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul>
+<li><a href="#add">Добавление товара</a></li>
+<li><a href="#razdel">Управление разделами</a></li>
+</ul>
+
+<p>На странице <b>Товары</b> перечислены товары, имеющиеся в системе CRM для участия в сделках:</p>
+
+<p><img src="cid:resources/res337/yWWZd.catalog.png" width="570" height="190"></p>
+
+
+<p><div class="hint"><b>Примечание: </b>в списке сущностей максимум может отображаться 5000 элементов. Остальные будут храниться, но не будут видны, если не применять фильтры.</div></p>
+
+<p>Через меню действий товара вы можете открыть окно его детального просмотра, редактировать параметры, либо удалить:</p>
+
+<p><img src="cid:resources/res337/dRkDG.product_menu.png" width="223" height="140"></p>
+
+<p><div class="hint"><b>Примечание</b>: также вы можете использовать товары из интегрированного с CRM  <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3752">интернет-магазина</a>.</div></p>
+
+<a name="add"></a>
+<h3>Добавление товара</h3>
+
+<p>Для добавление товара нажмите кнопку <b>Добавить товар</b> на контекстной панели, откроется форма:</p>
+
+<p><img src="cid:resources/res337/mQVwB.add_tovar.png" width="473" height="418"></p>
+
+<p><div class="hint"><b>Примечание: </b>при выставленном в системе <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5369">типе налогов</a> НДС, в данной форме будет поле выбора ставки НДС и опция включения ее в цену товара.</div></p>
+
+<p>Заполните поля:</p>
+
+<ul>
+<li><b>Название</b> - введите наименование товара.</li>
+
+<li><b>Описание</b> - здесь вы можете подробнее рассказать о товаре.</li>
+
+<li><b>Активен</b> - снимите галочку, если не хотите чтобы сотрудники могли использовать товар в CRM.
+</li>
+
+<li><b>Валюта</b> - выберите валюту, в которой вы указываете цену на этот товар:
+
+<p><img src="cid:resources/res337/lxmW0.tovar_val.png" width="260" height="94"></p>
+
+<p>Менеджер может продавать товар в валюте, отличной от указанной в его свойствах. В таком случае цена автоматически будет пересчитана.</p>
+
+<p><div class="hint"><b>Примечание</b>: добавить валюту вы можете на странице <span class="path">CRM > Настройки > Валюты</span>.</div></p>
+</li>
+
+<li><b>Цена</b> - укажите стоимость товара.</li>
+
+<li><b>Раздел</b> - выберите, в какой созданный вами <a href="#razdel">раздел</a> поместить товар:
+
+<p><img src="cid:resources/res337/zqmHW.choose_razdel.png" width="260" height="59"></p>
+
+</li>
+
+<li><b>Сортировка</b> - укажите индекс сортировки, влияющий на порядковое место товара в общем списке.</li>
+</ul>
+
+<p>Нажмите <b>Сохранить</b>, товар добавится и отобразится в выбранном разделе.</p>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>
+Для облачного сервиса Битрикс24
+</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Для добавления новых товаров в каталог пользователю достаточно обладать правом CRM <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3762#role">менеджер</a>.</p>
+</td></tr>
+</tbody>
+</table></div></p>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>
+Для коробочного Битрикс24
+</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Для добавления новых товаров в каталог пользователю нужно обладать правом CRM <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3762#role">администратор</a>.</p>
+</td></tr>
+</tbody>
+</table></div></p>
+
+
+<a name="razdel"></a>
+<h3>Управление разделами</h3>
+
+<p>Кнопка на контекстной панели <b>Управление разделами</b> позволяет перейти на страницу со списком папок, по которым распределены товары CRM:</p>
+
+<p><img src="cid:resources/res337/XPdz6.razdel.png" width="340" height="137"></p>
+
+<p>Через меню действий папки вы можете удалить, либо переименовать ее:</p>
+
+<p><img src="cid:resources/res337/Vl28T.folder_menu.png" width="183" height="107"></p>
+
+<p>Для добавления новой папки, нажмите <b>Добавить раздел</b> на контекстной панели, появится окно:</p>
+
+<p><img src="cid:resources/res337/nFAPo.new_razdel.png" width="390" height="119"></p>
+
+<p>Введите название и нажмите <b>Добавить</b>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>5029</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

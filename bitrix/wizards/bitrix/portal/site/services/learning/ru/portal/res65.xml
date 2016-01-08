@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2691</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1400</sort>
+<timestamp_x>1404743807</timestamp_x>
+<date_create>1309866274</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Настройка MS Outlook на сервер MS Exchange</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="warning"><b>Важно! </b>Перед всеми операциями программа <b>Microsoft Outlook</b> должна быть закрыта!</div></p>
+
+<p>Зайдите в Панель управления компьютером и найдите элемент <b>Почта</b> (в случае 64-х битных систем, элемент будет называться <b>Почта (32 бита)</b>:</p>
+
+<p><img src="cid:resources/res65/YxdDp.pochta32.png" width="623" height="435"></p>
+
+<p>Откройте этот элемент и щелкните левой кнопкой мыши по пункту <b>Учётные записи</b>:</p>
+
+<p><img src="cid:resources/res65/zlyH6.zapisi.png" width="449" height="294"></p>
+
+<p>Далее нажмите кнопку <b>Создать…</b> (в случае уже настроенных учетных записей для различных почтовых сервисов, они будут также отображены в списке):</p>
+
+<p><img src="cid:resources/res65/Qba96.create2.png" width="626" height="506"></p>
+
+<p>Нажмите <b>Далее</b>:</p>
+
+<p><img src="cid:resources/res65/xnyOu.dalee.png" width="624" height="427"></p>
+
+<p>На следующей странице выберите <b>Настроить вручную параметры сервера или дополнительные типы серверов</b> и нажмите кнопку <b>Далее</b>:</p>
+
+<p><img src="cid:resources/res65/XqmCN.other_type.png" width="624" height="428"></p>
+
+<p>На следующей странице мастера выберите пункт <b>Сервер Microsoft Exchange или совместимая служба</b> и нажмите <b>Далее</b>.
+
+<p><div class="warning"><b>Важно! </b>Если используется <b>Microsoft Outlook 2007</b>, или более ранней версии, надо быть уверенными, что отсутствует другая учетная запись сервера <b>Microsoft Exchange</b>. В противном случае процесс после данного этапа нельзя будет продолжить.</div></p>
+
+<p><img src="cid:resources/res65/IoHZx.choise.png" width="625" height="427"></p>
+
+<p>В поле <b>Сервер:</b> вбейте адрес сервера: <i>exchange2010.домен.вашей_фирмы.ru</i>.</p> 
+
+<p>Если учетная запись создаётся на мобильном устройстве (ноутбук, нетбук и т.п.) или не в главном офисе, то необходимо оставить галочку <b>Использовать режим кэширования Exchange</b>. В других случаях – её необходимо убрать.</p>
+
+<p>В поле <b>Имя пользователя:</b> введите полученный логин для входа в домен. После внесения необходимых данных, нажмите на кнопку <b>Другие настройки…</b>:</p>
+
+<p><img src="cid:resources/res65/5zueo.other_options2.png" width="685" height="474"></p>
+
+<p>В открывшемся окне выберите вкладку <b>Подключение</b>:</p>
+
+<p><img src="cid:resources/res65/W5mcS.exchange2.png" width="389" height="453"></p>
+
+<p>Внизу окна, под заголовком <b>Мобильный Outlook</b>, поставьте галочку напротив <b>Подключение к Microsoft Exchange по протоколу HTTP</b>. Станет доступна кнопка <b>Параметры прокси-сервера Exchange…</b></p>
+
+<p><img src="cid:resources/res65/nOqT4.proxi.png" width="389" height="435"></p>
+
+<p>Под заголовком <b>Параметры подключения</b> в поле <b>https://</b> вбейте «exchange2010.домен.вашей_фирмы.ru». Оставьте остальные поля без изменений.</p> 
+
+<p>Убедитесь, что в поле с именем <b>Способ проверки подлинности при подключении к прокси-серверу Exchange</b> выбрано <b>Проверка подлинности NTLM</b>:</p>
+
+<p><img src="cid:resources/res65/X371W.NTLM2.png" width="572" height="408"></p>
+
+<p>Нажмите кнопки <b>Ок</b> (дважды) и кнопку <b>Далее</b>. Если требуется ввести Логин/Пароль – введите их.</p>
+
+<p>Нажмите кнопку <b>Готово</b> и закройте все окна.</p>
+
+<p><img src="cid:resources/res65/gXNeB.finish.png" width="624" height="426"></p>
+
+<p>Запустите программу <b>Microsoft Outlook</b>. На вопрос о неверном сертификате, нажмите кнопку <b>Да</b>. Если требуется ввести Логин/Пароль – введите их.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1400</edge_sort>
+<id>2691</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

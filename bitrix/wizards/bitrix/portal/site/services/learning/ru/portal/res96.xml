@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6388</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1404979737</timestamp_x>
+<date_create>1403611407</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Диаграмма Ганта</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<a name="Gant"></a>
+<p><a href="http://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%93%D0%B0%D0%BD%D1%82%D0%B0">Диаграмма Ганта</a> - особый вид представления задач:</p>
+
+ <p><img src="cid:resources/res96/kB499.Gant_diag_help.png"  border="0" ></p>
+
+<p>В этом режиме можно многое делать визуально - перетаскивать мышью сроки начала и конца выполняющихся задач, сдвигать задачу во времени, передвигать крайний срок. Также ленту удобно прокручивать по временной шкале, просто прижав ее курсором мыши. </p>
+
+
+ <p><img src="cid:resources/res96/EZDUm.Gant_diag_view_sm.png"  border="0" ></p>
+
+<p>При наведении курсора мыши на отдельную задачу в ленте всплывает окно с главной информацией (название, постановщик, ответственный, сроки, статус, приоритет). Полоска задачи подкрашивается в соответствии с ее статусом (выполняется, просрочена, завершена). Отображаются крайние сроки по каждой задаче и «флажки» у тех, что завершились. С помощью ссылки <span class="link">Подробности</span> можно перейти к <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3718">просмотру задачи</a>.</p>
+
+<p>У каждой задачи в списке есть свое командное меню, с помощью которого можно просмотреть, отредактировать или удалить задачу, добавить ей крайний срок или тут же создать подзадачу. Вызвать его можно с помощью правого клика по нужной задаче на диаграмме или с помощью всплывающей кнопки <b>Меню действий</b> рядом с названием задачи в левой части формы.</p>
+
+ <p><img src="cid:resources/res96/o3sF2.Gant_diag_menu.png" alt="" border="0" ></p>
+
+<p>Из этого же меню можно начать выполнение новой задачи, добавить в план рабочего дня, возобновить завершенную, делегировать ее коллеге, принять у подчиненного и выполнять другие доступные действия. </p>
+
+
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6388</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

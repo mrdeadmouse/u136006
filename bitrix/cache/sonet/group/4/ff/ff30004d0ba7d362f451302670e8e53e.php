@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001452277630';
+$dateexpire = '001483813630';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:6:"FIELDS";a:41:{s:2:"ID";s:1:"4";s:3:"~ID";s:1:"4";s:7:"SITE_ID";s:2:"s1";s:8:"~SITE_ID";s:2:"s1";s:4:"NAME";s:35:"Футбольная команда";s:5:"~NAME";s:35:"Футбольная команда";s:11:"DESCRIPTION";s:41:"Спорт в нашей компании";s:12:"~DESCRIPTION";s:41:"Спорт в нашей компании";s:11:"DATE_CREATE";s:19:"08.01.2016 21:27:09";s:12:"~DATE_CREATE";s:19:"08.01.2016 21:27:09";s:11:"DATE_UPDATE";s:19:"08.01.2016 21:27:09";s:12:"~DATE_UPDATE";s:19:"08.01.2016 21:27:09";s:6:"ACTIVE";s:1:"Y";s:7:"~ACTIVE";s:1:"Y";s:7:"VISIBLE";s:1:"Y";s:8:"~VISIBLE";s:1:"Y";s:6:"OPENED";s:1:"Y";s:7:"~OPENED";s:1:"Y";s:6:"CLOSED";s:1:"N";s:7:"~CLOSED";s:1:"N";s:10:"SUBJECT_ID";s:1:"5";s:11:"~SUBJECT_ID";s:1:"5";s:8:"OWNER_ID";s:1:"1";s:9:"~OWNER_ID";s:1:"1";s:8:"KEYWORDS";s:62:"спорт, отдых, футбол, соревнование";s:9:"~KEYWORDS";s:62:"спорт, отдых, футбол, соревнование";s:8:"IMAGE_ID";s:3:"748";s:9:"~IMAGE_ID";s:3:"748";s:17:"NUMBER_OF_MEMBERS";s:1:"1";s:18:"~NUMBER_OF_MEMBERS";s:1:"1";s:20:"NUMBER_OF_MODERATORS";s:1:"1";s:21:"~NUMBER_OF_MODERATORS";s:1:"1";s:14:"INITIATE_PERMS";s:1:"K";s:15:"~INITIATE_PERMS";s:1:"K";s:10:"SPAM_PERMS";s:1:"N";s:11:"~SPAM_PERMS";s:1:"N";s:13:"DATE_ACTIVITY";s:19:"08.01.2016 21:27:09";s:14:"~DATE_ACTIVITY";s:19:"08.01.2016 21:27:09";s:12:"SUBJECT_NAME";s:31:"Совместный отдых";s:13:"~SUBJECT_NAME";s:31:"Совместный отдых";s:14:"NAME_FORMATTED";s:35:"Футбольная команда";}}}';
+return true;
+?>

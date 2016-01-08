@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3188</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1404908037</timestamp_x>
+<date_create>1322035918</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Ведение собрания</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Ведение собрания начинается с кнопки <b>Начать собрание</b> в форме создания/редактирования собрания. При этом форма собрания перейдет в режим <b>Протокол</b>. В режиме <b>Протокол</b> доступно:</p>
+
+<ul>
+<li>Создание вопросов повестки, включенных в ходе обсуждения собрания:
+
+<p><img border="0" src="cid:resources/res242/8qLrN.plan_6.png" /></p></li>
+<li>Ведение протокола собрания в целом:
+<p><img border="0" src="cid:resources/res242/ELoBn.plan_8.png" /></p>
+
+</li> 
+<li>Ведение отчета по вопросу. Клик указателем мыши на названии вопроса откроет форму отчета ответственного за вопрос:
+
+<p><img border="0" src="cid:resources/res242/4aIR6.plan_4.png" /></p>
+
+<p>В этой форме есть 4 зоны:</p>
+<ul>
+<li><b>1</b> - Отчеты. <p>Здесь ведется отчет по выбранному вопросу. Ведение отчета доступно только ответственному за вопрос.</p></li>
+<li><b>2</b> - История вопроса. <p>Доступна, если собрание создано из предыдущего. Историю вопроса можно свернуть, чтобы форма на экране занимала меньше места.</p></li> 
+<li><b>3</b> - Задачи. <p>Выводится список задач, привязанных к теме обсуждаемого вопроса.</p></li> 
+<li><b>4</b> - Комментарии. <p>Поле, доступное всем участникам собрания для добавления комментариев к вопросу. Файлы, прикрепленные к комментарию к вопросу будут прикреплены к вопросу в целом.</p>
+<div class="hint"><b>Примечание</b>: этот же принцип работает и по отношению к файлам, прикрепляемым к собранию.</div>
+
+</li> 
+ </ul></li> 
+<li><p>Завершение вопросов и собрания. Завершение вопроса можно пометить чекбоксом. Закрытие собрания происходит по кнопке <b>Завершить собрание</b>.</p>
+
+<p><img border="0" src="cid:resources/res242/RswPT.plan_5.png" /></p></li> 
+ </ul>
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3188</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

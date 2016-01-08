@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3562</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1500</sort>
+<timestamp_x>1404907734</timestamp_x>
+<date_create>1334840032</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Изменение структуры задач</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Рассмотрим, как подзадачу вынести в отдельную задачу.</p>
+
+<p><div class="hint"><b>Примечание</b>: о том, как создать подзадачу, вы можете прочитать в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=2370#rtask_create">Создание задачи</a>.</div></p>
+
+<p>Кликните левой кнопкой по подзадаче, из которой необходимо сделать самостоятельную задачу, после чего откроется окно ее просмотра:</p>
+
+<p><img src="cid:resources/res379/8PfZo.task_view.png"></p>
+
+<p>Нажмите <b>Редактировать</b>, и на вкладке <b>Дополнительно</b> найдите поле <b>Базовая задача</b>:</p>
+
+<p><img src="cid:resources/res379/NY5C5.edit_task.png"></p>
+
+<p>Нажмите крестик напротив названия базовой задачи, после чего она исчезнет.</p>
+
+<p>Не забудьте нажать <b>Сохранить изменения</b>, после чего подзадача станет задачей.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1500</edge_sort>
+<id>3562</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

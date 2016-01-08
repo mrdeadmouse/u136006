@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3196</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1300</sort>
+<timestamp_x>1404993653</timestamp_x>
+<date_create>1323075305</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Зарплата и отпуск</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="note"><b>Зарплата и отпуск</b> - сервис для получения сотрудником доступа к Расчетным листкам, а также информации о текущем остатке неиспользованных дней отпуска.</div></p>
+
+<p>На этой странице сотрудник может проверить информацию о составных частях заработной платы, причитающейся ему за соответствующий период, размерах и основаниях произведенных удержаний, а также об общей денежной сумме, подлежащей выплате.</p>
+
+<p>Выдача <b>Расчетного листка</b> осуществляется в соответствии со ст. 136 Трудового кодекса РФ при выплате заработной платы путем предоставления доступа к сервису <b>Зарплата и отпуск</b>. Сотрудник в день получения заработной платы может ознакомиться с выданным Расчетным листком за соответствующий месяц.</p>
+
+<div class="warning"><b>Внимание!</b> Сервис доступен только для редакций <b>Совместная работа</b> и выше.</div>
+
+<p>Чтобы воспользоваться сервисом:</p>
+
+<ul>
+<li>Авторизуйтесь на корпоративном портале.</li>
+<li>Перейдите на страницу <b>Зарплата и отпуск</b> (<span class="path">Сервисы > Зарплата и отпуск</span>)</li> 
+<li>Получите в бухгалтерии вашей компании <b>Код активации</b>.
+<p><div class="hint"><b>Код активации</b> - восьмизначный числовой код, обеспечивающий сотруднику возможность получения ПИН-кода для доступа к Веб-сервису.</div></p>
+</li> 
+<li>Введите код активации в окне сервиса:
+<p><img border="0" src="cid:resources/res267/ndRHB.pin_1.png" /></p>
+
+</li>
+<li>Получите и запомните ПИН-код доступа к Веб-сервису.
+<p><div class="hint"><b>ПИН-код</b> - четырехзначный числовой код, обеспечивающий идентификацию сотрудника и его защищенный доступ в Веб-сервис.</div></p>
+</li> 
+<li>Введите ПИН-код и иные данные запроса в окне авторизации:
+<p><img border="0" src="cid:resources/res267/KrHs1.pin_2.png" /></p></li> 
+ </ul>
+
+<p>В результате вы получите в отдельном всплывающем окне интересующие вас данные:</p>
+
+<p><img border="0" src="cid:resources/res267/RR09v.pin_3.png" /></p>
+
+<div class="warning"><b>Внимание!</b> Сервис работает только если в организации используется программа "<b>1С: ЗУП</b>" и если данный сервер настроен на получение указанных данных.</div>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1300</edge_sort>
+<id>3196</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>4974</lesson_id>
+<was_chapter_id>1229</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1200</sort>
+<timestamp_x>1405426531</timestamp_x>
+<date_create>1349854133</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Примеры использования</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В главе публикуются примеры использования <b>"Битрикс24</b> и описания решения некоторых производственных задач с его помощью.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1200</edge_sort>
+<id>4974</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

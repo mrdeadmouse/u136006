@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5195</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416910494</timestamp_x>
+<date_create>1359388697</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Постоянный клиент на поддержку сайта</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Рассмотрим сценарий использования CRM, при котором в фирму поступает звонок от потенциального клиента, нуждающегося в поддержке своего сайта. Предварительно клиент просит выслать в виде слайда схему нашего бизнес-процесса по оказанию поддержки и желает ознакомиться с техническим заданием (ТЗ).</p>
+ 
+<br />
+ 
+<p>Создаем лид: перейдите на страницу <b>Список лидов</b> и нажмите <b>Добавить лид</b>:</p>
+ 
+<p><img src="cid:resources/res356/kjEx8.sozd-lid2.png" border="0" width="600" height="593"  /></p>
+ 
+<p>После того, как будет составлено ТЗ и счет для клиента, вышлем их в прикрепленных к <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=4657#letter" >письму</a> файлах:</p>
+ 
+<p><img src="cid:resources/res356/842jx.site_domain_01.png" width="652" height="613"  /></p>
+ 
+<p>После поступления оплаты конвертируем лид в сделку:</p>
+ 
+<p><img src="cid:resources/res356/fBSZg.convert_in_deal.png" width="582" height="482"  /></p>
+ 
+<p>и в контакт:</p>
+ 
+<p><img src="cid:resources/res356/aWQaX.saitov_andrey.png" width="587" height="212"  /></p>
+ 
+<p><a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=4657#add_task" >Создаем задачу</a> в карточке сделки:</p>
+ 
+<p><img src="cid:resources/res356/VlYSh.new_task.png" width="700" height="479"  /></p>
+ 
+<p>В форме создания задачи назначаем ответственного, выставляем нужные сроки.</p>
+ 
+<p><a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2370#task_create" >Создайте необходимые подзадачи</a>, выбирая в группе полей <b>Дополнительно</b> в качестве базовой задачи <b>CRM: создать слайд</b>:</p>
+ 
+<p><img src="cid:resources/res356/jCDAq.task_send01.png" width="700" height="473"  /></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5195</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6441</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1405081175</timestamp_x>
+<date_create>1404889999</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Фотогалерея и Видеогалерея</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Фото и видеогалерея обеспечивают хранение, вывод и управление фотографиями и видеоматериалами соответственно. Управление интуитивно понятно и не должно вызвать особых сложностей.</p>
+
+<h3>Работа с фотогалереей</h3>
+
+<p>Для обычных сотрудников доступен только просмотр фотографий, а создание/изменение фотоальбомов и загрузка фотографий доступна для сотрудников, входящих в группу <b>Администрация портала</b>. Подробную информацию по работе с <b>Фотогалереей</b>, смотрите в разделе <a href="/learning/course/index.php?COURSE_ID=71&CHAPTER_ID=06436">Фотографии</a> главы <b>Мои инструменты</b>.</p>
+
+<h3>Работа с видеогалереей</h3>
+
+<p>Чтобы добавить видео, вы должны обладать правами <b>Отдел кадров</b> или <b>Администрация портала</b>. Нажмите кнопку <img src="cid:resources/res166/IT053.but_add_video24.png">. Откроется окно добавления нового видео:</p>
+
+<p><img src="cid:resources/res166/TUyiO.add_video1.png"></p>
+
+<p>На вкладке <b>Видео-ролик</b> укажите следующие параметры:</p>
+<ul>
+<li><b>Название</b> - единственное обязательное к заполнению поле. Укажите как называется добавляемый ролик.</li>
+
+<li><b>Файл</b> - нажав кнопку <img src="cid:resources/res166/hRFdB.add_button.png"> можно выбрать видеофайл. При недостаточном уровне прав доступа обратитесь к администратору.</li>
+
+<li><b>Длительность</b> - указывается продолжительность видеоролика.</li>
+
+<li><b>Изображение для списка</b> - выберите картинку, которая будет представлять видео-ролик в общем списке.</li>
+
+<li><b>Краткое описание</b> - введите информацию о видео, которая будет видна в анонсе. Это можно сделать в трех режимах: <b>Текст</b>, <b>HTML</b>, <b>Визуальный редактор</b>.</li>
+</ul>
+<br>
+
+<p>Если вы обладаете правами доступа <b>Отдел кадров</b> или <b>Администрация портала</b>, то можете воспользоваться функционалом управления видеогалереей. Для этого нажмите кнопку <img src="cid:resources/res166/DcJiB.but_video24.png">. Откроется административный раздел для управления видео:</p>
+
+<p><img src="cid:resources/res166/nV8Ka.edit_video.png" /></p>
+
+<p>Управление видео через административный раздел аналогично управлению новостями, описанному <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=6432#admin">здесь</a>.</p>
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>6441</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

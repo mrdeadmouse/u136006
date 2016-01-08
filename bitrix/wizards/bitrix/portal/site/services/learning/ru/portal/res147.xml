@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6351</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1405068071</timestamp_x>
+<date_create>1401810325</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Создание бесплатного почтового ящика</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><b>Битрикс24</b> дает возможность создания неограниченного по размеру почтового ящика с защитой от спама и антивирусом. Для этого <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=5520">перейдите</a> к настройкам интеграции почты.</p></p>
+
+<p>Нажмите <b>Подключить</b> в области <b>@bitrix24.ru</b>:</p>
+
+<p><img src="cid:resources/res147/IAMwv.bitrix24.png"></p>
+
+<p>Ниже введите имя вашего будущего ящика и пароль:</p>
+
+<p><img src="cid:resources/res147/5MfMJ.name.png"></p>
+
+<p><div class="hint"><b>Примечание: </b>в случае ввода недопустимого имени система сообщит об этом до непосредственного подключения ящика:
+
+<p><img src="cid:resources/res147/Ih65a.egor.png"></p>
+</div></p>
+
+<p>После завершения ввода нажмите кнопку <b>Подключить</b>. Завершите регистрацию, заполнив появившуюся форму:</p>
+
+<p><img src="cid:resources/res147/M8k77.reg.png"></p>
+
+<p>Вы будете оповещены об успешном завершении регистрации соответствующим окошком:</p>
+
+<p><img src="cid:resources/res147/cIX5d.new_address2.png"></p>
+
+<p><div class="warning"><b>Важно!</b> Администратор <b>Битрикс24</b> всегда будет иметь полный доступ к создаваемому почтовому ящику.</div></p>
+
+<p>Количество новых писем будет отображаться в левом меню вашего <b>Битрикс24</b>:</p>
+
+<p><img src="cid:resources/res147/krLIw.mail99.png"></p>
+
+<p>Чтобы перейти к вашему почтовому ящику, кликните по данному пункту меню, либо воспользуйтесь сайтом <b>Яндекса</b>:</p>
+
+<p><img src="cid:resources/res147/xU0rn.mail_yandex.png"></p>
+
+<p><div class="hint"><b>Примечание: </b>со страницы почты вы можете вернуться к инструментам <b>Битрикс24</b> с помощью соответствующего меню:
+
+<p><img src="cid:resources/res147/fAvRu.back_to_b24.png"></p>
+</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6351</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

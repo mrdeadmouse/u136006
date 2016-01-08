@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3713</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords>пользователь кп, битрикс24, фотоальбом, создание</keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1409585379</timestamp_x>
+<date_create>1341326188</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Создание фотоальбома</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В фотогалерее есть возможность добавлять альбомы в общий список, а также создавать вложенные альбомы (в другой – корневой альбом), т.е. многоуровневую иерархию альбомов, если это требуется.</p>
+
+<menu id="topictoc">
+  <li><a href="#album_create">Создание альбома</a></li>
+  <li><a href="#inc_album_create">Создание вложенного альбома</a></li>
+</menu>
+
+
+<a name="album_create"></a><h3>Создание альбома</h3>
+
+<p>Для добавления альбома в общий список служит ссылка <b>Добавить альбом</b>, расположенная в верхней части страницы.</p>
+
+<p>Задайте название альбома и по желанию - описание.</p>
+
+ <p><img src="cid:resources/res141/QWiF1.album_add_name.png" alt="Форма &quot;Свойства альбома&quot;" border="0" width="579" height="419" /></p>
+
+<p>Доступ к альбому можно ограничить по паролю. Для этого отметьте опцию <b>Ограничить доступ к альбому по паролю</b> и в поле <b>Пароль</b> введите пароль, по которому будет осуществляться доступ к альбому:</p>
+
+ <p><img src="cid:resources/res141/2jHYV.album_add_name_pass.png" alt="Форма &quot;Свойства альбома&quot;" border="0" width="604" height="439" /></p>
+
+
+<p><div class="warning"><b>Важно!</b> При создании альбома или загрузке фотографии в альбом автоматически создается запись в Живой ленте на всех сотрудников с данным событием. Если при создании альбома или в настройках альбома включить опцию <b>Ограничить доступ по паролю</b>, то в Живой ленте данное событие не отобразится. Если  родительский альбом был не закрыт паролем, а вложенный в него был создан с доступом по паролю, то в Живую ленту уйдет сообщение о добавлении нового альбома или фотографии, но для их просмотра необходим пароль. Таким образом, чтобы в Живой ленте вообще не оповещать о новых фотографиях во вложенных альбомах, нужно ограничить доступ к родительскому и вложенному альбомам по паролю.</div></p>
+
+
+
+
+<p>в результате рядом с названием альбома будет отображаться надпись <b>закрытый альбом</b></p>
+
+ <p><img src="cid:resources/res141/rZytt.new_album_closed.png" alt="Вид альбома с паролем" border="0" width="333" height="130" /></p>
+
+<br>
+
+<p>Если другой пользователь захочет просмотреть этот альбом, то ему будет предложено ввести пароль:</p>
+
+ <p><img src="cid:resources/res141/tZDVN.closed_album_access.png" alt="Сообщение о закрытом альбоме" border="0" width="671" height="102" /></p>
+
+
+<p><div class="hint"><b>Примечание:</b> Администратор сервиса <b>Битрикс24</b> может просматривать и запароленные альбомы.</div></p>
+
+
+
+
+
+<a name="inc_album_create"></a><h3>Создание вложенного альбома</h3>
+
+<p>Для создания вложенного альбома, нужно перейти к просмотру того альбома, в который должен быть вложен новый альбом и воспользоваться ссылкой <b>Добавить альбом</b>.</p>
+
+<p>Выполните действия по созданию альбома, описанные выше и после этого новый альбом будет создан внутри текущего.</p>
+
+ <p><img src="cid:resources/res141/03HTB.inc_album.png" border="0"></p>
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>3713</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

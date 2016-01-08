@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3718</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1404982442</timestamp_x>
+<date_create>1341473109</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Просмотр задачи</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Интерактивный видеоролик по работе с задачами</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если нет возможности прослушать звуковое сопровождение, то с помощью значка <img height="36" width="39" src="cid:resources/res98/zLKSe.audio_11.png" /> в правом верхнем углу ролика можно просмотреть текст. </p>
+
+
+ <iframe src="cid:resources/res98/0Ev7a.story.html" width="820" height="671"></iframe>р</td></tr>
+</tbody>
+</table></div>
+
+
+
+
+
+
+<menu id="topictoc">
+  <li><a href="#tasks_view">Описание задачи</a></li>
+  <li><a href="#tasks_view_buttons">Элементы управления задачей</a></li>
+  <li><a href="#tasks_view_info_panel">Информационная панель</a></li>
+</menu>
+
+<br>
+
+<p>Сотрудник может просматривать только те задачи, к которым он причастен. Например, задачи, в которых он соисполнитель или задачи назначенные группе, в которой он состоит.</p>
+
+<p>Для просмотра задачи кликните на ее заголовок в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6387">списке задач</a>, после чего откроется окно просмотра задачи:</p>
+
+ <p><img src="cid:resources/res98/zC1bN.task_view_window_sm.png" border="0" /></p>
+
+<p><div class="hint"><b>Примечание:</b> Для постановщика задачи при ее просмотре доступны дополнительные ссылки и элементы управления.</div></p>
+
+<p>Для перехода к просмотру предыдущей/следующей задачи без закрытия текущей можно воспользоваться кнопками <b>&lt;</b> и <b>&gt;</b>, расположенными по обеим сторонам от окна просмотра задачи.</p>
+
+
+<!--
+ <p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/task_view.png',1033,409,'Страница просмотра задачи')">
+<img src="cid:resources/res98/L8rh2.task_view_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="655" height="259" border="0" /></a></p>
+
+<p>В верхней части страницы указан <b>номер задачи</b> и следующие элементы управления:</p>
+<ul>
+  <li><b>Создать подзадачу</b> - ссылка, позволяющая перейти к форме создания подзадачи, которая аналогична <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2370#task_create">форме создания задачи</a>;  </li>
+  
+  <li><img src="cid:resources/res98/3rkEL.but_task_add_quick.png" border="0" width="19" height="19" /> - Кнопка <b>Создать быструю подзадачу</b>, которая позволяет создать подзадачу прямо в списке задач:
+  </li>
+  
+  <li><img src="cid:resources/res98/nqEht.but_task_list_templates.png" border="0" width="23" height="23" /> - Кнопка <b>Добавить подзадачу по шаблону</b>, которая позволяет создать подзадачу по заранее подготовленному <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=3190">шаблону</a>;
+  
+  <li><b>Вернуться к списку задач</b> - ссылка, позволяющая перейти на страницу со <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2360#tasks_list">списком задач</a>;  
+ </li>
+</ul>
+
+ <p><div class="hint"><b>Примечание:</b> Если просматриваемая задача содержит подзадачи, то будет доступна кнопка <img src="cid:resources/res98/DQvME.but_task_add_quick.png" border="0" width="19" height="19" />. Она позволяет создать быструю подзадачу прямо в списке подзадач аналогично созданию <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2360#tasks_buttons">быстрой задачи</a>.</div></p>
+-->
+
+
+
+
+
+<br>
+
+<a name="tasks_view"></a><h4>Описание задачи</h4>
+
+
+<p>В центральной части страницы расположено описание задачи, поле тегов и группа задачи или элемент CRM (если заполнены соответствующие поля при создании задачи):</p>
+<p><img src="cid:resources/res98/ghSMg.task_view_main_2.png" border="0" alt="Описание задачи и поле тегов"  /></p>
+
+<p>Ссылка <b>напомнить</b> позволяет <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_reminder_link">настроить параметры оповещения</a> о задаче.</p>
+
+<a name="check_list"></a>
+<p><b>Чек-лист</b> позволяет создавать собственный список, пункты которого можно отмечать, как выполненные. Его можно использовать, например, для учета этапов выполнения какой-либо задачи или же перечисления чего-либо. </p>
+
+<p>Пункты чек-листа нумеруются автоматически и поддерживают операцию сортировки/перетаскивания. </p>
+    <p><img src="cid:resources/res98/V6XXJ.check_list.png" border="0"></p>
+
+<br>
+
+<p>Если Вы являетесь создателем задачи для другого сотрудника, то в поле <b>Теги</b> будет доступна ссылка <b style="color: #888888;">добавить</b>, которая позволяет добавить теги к задаче. Подробнее про добавление тегов смотрите в разделе <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_create">Создание задач</a>.</p>
+
+<p>Ниже можно указать <b>рабочую группу</b>, в рамках которой будет создана задача или же привязать какой-либо элемент из <b>CRM</b>.</p>
+
+
+
+<br>
+
+<a name="tasks_view_buttons"></a><h4>Элементы управления задачей</h4>
+
+<a name="tview_timer"></a>
+<p><img src="cid:resources/res98/k9dK0.tview_tracking_timer.png" border="0" /> - таймер, отображающий затраченное время / время, отведенное на выполнение задачи. <font style="color:#92AD5E;">Зеленым цветом</font> текст отображается только для <i>ответственного</i>. Для приостановленных задач <i>ответственного</i> и всех <i>остальных сотрудников</i>, имеющих доступ к задаче, текст имеет <font style="color:#737373;">серый цвет</font>. В случае если на выполнение задачи было затрачено времени больше, чем отведено, то текст будет иметь <font style="color:#FF0000;">красный цвет</font>. 
+<br><br>
+Таймер доступен только для задач, при создании которых была отмечена опция <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_time_tracking">учета времени</a>.
+</p>
+
+<br>
+
+<p>Под описанием задачи расположены элементы управления:</p>
+<ul>
+<!--
+  <li><img src="cid:resources/res98/DNEhV.but_tview_accept.png" border="0" width="113" height="27" /> - кнопка <b>Принять задачу</b>, позволяющая принять назначенную задачу;
+  <p><div class="hint"><b>Примечание:</b> Данная кнопка не будет отображаться у сотрудника, если задача поставлена начальником какого-либо отдела. Другими словами задача от начальника принимается автоматически.</div></p>
+  </li>
+-->
+    <li><img src="cid:resources/res98/xOldI.but_tview_finish.png" border="0" /> - кнопка <b>Завершить</b>, позволяющая завершить выполнение задачи;  </li>
+  <li><img src="cid:resources/res98/3OeLi.but_tview_start.png" border="0" /> - кнопка <b>Начать выполнение</b>, позволяющая начать выполнение задачи;  </li>
+  
+    
+   <li><img src="cid:resources/res98/3bEUL.but_tview_tracking_start.png" border="0" /> - кнопка <b>Начать учет моего времени</b>, позволяющая начать выполнение задачи с <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_time_tracking">учетом затраченного времени</a>;   </li> 
+   <li><img src="cid:resources/res98/3FEnH.but_tview_tracking_pause.png" border="0" /> - кнопка <b>На паузу</b>, позволяющая приостановить <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_time_tracking">учет затраченного времени</a>;   </li> 
+  
+  
+<!--
+  <li><img src="cid:resources/res98/2cP0w.but_tview_reject.png" border="0" width="79" height="27" /> - кнопка <b>Отклонить</b>, позволяющая отклонить назначенную задачу;  </li>
+--> 
+
+  <li><b style="color: #DD7D00;">Отложить</b> - ссылка, позволяющая временно приостановить выполнение задачи;  </li>
+  <li><b style="color: #DD7D00;">Возобновить</b> - ссылка, позволяющая ответственному возобновить работу над завершенной задачей.  </li>
+
+  <li><b>Делегировать</b> - ссылка, позволяющая ответственному за выполнение задачи делегировать её другому сотруднику, а самому при этом стать наблюдателем. 
+<!--
+    Делегирование возможно в рамках структуры компании - вниз от руководителей подразделений к подчиненным. С этой возможностью руководителям очень удобно распределять задачи, поставленные от других подразделений и руководства компании.   
+    <p><div class="hint"><b>Примечание:</b> Ссылка доступна только если у ответственного за выполнение задачи есть подчиненные.</div></p>
+-->
+
+<br><br>Делегировать задачу можно любому другому сотруднику.
+    <p></p><div class="hint"><b>Примечание:</b> Начальник отдела может сам себе делегировать (забрать) задачи своих подчиненных.</div><p></p>
+  </li>
+</ul>
+
+<br>
+
+<p>Если вы являетесь создателем задачи, то для вас будут доступны другие элементы управления задачей:</p>
+<ul>
+
+
+  <li><img src="cid:resources/res98/q09RA.but_tview_approve.png" border="0" width="111" height="27" /><font color="red">*</font> - кнопка <b>Принять работу</b>, позволяющая принять выполненную сотрудником задачу;</li>
+  <li><img src="cid:resources/res98/trvK4.but_tview_rework.png" border="0" width="75" height="27" /><font color="red">*</font> - кнопка <b>Доделать</b>, позволяющая повторно поставить сотруднику задачу с целью ее доделывания;</li>
+
+  <li><b>Редактировать</b> - ссылка, позволяющая перейти к форме <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_create">создания/редактирования</a> задачи;  </li>
+  
+  <li><b style="color: #0069C4;">Принять работу</b> - ссылка, позволяющая принять и закрыть выполненную сотрудником задачу;  </li>
+<!--
+  <li><b style="color: #DD7D00;">Возобновить</b> - ссылка, позволяющая продолжить выполнение приостановленной, завершенной или отклоненной сотрудником задачи;  </li>
+-->
+  <li><b style="color: #CC2020;">Удалить </b> - ссылка, позволяющая удалить задачу.  </li>
+</ul>
+
+  <p><div class="hint"><b>Примечание:</b> Элементы управления, отмеченные <font color="red">*</font>, доступны только при постановке задачи, которая требует <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_control">Принять работу после завершения задачи</a> (при создании была отмечена соответствующая опция).</div></p>
+
+<br>
+
+<p>С помощью кнопки меню действий можно выполнить следующие операции:</p>
+  <p><img src="cid:resources/res98/sPZ5z.task_menu.png" border="0" /></p>
+<ul>
+  <li><b>Копировать</b> - переход к форме создания задачи на основе текущей (по умолчанию создается как <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#rtask_create">подзадача</a>);</li>
+  <li><b>Добавить задачу</b> - переход к форме создания новой задачи;</li>
+  <li><b>Добавить подзадачу</b> - переход к форме создания подзадачи к текущей задаче;</li>
+  <li><b>Создать быструю подзадачу</b> - быстрое создание подзадачи прямо в форме просмотра текущей задачи;</li>
+  <li><b>Добавить в план рабочего дня</b> - добавление задачи в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3707">отчет</a> инструмента <b>Рабочий день</b>;</li>
+</ul>
+  
+  
+<br>
+
+
+<p><div class="hint">
+<b>Примечание:</b> Если просматриваемая задача содержит подзадачи, то на странице просмотра будет отображен соответствующий список, действия которого аналогичны <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6387">обычному списку задач</a>:
+
+<p><img src="cid:resources/res98/Dl8ex.task_view_subtasks_list_2_sm.png" border="0" /></a></p>
+</div></p>
+
+
+<br>
+
+<p>Под элементами управления расположена переключаемая форма, которая позволяет:</p>
+<ul>
+  <li><a name="task_switcher_comment"></a>добавить <b>Комментарий</b> и загрузить файл в комментарии;
+    <p><img src="cid:resources/res98/SN7yp.task_switcher_comment.png" border="0"  /></p>
+
+<!--    <p><div class="hint"><b>Примечание:</b> Администратор может разрешить для пользователей правку созданных ими ранее комментариев:
+     <p><img src="cid:resources/res98/YN8VU.task_comment_edit.png" border="0" alt="Правка комментария к задаче" width="487" height="82" /></p>
+</div></p>
+-->
+
+  </li>
+
+  <li><a name="task_switcher_history"></a>просмотреть <b>Историю изменений</b> задачи;
+    <p><img src="cid:resources/res98/Xux23.task_switcher_history.png" border="0" /></p>
+	<p>В истории фиксируется когда, кем и какие изменения были сделаны, переходы задачи из статуса в статус, добавление комментариев к задаче.</p>
+  </li>
+
+  <li><a name="task_switcher_time"></a>указать <b>Затраченное время</b> на выполнение задачи.
+	<p>Добавление нового периода времени и комментария к нему, а также их редактирование производится с помощью соответствующих элементов управления, расположенных в правой части колонки <b>Комментарий</b>.</p>
+        <p><img src="cid:resources/res98/j5ch6.task_switcher_time.png" border="0"  /></p>
+	
+	<p>Если у задачи несколько соисполнителей, время, затраченное на выполнение задачи, будет суммироваться. </p>
+
+	
+	<p>При этом, если задача находится в статусе <b>Выполняется</b> и она включена в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3707">План на день</a>, то в течение рабочего дня, с момента ее старта, будет вестись автоматический подсчет времени исполнения. С закрытием рабочего дня в списке затраченного времени появится соответствующая запись с комментарием <b>Учет рабочего времени</b>.</p>
+          
+          <p><img src="cid:resources/res98/K48MR.task_switcher_time_m.png" border="0" /></p>
+
+	<p>Если задача не была закрыта в этом рабочем дне, то общий подсчет затраченного времени продолжится с открытием следующего рабочего дня, по закрытии которого будет также создана запись с указанием затраченного времени за день.</p>
+	
+	<p>Для задач с <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_time_tracking">учетом времени</a> записи в список будет добавляться автоматически при любой остановке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3718#tview_timer">таймера</a> (пауза, завершение задачи). </p>
+
+	
+  </li>
+  
+</ul>
+<p>По умолчанию в форме отображается ссылка <b>Добавить комментарий или отчет</b>.</p>
+
+
+
+
+<br>
+
+
+
+
+
+<a name="tasks_view_info_panel"></a><h4>Информационная панель</h4>
+
+<p>В правой части страницы расположена информационная панель. В ней отображается основная информация о поставленной задаче и следующие элементы управления:</p>
+
+<table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top">
+	 <td>  <p><img src="cid:resources/res98/JASSL.task_view_infopanel_2.png" border="0" alt="Информационная панель постановщика задачи" width="229" height="396" /></p> </td>
+
+	 <td>
+        <ul> 
+          <li>поле <b>Крайний срок</b> - позволяет изменить дату, до которой должна быть выполнена задача;
+            <p><div class="hint"><b>Примечание:</b> Крайний срок может изменить:
+              <ul>
+                <li>постановщик задачи;</li>
+                <li>сотрудник, которому назначена задача, но только если при её создании постановщик отметил опцию <b>Разрешить ответственному менять сроки</b>.</li>
+              </ul>
+            </div></p>
+          </li>
+
+          <li>для задач с <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_time_tracking">учетом времени</a> доступны поля <b>Плановые трудозатраты</b> и <b>Затрачено времени</b>.</li>
+	   </ul>
+	 </td>
+    </tr>
+  </tbody> 
+</table> 
+
+<br>
+	 
+<p>Если вы являетесь создателем задачи, то для вас будут доступны дополнительные элементы управления задачей на этой панели:
+<table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top">
+	 <td>  <p><img src="cid:resources/res98/gRc5T.task_view_infopanel_1.png" border="0" alt="Информационная панель" width="229" height="465" /></p> </td>
+
+	 <td>
+        <ul>  
+          <li>ссылка <b style="color: #888888;">сменить</b> - позволяет сменить сотрудника, ответственного за выполнение задачи;</li>
+          <li>поле <b style="color: #888888;">Приоритет</b> - позволяет изменить приоритет задачи;</li>
+          <li>поле <b style="color: #888888;">Крайний срок</b> - позволяет изменить дату, до которой должна быть выполнена задача;</li>
+          <li>поле <b style="color: #888888;">Оценка</b> - позволяет выставить задаче оценку;</li>
+          <li>кнопка <b style="color: #888888;">Добавить соисполнителей</b> - позволяет добавить к задаче еще <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05018#roles">сотрудников</a>, которые буду также ее выполнять;</li>
+          <li>кнопка <b style="color: #888888;">Добавить наблюдателей</b> - позволяет добавить к задаче <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05018#roles">сотрудников</a>, которые будут получать уведомления о ходе задачи, но не смогут участвовать в ней или изменять ее.</li>
+          <li>кнопка <b style="color: #888888;">Стать наблюдателем</b> - позволяет пользователю становиться наблюдателем в задаче.</li>
+        </ul>
+	 </td>
+    </tr>
+  </tbody> 
+</table>
+</p>
+
+
+
+<!--
+<p><div class="hint"><b>Примечание:</b> Если вы являетесь руководителем отдела, то вам будет доступно включение задачи в отчет по эффективности:
+<p><img src="cid:resources/res98/Fp9wW.task_view_infopanel_3.png" border="0" alt="Информационная панель постановщика задачи" width="260" height="117" /></p></div>
+</p>
+-->
+
+
+<p>Для задач с <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_time_tracking">учетом затраченного времени</a> на панели отображаются дополнительные поля:</p>
+	<p><img src="cid:resources/res98/03MlT.task_view_infopanel_time_tracking.png" border="0" /></p> 
+
+
+<p><div class="hint"><b>Примечание:</b> Если вы являетесь руководителем отдела, то вам будет доступно включение задачи в отчет по эффективности:
+<p><img src="cid:resources/res98/PBtXc.task_view_infopanel_3.png" border="0" </p>
+</div></p>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3718</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

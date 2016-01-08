@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5022</lesson_id>
+<was_chapter_id>1292</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>3</childs_cnt>
+<is_childs>1</is_childs>
+<sort>400</sort>
+<timestamp_x>1405082903</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Шаблоны Бизнес-процессов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Шаблоны бизнес-процессов используются для быстрой и эффективной настройки формы бизнес-процесса согласно потребностям сотрудника. При создании бизнес-процесса на основе шаблона происходит не только изменение внешнего вида бизнес-процесса, но и заполнение его некоторыми начальными параметрами.</p>
+<p>Процесс проектирования шаблона бизнес-процесса можно разделить на два этапа:</p>
+
+<ul>
+<li>первый - это задание <a href="index.php?COURSE_ID=52&LESSON_ID=3736">основных параметров шаблона</a> бизнес-процесса;</li>
+<li>второй - это конструирование шаблона, по которому будет выполняться бизнес-процесс.</li></ul>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>5022</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

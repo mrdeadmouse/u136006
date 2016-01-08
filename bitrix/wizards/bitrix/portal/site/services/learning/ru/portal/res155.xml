@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3728</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1414075754</timestamp_x>
+<date_create>1341561631</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Управление группами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Управлением группами (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res155/mzf7r.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p><div class="warning"><b>Внимание</b>! Вы можете управлять группами, если являетесь ее владельцем, модератором или администратором.</div></p>
+
+<p>Управление группой осуществляется с помощью соответствующего меню, вызываемого с помощью клика на кнопку <b>Действия</b>. Если вы обладаете правами владельца группы, то на главной странице группы, под логотипом, увидите такое меню:</p>
+
+<p><img src="cid:resources/res155/2EhEQ.group_control_menu_adm2_sm.png" width="700" height="239"></p>
+
+<p><menu>
+  <li><a href="#invite">Пригласить в группу</a></li>
+  <li><a href="#group_edit">Редактировать</a></li>
+  <li><a href="#edit_settings">Изменить настройки</a></li>
+  <li><a href="#group_del">Удалить группу</a></li>
+  <li><a href="#members_edit">Редактировать состав</a></li>
+  <li><a href="#requests_out">Приглашения и запросы</a></li>
+</menu></p>
+ 
+
+
+
+<p><div class="warning"><b>Внимание!</b> В зависимости от прав, некоторые пункты будут отсутствовать в списке.</div></p>
+
+
+
+<br />
+
+<p>Рассмотрим те пункты меню, которых мы не касались в предыдущих уроках:</p>
+
+
+<a name="invite"></a><h4>Пригласить в группу</h4>
+<p>После щелчка левой кнопкой мыши по данной ссылке вы попадете на страницу, с которой можно выслать приглашения сотрудникам на вступление в группу:</p>
+  <p><img src="cid:resources/res155/25sY4.group_invite.png" width="482" height="195"></p>
+<p>Отправить приглашение сотруднику можно с помощью кнопок <b>Последние</b> и <b>Сотрудники и отделы</b>.</p>
+
+<div class="warning"><b>Внимание!</b> Включение в группу без согласия сотрудника невозможно.</div>
+
+<br />
+<a name="group_edit"></a><h4>Редактировать</h4>
+<p>После клика откроется страница редактирования группы, аналогичная той, что появляется при создании группы. Ее описание можно посмотреть <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3725#group_create">здесь</a>.</p>
+  <p><img src="cid:resources/res155/1UPET.group_edit.png" width="651" height="556"></p>
+
+<p>Новый параметр <b>Сделать архивной группой</b> - Если отметить эту опцию, то группа не будет отображаться у участников и в общем списке групп. Найти ее можно будет на странице <b>Архив</b> раздела <b>Все группы</b>, где хранятся все архивные группы, либо с помощью поискового запроса.</p>
+
+  
+<br />
+
+<a name="edit_settings"></a><h4>Изменить настройки</h4>
+<p>После перехода по ссылке вы окажетесь на странице, где можно менять названия сервисов и уровни доступа к функционалу сервисов группы:</p>
+  <p><img src="cid:resources/res155/Cdtw0.group_settings_sm.png" width="700" height="408"></p>
+  
+
+
+<br />
+<a name="group_del"></a><h4>Удалить группу</h4>
+<p>Нажмите на эту ссылку, если вы хотите удалить группу. После клика откроется форма подтверждения удаления группы:</p>
+  <p><img src="cid:resources/res155/HN0JX.group_del_confirm.png" width="674" height="285"></p>
+
+
+<br />
+<a name="members_edit"></a><h4>Редактировать состав</h4>
+<p><img src="cid:resources/res155/q1aaH.group_members_edit_sm.png" width="700" height="601"></p>
+
+<p>На данной странице можно:</p>
+<ul>
+<li>назначить какого-либо сотрудника модератором группы, а также исключить его из модераторов;</li>
+<li>исключить сотрудника из группы;</li>
+<li>сменить владельца группы;</li>
+<li>заблокировать и разблокировать участника группы, на заблокированного сотрудника будет действовать запрет на просмотр группы, чтение ее содержимого и на повторное вступление в нее (если сотрудник был уже исключен из нее);</li>
+<li>пригласить пользователей в группу.</li>
+</ul>
+
+<p>Для этого необходимо пометить соответствующего сотрудника галочкой рядом с его именем и нажать соответствующую кнопку в меню <b>Действия</b>.</p>
+
+
+<br />
+<a name="requests"></a><h4>Приглашения и запросы</h4>
+<p>На этой странице отображаются все высланные приглашения и запросы на вступление в группу, если в группе не разрешено свободное вступление без одобрения модератором:</p>
+  <p><img src="cid:resources/res155/swQDd.group_requests_sm.png" width="700" height="466"></p>
+<p>Также на этой странице можно <b>пригласить в группу</b> или <b>отменить приглашение</b>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3728</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

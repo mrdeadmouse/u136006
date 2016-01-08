@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>3692</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>1</childs_cnt>
+<is_childs>1</is_childs>
+<sort>200</sort>
+<timestamp_x>1418825974</timestamp_x>
+<date_create>1340788927</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Приглашение, авторизация и увольнение пользователей</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Видеоролик о том, как работать с пользователями</div>
+         </th></tr>
+    </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td>
+          <p>Интерактивный видеоролик (требуется выполнение действий пользователем). Продолжительность 2 минуты 58 секунд. Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+         
+          <p>Ролик озвучен. Если нет возможности прослушать, то с помощью кнопки <b>СС</b> можно включить текстовое сопровождение. </p>
+         
+          <p><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="cid:resources/res23/aaU3X.3_invitation_users.swf" width="800" height="600" ></embed></p>
+        </td></tr>
+     </tbody>
+   </table>
+</div>
+ 
+<h4>Приглашение сотрудников</h4>
+ 
+<p>Пригласить сотрудника самым простым способом можно: </p>
+
+<ul> 
+  <li>через инструмент быстрых команд с помощью <b>Приглашение сотрудникам</b>:
+    <p></p>
+   
+    <p><img src="cid:resources/res23/0JKmN.interface_2.png"  /></p>
+  </li>
+ 
+  <li>на ряде страниц портала есть прямая команда <b>Пригласить сотрудников</b>, расположенная над правым дополнительным меню.</li>
+ </ul>
+ 
+<p>По этой команде откроется форма добавления сотрудника:</p>
+ 
+<p><img src="cid:resources/res23/XvgJz.add_pers_1.png"  /></p>
+ 
+<p>В этой форме можно пригласить на портал внешнего пользователя (либо добавить уже имеющегося сотрудника) сразу в нужные группы или в структуру компании. На закладке <b>Добавить</b> можно заполнить за приглашённого его регистрационные данные.</p>
+ 
+<p>Введите адреса электронной почты нужных сотрудников, введите текст приглашения и нажмите <b>Пригласить</b>. Приглашённые получат письмо:</p>
+ 
+<div class="hint"><b>Текст получаемого письма</b>: 
+  <p>Приглашаю вас на корпоративный портал нашей компании. Здесь мы сможем вместе работать над проектами и задачами, управлять документами, планировать встречи и собрания, общаться в блогах и многое другое.</p>
+ 
+  <p><span class="link">Адрес страницы регистрации</span></p>
+ Для авторизации используйте ваш e-mail как логин. При первой авторизации на корпоративном портале пароль вам нужно будет придумать.</div>
+ 
+<p>Перейдя по указанной ссылке пользователю нужно будет заполнить форму с указанием персональных данных. После чего сотрудник получит доступ к корпоративному порталу.</p>
+ 
+<div class="hint"><b>Примечание</b>: при необходимости можно послать вторичное приглашение со страницы <span class="path">Компания &gt; Сотрудники &gt; Приглашённые</span>: 
+  <p><img src="cid:resources/res23/cDWIH.add_pers_2.png"  /></p>
+ </div>
+ 
+<h4>Авторизация на портале</h4>
+ 
+<p>Для авторизации нужно ввести в адресной строке браузера адрес вашего портала, откроется форма авторизации:</p>
+ 
+<p><img src="cid:resources/res23/3IoNK.reg_3.png"  /></p>
+ 
+<div class="hint"><b>Примечание</b>: Для авторизации на портале через социальные сервисы необходимо предварительно заполнить <a href="/learning/course/index.php?&COURSE_ID={SELF}&LESSON_ID=3750#edit_profile" target="_blank" > соответствующие поля в разделе <b>Социальные сети</b>. После связи аккаунта пользователя портала с аккаунтами социальных сервисов будет доступна авторизация с помощью <b>Twitter</b>, <b>Facebook</b>, <b>Google</b> и <b>LiveID</b>.
+    <p></p>
+   </a></div>
+<a href="/learning/course/index.php?&COURSE_ID={SELF}&LESSON_ID=3750#edit_profile" target="_blank" > 
+<a name="uvolit"></a>
+ 
+  <h4>Увольнение сотрудников</h4>
+ 
+  <p>Число приглашённых на портал (включая администратора) не может превышать число пользователей вашего тарифного плана. Если вы набрали полное число пользователей, а потом кто-то уволился и на его место пришёл другой, то прежнего сотрудника нужно &quot;уволить&quot; с портала. При этом сама учетная запись прежнего сотрудника останется в списках пользователей (хотя по ней и нельзя будет зайти и работать на портале). Также сохраняются все данные уволенного пользователя: файлы, сообщения, задачи и прочее.</p>
+ </a>
+<p><a href="/learning/course/index.php?&COURSE_ID={SELF}&LESSON_ID=3750#edit_profile" target="_blank" >Уволить кого-либо может только сотрудник с </a><a target="_blank" href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&amp;LESSON_ID=3750#admin_socnet">правами администратора</a>.</p>
+ 
+<p>Самый простой способ уволить сотрудника - это перейти на страницу <span class="path">Компания &gt; Сотрудники</span>, в общем списке найти нужного сотрудника и &quot;уволить&quot; его с помощью контекстного меню:</p>
+ 
+<p><img src="cid:resources/res23/JTSgf.del_pers_1.png"  /></p>
+ 
+<div class="hint"><b>Примечание</b>: Если приглашенный сотрудник, еще не авторизовывался на портале, то его можно просто удалить. Для этого необходимо в списке приглашенных сотрудников, удалить нужного пользователя: 
+  <p><img src="cid:resources/res23/0kdqG.reg_4.jpg"  /></p>
+ </div>
+ 
+<p>Возможности удалить сотрудников из списка уволенных нет, так как за каждым аккаунтом закреплены задачи, сообщения, файлы. После увольнения сотрудника все они сохраняются на портале: они могут содержать важную информацию для компании.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3692</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

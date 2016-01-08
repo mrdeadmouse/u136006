@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5025</lesson_id>
+<was_chapter_id>1295</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>1</childs_cnt>
+<is_childs>1</is_childs>
+<sort>600</sort>
+<timestamp_x>1414402034</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Компании</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Каждый персональный контакт в большинстве случаев представляет какую-либо компанию.</p>
+ 
+<p>В разделе <b>Компании</b> можно просматривать имеющиеся в системе CRM компании, добавлять новые, производить над ними различные операции:</p>
+ 
+<p><img src="cid:resources/res324/MdmGY.companyes_03.png" width="700" height="314"  /></p>
+ 
+<p></p>
+
+<div class="hint"><b>Примечание: </b>в списке сущностей максимум может отображаться 5000 элементов. Остальные будут храниться, но не будут видны, если не применять фильтры.</div>
+
+<p></p>
+ 
+<p>Красным цветом выделены невыполненные дела компании с истекшим сроком завершения, в которых вы являетесь ответственным. Количество таких дел также отображается в главном меню CRM:</p>
+ 
+<p><img src="cid:resources/res324/tdEVo.company.png" border="0" width="84" height="83"  /></p>
+ 
+<p>Меню действий, просмотр компании, действия, доступные с помощью колонки <b>Дела</b>, идентичны таковым для <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05024" >контактов</a>.</p>
+ 
+<p>Импорт компаний аналогичен <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3748" >импорту контактов</a>.</p>
+ 
+<p>Экспорт компаний аналогичен <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3749" >экспорту контактов</a>, за исключением того, что отсутствует возможность экспортировать в <b>Outlook</b>.</p>
+ 
+<p>Поиск и обработка возможных дублей аналогична таковым для <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5826" >контактов</a>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>5025</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

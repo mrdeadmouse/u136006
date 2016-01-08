@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6427</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>6</childs_cnt>
+<is_childs>1</is_childs>
+<sort>700</sort>
+<timestamp_x>1405426428</timestamp_x>
+<date_create>1404734277</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Компания</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Раздел предназначен для вывода всей необходимой информации о компании, в котором представлены следующие страницы:</p>
+
+<ul>
+<li><b>Официально</b> - официальная информация о событиях в компании, выходе нормативных документов, создании рабочих групп и прочем.</li>
+
+<li><b>Календарь событий</b> - информация о предстоящих и прошедших событиях в компании, таких как тренинги, собрания, корпоративные выезды и праздники</li>
+
+<li><b>Наша жизнь</b> - неофициальные новости и события компании (конкурсы, дни рождения, поздравления).</li>
+
+<li><b>О компании</b> - разделы, посвященные истории возникновения, руководству компании, а также ее миссии и стратегии развития. Кроме того, здесь размещены контакты (адреса, телефоны, схемы проезда к офисам компании) и реквизиты компании.</li>
+
+<li><b>Фотогалерея</b> - здесь размещены фотоальбомы со снимками как с официальных мероприятий (конференции, тренинги), так и неофициальных (праздники).</li>
+
+<li><b>Видеогалерея</b> - архив различного видео.</li>
+
+<li><b>Карьера, вакансии</b> - здесь размещены актуальные на данный момент вакансии компании, с возможностью заполнения и отправки на них резюме.</li>
+
+<li><b>Новости отрасли</b> - новостная лента о происходящих событиях в стране и мире по отрасли, в которой работает компания.</li>
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>700</edge_sort>
+<id>6427</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

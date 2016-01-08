@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5340</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>1</childs_cnt>
+<is_childs>1</is_childs>
+<sort>300</sort>
+<timestamp_x>1417608922</timestamp_x>
+<date_create>1369386323</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Мобильное приложение</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>С мобильным приложением могут работать как пользователи сервиса <a href="http://www.bitrix24.ru/" target="_blank" />Битрикс24</a>, так и владельцы коробочного продукта  <a href="http://www.1c-bitrix.ru/products/intranet/" target="_blank" />Битрикс24 в коробке</a>. Мобильное приложение разработано под <b>iOS</b> и <b>Android.</b> </p>
+
+<div class="warning"><b>Внимание!</b> Если <b>Битрикс24 в коробке</b> установлен в шаблоне Lite, то мобильное приложение работать с таким порталом не будет.</div>
+
+<p>Основной функционал мобильного приложения <b>Bitrix24</b>:</p>
+<ul>
+<li>Общение на портале в режиме реального времени;</li>
+<li>Аудио- и видеозвонки;</li>
+<li>Работа в Живой ленте;</li>
+<li>Контакты сотрудников;</li>
+<li>Управление задачами;</li>
+<li>Работа с файлами;</li>
+<li>Календарь и события;</li>
+<li>Мобильная CRM;</li>
+<li>Push-уведомления</li>
+и многое другое.
+
+<p><div class="hint"><b>Примечание</b>: Подробнее о возможностях мобильного приложения см. <a href="http://www.bitrix24.ru/features/apps.php" target="_blank" />тут</a>. </div></p>
+
+
+
+
+<br />
+<p>Чтобы начать работать с мобильным приложением <b>Bitrix24</b>, необходимо его предварительно скачать:</p>
+
+<a href="https://itunes.apple.com/ru/app/bitrix24/id561683423?l=ru&ls=1&mt=8" target="_blank" /><img src="http://www.bitrix24.ru/images/content/appst.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.bitrix24.android" target="_blank" /><img src="http://www.bitrix24.ru/images/content/gplay.png"></a>
+
+
+<a name="mobile_auth"></a>
+<p>Далее необходимо авторизоваться:</p>
+<p><img src="cid:resources/res45/u7k6P.mob_0_1.png" border="0" /> </p>
+<ul>
+<li><b>Адрес портала</b> - в это поле вводится адрес портала (например, <span class="link">site.ru</span> или <span class="link">192.168.1.1</span>);</li>
+<li><b>Логин или email</b> - указывается ваш <b>логин</b> (если это «Битрикс24 в коробке»), или <b>e-mail</b> (если это облачный сервис «Битрикс24»);</li>
+<li><b>Пароль</b> - пароль для доступа на портал.</li>
+</ul>
+
+<p><div class="hint"><b>Примечание</b>: Ссылка <b>Зарегистрироваться</b> позволяет зарегистрировать новый <a href="http://www.bitrix24.ru/" target="_blank" />«Битрикс24»</a> прямо из мобильного приложения. И сразу пригласить на новый портал своих коллег. </div></p>
+
+
+<p>Если на портале включена <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=06818" target="_blank" />двухэтапная авторизация</a>, то понадобится еще  ввести одноразовый код:</p>
+<p><img src="cid:resources/res45/cLN8G.mob_0_2.png" border="0" /> </p>
+
+
+<br />
+<p>Работать на портале с помощью мобильного приложения <b>Bitrix24</b> очень легко:</p>
+<p> <img src="cid:resources/res45/Nf24d.mob_01.png" border="0" /> <img src="cid:resources/res45/MHbeE.mob_03.png" border="0" /> <img src="cid:resources/res45/QLRKD.mob_02.png" border="0" /> <img src="cid:resources/res45/OCGdi.mob_05.png" border="0" /></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>5340</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2384</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1405078323</timestamp_x>
+<date_create>1303395585</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<table cellpadding="0" cellspacing="0">        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8c8c8c"> 
+
+<table cellpadding="5" cellspacing="1">
+   <tbody>
+      <tr bgcolor="#8c8c8c">
+        <td><b>Функционал</b></td>
+        <td><b>Страница</b></td>
+        <td><b>Права пользователя</b></td>
+      </tr>
+          
+      <tr bgcolor="#eeeeee">
+        <td>Резервирование переговорных</td>
+        <td><i>Сервисы &gt; Переговорные</i></td>
+        <td>Администраторы
+		 <!-- <br><br>Администратор может указать дополнительные группы пользователей для доступа к данному функционалу (настройки компонента)</td> -->
+      </tr>
+  
+      <tr bgcolor="#ffffff">
+        <td>Создание переговорных</td>
+        <td><i>Сервисы &gt; Переговорные</i></td>
+        <td>Администраторы
+		<!-- <br><br>Администратор может указать дополнительные группы пользователей для доступа к данному функционалу (настройки компонента) --></td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Создание своих списков </td>
+        <td><i>Сервисы &gt; Списки</i></td>
+        <td>Группы пользователей, указанные в настройках модуля <b>Универсальные списки</b></td>
+      </tr>
+
+      <tr bgcolor="#ffffff">
+        <td>Просмотр или изменение содержимого списка (записей или разделов)</td>
+        <td><i>Сервисы &gt; Списки</i></td>
+        <td>Группы пользователей, указанные в настройках конкретного списка (в публичной части сайта)</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Работа с бизнес-процессами организации</td>
+        <td><i>Сервисы &gt; Бизнес-процессы</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание нового бизнес-процесса</td>
+        <td><i>Сервисы &gt; Бизнес-процессы</i></td>
+        <td>Администраторы (по умолчанию)
+		<!-- <br><br>Администратор может указать дополнительные группы пользователей для доступа к данному функционалу (настройки компонента) --></td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Работа с электронными заявками</td>
+        <td><i>Сервисы &gt; Электронные заявки</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Просмотр курсов</td>
+        <td><i>Сервисы &gt; Обучение</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Создание и редактирование курсов</td>
+        <td><i>Сервисы &gt; Обучение</i></td>
+        <td>Администрация портала</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание/изменение страниц</td>
+        <td><i>Сервисы &gt; База знаний (wiki)</i></td>
+        <td>Сотрудники</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Удаление страниц и истории</td>
+        <td><i>Сервисы &gt; База знаний (wiki)</i></td>
+        <td>Отдел кадров, Руководство, Администрация портала (по умолчанию)</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Просмотр вопросов</td>
+        <td><i>Сервисы &gt; Вопросы и ответы</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Создание вопросов</td>
+        <td><i>Сервисы &gt; Вопросы и ответы</i></td>
+        <td>Отдел кадров, Администрация портала, Администраторы
+		<!-- <br><br>Администратор может указать дополнительные группы пользователей для доступа к данному функционалу (настройки инфоблока) --></td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание/управление опросами </td>
+        <td><i>Сервисы &gt; Опросы</i></td>
+        <td>Отдел кадров, Администрация портала (по умолчанию)
+         <!-- <br><br>Администратор может указать дополнительные группы пользователей для доступа к данному функционалу (настройки модуля) --></td>
+      </tr>
+	
+      <tr bgcolor="#eeeeee">
+        <td>Создание новой заявки</td>
+        <td><i>Сервисы &gt; Техническая поддержка</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Создание собрания</td>
+        <td><i>Сервисы &gt; Планерки и собрания</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#eeeeee">
+        <td>Управление личной подпиской на новости</td>
+        <td><i>Сервисы &gt; Подписка</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Просмотр расчётных листков и остатков отпуска</td>
+        <td><i>Сервисы &gt; Зарплата и отпуск</i></td>
+        <td>Сотрудники</td>
+      </tr>
+
+      <tr bgcolor="#eeeeee">
+        <td>Просмотр и создание объявлений</td>
+        <td><i>Сервисы &gt; Доска объявлений</i></td>
+        <td>Сотрудники</td>
+      </tr>
+	  
+      <tr bgcolor="#ffffff">
+        <td>Просмотр и голосование за идеи, подача своей идеи</td>
+        <td><i>Сервисы &gt; Есть идея?</i></td>
+        <td>Сотрудники</td>
+      </tr>
+
+   </tbody>
+</table>
+   </td></tr>
+
+  </tbody>
+</table>
+
+	  
+<br>
+	  
+	  
+	  
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>2384</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

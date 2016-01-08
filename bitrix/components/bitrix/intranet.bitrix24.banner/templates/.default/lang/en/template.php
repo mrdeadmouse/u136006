@@ -1,0 +1,38 @@
+<?
+$MESS["B24_BANNER_MOBILE_TITLE"] = "Mobile application";
+$MESS["B24_BANNER_MOBILE_SUBTITLE"] = "for iOS and Android";
+$MESS["B24_BANNER_MOBILE_URL"] = "https://www.bitrix24.com/features/mobile-and-desktop-apps.php";
+$MESS["B24_BANNER_MOBILE_URL_INTRANET"] = "https://www.bitrixsoft.com/products/intranet/features/bitrixmobile.php";
+$MESS["B24_BANNER_MESSENGER_TITLE"] = "Desktop client";
+$MESS["B24_BANNER_MESSENGER_SUBTITLE"] = "with Bitrix24.Drive";
+$MESS["B24_BANNER_MESSENGER_URL"] = "https://www.bitrix24.com/features/mobile-and-desktop-apps.php";
+$MESS["B24_BANNER_BUTTON_INSTALL"] = "Install";
+$MESS["B24_BANNER_CLOSE"] = "Close";
+$MESS["B24_BANNER_TRIAL_TITLE"] = "Test Professional plan features";
+$MESS["B24_BANNER_TRIAL_SUBTITLE"] = "free for 30 days";
+$MESS["B24_BANNER_BUTTON_TRY"] = "Try Now";
+$MESS["B24_BANNER_TRIAL_EXPIRED_TITLE"] = "There are<br>#DAYS#";
+$MESS["B24_BANNER_TRIAL_EXPIRED_TITLE_1"] = "There is<br>#DAYS#";
+$MESS["B24_BANNER_TRIAL_EXPIRED_SUBTITLE"] = "until the end of the demo mode";
+$MESS["B24_BANNER_BUTTON_BUY"] = "Purchase";
+$MESS["B24_BANNER_NETWORK_HINT_TITLE"] = "Connect";
+$MESS["B24_BANNER_NETWORK_HINT_SUBTITLE"] = "instantly with clients and business partners.";
+$MESS["B24_BANNER_NETWORK_START"] = "Connect";
+$MESS["B24_BANNER_MARKETPLACE_TITLE"] = "App Catalog";
+$MESS["B24_BANNER_MARKETPLACE_SUBTITLE"] = "for Bitrix24";
+$MESS["B24_BANNER_BUTTON_SHOW"] = "Learn more";
+$MESS["B24_BANNER_WEBINAR_TITLE"] = "Weekly webinars";
+$MESS["B24_BANNER_WEBINAR_SUBTITLE"] = "The fastest way to learn Bitrix24";
+$MESS["B24_BANNER_WEBINAR_URL"] = "https://www.bitrix24.com/support/webinars.php?utm_source=cp&utm_medium=referral&utm_campaign=cp_button";
+$MESS["B24_BANNER_BUTTON_SEE"] = "Reserve your seat";
+$MESS["B24_BANNER_DISK_TITLE"] = "Bitrix24 Professional";
+$MESS["B24_BANNER_DISK_SUBTITLE"] = "Get Unlimited Users And Unlimited Space";
+$MESS["B24_BANNER_DISK_LINK"] = "https://www.bitrix24.com/prices/";
+$MESS["B24_BANNER_NEWYEAR_TITLE"] = "Merry Christmas";
+$MESS["B24_BANNER_NEWYEAR_SUBTITLE"] = "and Happy New Year";
+$MESS["B24_BANNER_NEWYEAR_BUTTON"] = "Get your gift";
+$MESS["B24_BANNER_NEWYEAR_LINK"] = "https://www.bitrix24.com/about/blogs/tips-n-trick/it-is-the-season-of-giving.php";
+$MESS["B24_BANNER_SIP_TITLE"] = "Attention";
+$MESS["B24_BANNER_SIP_SUBTITLE"] = "The settings of your office PBX need to be adjusted.";
+$MESS["B24_BANNER_BUTTON_MORE"] = "More";
+?>

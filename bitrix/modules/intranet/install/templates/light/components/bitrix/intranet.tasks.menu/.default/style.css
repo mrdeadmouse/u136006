@@ -1,0 +1,25 @@
+.sidebar-actions-block i.sidebar-action-icon {
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: 0 0;
+}
+
+.sidebar-actions-block i.sidebar-action-up {
+	background-image: url("images/icons/element_upload.gif");
+}
+.sidebar-actions-block i.sidebar-action-tasks-add {
+	background-image: url("images/icons/task_new.gif");
+}
+.sidebar-links i.sidebar-action-view-create  {
+	background-image: url("images/icons/appear_new.gif");
+}
+.sidebar-links i.sidebar-action-view-edit  {
+	background-image: url("images/icons/appear_edit.gif");
+}
+.sidebar-links i.sidebar-action-view-delete  {
+	background-image: url("images/icons/appear_delete.gif");
+}
+
+.sidebar-links i.sidebar-action-outlook  {
+	background-image: url("images/icons/import_outlook.gif");
+}

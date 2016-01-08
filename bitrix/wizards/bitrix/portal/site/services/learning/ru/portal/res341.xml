@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3758</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords>битрикс 24, пользователь портала, значения параметров</keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1416901437</timestamp_x>
+<date_create>1342691070</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Справочники</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<div class="note"><b>Справочник</b> - список значений параметров, относящихся к той или иной сущности.</div>
+ 
+<p>Справочники, которые можно настроить, располагаются в списке слева:</p>
+ 
+<p><img src="cid:resources/res341/nH9bi.sprav1.png" border="0" width="551" height="379"  /></p>
+ <font size="4"><b><font color="#EE1D24">1</font></b></font> - область вкладок. Перечислены параметры, к настройке которых можно перейти, щелкнув по ним левой кнопкой мыши. 
+<p><b><font color="#652C91"><font size="4">2</font> </font></b>- значения параметров. Перечислены все допустимые значения, которые может принимать выбранный параметр. Вы можете их изменять.</p>
+ <font color="#197B30" size="4"><b>3</b></font> - кнопки возврата к оригинальному названию. Если вы изменили какое-либо название в каком-либо поле области 2, то нажав на данную кнопку вы вернете оригинальное наименование. 
+<p></p>
+ 
+<div class="hint"><b>Примечание</b>: при наведении курсора мыши на кнопки возврата к оригинальному названию или управления положением, отображается их значение: 
+  <p><img src="cid:resources/res341/nNsLu.return_original.png" width="212" height="82"  /></p>
+ </div>
+ 
+<p></p>
+ 
+<p>Кнопки возврата к оригинальному названию отображаются только для ключевых полей.</p>
+ <font color="#00AEEF"><b><font size="4">4</font> </b></font>- кнопки управления положением. Нажатие на стрелочку вверх переместит значение параметра на позицию выше, стрелочка вниз - на позицию вниз. 
+<p><font color="#004A80" size="4"><b>5</b></font> - добавление поля. Чтобы добавить новое значение параметра впишите его в свободное поле и нажмите <b>Сохранить</b>. Чтобы удалить добавленное, или какое-либо другое поле, нажмите на крестик (<img src="cid:resources/res341/yYPM2.del.png" width="25" height="24"  />) в колонке кнопок управления положением. Добавленное поле появится в общем списке значений поля, к которому оно относится.</p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b> для корректного отображения пользовательских значений параметров, рекомендуется в общем списке располагать их выше ключевых полей.</div>
+ 
+<p></p>
+ 
+<p>Например, если на приведенной иллюстрации добавить значение поля <b>Качественный лид</b>, то в форме создания лида, в выпадающем списке поля <b>Статус</b>, появится в общем списке статус <b>Качественный лид</b>.</p>
+ 
+<p> </p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание!</b> Крестик не отображается для тех полей, удаление которых невозможно (ключевые поля).</div>
+ 
+<p></p>
+ 
+<br />
+ 
+<p>Для сохранения всех внесенных изменений на данной странице нажмите <b>Сохранить</b>.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>3758</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

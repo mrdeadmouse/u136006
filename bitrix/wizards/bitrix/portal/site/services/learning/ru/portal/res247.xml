@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2272</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1418384599</timestamp_x>
+<date_create>1299334199</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Просмотр списка</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu id="topictoc">
+  <li><a href="#list_view">Просмотр списка</a></li>
+  <li><a href="#list_element_view">Просмотр элемента списка</a></li>
+  <li><a href="#list_view_settings">Настройки отображения списка</a></li>
+</menu>
+  
+<br />
+ 
+  
+<a name="list_view"></a><h4>Просмотр списка</h4>
+  
+<p>Для просмотра содержимого списка используйте иконки с названием списка, расположенные на странице <b>Списки</b> или ссылки, расположенные в правом меню.</p>
+
+<p>В результате на странице будет отображен непосредственно сам список, панель фильтра (<b>Поиск</b>) и основные элементы управления:</p>
+  <p><img src="cid:resources/res247/7YonQ.lists_list_52.png"></p>
+<p><div class="hint"><b>Примечание:</b> Количество и состав кнопок на контекстной панели зависит от прав сотрудника на конкретный список. Если сотрудник обладает правами на изменение списка, то ему будет доступна кнопка <b>&lt;Добавить_элемент&gt;</b> (название может отличаться, в зависимости от настроек самого списка), позволяющая создать новый элемент списка.</div></p>
+  
+  
+<br />
+  
+
+<a name="list_element_view"></a><h4>Просмотр элемента списка</h4>
+
+<p>Для просмотра/изменения (в зависимости от прав доступа) информации об элементе списка используйте меню действий или дважды кликните по строке с желаемым элементом в списке, после чего откроется следующая форма:</p>
+  <p><img src="cid:resources/res247/NvNnI.list_item_view_52.png"></p>
+<p><div class="hint"><b>Примечание:</b> Если вы обладаете правами на изменение списка, то форма будет иметь другой вид. Появятся дополнительные кнопки:
+  <p><img src="cid:resources/res247/45m7g.list_item_edit_52.png"></p>  </div></p>
+
+<p>Кнопка <b>&lt;название_списка&gt;</b> (В нашем примере эта кнопка называется <b>Клиенты</b>) на контекстной панели позволяет вернуться к просмотру списка.</p>
+<p>Элементы управления <img src="cid:resources/res247/6k0r0.list_item_view_controls.png"> позволяют развернуть все вкладки на одну страницу и настроить форму соответственно.</p>
+  
+  
+  
+<br />
+  
+   
+  
+<a name="list_view_settings"></a><h4>Настройки отображения списка</h4>
+  
+<p>Для индивидуальных настроек отображения списка используется меню настроек списка: </p> 
+  <p><img src="cid:resources/res247/S8oqy.lists_settings_menu_52.png" ></p>
+<p>где: </p>
+<ul>
+  <li><b>Настроить список</b> - позволяет изменить текущее представление списка в форме <b>Настройка представления списка</b>:
+  <p><img src="cid:resources/res247/gKn2I.edit_list_view.png"></p>
+  </li>
+  
+  <li><b>Колонки списка</b> - позволяет отобразить/скрыть желаемые колонки списка. Для этого отметьте флажком требуемые колонки и выберите пункт меню <b>Применить</b>:
+  <p><img src="cid:resources/res247/YZ9Yt.menu_sel_col_52.png"></p>
+  </li>
+  
+  <li><b>&lt;название_представления&gt;</b> - выбор заранее созданного представления, которое будет определять вид списка.
+  <p><img src="cid:resources/res247/KDiKr.menu_sel_view_52.png"></p>
+  </li>
+  
+  <li><b>Представления</b> - позволяет создавать/редактировать существующие представления в форме <b>Управление представлениями</b>:
+  <p><img src="cid:resources/res247/TsLLx.list_view_control.png"></p>
+  <p>Создание и редактирование представлений производится в форме <b>Настройка представления списка</b>, описанной выше.</p>
+  </li>
+
+  <li><b>Цветовая схема</b> - позволяет изменить цветовую схему оформления списка.
+  <p><img src="cid:resources/res247/rg0Ly.color_sheme.png" ></p>
+
+<p><div class="hint"><b>Примечание</b>: Опция не доступна для шаблона Битрикс24.</div></p>
+
+
+  </li>
+</ul>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>2272</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

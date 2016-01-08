@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3726</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1413991396</timestamp_x>
+<date_create>1341561577</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Работа с группами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Работа с группами (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res153/sSu0w.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p>Для взаимодействия с интересующей группой, необходимо перейти к просмотру группы, щелкнув по ее названию или изображению:</p>
+<p><img src="cid:resources/res153/QfnUa.group.png" width="365" height="72"  /></p>
+
+
+<p>После перехода откроется страница профиля группы:</p>
+<p><img src="cid:resources/res153/dJdJ5.profile_group_sm.png" width="700" height="590" border="0" /></p>
+
+
+<p><div class="hint"><b>Примечание:</b> по отношению к группе сотрудник может быть владельцем группы, модератором группы, участником группы, пользователем из черного списка, и пользователем, не состоящим в группе. В этом уроке возможности описаны с точки зрения участника группы, либо человека, еще не вступившего в нее. Пользователю из черного списка часть функционала будет недоступна.</div></p>
+
+<br />
+<menu>
+  <li><a href="#join" >Вступление в группу</a></li>
+  <li><a href="#send_message" >Отправка сообщений</a></li>
+  <li><a href="#exit" >Выход из группы</a></li>
+</menu>
+
+
+<br />
+<a name="join"></a><h4>Вступление в группу</h4>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Вступление в группу (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res153/F4oEJ.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p>Для того чтобы вступить в группу, выполните следующие действия:</p>
+<ul>
+  <li>Нажмите на кнопку <b>Вступить в группу</b>, расположенную на закладке <b>Основное</b> страницы просмотра группы либо выберете одноименный пункт меню <b>Действия</b>:
+
+<p><img src="cid:resources/res153/93Zjd.zapros_enter_group1_sm.png" width="700" height="280" border="0" /></p>
+
+ </li>
+  <li><p>Если группа является открытой, т.е. в нее может вступить любой желающий, то вы сразу присоединяетесь к группе. </p>
+    <p>Если группа является закрытой, то необходимо заполнить форму запроса на присоединение к группе:</p>
+
+<p><img src="cid:resources/res153/u5bwy.zapros_enter_group2_sm.png" width="700" height="278" border="0" /></p>
+
+
+      <p>Обязательно заполните поле <b>Сообщение</b>.</p>
+
+<p>Модератор (или администратор) группы получит сообщение в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5121#im_notify" target="_blank" />Центре нотификаций</a>, где может сразу <b>Принять</b> или <b>Отказать</b> вступление пользователя в группу:</p>
+
+      <p><img src="cid:resources/res153/sRRXV.request_accept.png" width="466" height="118" border="0" /></p>
+
+      <p>После того, как модератор группы (или администратор) одобрит ваш запрос, вы получите соответствующее сообщение через <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5121#im_notify" target="_blank" />Центр нотификаций</a> и станете членом группы:</p> 
+      <p><img src="cid:resources/res153/uVKMr.accept.png" width="487" height="186"></p>
+
+    </li>
+</ul>
+
+
+
+<br /> 
+<a name="send_message"></a><h4>Отправка сообщений</h4>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Отправка сообщений (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res153/BJzLY.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p>Вы можете послать сообщение всем участникам группы, установив курсор в поле <b>Написать сообщение</b>.</p>
+
+<p><div class="hint"><b>Примечание:</b> Если владелец группы поставил запрет на отсылку сообщений для тех, кто не состоит в группе, то вы не сможете отослать сообщение в группу.</div></p>
+
+<p>Если поле доступно, то после установки курсора появится окно отправки сообщений:</p>
+  <p><img height="384" border="0" width="700" src="cid:resources/res153/wE7ao.message_from2_sm.png" alt="Отправка сообщений" /></p>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про отправку сообщений можно прочитать в разделе <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3697" />Сообщения</a>.</div></p>
+
+<p><div class="hint"><b>Примечание:</b> Если при отправке сообщения в поле <b>Кому</b> был указана невидимая группа, то сотрудники, не состоящие в невидимой группе, в качестве получателя увидят <b>Скрытый получатель</b>:
+<p><img src="cid:resources/res153/22e9X.message_user_non_group.png" width="680" height="145"></p>
+</div></p>
+
+<p>Приложенные к сообщению файлы по умолчанию будут загружены в личный Диск автора сообщения.</p>
+
+<br />
+<a name="exit"></a><h4>Выход из группы</h4>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Выход из группы (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res153/2Atyq.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p>Чтобы выйти из состава участников группы, необходимо:
+<ul>
+<li>Нажать кнопку <b>Действия</b> и выбрать пункт меню <b>Покинуть группу</b>: 
+  <p><img src="cid:resources/res153/fVz0y.group_leave_msg1_sm.png" width="700" height="205"  /></p> </li>
+
+<li>Нажать <b>Покинуть группу</b> для подтверждения своего решения:
+  <p><img src="cid:resources/res153/LudgN.group_leave_msg2.png" width="700" height="219"  /></p></li>
+</ul>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>3726</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

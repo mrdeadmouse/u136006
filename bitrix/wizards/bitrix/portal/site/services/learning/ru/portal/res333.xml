@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3756</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1405437560</timestamp_x>
+<date_create>1342524579</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Конвертация лида</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Лид, как потенциально возможная сделка, может превратится в контакт, компанию, и, при удачном стечении обстоятельств, в сделку. Такое превращение называется конвертацией лида.</p>
+
+<p>Есть несколько способов перейти к конвертации лида:</p>
+
+<ul>
+<li>выберите пункт <b>Конвертировать лид</b> в меню действий нужного лида:
+
+<p><img src="cid:resources/res333/N9TNl.lead_menu_convert_52.png"></p>
+</li>
+
+<li>в режиме просмотра или редактирования нужного лида нажмите <b>Конвертировать</b> на контекстной панели:
+
+<p><img src="cid:resources/res333/TABL9.convert_butt_03.png" width="375" height="49"></p>
+</li>
+</ul>
+<br>
+
+<p>И в том, и в другом случае, вы попадете на страницу конвертации лида:</p>
+
+<p><img src="cid:resources/res333/lp2FH.lead_convert_new.png" width="635" height="426"></p>
+
+
+<p>При переходе на страницу конвертации лида, по умолчанию выставляется конвертация в контакт, указанный в параметрах лида (закладка <b>Контакт</b>). Поля контакта описаны в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746">Добавить контакт</a>. Для контакта достаточно указать либо имя, либо фамилию.</p>
+
+<p><div class="warning"><b>Важно! </b>Конвертация лида в контакт обязательна, даже параллельно с конвертацией в другие сущности! Это значит вы можете сконвертировать лид: 
+<ul>
+<li>в контакт;</li>
+<li>в контакт и компанию;</li>
+<li>в контакт и сделку;</li>
+<li>в контакт, компанию и сделку.</div></p>
+
+<p>Если вы хотите конвертировать лид в другой, уже имеющийся контакт, поставьте флажок в <b>Выбрать из списка</b>:</p>
+
+<p><img src="cid:resources/res333/y8qXG.lead_choose_cont.png" width="580" height="65"></p>
+
+<p>Выберите из имеющихся в системе контактов, пройдя по ссылке <b>Выбрать</b>. Делается это аналогично выбору компании, описанному в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3724#panel">Поиск</a>.</p>
+
+<p>Параллельно можно конвертировать лид в компанию, для этого ниже выберите опцию <b>Конвертировать в компанию</b>:</p>
+
+<p><img src="cid:resources/res333/sAfaS.convert_in_comp.png" width="602" height="223"></p>
+
+<p>Поля конвертации в компанию идентичны таковым при <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3751">добавлении компании</a>.</p>
+
+<p>Аналогично выбору контакта, можно указать компанию из уже имеющихся в CRM, поставив флажок в <b>Выбрать из списка</b>.</p>
+
+<p>Если лид нужно конвертировать также и в сделку, поставьте галочку ниже, в поле <b>Конвертировать в сделку</b>, после чего появится форма создания сделки:</p>
+
+<p><img src="cid:resources/res333/bUal9.lead_convert_in_deal.png" width="434" height="296"></p>
+
+<p>Заполните поля идентично тому, как это делается при <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3770">добавлении сделки</a>.</p>
+
+<p>Закончив заполнять поля конвертации, нажмите <b>Сохранить</b> или <b>Применить</b>, чтобы сконвертировать лид.</p>
+
+<p><div class="warning"><b>Важно! </b>Лид конвертируется только один раз и конвертация запускает <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3765">бизнес-процесс</a> на изменение лида.</div></p> 
+<br>
+
+<p>Сконвертированный лид отобразится в списке лидов с новым статусом <b>Сконвертирован</b> и для него сократится число пунктов в меню действий.</p>
+
+<p><div class="hint"><b>Примечание:</b> после конвертации лида история отправки писем сохранится в созданном контакте/компании в списке событий (закладка <b>История</b>).</div></p>
+
+<p>Сконвертированный лид можно удалить только после того, как будут удалены все связанные с ним сущности.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3756</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

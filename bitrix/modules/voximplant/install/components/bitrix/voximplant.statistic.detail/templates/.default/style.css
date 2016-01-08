@@ -1,0 +1,33 @@
+.tel-stat-grid-wrap .bx-interface-grid td{vertical-align: middle;}
+.tel-stat-user-img.user-avatar {
+	background-position: 0 -1312px;
+	display: inline-block;
+	height: 30px;
+	margin-right: 11px;
+	vertical-align: middle;
+	width: 30px;
+	float:none;
+}
+.tel-stat-icon {
+	background: url("./images/sprite.png") no-repeat scroll 2px -16px;
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+	margin-left: -38px;
+	position: absolute;
+	display: inline-block;
+	margin-top: 8px;
+}
+.tel-stat-icon-incoming {  }
+.tel-stat-icon-outgoing { background-position: 2px 4px; }
+.tel-stat-icon-incoming-redirect { background-position: 2px -76px; }
+.tel-stat-icon-decline { background-position: 2px -36px; }
+.tel-stat-icon-skipped { background-position: 2px -56px; }
+.tel-player { overflow: hidden; width: 23px; display: inline-block; }
+.tel-player-download { 	background: url("./images/sprite.png") no-repeat scroll 0 -110px;
+	width: 23px;
+	height: 24px;
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 5px;
+}

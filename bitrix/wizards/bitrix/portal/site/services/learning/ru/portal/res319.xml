@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5024</lesson_id>
+<was_chapter_id>1294</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>500</sort>
+<timestamp_x>1414503382</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Контакты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[ 
+<p>Любая сделка начинается с установления контакта с частным лицом, или человеком, представляющим какую-либо компанию.</p>
+ 
+<p>О фильтре контактов вы можете прочитать в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3724" >Поиск</a>.</p>
+ 
+<p>В разделе <b>Контакты</b> вы можете осуществлять различные операции с имеющимися контактами, а также добавлять новые.</p>
+ 
+<p>Данная страница представлена в следующем виде:</p>
+ 
+<p><img src="cid:resources/res319/32v9w.cont_list_03.png" width="700" height="281"  /></p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>в списке сущностей максимум может отображаться 5000 элементов. Остальные будут храниться, но не будут видны, если не применять фильтры.</div>
+ 
+<p></p>
+ 
+<p>Красным цветом выделены невыполненные дела контакта с истекшим сроком завершения, за которые вы являетесь ответственным. Количество контактов, имеющих такие дела, отображается в главном меню CRM:</p>
+ 
+<p><img src="cid:resources/res319/Nl7lI.Cont_Pikt.png" border="0" width="86" height="85"  /></p>
+ 
+<p>Используя колонку <b>Дела</b>, можно совершать следующие действия:</p>
+ 
+<p> <img src="cid:resources/res319/zLHwT.kol_dela.png" border="0" width="234" height="295"  /></p>
+
+<p> Двойной щелчок по любой свободной области контакта приведет к открытию страницы <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3732#contact_profile" >профиля контакта</a> в CRM. Точно такой же результат даст щелчок левой кнопкой мыши по имени или фамилии контакта. </p>
+
+
+<p>Клик по названию компании откроет страницу <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3732#company_profile" >профиля этой компании</a>.</p>
+ 
+<p>Если вы хотите написать электронное письмо какому-либо контакту, щелкните по значению столбца <b>Рабочий e-mail</b>, это запустит ваш почтовый клиент, где в поле адреса получателя будет прописан e-mail контакта.</p>
+ 
+<a name="phone"></a><p>Вы можете осуществить звонок с помощью IP-телефонии <b>Битрикс24</b>. Для этого нажмите на иконку телефонной трубки рядом с номером:</p>
+ 
+<p><img src="cid:resources/res319/kA28T.call_to_sokolov.png"  /></p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание:</b> если администратор <b>Битрикс24</b> разрешил запись разговоров, то звонок будет сохранен в папке <b>Телефония: записи звонков</b> общего диска.</div>
+ 
+<p></p>
+ 
+<br />
+ 
+<h3>Меню действий</h3>
+ 
+<p>Помимо пункта <b>Просмотреть контакт</b>, пройдя по которому вы сможете увидеть информацию о контакте, меню действий включает в себя:</p>
+ 
+<p> 
+  <table cellpadding="5" width="100%"> 
+    <tbody> 
+      <tr valign="top"><td><img src="cid:resources/res319/1ZgaP.cont_menu_14_5.png"  /></td><td> 
+          <ul> 
+            <li><b>Редактировать контакт</b> - после клика по данному пункту появится форма редактирования контакта. О значениях полей формы редактирования контакта вы можете подробнее узнать в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >Добавить контакт</a>.</li>
+           
+            <li><b>Копировать контакт</b> - при копировании откроется форма добавления контакта, в которую будут продублированы данные копируемого контакта.</li>
+           
+            <li><b>Добавить событие</b> - о добавлении событий вы можете прочитать в соответствующей <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=1298" >главе</a>. 
+              <p></p>
+             </li>
+           
+            <li><b>Добавить задачу</b> - о добавлении задач вы можете прочитать в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719" >Создание задачи</a>. 
+              <p></p>
+             </li>
+           
+            <li><b>Написать письмо</b> - выберите данный пункт чтобы отправить письмо на e-mail, закрепленный за компанией. 
+              <p></p>
+             </li>
+           
+            <li><b>Добавить звонок/встречу</b> - позволяет добавить <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3757" >событие в календарь</a>. </li>
+           
+            <li><b>Бизнес-процесс</b> - позволяет перейти к просмотру текущей <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3734#bizproc_view" >информации</a> о бизнес-процессах для данного контакта. 
+              <p></p>
+             </li>
+           
+            <li><b>Новый бизнес-процесс</b> - позволяет запустить новый бизнес-процесс по заранее созданному шаблону. </li>
+           
+            <li><b>Добавить сделку</b> - о добавлении сделки вы можете прочитать в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3770" >Добавить сделку</a>.</li>
+           
+            <li><b>Сделать предложение</b> - создать <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6352" >коммерческое предложение</a> для данного контакта.</li>
+           
+            <li><b>Выставить счёт</b> - создать <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5362" >счёт</a> для данного контакта.</li>
+           
+            <li><b>Удалить контакт</b> - после нажатия появится окошко подтверждения, нажмите в нем <b>Удалить контакт</b> и он будет удален из CRM.</li>
+           </ul>
+         </td></tr>
+     </tbody>
+   </table>
+ </p>
+ <a name="contekst_panel"></a> 
+<h3>Контекстная панель</h3>
+ 
+<ul> 
+  <li><b>Добавить контакт</b> - позволяет <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >добавить новый контакт</a> в базу.</li>
+ 
+  <li>Нажав на иконку шестеренки можно осуществить <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3748" >импорт</a> и <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3749" >экспорт</a> контактов: 
+    <p><img src="cid:resources/res319/cErni.imp_and_exp.png"  /></p>
+   </li>
+ </ul>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5024</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2533</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1387545039</timestamp_x>
+<date_create>1307624406</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Синхронизация контактов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Мобильное приложение позволяет синхронизировать контакты телефона с контактами из <b>Битрикс24</b>.</p>
+
+<h4>Синхронизация с телефонами на ОС Android</h4>
+
+<p>Синхронизация возможна двумя способами: вручную и автоматически. На данный момент рекомендуется выполнять синхронизацию вручную.</p>
+
+<p><b>Синхронизация вручную</b></p>
+
+<ul>
+<li>Откройте список аккаунтов в Настройках телефона. В разных моделях этот пункт может называться по разному: <b>Аккаунты</b> или <b>Учётные записи</b>. Например, так:
+<p><img src="cid:resources/res46/OH5jl.synch_1.png" /></p></li>
+<li>Откройте диалог создания нового аккаунта, и выберите <b>Битрикс24</b>: 
+<p><img src="cid:resources/res46/8hAId.synch_2.png" /></p>
+</li> 
+<li>Задайте параметры аккаунта и сохраните их:
+<p><img src="cid:resources/res46/IgQmA.synch_3.png" /></p>
+Учётная запись появится в общем списке и начнётся синхронизация контактов.</li> 
+<li>Если синхронизация не началась, то зайдите в учётную запись и запустите синхронизацию вручную:
+<p><img src="cid:resources/res46/37Lll.synch_4.png" /></p>
+</li>
+ </ul>
+
+<p>После завершения синхронизации в списке контактов появится группа вашего портала со всеми контактами:</p>
+
+<p><img src="cid:resources/res46/PzJz2.synch_5.png" /></p>
+
+<br>
+<p><b>Автоматическая синхронизация</b></p>
+
+<ul>
+<li>После открытия вашего портала на смартфоне перейдите на страницу <b>Список сотрудников</b>.</li>
+<li>Приложение предложит вам синхронизировать контакты:
+<p><img src="cid:resources/res46/xN3nP.synch_6.png" /></p></li> 
+<li>При выборе <b>Да</b> приложение само создаст учётную запись и проведёт автоматическую синхронизацию контактов.</li> 
+ </ul>
+
+
+<h4>Синхронизация с телефонами Apple</h4>
+
+<p>Синхронизация контактов на устройствах Apple выполняется с помощью протокола <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3729#carddav" target="_blank">CardDAV</a> </p>
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>2533</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

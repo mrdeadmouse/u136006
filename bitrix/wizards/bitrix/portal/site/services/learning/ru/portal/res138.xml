@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3711</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1418906272</timestamp_x>
+<date_create>1341314739</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Внешние соединения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Внешние соединения (Интерактивный видеоролик)</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+         
+          <p>Ролик озвучен.</p>
+         <iframe width="820" height="671" src="cid:resources/res138/6Sa4z.story.html"></iframe></td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<p></p>
+ 
+<p>К <b>Битрикс24</b> могут быть подключены ваши личные внешние календари (например, <a href="http://www.google.com/calendar" >календари Google</a>):</p>
+ 
+<ul> 
+  <li><a href="#external_calendar_add" >Подключение к Битрикс24 внешних календарей</a></li>
+ 	 </ul>
+ 
+<p>А также для календарей <b>Битрикс24</b> могут быть настроены внешние соединения с мобильными устройствами, настроена синхронизация с <b>Microsoft Outlook</b> или настроен односторонний экспорт данных в формате <b>iCal</b> в <b>Microsoft Outlook</b>:</p>
+ 
+<ul> 
+  <li><a href="#export_msoutlook" >Соединение календарей Битрикс24 с MS Outlook</a></li>
+ 
+  <li><a href="#export_ical" >Экспорт календарей (iCal)</a></li>
+ 
+  <li><a href="#mobile_connect" >Соединение календарей с мобильными устройствами</a></li>
+ 
+  <li><a href="#exchange" >Соединение календарей портала с Microsoft Exchange</a></li>
+ </ul>
+ 
+<p>Если в <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05015" >настройках</a> интерфейса календаря отмечена опция <b>Отображать панель внешних соединений</b>, то под списком календарей будет отображаться панель следующих соединений:</p>
+ 
+<p><img src="cid:resources/res138/WjEdA.banner.png" border="0" width="266" height="219"  /></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Для коробочного Битрикс24</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <p></p>
+         
+          <div class="hint"><b>Примечание:</b> функционал соединения календарей с <b>мобильными устройствами</b> и <b>Microsoft Exchange</b> зависит от настроек портала и может быть недоступен для конкретной реализации портала компании. При возникновении трудностей обратитесь к администратору портала.</div>
+         
+          <p></p>
+         </td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<br />
+ <a name="external_calendar_add"></a> 
+<h4>Подключение к Битрикс24 внешних календарей</h4>
+ 
+<p></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Подключение к Битрикс24 внешних календарей (Интерактивный видеоролик)</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+         
+          <p>Ролик озвучен.</p>
+         <iframe width="820" height="671" src="cid:resources/res138/7TZHb.story.html"></iframe></td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<p></p>
+ 
+<p>Вы можете подключать внешние календари по протоколу <b>CalDAV</b> (например, <a href="http://www.google.com/calendar" >календари Google</a>).</p>
+ 
+<p>Для подключения внешнего календаря используйте пункт меню <b>внешний календарь (CalDav)</b>:</p>
+ 
+<p><img src="cid:resources/res138/3k5wm.add_calendar2.png" border="0" height="233" width="263"  /></p>
+ 
+<p>Поcле чего в форме <b>Список подключений внешних календарей</b> укажите:</p>
+ 
+<p><img src="cid:resources/res138/kbJf4.extern_calendar.png"  /></p>
+ 
+<ul> 
+  <li><b>Название</b> календаря;</li>
+ 
+  <li><b>Адрес</b> подключения ко внешнему календарю; 
+    <p></p>
+   
+    <div class="hint"><b>Например</b>, для календарей <b>Google</b> он будет иметь вид <code>https://www.google.com/calendar/dav/YOUREMAIL@DOMAIN.COM/user</code></div>
+   
+    <p></p>
+   </li>
+ 
+  <li><b>Имя пользователя</b> и <b>Пароль</b>, для подключения к календарю.</li>
+ 
+  <li>Нажмите кнопку <b>Сохранить</b>. </li>
+ </ul>
+ 
+<p>В случае правильно указанных параметров в списке календарей появится внешний календарь, а в сетке будут события из него.</p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>будут синхронизированы все календари, находящиеся у вас в <b>Google</b>, однако напоминания переданы не будут.</div>
+ 
+<p></p>
+ 
+<a name="export_msoutlook"></a>
+ 
+<h4>Соединение календарей сервиса с MS Outlook</h4>
+ 
+<p></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Соединение календарей сервиса с MS Outlook (Интерактивный видеоролик)</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+         
+          <p>Ролик озвучен. Если нет возможности прослушать звуковое сопровождение, то с помощью значка <img height="36" width="39" src="cid:resources/res138/BSxuT.audio_11.png"  /> в правом верхнем углу ролика можно просмотреть текст. </p>
+         <iframe width="820" height="671" src="cid:resources/res138/NHRK0.story.html"></iframe></td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<p></p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание! </b>Для полноценной интеграции <b>Битрикс24</b> с <b>MS Outlook</b> требуется версия <b>Outlook 2007</b> и выше.</div>
+ 
+<p></p>
+ 
+<p>При настройке соединения календарей сервиса <b>Битрикс24</b> с <b>MS Outlook</b> выполняется двусторонняя синхронизация событий календарей (например, личного или календарей сотрудников) с календарями <b>MS Outlook</b>.</p>
+ 
+<p>Для этого выполните следующее:</p>
+ 
+<ul> 
+  <li>В портале перейдите на страницу содержащую календарь событий, который нужно экспортировать. В меню действий календаря выберите пункт <b>Соединить с Outlook</b>: 
+    <p><img src="cid:resources/res138/PDSZ0.calendar_menu1.png" border="0" height="348" width="294"  /></p>
+   
+    <p>или</p>
+   
+    <p>В специальной форме соединения с <b>Outlook</b> выберите требуемый календарь:</p>
+   
+    <p><img src="cid:resources/res138/y4SiW.profile_calendar_export_msoulook_banner.png" border="0" height="101" width="264"  /></p>
+   
+    <p>После окна выбора приложения запустится <b>MS Outlook</b>, при этом будет выведено следующее предупреждение:</p>
+   
+    <p><img src="cid:resources/res138/onarg.outlook_to_calendar.png"  /></p>
+   </li>
+ 
+  <li>Нажмите кнопку <b>Да</b> для продолжения подключения календаря, либо кнопку <b>Дополнительно...</b> для вызова диалога дополнительной настройки параметров.</li>
+ 
+  <li>Введите <b>Имя папки</b> (название календаря) и <b>Описание</b> календаря и нажмите кнопку <b>OK</b>.</li>
+ 
+  <p>В результате в <b>MS Outlook</b> будет добавлен календарь, события которого будут отображены на сетке календаря:</p>
+ 
+  <p><img src="cid:resources/res138/7lDx1.outlook3.png" border="0" width="700" height="546"  /></p>
+ 
+  <li>Аналогичным образом выполняется экспорт нескольких календарей. Если события нескольких календарей отобразить на одной сетке, то календарь примет вид, схожий с календарем портала:</li>
+ 
+  <p><img src="cid:resources/res138/a4Gaf.outlook4.png" border="0" width="700" height="546" alt="Календарь"  /></p>
+ </ul>
+ 
+<p>При добавлении нового события в календарь <b>MS Outlook</b> это событие будет автоматически добавлено в календарь <b>Битрикс24</b>.</p>
+ 
+<p>Для этого выполните следующее:</p>
+ 
+<ul> 
+  <li>В сетке календаря выберите день события проведения мероприятия и дважды кликнете по нему. Откроется окно добавления нового события:</li>
+ 
+  <p><img src="cid:resources/res138/pqkbq.outlook_event.png" border="0" width="650" height="409"  /></p>
+ 
+  <li>Заполните поля: <b>Тема</b>, <b>Начало</b>, <b>Конец</b> и <b>Описание</b>.</li>
+ 
+  <li>Нажмите кнопку <b>Сохранить и закрыть</b>.</li>
+ </ul>
+ 
+<p>В результате новое событие будет добавлено в календарь <b>MS Outlook</b>:</p>
+ 
+<p><img src="cid:resources/res138/oNnYs.outlook5.png" border="0" width="700" height="546"  /></p>
+ 
+<p>После добавления события в календарь <b>MS Outlook</b> автоматически произойдет синхронизация с календарем портала. Ход синхронизации будет отображен в нижнем правом углу <b>MS Outlook</b>:</p>
+ 
+<p><img src="cid:resources/res138/AT7pJ.outlook_status.png" border="0" height="22" width="235"  /></p>
+ 
+<p>В календаре портала также появится это событие.</p>
+ 
+<p>Управление событием возможно как в <b>MS Outlook</b>, так и в календаре портала.</p>
+ 
+<p>В <b>MS Outlook</b> дважды кликнете по событию, которое необходимо изменить. В открывшемся окне измените событие. Нажмите кнопку <b>Сохранить и закрыть</b>.</p>
+ 
+<p>Для удаления события в календаре <b>MS Outlook</b> выберите событие, в меню действий укажите пункт <b>Удалить</b>.</p>
+ 
+<p>После редактирования или удаления произойдет автоматическая синхронизация, событие будет изменено или удалено как в календаре <b>MS Outlook</b>, так и на портале.</p>
+ 
+<br />
+ 
+<a name="cancel"></a>
+ 
+<p>Для отключения календаря следует удалить его из <b>Outlook</b>. Перейдите в раздел <b>Календарь</b>, кликните правой кнопкой мыши по наименованию календаря, и в выпадающем меню выберите пункт <b>Удалить календарь</b>:</p>
+ 
+<p><img src="cid:resources/res138/aOtir.del_calendar.png"  /></p>
+ 
+<p>После подтверждения удаления синхронизация будет отключена.</p>
+ 
+<br />
+ 
+<a name="export_ical"></a>
+ 
+<h4>Экспорт календарей Битрикс24 (iCal)</h4>
+ 
+<p></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Экспорт календарей сервиса Битрикс24 (iCal) (Интерактивный видеоролик)</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+         
+          <p>Ролик озвучен.</p>
+         <iframe width="820" height="671" src="cid:resources/res138/BrMiv.story.html"></iframe></td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<p></p>
+ 
+<p>Если в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3706#calendar_add" >настройках</a> собственных календарей разрешен экспорт (опция <b>Разрешить экспорт календаря</b>), то в меню действий календарей доступен пункт <b>Экспорт (iCal)</b>:</p>
+ 
+<p><img src="cid:resources/res138/TBv0U.calendar_menu1.png" border="0" height="348" width="294"  /></p>
+ 
+<p>Чтобы экспортировать календари выполните следующее:</p>
+ 
+<ul> 
+  <li>Нажмите на пункт меню <b>Экспорт (iCal)</b> нужного календаря.</li>
+ 
+  <li>Скопируйте ссылку в буфер обмена:</li>
+ 
+  <p><img src="cid:resources/res138/H5VnA.link_for_export.png" alt="Ссылка для экспорта календаря"  /></p>
+ 
+  <li>Запустите <b>MS Outlook</b> и перейдите к настройке учетных записей..</li>
+ 
+  <li>В открывшемся окне перейдите на закладку <b>Интернет-календари</b> и нажмите <b>Создать...</b>.</li>
+ 
+  <li>В окне <b>Создание подписки на Интернет-календарь</b> вставьте ссылку на календарь из буфера обмена:</li>
+ 
+  <p><img src="cid:resources/res138/77gho.export_ical_create.png" border="0" width="473" height="133"  /></p>
+ 
+  <li>Нажмите кнопку <b>Добавить</b>. Откроется диалог <b>Параметры подписки</b>, в котором укажите <b>Имя папки</b> и <b>Описание</b> импортируемого календаря.</li>
+ 
+  <li>Сохраните внесенные данные. Подключение календаря выполнено.</li>
+ </ul>
+ 
+<p>В результате в календаре <b>MS Outlook</b> будут доступны для просмотра события подключенного календаря. Добавление и изменение событий выполняется только на портале.</p>
+ 
+<br />
+ <a name="mobile_connect"></a> 
+<h4>Соединение календарей Битрикс24 с мобильными устройствами</h4>
+ 
+<p></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Соединение календарей Битрикс24 с мобильными устройствами (Интерактивный видеоролик)</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+         
+          <p>Ролик озвучен.</p>
+         <iframe width="820" height="671" src="cid:resources/res138/PMQUB.story.html"></iframe></td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<p></p>
+ 
+<p><b>Битрикс24</b> позволяет подключать календари к мобильным устройствам по протоколу <b>CalDav</b>. Для этого специальной форме соединения с мобильными устройствами выберите требуемый календарь:</p>
+ 
+<p><img src="cid:resources/res138/ICs9a.profile_calendar_export_mobile_banner.png" border="0" height="144" width="264"  /></p>
+ 
+<p>После чего на экран будут выведены рекомендации по подключению:</p>
+ 
+<a name="ios_link"></a>
+ 
+<p><img src="cid:resources/res138/K3NS7.export_mobile_instr.png" border="0" height="468" width="592"  /></p>
+ 
+<li><b>Устройства Apple: iPhone, iPad</b></li>
+ 
+<p>Для того чтобы добавить выбранный календарь в устройство Apple, выполните следующие действия:</p>
+ 
+<ul> 
+  <li>На устройстве Apple, зайдите в <b>Настройки</b> и перейдите на вкладку <b>Учетные записи</b> 		 
+    <p><img src="cid:resources/res138/nhhgn.ios_1_sm.png" border="0" height="320" width="213"  /></p>
+   		</li>
+ 
+  <li>Нажмите на кнопку <b>добавления</b> новой учетной записи</li>
+ 		 
+  <p><img src="cid:resources/res138/jrRNZ.ios_2_sm.png" border="0" height="320" width="213"  /></p>
+ 		 
+  <p><img src="cid:resources/res138/tT8kw.ios_3_sm.png" border="0" height="320" width="213"  /></p>
+ 
+  <li>Выберите тип учетной записи <b>CalDAV</b>.</li>
+ 		 
+  <p><img src="cid:resources/res138/cyfzM.ios_4_sm.png" border="0" height="320" width="213"  /></p>
+ 
+  <li>В настройках параметров учетной записи введите адрес портала вида <code>https://адрес_портала:порт</code> а также ваши <b>логин</b> и <b>пароль</b> 		 
+    <p><img src="cid:resources/res138/nXFHP.ios_5_sm.png" border="0" height="320" width="213"  /></p>
+   		 
+    <p></p>
+   
+    <div class="hint"><b>Примечание:</b> Устройства Apple с новой версией iOS дальше подключатся сами. В старых версиях iOS необходимо указать <a href="#ios_link" >ссылку</a> (пункт 4 рекомендации по подключению), сгенерированную на портале, в <b>Дополнительных</b> настройках учетной записи. </div>
+   
+    <p></p>
+   		 </li>
+ 
+  <li>В настройках соединения к серверу, необходимо указать протокол <b>https</b> и порт <b>1443</b>; </li>
+ 
+  <li>В качестве типа авторизации следует <b>использовать SSL</b>. </li>
+ </ul>
+ 
+<!--<p><div class="hint"><b>Примечание:</b> На аппаратах Apple ввиду специфики их работы в версии iOS 5 возможна некорректная работа подключения и синхронизации календарей. </div></p>-->
+ 	 
+<li><b>Программа iCal для MAC OS</b></li>
+ 
+<p>Для того чтобы подключить календари в приложении iCal, выполните следующие действия:</p>
+ 
+<ul> 
+  <li>Зайдите в меню <span class="path">Календарь &gt; Настройки</span> и перейдите на вкладку <b>Учетные записи</b>.</li>
+ 
+  <li>Нажмите на кнопку добавления новой учетной записи.</li>
+ 
+  <li>Выберите тип учетной записи <b>CalDAV</b>.</li>
+ 
+  <li>В настройках параметров учетной записи задайте <b>адрес</b> вашего портала в качестве сервера, а также ваши <b>логин</b> и <b>пароль</b> на портале. 
+    <br />
+   
+    <br />
+   При необходимости после сохранения записи можно зайти в ее редактирование и задать порт портала.</li>
+ </ul>
+ 
+<p>В результате ваши календари появятся в приложении <b>iCal</b>.</p>
+ 
+<li><b>Mozilla Thunderbird/Sunbird</b></li>
+ 
+<p>Чтобы настроить поддержку CalDAV в Mozilla Sunbird, выполните следующие действия:</p>
+ 
+<ul> 
+  <li>Запустите приложение <b>Thunderbird</b> (<b>Sunbird</b>) и выберите <span class="path">Файл &gt; Создать &gt; Календарь</span> (или <span class="path">Файл &gt; Новый календарь</span>).</li>
+ 
+  <li>Выберите пункт <b>В сети</b> (On the Network) и нажмите кнопку <b>Далее</b>.</li>
+ 
+  <li>Выберите формат <b>CalDAV</b>.</li>
+ 
+  <li>В поле <b>Адрес</b> (Location) введите указанную <b>ссылку</b> (для разных сотрудников она будет иметь разный вид) и нажмите кнопку <b>Далее</b>.</li>
+ 
+  <li>Задайте имя и выберите цвет для вашего календаря.</li>
+ 
+  <li>Во всплывающем окне введите ваше <b>имя пользователя</b> и <b>пароль</b>.</li>
+ </ul>
+ 
+<li><b>Подключение календаря к устройству Android</b></li>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание:</b> так как в устройствах на базе системы <b>Android</b> нет стандартной поддержки протокола <b>CalDAV</b>, то подключение календарей на прямую к нему невозможно. Календари для ОС <b>Android</b> можно подключить, используя сторонние программы.</div>
+ 
+<p></p>
+ 
+<p>Настроить синхронизацию календаря можно в два этапа: сначала подключить <a href="#external_calendar_add" >внешний календарь</a> к порталу, затем подключить устройство Android к этому же, внешнему календарю Google. </p>
+ 
+<p>Чтобы настроить подключение календаря, выполните следующие действия:</p>
+ 
+<ul> 
+  <li>На устройстве Android, зайдите в <b>Настройки</b> и перейдите на вкладку <b>Учетные записи и синхронизация</b>.</li>
+ 
+  <li>Нажмите на кнопку <b>Добавить уч. Запись</b>. </li>
+ 
+  <li>Выберите тип учетной записи <b>Аккаунты Google</b>. </li>
+ 
+  <li>В появившемся окне необходимо указать <b>Электронную почту и пароль</b> (данные вашего аккаунта на внешней почте).</li>
+ 
+  <li>Отметить галочкой <b>Синхронизировать Календарь &ndash; Готово</b>.</li>
+ </ul>
+ 
+<p>Календари синхронизируются автоматически. <a name="msexchange"></a> </p>
+ 
+<div class="learnin-post-text"> 
+<a name="msexchange"> </a>
+ 
+  <table class="learning-spoiler"><thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Для коробочного Битрикс24</div>
+         </th></tr>
+     </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td> 
+          <h4>Соединение календарей портала с Microsoft Exchange</h4>
+         
+          <p>Синхронизация календарей с <b>Microsoft Exchange</b> будет происходить автоматически, но только в том случае, если она включена и настроена администратором.</p>
+         
+          <p>О правильной настройке и включенной автоматической синхронизации будет свидетельствовать надпись в панели внешних подключений:</p>
+         
+          <p><img src="cid:resources/res138/624xH.exchange_yes.png" border="0" height="130" width="251"  /></p>
+         
+          <p>Cсылка <b>Синхронизировать</b> служит на выполнения синхронизации календарей вручную. </p>
+         
+          <p></p>
+         
+          <div class="hint"><b>Примечание:</b> если у вас отображается следующая надпись: 
+            <p><img src="cid:resources/res138/2Yimx.exchange_no.png" border="0" height="251" width="271"  /></p>
+           то это значит, что соединение с Exchange лишь включено, но не настроено. При возникновении проблем синхронизации в таком случае обратитесь к администратору портала.</div>
+         
+          <p></p>
+         
+          <div class="hint"><b>Примечание:</b> если у вас вообще отсутствует надпись о наличии или отсутствии соединения с Exchange, то соединение c <b>Microsoft Exchange</b> невозможно. 
+            <p></p>
+           </div>
+         
+          <p></p>
+         </td></tr>
+     </tbody>
+   </table>
+ </div>
+ 
+<p></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>3711</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

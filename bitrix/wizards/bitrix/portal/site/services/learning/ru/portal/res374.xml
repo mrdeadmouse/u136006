@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3826</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1404903523</timestamp_x>
+<date_create>1345203498</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Отчёты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Автоматизация вывода отчётов позволит существенно упростить процесс подсчёта премий руководителю отдела. Для этого используется инструмент <a href="/learning/course/index.php?COURSE_ID=71&CHAPTER_ID=06429" target="_blank">Конструктор отчётов</a>.</p>
+
+
+<h4>Создание отчёта</h4>
+
+<p>Опишем пошагово создание отчёта для KPI.</p>
+
+<ul>
+<li>Перейдите на страницу <b>Задачи</b> рабочей группы вашего отдела.</li>
+<li>С помощью кнопки <b>Отчёты</b> перейдите к отчётам.
+
+<p><img height="66" border="0" width="700" src="cid:resources/res374/iw6Q2.kpi_7.png" /></p></li> 
+<li>С помощью кнопки <b>Добавить отчёт</b> откройте форму создания отчёта.</li> 
+<li>Заполните поля <b>Название</b> и <b>Описание</b>. В поле <b>Отчётный период</b> выберите <b>за всё время</b>. 
+
+<p><img height="410" border="0" width="483" src="cid:resources/res374/WYcKN.kpi_8.png" /></p>
+</li>
+<li>Настройте секцию <b>Колонки</b>. У вас должны быть поля:
+<ul>
+<li><b>Название</b>;</li>
+<li><b>Ответственный</b>;</li> 
+<li><b>Приоритет</b>;</li> 
+<li><b>Оценка</b>.</li>
+
+ </ul>
+<p>Если в вашем варианте KPI учитывается время исполнения задачи, то необходимо добавить ещё:</p>
+
+<ul>
+<li><b>Дата начала</b>;</li> 
+<li><b>Дата завершения</b>.</li>
+ </ul>
+
+<p>Если в вашем варианте KPI используется понятие "просроченные дни", то необходимо использовать:</p>
+<ul>
+<li><b>Крайний срок</b>;</li> 
+<li><b>Дата завершения</b>.</li>
+ </ul>
+
+<p><img height="520" border="0" width="435" src="cid:resources/res374/8b5oy.kpi_9.png" /></p>
+
+
+Выберите удобную для вас сортировку списка. Например, по полю <b>Ответственный</b>.
+
+</li> 
+<li>Настройте фильтр. В нем нужно учесть фильтрацию по полям: <b>Статус</b>, <b>Проект</b> и <b>Ответственный</b>:
+
+<p><img height="256" border="0" width="688" src="cid:resources/res374/jO35q.kpi_10.png" /></p>
+
+<p>Причём только у поля <b>Ответственный</b> должен стоять флажок в <b>Изменять фильтр в отчете</b>. В этом случае вы сможете делать выборки по конкретным сотрудникам отдела.</p> 
+
+
+</li> 
+<li>Сохраните отчёт.</li>
+ </ul>
+
+<p><div class="hint"><b>Примечание</b>: На данный момент в отчёт невозможно добавить созданное пользовательское свойство <b>Сложность</b>. Добавление подобного функционала предусмотрено в следующих версиях <b>"1С-Битрикс: Корпоративный портал"</b>.</div></p>
+
+
+<p>Вы создали средство для быстрой выборки из всех задач только тех, которые нужны вам для учёта в KPI. Любой из сотрудников или администрации может создать по описанному алгоритму аналогичный отчёт у себя и контролировать учёт задач.</p>
+
+<h4>Работа с отчётом</h4>
+
+<p>Отчёт формируется автоматически после выставления в поле фильтра интервала интересующих вас дат. Кроме этого можно отфильтровать список по конкретному сотруднику.</p>
+
+<p><img height="441" border="0" width="700" src="cid:resources/res374/hbW20.kpi_11.png" /></p>
+
+<p>В самом отчёте подводить конкретные финансовые итоги невозможно. Это нужно делать в <b>MS Excel</b>. Для этого используйте кнопку <b>Экспорт Excel</b>. Экспортированные данные можно свести в отдельном файле, например, такого вида: <a href="/images/portal_admin/typical/kpi/KPI_example.xlsx" target="_blank">образец</a>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3826</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

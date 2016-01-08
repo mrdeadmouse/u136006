@@ -1,0 +1,11 @@
+ErrorDocument 404 /bitrix/tools/ws_contacts_extranet/redirect.php
+AddType application/x-httpd-php .asmx
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-l
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !/bitrix/tools/ws_contacts_extranet/redirect.php$
+	RewriteRule ^(.*)$ /bitrix/tools/ws_contacts_extranet/redirect.php [L]
+</IfModule>

@@ -1,0 +1,25 @@
+<?php
+$MESS['CRM_MODULE_NOT_INSTALLED'] = 'Модуль crm не установлен.';
+$MESS["IBLOCK_MODULE_NOT_INSTALLED"] = "Модуль iblock не установлен.";
+$MESS['CRM_PERMISSION_DENIED'] = 'Доступ запрещен';
+$MESS['CRM_PRODUCT_ADD'] = 'Добавить товар';
+$MESS['CRM_PRODUCT_ADD_TITLE'] = 'Переход к созданию нового товара';
+$MESS['CRM_PRODUCT_EDIT'] = 'Редактировать';
+$MESS['CRM_PRODUCT_EDIT_TITLE'] = 'Переход к редактированию товара';
+$MESS['CRM_PRODUCT_DELETE'] = 'Удалить товар';
+$MESS['CRM_PRODUCT_DELETE_TITLE'] = 'Удаление товара';
+$MESS['CRM_PRODUCT_DELETE_DLG_TITLE'] = 'Удаление товара';
+$MESS['CRM_PRODUCT_DELETE_DLG_MESSAGE'] = 'Вы уверены, что хотите удалить этот товар?';
+$MESS['CRM_PRODUCT_DELETE_DLG_BTNTITLE'] = 'Удалить товар';
+$MESS['CRM_PRODUCT_SHOW'] = 'Просмотреть';
+$MESS['CRM_PRODUCT_SHOW_TITLE'] = 'Переход к просмотру товара';
+$MESS['CRM_PRODUCT_LIST'] = 'Список товаров';
+$MESS['CRM_PRODUCT_LIST_TITLE'] = 'Переход к списку товаров';
+$MESS['CRM_MOVE_UP'] = 'Вверх';
+$MESS['CRM_MOVE_UP_TITLE'] = 'Перейти в родительский раздел';
+$MESS['CRM_PRODUCT_SECTIONS'] = 'Управление разделами';
+$MESS['CRM_PRODUCT_SECTIONS_TITLE'] = 'Удаление и редактирование разделов';
+$MESS['CRM_ADD_PRODUCT_SECTION'] = 'Добавить раздел';
+$MESS['CRM_ADD_PRODUCT_SECTION_TITLE'] = 'Добавить новый раздел в текущий раздел списка';
+$MESS["CRM_PRODUCT_IMPORT"] = "Импорт товаров";
+$MESS["CRM_PRODUCT_IMPORT_TITLE"] = "Импорт товаров";

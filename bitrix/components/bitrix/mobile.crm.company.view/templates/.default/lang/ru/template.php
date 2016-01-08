@@ -1,0 +1,29 @@
+<?
+$MESS["M_CRM_COMPANY_VIEW_PULL_TEXT"] = "Потяните, чтобы обновить...";
+$MESS["M_CRM_COMPANY_VIEW_DOWN_TEXT"] = "Отпустите, чтобы обновить...";
+$MESS["M_CRM_COMPANY_VIEW_LOAD_TEXT"] = "Обновление формы...";
+$MESS["M_CRM_COMPANY_VIEW_ACTION_CALL_TO"] = "Позвонить";
+$MESS["M_CRM_COMPANY_VIEW_ACTIVITY_LIST"] = "Дела";
+$MESS["M_CRM_COMPANY_VIEW_DEAL_LIST"] = "Сделки";
+$MESS["M_CRM_COMPANY_VIEW_CONTACT_LIST"] = "Контакты";
+$MESS["M_CRM_COMPANY_VIEW_EVENT_LIST"] = "История";
+$MESS["M_CRM_COMPANY_VIEW_RESPONSIBLE"] = "Ответственный";
+$MESS["M_CRM_COMPANY_VIEW_COMMENT"] = "Комментарий";
+$MESS["M_CRM_COMPANY_VIEW_COMMENT_CUT"] = "Читать далее...";
+$MESS["M_CRM_COMPANY_VIEW_ADDRESS"] = "Адрес";
+$MESS["M_CRM_COMPANY_VIEW_ADDRESS_LEGAL"] = "Юр. адрес";
+$MESS["M_CRM_COMPANY_VIEW_PHONE"] = "Телефон";
+$MESS["M_CRM_COMPANY_VIEW_EMAIL"] = "E-mail";
+$MESS["M_CRM_COMPANY_VIEW_WEB"] = "Сайт";
+$MESS["M_CRM_COMPANY_VIEW_IM"] = "Мессенджер";
+$MESS["M_CRM_COMPANY_VIEW_TYPE"] = "Тип";
+$MESS["M_CRM_COMPANY_VIEW_INDUSTRY"] = "Сфера деятельности";
+$MESS["M_CRM_COMPANY_VIEW_REVENUE"] = "Годовой оборот";
+$MESS["M_CRM_COMPANY_VIEW_EMPLOYEES"] = "Кол-во сотрудников";
+$MESS["M_CRM_COMPANY_VIEW_BANKING_DETAILS"] = "Реквизиты";
+$MESS["M_CRM_COMPANY_VIEW_EDIT"] = "Редактировать";
+$MESS["M_CRM_COMPANY_VIEW_DELETE"] = "Удалить";
+$MESS["M_CRM_COMPANY_VIEW_DELETION_TITLE"] = "Удаление компании";
+$MESS["M_CRM_COMPANY_VIEW_DELETION_CONFIRMATION"] = "Желаете удалить компанию?";
+$MESS["M_CRM_COMPANY_VIEW_CREATE_INVOICE"] = "Выставить счёт";
+?>

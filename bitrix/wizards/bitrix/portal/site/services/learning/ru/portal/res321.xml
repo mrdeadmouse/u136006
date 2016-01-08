@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3748</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416822126</timestamp_x>
+<date_create>1342019418</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Импорт контактов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Импорт осуществляется в формате <b>.csv</b>. Чтобы перейти к импорту воспользуйтесь кнопкой настроек на <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52&CHAPTER_ID=05024#contekst_panel" target="_blank">Контекстной панели</a>.</p>
+
+<p><img src="cid:resources/res321/Zm58T.imp_and_exp.png"></p>
+
+<p><div class="hint"><b>Примечание</b>: о подготовке файла импорта читайте в курсе <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35&LESSON_ID=2012">Администратор.Базовый</a>. Для импорта нескольких email одного контакта их следует указать через пробел. Для импорта нескольких номеров телефона одного контакта их следует указать через запятую.</div></p>
+
+<p>На данной странице расположены следующие поля:</p>
+
+<p><img src="cid:resources/res321/I7UIg.import_14_5.png" ></p>
+
+<p>Рассмотрим некоторые поля.</p>
+
+<ul>
+<li><b>Выберите файл (csv)</b> - единственное обязательное для заполнения поле. Нажав на кнопку <b>Обзор</b>, укажите на своем компьютере местонахождение импортируемого списка контактов в формате <b>csv</b>.</li>
+
+<li><b>Кодировка файла данных</b> - выберите кодировку импортируемого файла:
+
+<p><img src="cid:resources/res321/qXeP8.utf8.png" ></p>
+</li>
+
+
+<li><b>Доступен для всех</b> - импортируемые контакты будут помечаться как <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3762#role">открытые</a>.</li>
+
+<li><b>Ответственный (по умолчанию)</b> - выберите сотрудника, который будет автоматически обозначен как ответственный для всех импортируемых контактов.</li>
+
+<li><b>Формат имени</b> - выберите формат имени ответственного:
+
+<p><img src="cid:resources/res321/uHAGD.petrov_ivan_vas.png" ></p>
+</li>
+
+<li><b>Шаблон импортируемого файла</b> - нажмите на ссылку <b>Скачать</b>, если хотите сохранить на компьютере имеющийся в дистрибутиве файл <b>.csv</b> с шаблоном полей для импортируемых контактов.
+
+<p>После щелчка по ссылке откроется окно сохранения файла. Нажмите <b>Открыть</b> если хотите просмотреть содержимое файла, и <b>Сохранить</b> - если хотите сохранить файл на компьютере:</p>
+<p><img src="cid:resources/res321/cwaC1.open_sample.png" width="446" height="318"></p>
+</li>
+
+<li><b>Разделитель колонок</b> - выберите символ разделения столбцов данных в файле:
+
+<p><img src="cid:resources/res321/MnDAK.razdelitel.png" width="261" height="95"></p>
+
+<p><div class="hint"><b>Примечание</b>: при сохранении файла <b>.csv</b> с помощью <b>Excel</b> возможны проблемы с применяемым разделителем, поэтому если появится сообщение о невозможности импорта, смените разделитель колонок на <b>Точка с запятой</b>.</div></p>
+</li>
+
+<li><b>Первая строка содержит заголовки</b> - установите галочку, если в первой строке импортируемого файла содержатся заголовки полей, а информация контактов записана, начиная со второй строки.</li>
+
+<li><b>Пропускать пустые колонки</b> - оставьте галочку для того, чтобы пропускались колонки с пустыми заголовками. В противном случае такие колонки будут импортироваться.
+</li>
+
+
+</ul>
+
+<p>Нажмите <b>Далее</b> и выберите те поля, значения которых должны быть указаны в импортируемом контакте:</p>
+
+<p><img src="cid:resources/res321/m5kIh.cont_imp_step2.png" width="599" height="380"></p>
+
+<p><div class="warning"><b>Важно! </b>Поля <b>Имя</b> и <b>Фамилия</b> должны быть выбраны обязательно.</div></p>
+
+<p>При отсутствии нужных полей в системе вы можете сами создать необходимые <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3766">пользовательские поля</a>.</p>
+
+<p>Импортируемые данные могут быть, например, такими:</p>
+
+<p><img src="cid:resources/res321/zSH6O.import_example.png"></p>
+
+<p>При необходимости укажите настройки <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5068">обработки дубликатов</a>:</p>
+
+<p><img src="cid:resources/res321/shJcV.import_dublicat.png"></p>
+
+<p>Нажмите <b>Далее</b>, и вам будет выведено сообщение о том, какое количество контактов удалось успешно импортировать в CRM, а также число обработанных дубликатов.</p>
+<br>
+
+<a name="vcard"></a><h3>Импорт контактов с помощью vCard </h3>
+
+<p>Для того, чтобы осуществить импорт электронных визиток из <b>MS Outlook</b> в контакты CRM, запустите почтовый клиент Outlook, зайдите там в <b>Контакты</b> и выберите нужные визитные карточки. Затем в верхней панели выберите <span class="path">Переслать контакт > Как визитную карточку</span> и отправьте по <b>E-Mail адресу CRM</b>.
+ </p>
+
+<p><div class="hint"><b>Примечание</b>: об e-mail адресе CRM смотрите также на странице <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3767">Интеграция с почтой</a>.</div></p> 
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3748</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

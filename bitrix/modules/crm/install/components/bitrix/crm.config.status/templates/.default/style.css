@@ -1,0 +1,26 @@
+.btn-view-fields {background-image:url(images/view_fields.gif);}
+.btn-delete-field {background-image:url(images/delete_field.gif);}
+.href-action {text-decoration:none;border-bottom:1px dashed #2775C7;}
+.href-action:hover {text-decoration:none;border-bottom:1px dashed #CF1C3E;}
+.href-action:hover {text-decoration:none;border-bottom:1px dashed #CF1C3E;}
+.value-input {width:100%;}
+
+div.status_tab_body {display:none;}
+table.status td.status_tabs {width: 188px; vertical-align: top; background: url(images/dot_gray.gif) repeat-y 176px 0px;}
+table.status td.status_tabs a { display: block; overflow:hidden; width: 180px; line-height: 24px; padding-left: 8px; color: #000; font-size: 12px; margin-bottom: 6px; text-decoration: none; outline: none;}
+table.status td.status_tabs a.status_tab_active {background: url(images/tab_hover.gif) no-repeat;}
+table.status td.status_box {vertical-align: top; padding-left: 30px}
+
+table.status td.status_box  div.sort-up { width: 13px; height: 13px; background:url(images/sort_up.gif) top left; cursor:pointer;outline:none}
+table.status td.status_box  div.sort-up:hover { width: 13px; height: 13px; background:url(images/sort_up.gif) bottom left; cursor:pointer;}
+table.status td.status_box  div.sort-down { width: 13px; height: 13px; background:url(images/sort_down.gif) top left; cursor:pointer;outline:none}
+table.status td.status_box  div.sort-down:hover { width: 13px; height: 13px; background:url(images/sort_down.gif) bottom left; cursor:pointer;}
+table.status td.status_box  div.delete-action { width: 13px; height: 13px; background:url(images/delete.gif) top left; cursor:pointer; margin-left: 8px;outline:none}
+table.status td.status_box  div.delete-action:hover { width: 13px; height: 13px; background:url(images/delete.gif) bottom left; cursor:pointer; margin-left: 8px;}
+table.status td.status_box  div.recovery-action { width: 13px; height: 13px; background:url(images/recovery.gif) top left; cursor:pointer; margin-left: 8px;outline:none}
+table.status td.status_box  div.recovery-action:hover { width: 13px; height: 13px; background:url(images/recovery.gif) bottom left; cursor:pointer; margin-left: 8px;}
+table.status td.status_box  div.status-field-add  {margin-left: 48px; background:url(images/add_field.gif) no-repeat;padding-left: 20px;}
+table.status td.status_box  div.status-field-add a{font-size: 13px; margin-top: 5px; text-decoration: none; border-bottom: 1px dashed #0069c;outline:none}
+table.status td.status_box  div.status-field-add a:hover  {text-decoration: none; border-bottom: 1px dashed #E00000}
+table.status td.status_box  div.status_buttons { margin-top: 25px; margin-left: 48px }
+table.status td.status_box  input#field-DEAL_STAGE-9 { font-style: italic; }

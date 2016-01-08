@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3193</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>600</sort>
+<timestamp_x>1413554501</timestamp_x>
+<date_create>1322828316</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Интеграция с MS Sharepoint</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Списки можно интегрировать с аналогичными списками в MS Sharepoint. Для этого нужно создать соединение с помощью кнопки: </p>
+
+<p><img src="cid:resources/res250/I2k4x.sh_1_52.png" /></p>
+
+<p>По этой кнопке запустится трех шаговый мастер создания соединения.</p>
+
+<p><b>Шаг первый</b></p>
+
+<p>На первом шаге укажите параметры сервера MS Sharepoint. Параметры нужно получить у системного администратора. В случае неправильных данных будет выведено сообщение о недоступности сервера, либо не пройденной авторизации. Если все данные введены верно, нажмите <b>Далее</b>, мастер перейдет ко второму шагу.</p>
+
+<p><img height="525" border="0" width="728" src="cid:resources/res250/xwZ3q.sh_2.png" /></p>
+
+<p><b>Шаг второй</b></p>
+<p>В отобразившемся списке из MS Sharepoint выберите нужный вам список для синхронизации.</p>
+
+<p><img height="525" border="0" width="728" src="cid:resources/res250/oGpaj.sh_3.png" /></p>
+
+<p><b>Шаг третий</b></p>
+
+<p>В отобразившемся окне произведите настройки параметров синхронизации. Настройка параметров интуитивно понятна и в комментариях не нуждается.</p>
+
+<p><img height="604" border="0" width="650" src="cid:resources/res250/QvO4v.sh_4.png" /></p>
+
+<p>При необходимости можно создать новые поля и задать им соответствие в списках <b>Битрикс24</b>.</p>
+
+<p>После выполнения настроек система будет производить автоматическую синхронизацию в соответствии с заданными настройками.</p>
+
+<p><b>Синхронизация</b></p>
+
+<p>После создания соединения в меню команды SharePoint на контекстной панели списка появится команда <b>Синхронизация</b>, по которой производится ручная синхронизация списков с MS SharePoint.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>3193</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

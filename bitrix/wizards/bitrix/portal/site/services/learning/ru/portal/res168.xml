@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6435</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1404814413</timestamp_x>
+<date_create>1404814413</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Новости отрасли</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Новости отрасли</b> выводятся новости отрасли, получаемые из интернета. Причем отображаются только заголовки новостей, а для более подробного просмотра кликните по понравившейся новости, откроется анонс новости и станет доступна ссылка <b>Подробнее</b>, после нажатия которой откроется страница детального просмотра новости на новостном сайте:</p>
+
+<p><img src="cid:resources/res168/l2BIG.news_detail.png"/>
+</p>
+
+<p>Новости отрасли можно сформировать путем настройки гаджета <b>RSS новости</b> на импорт новостей с какого-либо сайта в RSS-формате:
+
+<p>
+<img src="cid:resources/res168/nj1Pk.rss.png"/></p>
+
+<ul>
+<li>Введите произвольное название в поле <b>Название гаджета</b>.</li>
+<li>Укажите сколько новостей показывать на странице в поле <b>Количество новостей</b>.</li> 
+<li>Укажите ссылку на RSS новости какого-либо сайта в поле <b>Ссылка на RSS ленту</b>.</li> 
+<li>Закончив настройку, нажмите <b>ОК</b>.</li>
+ </ul>
+
+<p>Чтобы скрыть показываемые новости, нажмите <img src="cid:resources/res168/yqB0U.svernut.png">. Чтобы удалить гаджет со страницы, нажмите <img src="cid:resources/res168/MjpGX.close.png">.</p>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6435</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

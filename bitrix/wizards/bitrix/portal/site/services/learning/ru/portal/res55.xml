@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>4644</lesson_id>
+<was_chapter_id>856</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>5</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1000</sort>
+<timestamp_x>1404992385</timestamp_x>
+<date_create>1349854126</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Интерфейс программы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В главе рассказывается об интерфейсе, который позволяет взаимодействовать с контентом портала. Этот интерфейс доступен сотруднику при наличии у него соответствующих прав доступа. Также речь пойдет о функциях элементов управления, к которым может иметь доступ пользователь портала. В подразделе <b>Визуальный редактор</b> будет описано программное средство, позволяющее редактировать содержимое страниц портала.</p>
+
+<p>Многие описанные в данном разделе действия и опции доступны для пользователей с правами не ниже <b>Отдел кадров</b>. Для пользователей, не имеющих данный уровень доступа, управление контентом осуществляется с помощью кнопок Публичного раздела, описание которых будет приведено далее.</p>
+
+<p><div class="hint"><b>Примечание</b>: С 11-й версии программы изменилось оформление интерфейса. Более полную и подробную информацию по работе с интерфейсом смотрите в материалах курса <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=633">Контент-менеджер</a></div></p>
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>4644</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

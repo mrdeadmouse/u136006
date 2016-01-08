@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5361</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>1</childs_cnt>
+<is_childs>1</is_childs>
+<sort>750</sort>
+<timestamp_x>1414507084</timestamp_x>
+<date_create>1371651872</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Счета</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>В CRM (в коробочной версии - начиная с версии модуля 12.5.7) возможна работа со счетами, которые выставляются клиентам для оплаты продуктов или услуг.</p>
+ 
+<p>На странице <span class="path">CRM &gt; Счета</span> выводится список счетов:</p>
+ 
+<p><img src="cid:resources/res329/tzunB.spisok_schetov.png" border="0"  /></p>
+ 
+<p></p>
+
+<div class="hint"><b>Примечание: </b>в списке сущностей максимум может отображаться 5000 элементов. Остальные будут храниться, но не будут видны, если не применять фильтры.</div>
+
+<p></p>
+ 
+<p>Цифра на пиктограмме счетов в верхнем меню CRM обозначает число незакрытых счетов, за которые текущий сотрудник является ответственным.</p>
+ 
+<p>Аналогично <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05026" >стадиям сделок</a>, в списке счетов можно менять их статусы. Счёт может быть закрыт как оплаченный, либо отклоненный:</p>
+ 
+<p><img src="cid:resources/res329/Sflf4.inv_close.png" width="388" height="165"  /></p>
+ 
+<p>Каждый сотрудник видит только те счета, которые определены его ролью.</p>
+ 
+<p>Меню действий предоставляет следующие, очевидные из названия, возможности:</p>
+ 
+<p><img src="cid:resources/res329/4DyEf.invoice_menu_52.png"  /></p>
+ 
+<p>Есть возможность распечатки счета без печати и подписей. Для этого в режиме просмотра счета выберите соответствующий пункт кнопки <b>Печатать</b>:</p>
+ 
+<p><img src="cid:resources/res329/rVgOA.print_without_52.png"  /></p>
+ 
+<br />
+ 
+<p>Список счетов можно экспортировать в Excel и csv:</p>
+ 
+<p><img src="cid:resources/res329/tAnra.exp_inv.png" width="193" height="126"  /></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>750</edge_sort>
+<id>5361</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

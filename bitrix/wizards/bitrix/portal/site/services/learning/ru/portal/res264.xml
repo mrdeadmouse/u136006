@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2382</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1000</sort>
+<timestamp_x>1404993464</timestamp_x>
+<date_create>1303394997</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Каталог ссылок</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Список необходимых и часто используемых сотрудниками ресурсов представлен на странице <b>Каталог ссылок</b>.</p>
+<p>Ссылки в каталоге распределяются по разделам и подразделам, исходя из принадлежности к какому-то признаку, например раздел <b>Бизнес</b> и подразделы: <b>Реклама</b>, <b>Финансы</b> и т.д.:</p>
+
+<p><img border="0" src="cid:resources/res264/lr1OD.links_catalog.png" /></p>
+
+<p>Для того чтобы просмотреть все ссылки подраздела, например <b>Все для бухгалтера</b>, перейдите по ссылке с названием этого подраздела. Список ссылок появится ниже:</p>
+
+<p><img border="0" src="cid:resources/res264/F4noH.links_catalog_list.png" /></p>
+
+<div class="hint"><b>Примечание</b>: Добавление ссылок в каталог может осуществлять сотрудник с уровнем прав не ниже Администратора портала. В случае необходимости, обратитесь к нему.</div>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>2382</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

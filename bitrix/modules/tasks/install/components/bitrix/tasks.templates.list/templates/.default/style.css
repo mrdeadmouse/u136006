@@ -1,0 +1,8 @@
+/* Navigation */
+div.navigation { font-size:100%; line-height:200%; }
+span.navigation-title { padding-right:0.65em; font-weight: bold;}
+div.navigation a { text-decoration:underline; padding:0.2em 0.3em;}
+span.nav-current-page { padding:0.2em 0.3em;  background-color:#e8e9ec;}
+div.navigation span.arrow { font-size:100%; font-family:Times, serif; color:#7E7E7E; }
+div.navigation span.ctrl { font-size:85%; color:#7E7E7E; }
+div.navigation span.disabled { color:#7E7E7E;}

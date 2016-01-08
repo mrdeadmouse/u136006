@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_NOTIFY_SCHEME_ACTIVITY_EMAIL_INCOMING"] = 'Пришло письмо';
+?>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5030</lesson_id>
+<was_chapter_id>1300</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1050</sort>
+<timestamp_x>1418138548</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Отчеты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>При первом обращении к данной странице вы увидите, какие типовые отчеты CRM идут в поставке:</p>
+ 
+<p><img src="cid:resources/res338/1WlLJ.stand_otchet.png" border="0" width="658" height="539"  /></p>
+ 
+<p>Представлены отчеты по сделкам, товарам, лидам, счетам и делам. Доступные сотруднику данные для отчетов зависят от его <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3762" >прав доступа</a>.</p>
+ 
+<p>Сотруднику с правом доступа <b>Менеджер</b> доступны лишь отчеты по его собственной деятельности и воронка продаж будет составляться лишь по сделкам, где он выступает ответственным.</p>
+ 
+<p>Сотруднику с правом доступа <b>Начальник отдела</b> доступны отчеты и воронка продаж по работе его подчиненных.</p>
+ 
+<p>Сотрудникам с правами доступа <b>Директор</b> и <b>Администратор</b> доступны отчеты по всем сотрудникам компании.</p>
+ 
+<p>Для многих отчетов доступны диаграммы.</p>
+ Стандартные отчеты нельзя менять или редактировать. Для настройки стандартного отчета под требования конкретного бизнеса следует скопировать выбранный отчет с помощью команды Меню действий, а затем редактировать его. При этом можно использовать <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3766" > пользовательские поля</a>, добавленные при индивидуальной настройке форм в CRM. 
+<p><img src="cid:resources/res338/Ga7Wh.report_menu.png"  /></p>
+ 
+<p>Если выбрать пункт <b>Копировать</b>, то откроется форма создания отчета с выставленными параметрами копируемого отчета.</p>
+ 
+<br />
+ 
+<p>Чтобы просмотреть интересующий вас отчет кликните по нему левой кнопкой мыши:</p>
+ 
+<p><img src="cid:resources/res338/K2Awu.report_detail.png"  /></p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>созданный отчет доступен только его автору. 
+<a name="export_exel"></a>
+</div>
+ 
+<p></p>
+ 
+<p>Чтобы сохранить отчет в виде файла <b>.xls</b>, либо открыть этот файл для просмотра или печати в каком-либо приложении, нажмите <b>Экспорт Excel</b>:</p>
+ 
+<p><img src="cid:resources/res338/Zw00J.eks_exc.png" border="0" width="425" height="186"  /></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1050</edge_sort>
+<id>5030</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

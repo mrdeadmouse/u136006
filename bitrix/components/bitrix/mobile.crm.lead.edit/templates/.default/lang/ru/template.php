@@ -1,0 +1,34 @@
+<?
+$MESS["M_CRM_LEAD_EDIT_PULL_TEXT"] = "Потяните, чтобы обновить...";
+$MESS["M_CRM_LEAD_EDIT_DOWN_TEXT"] = "Отпустите, чтобы обновить...";
+$MESS["M_CRM_LEAD_EDIT_LOAD_TEXT"] = "Обновление формы...";
+$MESS["M_CRM_LEAD_EDIT_CREATE_TITLE"] = "Создание лида";
+$MESS["M_CRM_LEAD_EDIT_UPDATE_TITLE"] = "Редактирование лида";
+$MESS["M_CRM_LEAD_EDIT_SECTION_GENERAL"] = "Общие данные";
+$MESS["M_CRM_LEAD_EDIT_CURRENCY"] = "Валюта";
+$MESS["M_CRM_LEAD_EDIT_OPPORTUNITY"] = "Возможная сумма";
+$MESS["M_CRM_LEAD_EDIT_SECTION_PHONE"] = "Телефон";
+$MESS["M_CRM_LEAD_EDIT_SECTION_EMAIL"] = "E-mail";
+$MESS["M_CRM_LEAD_EDIT_SECTION_ADDRESS"] = "Адрес";
+$MESS["M_CRM_LEAD_EDIT_FIELD_HINT_REQUIRED"] = "Обязательное поле";
+$MESS["M_CRM_LEAD_EDIT_FIELD_TITLE"] = "Название";
+$MESS["M_CRM_LEAD_EDIT_FIELD_NAME"] = "Имя";
+$MESS["M_CRM_LEAD_EDIT_FIELD_SECOND_NAME"] = "Отчество";
+$MESS["M_CRM_LEAD_EDIT_FIELD_LAST_NAME"] = "Фамилия";
+$MESS["M_CRM_LEAD_EDIT_FIELD_COMPANY_TITLE"] = "Название компании";
+$MESS["M_CRM_LEAD_EDIT_FIELD_SOURCE"] = "Источник";
+$MESS["M_CRM_LEAD_EDIT_FIELD_RESPONSIBLE"] = "Ответственный";
+$MESS["M_CRM_LEAD_EDIT_FIELD_COMMENTS"] = "Комментарий";
+$MESS["M_CRM_LEAD_EDIT_BTN_ADD_PHONE"] = "Добавить ещё телефон";
+$MESS["M_CRM_LEAD_EDIT_BTN_ADD_EMAIL"] = "Добавить ещё E-mail";
+$MESS["M_CRM_LEAD_EDIT_FIELD_SOURCE_NOT_SPECIFIED"] = "Не указан";
+$MESS["M_CRM_LEAD_EDIT_FIELD_RESPONSIBLE_NOT_SPECIFIED"] = "Не указан";
+$MESS["M_CRM_LEAD_EDIT_CREATE_BTN"] = "Создать";
+$MESS["M_CRM_LEAD_EDIT_UPDATE_BTN"] = "Сохранить";
+$MESS["M_CRM_LEAD_EDIT_CANCEL_BTN"] = "Отменить";
+$MESS["M_CRM_LEAD_EDIT_USER_SELECTOR_CANCEL_BTN"] = "Отменить";
+$MESS["M_CRM_LEAD_EDIT_USER_SELECTOR_OK_BTN"] = "Выбрать";
+$MESS["M_CRM_LEAD_EDIT_ADD_PRODUCT"] = "+ Добавить товар";
+$MESS["M_CRM_LEAD_EDIT_SUM_TOTAL"] = "Итого";
+$MESS["M_CRM_LEAD_EDIT_PRODUCT_ROW_TEMPLATE"] = "#PRODUCT_NAME#<br/><strong>- #QUANTITY# шт.</strong> по <strong>#FORMATTED_PRICE#</strong>";
+?>

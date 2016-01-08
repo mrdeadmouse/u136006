@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3761</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>800</sort>
+<timestamp_x>1405007487</timestamp_x>
+<date_create>1342700530</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Интернет-магазины</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице представлен список интеграций CRM с интернет-магазинами:</p>
+
+<p><img src="cid:resources/res352/DsQUB.integ_list_sm.png"></p>
+
+<p>Интеграция CRM и интернет-магазина нужна для создания заказов в магазине через сделки в CRM, а также импорта сущностей из магазина в CRM.</p>
+
+<p>В меню действий каждой интеграции представлены следующие пункты:</p>
+
+<p><img src="cid:resources/res352/Y8srr.integration_menu.png" width="175" height="172"></p>
+
+<ul>
+<li><b>Импорт</b> - нажмите для запуска импорта, в результате которого в CRM могут быть загружены новые сделки, контакты и компании;
+
+<p><div class="hint"><b>Примечание</b>: для тех интеграций, у которых в колонке <b>Период импорта</b> выставлено число, импорт происходит автоматически, через указанный этим числом период времени.</div></p>
+</li>
+
+<li><b>Проверка связи</b> - кликните данный пункт чтобы проверить связь с интернет-магазином. Сообщение о состоянии соединения появится немного выше контекстного меню:
+
+<p><img src="cid:resources/res352/gv9ki.integ_success.png" width="451" height="162"></p>
+</li>
+
+<li><b>Изменить</b> - нажмите, чтобы поменять настройки интеграции со стороны CRM;</li>
+
+<li><b>Удалить</b> - нажмите, чтобы удалить связь.</li>
+</ul>
+
+<p>Чтобы создать новую связь CRM с интернет-магазином, нажмите на контекстной панели <b>Новая интеграция</b>, или <b>Мастер новой интеграции</b>, если хотите сделать это с использованием пошагового Мастера.</p>
+
+
+<p><div class="hint"><b>Примечание</b>: подробно о том, как настроить интеграцию, вы можете прочитать в курсе <a href="/learning/course/index.php?COURSE_ID=42&LESSON_ID=3645">Администратор.Бизнес</a>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>800</edge_sort>
+<id>3761</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

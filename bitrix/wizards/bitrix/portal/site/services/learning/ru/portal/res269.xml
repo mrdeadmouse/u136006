@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6438</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>17</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1100</sort>
+<timestamp_x>1405426513</timestamp_x>
+<date_create>1404822647</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>CRM</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сопровождение потенциального клиента от первого контакта до совершения сделки обычно выполняется с помощью <b>CRM</b>.</p>
+
+<h4>Что такое CRM?</h4>
+
+<p><div class="note"><b>Система управления взаимодействием с клиентами</b> (или <b>CRM</b>, сокр. от англ. <b>Customer Relationship Management System</b>) &mdash; система, предназначенная для повышения уровня продаж, оптимизации маркетинга и улучшения обслуживания клиентов. В <b>CRM</b> сохраняется информация о клиентах и история взаимоотношений с ними для последующего анализа результатов.</div></p>
+
+<p>Для начала определимся с терминами:</p>
+
+<ul>
+<li><b>Лента</b>:
+<ul>
+<li><b>Лента сущности</b> - перечень дел и событий сущности, отображающийся на закладке ее формы просмотра;
+
+<li><b>Лента CRM</b> - список дел и событий, на которые подписан пользователь, отображающийся на отдельной странице системы CRM.</li>
+</ul>
+</li>
+
+<li><b>Дело</b> - задача, письмо, звонок или встреча, привязанные к какой-либо сущности CRM.</li>
+
+  <li><b>Контакт</b> - запись о личности, с которой было общение по поводу профессиональной деятельности, <b>Визитная карточка</b> другими словами. </li>
+
+  <li><b>Компания</b> - запись о компании, которая имеет какую-то форму сотрудничества (либо может иметь сотрудничество) с вашей компанией. </li>
+
+  <li><b>Лид</b> - запись о какой либо форме контакта (телефон, e-mail, очная встреча и так далее), которая имеет потенциальную возможность перерасти в сделку. </li>
+
+  <li><b>Событие</b> - какая-либо информация, влияющая на сущность.  </li>
+
+  <li><b>Сделка</b> - запись о работе с <b>Клиентом</b>, <b>Компанией</b> по поводу продажи товара. </li>
+
+<li><b>Предложение</b> - сущность, ориентированную на ознакомление клиента с предметом потенциальной сделки.</li>
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1100</edge_sort>
+<id>6438</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

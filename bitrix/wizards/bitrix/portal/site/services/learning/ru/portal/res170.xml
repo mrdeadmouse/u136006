@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6453</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1405070733</timestamp_x>
+<date_create>1404996002</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Сотрудникам с разными правами доступа доступен различный функционал портала. Ниже в таблице приведены функции (<b>Функционал</b>), соответствующие различным группам сотрудников (<b>Права пользователя</b>), и указано, на какой странице раздела <b>Сотрудники</b> можно этим функционалом воспользоваться (<b>Страница</b>).
+</p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#8C8C8C"><td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права пользователя</b></td></tr>
+          
+    <tr bgcolor="#eeeeee"><td>Поиск сотрудника</td><td>Поиск сотрудника</td><td>Сотрудники</td></tr>
+
+   <tr bgcolor="#ffffff"><td>Экспорт сотрудников в Excel</td><td>Поиск сотрудника</td><td>Сотрудники</td></tr>
+
+    <tr bgcolor="#eeeeee"><td>Синхронизация сотрудников с Outlook</td><td>Поиск сотрудника</td><td>Сотрудники</td></tr>
+  
+    <tr bgcolor="#ffffff"><td>Синхронизация CardDav</td><td>Поиск сотрудника</td><td>Сотрудники</td></tr>
+   
+    <tr bgcolor="#eeeeee"><td>Приглашение сотрудников</td><td>Поиск сотрудника, любая страница портала</td><td>Администраторы</td>
+</tr>
+  
+    <tr bgcolor="#ffffff"><td>Управление сотрудниками</td>
+<td>Страница в административной части: <i>Настройки &gt; Пользователи &gt; Список пользователей</i></td><td>Администраторы</td></tr>
+
+ <tr bgcolor="#eeeeee"><td>Импорт сотрудников</td>
+<td>Страница в административной части: <i>Настройки &gt; Пользователи &gt; Импорт пользователей</i></td><td>Администраторы</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Добавление подразделения</td>
+<td>Структура компании</td>
+<td>Отдел кадров, Администрация портала</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Изменение подразделения</td>
+<td>Структура компании</td>
+<td>Отдел кадров, Администрация портала</td></tr>
+
+<tr bgcolor="#ffffff"><td>Управление подразделениями</td>
+<td>Страница в административной части: <i>Контент &gt; Оргструктура &gt; Подразделения</i></td>
+<td>Отдел кадров, Администрация портала</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Добавление записи о кадровом изменении</td>
+<td>Кадровые изменения</td>
+<td>Администраторы</td></tr>
+
+<tr bgcolor="#ffffff"><td>Управление записями о кадровых изменениях</td>
+<td>Страница в административном разделе: <i>Контент &gt; Оргструктура &gt; История состояний</i></td>
+<td>Администраторы</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Добавление отсутствия сотрудника</td>
+<td>График отсутствий</td>
+<td>Отдел кадров, Администрация портала</td></tr>
+
+<tr bgcolor="#ffffff"><td>Добавление записи на доску почета</td>
+<td>Доска почета</td>
+<td>Отдел кадров, Администрация портала</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Управление доской почета</td>
+<td>Страница в административном разделе: <i>Контент &gt; Оргструктура &gt; Доска почета</i></td>
+<td>Отдел кадров, Администрация портала</td></tr>
+   </tbody>
+         </table>
+             </td></tr>
+
+  </tbody>
+</table>
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>6453</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

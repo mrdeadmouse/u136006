@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>4612</lesson_id>
+<was_chapter_id>817</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1100</sort>
+<timestamp_x>1404992397</timestamp_x>
+<date_create>1349854126</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Визуальный редактор</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Познакомимся с правилами и возможностями работы в визуальном HTML-редакторе, который позволяет управлять содержанием страницы в режиме реального времени через браузер. Визуальный редактор доступен в формах, которые могут редактировать сотрудники, обладающие статусом доступа не ниже <b>Отдел кадров</b>.</p>
+
+<div class="note"><b>WYSIWYG</b> (произносится как «ви-зи-виг», от англ. What You See Is What You Get — «что видишь, то и получишь») — способ редактирования, при котором корректируемый материал в процессе редактирования выглядит в точности так же, как и конечный результат.</div>
+
+<p>Визуальный редактор в коробочной версии <b>Битрикс24</b> является штатным функционалом и не требует дополнительной установки. Администратор портала может запретить использование редактора в некоторых случаях. Если Визуальный редактор недоступен, то обратитесь к администратору.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1100</edge_sort>
+<id>4612</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

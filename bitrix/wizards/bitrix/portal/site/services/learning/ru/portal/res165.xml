@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6442</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1405080805</timestamp_x>
+<date_create>1404893188</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Календарь событий</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Календарь событий</b> сотрудники могут ознакомиться с событиями компании, настроить избранные календари, выполнить синхронизацию необходимых календарей с MS Outlook, а также экспортировать (если разрешено настройками) события календаря в формате <b>iCal</b>. </p>
+
+<p>По умолчанию редактирование настроек календарей и добавление в них событий доступно только администраторам системы. В случае необходимости администратор может настроить необходимые права на календари для некоторой группы пользователей или для отдельных сотрудников.</p>
+
+<h4>Управление календарями</h4>
+
+<p>Каждый сотрудник может подключить только те календари, события которых ему необходимо просматривать. Для этого следует установить галочку напротив названия нужного календаря. Кроме того, для сотрудников доступны следующие действия над календарями:</p>
+
+<p><img src="cid:resources/res165/Cr6yk.company_calendars.png"></p>
+
+<ul>
+<li><b>Добавить в избранные</b>/<b>Убрать из избранных</b> - добавление либо удаление <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3706#calendar_fav_edit">календарей из избранных</a>;</li>
+<li><b>Соединить с Outlook</b> - двухсторонняя <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3711#export_msoutlook">синхронизация событий календаря с MS Outlook</a>;</li>
+<li><b>Экспорт (iCal)</b> - экспорт данных <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3711#export_ical">календаря в формате iCal</a>. 
+<br><br>
+<div class="hint"><b>Примечание:</b> данный пункт меню доступен, если в настройках календаря отмечена опция <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3706#calendar_add">Разрешить экспорт календаря</a>.</div></li>
+</ul>
+
+
+<h4>Создание и редактирование календаря</h4>
+
+<p><div class="warning"><b>Примечание:</b> создание и редактирование календаря событий компании доступно только администратору портала.</div></p>
+
+<p>Создание/редактирование календаря событий компании выполняется аналогично созданию/редактированию <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3706#calendar_add" target="_blank">личного календаря</a>. Небольшое отличие - это отсутствие опций <b>Добавлять в этот календарь все приглашения на события от других пользователей</b> и <b>Добавить в избранные</b>.</p>
+
+<p>О том, как выполнить настройки календаря смотрите в уроке <a href="/learning/course/index.php?COURSE_ID=48&LESSON_ID=3500" target="_blank">Настройки календаря</a>.</p>
+
+
+<h4>Управление событиями</h4>
+
+<p><div class="warning"><b>Примечание:</b> управление событиями в календаре компании доступно только администратору портала.</div></p>
+
+<p>Добавление событий в календарь компании и управление ими выполняется так же, как в <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3710" target="_blank">личном календаре</a>.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>6442</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

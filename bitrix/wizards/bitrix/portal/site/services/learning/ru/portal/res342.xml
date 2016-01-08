@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3759</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1418132839</timestamp_x>
+<date_create>1342691743</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Валюты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице вы увидите список доступных валют:</p>
+ 
+<p><img src="cid:resources/res342/aiJgS.valuta.png" border="0" width="700" height="302"  /> </p>
+ 
+<p>С помощью пунктов меню действий, вы можете редактировать, просмотреть и удалить любую валюту, кроме базовой:</p>
+ 
+<p><img src="cid:resources/res342/QU2D7.usd_menu.png" width="211" height="141"  /></p>
+ 
+<p></p>
+
+<p>Валюта, заданная в качестве <b>Базовой</b>, будет применяться для расчетов при добавлении новых сделок. При изменении базовой валюты уже существующие сделки не пересчитываются.</p>
+
+<p>Соответственно, при добавлении счетов будет использоваться валюта, заданная в качестве <b>Базовой для счетов</b>, а отчеты будут пересчитываться в валюте, заданной как <b>Валюта отчётов</b>.</p>
+
+
+<div class="hint"><b>Примечание</b>: подробнее о базовой валюте, а также о полях формы добавления/редактирования валют, читайте в курсе <a href="/learning/course/index.php?COURSE_ID=42&LESSON_ID=3162" >Администратор.Бизнес</a></div>
+
+<p></p>
+ 
+<p>Чтобы добавить валюту, нажмите <b>Добавить валюту</b> на контекстной панели.</p>
+ 
+<p>Форма добавления идентична описанной в курсе <a href="/learning/course/index.php?COURSE_ID=42&LESSON_ID=3162" >Администратор.Бизнес</a>, за исключением наличия поля <b>Валюта отчетов</b>:</p>
+ 
+<p><img src="cid:resources/res342/Fq3hW.val_new_field.png" width="450" height="184"  /></p>
+ 
+<p>В обязательном порядке данной опцией должна быть отмечена одна валюта, которая и будет использоваться при составлении <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=1300" >отчетов</a> по проведенным сделкам.</p>
+ 
+<p></p>
+
+<div class="warning"><b>Внимание! </b>Во избежание некорректных моментов (например, невозможности удаления), следите, чтобы курс добавляемой небазовой валюты отличался от 1.</div>
+
+<p></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3759</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

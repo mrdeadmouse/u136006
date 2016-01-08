@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6455</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>6</childs_cnt>
+<is_childs>1</is_childs>
+<sort>900</sort>
+<timestamp_x>1405426471</timestamp_x>
+<date_create>1405009851</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Документы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Средства системы <b>Битрикс24</b> позволяют организовать специальный раздел коллективного доступа и работы над документами. Раздел может состоять из нескольких подразделов (библиотек), права доступа к которым могут быть различными для отдельных групп пользователей, рабочих групп.</p>
+
+<p>Если сотрудник обладает правами на папку библиотеки не ниже <b>Изменение</b>, то он может подключить ее (или входящие в нее разделы) к личному Диску, выбрав соответствующий пункт в меню действий папки, либо кликнув по появляющейся ссылке в колонке <b>Размер</b>:</p>
+
+<p><img src="cid:resources/res185/SKkEK.to_my_disk.png"></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>900</edge_sort>
+<id>6455</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,13 @@
+.sonet_call_btn {
+	width:21px;
+	height:23px;
+	background:url(images/tel-btn.png) no-repeat center left;
+	display:inline-block;
+	vertical-align:middle;
+	line-height:26px;
+	cursor:pointer;
+}
+
+.user-profile-otp-link-blue {
+	margin-bottom:10px; margin-right:15px; display:inline-block;
+}

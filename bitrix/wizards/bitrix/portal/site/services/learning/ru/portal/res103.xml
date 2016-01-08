@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3722</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>600</sort>
+<timestamp_x>1404918589</timestamp_x>
+<date_create>1341473317</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Пример работы с задачами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик Пример работы с задачами</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем).  Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если нет возможности прослушать звуковое сопровождение, то с помощью значка <img height="36" width="39" src="cid:resources/res103/vPu4w.audio_11.png" /> в правом верхнем углу ролика можно просмотреть текст. </p>
+
+
+ <iframe src="cid:resources/res103/6aKL4.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div>
+
+<p>От имени руководителя <b>Финансового отдела</b> создадим важную задачу с конкретными сроками выполнения для сотрудников <b>отдела Бухгалтерия</b>, находящегося в <b>Калининградском филиале</b> компании. При этом информация о выполнении этой задачи должна будет поступать руководителю <b>Финансового отдела</b> в <b>Москве</b>.</p>
+
+<p>Задача будет поставлена с возможностью контроля ее выполнения, и не будет закрыта, пока все сотрудники не выполнят ее и руководитель <b>Финансового отдела</b> не подтвердит это.</p>
+
+<p>Также, каждый из сотрудников должен будет создать подзадачу внутри этой, в соответствии с его обязанностями.</p>
+
+
+<br>
+
+
+<h4>Порядок действий по созданию задачи, для руководителя <b>Финансового отдела</b></h4>
+<ul>
+  <li>Создадим новую задачу и укажем ее название и описание
+    <p><img src="cid:resources/res103/vHCHs.1.png" border="0" alt="" width="698" height="617" /></p>
+  </li>
+  
+  <li>Установим <b>Высокий</b> приоритет задачи и опцию <b>Копировать задачу нескольким ответственным</b>
+    <p><img src="cid:resources/res103/AVdrB.2.png" border="0" alt="" width="364" height="76" /></p>
+  </li>
+  
+  <li>После чего с помощью ссылки <b>Изменить список ответственных</b> выберем из структуры сотрудников отдела <b>Бухгалтерия</b>, для которых будут созданы копии задачи
+    <p><img src="cid:resources/res103/pmLAk.3.png" border="0" alt="" width="641" height="397" /></p>
+    <!-- <p><img src="cid:resources/res103/b3r6R.3b.png" border="0" alt="" width="621" height="339" /></p> -->
+  </li>
+
+
+  <li>Создадим теги с помощью ссылки <b>добавить</b> и формы тегов
+    <p><img src="cid:resources/res103/pzdVR.4.png" border="0" alt="" width="479" height="216" /></p>
+  <p>и добавим их к задаче</p>
+    <p><img src="cid:resources/res103/QNi84.4b.png" border="0" alt="" width="464" height="145" /></p>
+  </li>
+  
+  <li>С помощью ссылки <b>планирование сроков</b>
+    <p><img src="cid:resources/res103/U8SF5.5.png" border="0" alt="" width="666" height="61" /></p>
+	<p>установим сроки выполнения задачи</p>
+    <p><img src="cid:resources/res103/hDU4c.5a.png" border="0" alt="" width="666" height="343" /></p>
+	<p>после чего получим следующее</p>
+    <p><img src="cid:resources/res103/tN7SY.5b.png" border="0" alt="" width="666" height="118" /></p>
+  </li>
+
+  <li>Установим опцию <b>Принять работу после завершения задачи</b> для того, чтобы при завершении задачи сотрудником она не закрывалась, а ждала нашего контроля
+    <p><img src="cid:resources/res103/NJU5u.6.png" border="0" alt="" width="666" height="75" /></p>
+  </li>
+	  
+  <li>С помощью ссылки <b>Дополнительно</b> 
+    <p><img src="cid:resources/res103/DB7KX.7.png" border="0" alt="" width="653" height="117" /></p>
+    <p>Развернем форму дополнительных параметров, в который выберем руководителя <b>Финансового отдела</b> в <b>Москве</b>, которому будет поступать информация о выполнении этой задачи.</p>
+    <p><img src="cid:resources/res103/LqyEo.7b.png" border="0" alt="" width="654" height="470" /></p>
+  </li>
+
+  <li>После указания всех параметров нажмем кнопку <b>Поставить задачу</b></li>
+</ul>
+
+<p>В результате у нас в списке задач появится новая задача с подзадачами</p>
+  <p><img src="cid:resources/res103/Outjl.8.png" border="0" alt="" width="732" height="296" /></p>
+<p>Которая будет выглядеть следующим образом при ее просмотре</p>
+
+  <p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/example/9.png',1009,605,'')">
+<img src="cid:resources/res103/hxMAa.9_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="656" height="393" border="0" /></a></p>
+
+  
+  
+  
+
+
+<br>
+
+
+  
+  
+<h4>Порядок действий по выполнению задачи, для сотрудника Финансового отдела</h4>
+
+<p>После постановки задачи руководителем отдела она появится в списке задач сотрудника</p>
+  <p><img src="cid:resources/res103/yHNEs.10.png" border="0" alt="" width="742" height="284" /></p>
+  
+<p>и при просмотре будет иметь следующий вид</p>
+  <p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/example/11.png',1031,593,'')">
+<img src="cid:resources/res103/F8IOA.11_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="656" height="377" border="0" /></a></p>
+  
+  <p>Также сотрудник получит личное сообщение оповещающее о новой задаче.</p>
+  
+<ul>
+  <li>Приступим к выполнению задачи, нажав кнопку <b>Начать выполнение</b></li>
+
+  <li>С помощью ссылки <b>Добавить комментарий или отчет</b> добавим в отчет о проделанной работе 
+    <p><img src="cid:resources/res103/eXV3V.12.png" border="0" alt="" width="742" height="386" /></p>
+  </li>
+  
+  <li>В данном случае это будет описание и ссылка на файл с отчетом, который находится в личных файлах сотрудника
+    <p><img src="cid:resources/res103/jHeL3.13.png" border="0" alt="" width="705" height="339" /></p>
+  </li>
+  
+  <li>Затем, с помощью кнопки <b>Завершить</b> «закроем» задачу.
+    <p><img src="cid:resources/res103/gIps3.14.png" border="0" alt="" width="736" height="419" /></p>
+  </li>
+</ul>
+
+<p>Так как руководителем отдела была установлена опция <b>Принять работу после завершения задачи</b>, то задача не будет завершена, о чем будет свидетельствовать соответствующий значок и цвет в списке задач</p>
+  <p><img src="cid:resources/res103/4pOvD.15b.png" border="0" alt="" width="725" height="82" /></p>
+
+<p>И только после проверки руководителем отдела, задача будет окончательно закрыта</p>
+  <p><img src="cid:resources/res103/tD8Hq.16.png" border="0" alt="" width="710" height="82" /></p>
+
+
+
+<br>
+
+
+
+<h4>Порядок действий по принятию задачи, для руководителя Финансового отдела</h4>
+
+<p>Как только сотрудник приступит к выполнению задачи, в списке задач будет отображен соответствующий значок</p>
+  <p><img src="cid:resources/res103/Lvg9q.20.png" border="0" alt="" width="680" height="224" /></p>
+  
+  
+<p>После того, как он выполнит ее и «закроет» (завершит), то в списке задач руководителя отдела будет отображено следующее</p>
+  <p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/example/21.png',960,460,'')">
+<img src="cid:resources/res103/Gs7rK.21_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="656" height="314" border="0" /></a></p>
+<p>Что будет означать, что работа выполнена и требует контроля.</p>
+
+
+<p>Руководитель может оценить работу сотрудника отправить на доработку или же принять ее</p>
+  <p><a href="javascript:ShowImg('/images/portal_user/personal_page/tasks/example/22.png',982,627,'')">
+<img src="cid:resources/res103/3Wdsk.22_sm.png" alt="Нажмите на рисунок, чтобы увеличить" width="656" height="419" border="0" /></a></p>
+
+  
+  
+  
+  
+  ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>3722</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,3 @@
+<?
+$MESS["CRM_INVOICE_TAX_INCLUDED_TITLE"] = "included #TAX_NAME#";
+?>

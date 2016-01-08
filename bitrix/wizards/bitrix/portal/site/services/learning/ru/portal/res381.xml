@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="TES"><id>165</id>
+<course_id>71</course_id>
+<timestamp_x>1405409097</timestamp_x>
+<sort>200</sort>
+<active>Y</active>
+<name>Пользователь Битрикс24. Мои Инструменты - 1, Задачи</name>
+<description></description>
+<description_type>text</description_type>
+<attempt_limit>4</attempt_limit>
+<time_limit>0</time_limit>
+<completed_score>92</completed_score>
+<questions_from>R</questions_from>
+<questions_amount>0</questions_amount>
+<random_questions>Y</random_questions>
+<random_answers>Y</random_answers>
+<approved>Y</approved>
+<include_self_test>N</include_self_test>
+<passage_type>2</passage_type>
+<previous_test_id>164</previous_test_id>
+<previous_test_score>92</previous_test_score>
+<current_indication>1</current_indication>
+<final_indication>3</final_indication>
+<incorrect_control>N</incorrect_control>
+<show_errors>Y</show_errors>
+<next_question_on_error>Y</next_question_on_error>
+<min_time_between_attempts>0</min_time_between_attempts>
+<questions_from_id>5018</questions_from_id>
+</content>

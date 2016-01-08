@@ -1,0 +1,21 @@
+.sidebar-profile-links i.sidebar-profile-message {
+	background-position: 0 0;
+	background-image: url("images/icon_message.gif");
+	background-repeat: no-repeat;
+	background-color: transparent;	
+}
+
+.sidebar-profile-links i.sidebar-profile-video {
+	background-position: 0 0;
+	background-image: url("images/icon_videocall.gif");
+	background-repeat: no-repeat;
+	background-color: transparent;	
+}
+
+.profile-menu-popup-item-videocall .profile-menu-popup-item-icon { background: url(images/icon_videocall.gif) no-repeat;}
+.profile-menu-popup-item-message .profile-menu-popup-item-icon { background: url(images/icon_message.gif) no-repeat;}
+.profile-menu-popup-item-editprofile .profile-menu-popup-item-icon { background: url(images/icons_all5.gif) no-repeat 0 -100px;}
+.profile-menu-popup-item-editsettings .profile-menu-popup-item-icon { background: url(images/icons_all5.gif) no-repeat 0 -120px;}
+.profile-menu-popup-item-editfeatures .profile-menu-popup-item-icon { background: url(images/icons_all5.gif) no-repeat 0 -140px;}
+.profile-menu-popup-item-subscribe .profile-menu-popup-item-icon { background: url(images/subscribe.gif) no-repeat;}
+.profile-menu-popup-item-requests .profile-menu-popup-item-icon { background: url(images/request.gif) no-repeat;}

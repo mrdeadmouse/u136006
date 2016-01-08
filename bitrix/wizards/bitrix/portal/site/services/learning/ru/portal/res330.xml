@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5362</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1414507344</timestamp_x>
+<date_create>1371656835</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Выставление счёта</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Есть несколько способов выставления счёта клиенту:</p>
+ 
+<ul> 
+  <li>через форму <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6352" >просмотра предложения</a> или его меню действий: 
+    <p><img src="cid:resources/res330/5c3xP.offer_add_inv.png"  /></p>
+   </li>
+ 
+  <li>нажав на кнопку <b>Выставить счёт</b> контекстной панели страницы со списком счетов;</li>
+ 
+  <li>нажав на &quot;+&quot;, появляющийся при наведении курсора мыши на иконку cчетов в главном меню CRM: 
+    <p><img src="cid:resources/res330/bfJHT.schet.png" border="0" width="89" height="116"  /></p>
+   </li>
+ 
+  <li>выбрав <b>Выставить счёт</b> в меню действий контактакомпаниисделки; </li>
+ 
+  <li>на нажав на кнопку <b>Выставить счет</b> с закладки <b>Счетасчет</b> формы просмотра контактасделки;</li>
+ 
+  <p>При использовании последних двух способов, соответствующие выбранной сущности данные будут сразу добавлены в группу полей <b>Плательщик</b>.</p>
+ </ul>
+ 
+<br />
+ 
+<p>При использовании любого из вышеперечисленных способов, будет открыта форма создания счёта:</p>
+ 
+<p><img src="cid:resources/res330/jCTKB.new_inv_14_5.png"  /></p>
+ 
+<p>Разберем некоторые моменты заполнения счёта:</p>
+ 
+<ul> 
+  <li>в поле <b>Статус</b> выбирается текущее состояние счёта: 
+    <p><img src="cid:resources/res330/lb46A.inv_status.png" width="254" height="107"  /></p>
+   
+    <p>Возможно добавление\удаление статусов счёта. Читайте об этом в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3758" >Справочники</a>.</p>
+   </li>
+ 
+  <li>в группе полей <b>Контрагент</b> нужно указать\создать контакт\компанию которому выставляется счёт, после чего автоматически будут выведены реквизиты выбранной сущности, которые возможно изменить с помощью ссылки <b>Редактировать реквизиты</b>;</li>
+ 
+  <li>выберите местоположение плательщика для учета заданных в системе <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5369" >налогов</a>;</li>
+ 
+  <li>выберите <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5370" >способ оплаты</a>, доступный для данного типа плательщика;</li>
+ 
+  <li>в обязательном порядке следует выбрать или создать <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5029" >товары\услуги</a> счёта. </li>
+ </ul>
+ 
+<p>Сохраните внесенные изменения.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5362</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,11 @@
+<?
+$PERM["ws_tasks"]["2"]="R";
+$PERM["ws_contacts"]["2"]="R";
+$PERM["ws_calendar"]["2"]="R";
+$PERM["ws_tasks_extranet"]["2"]="R";
+$PERM["ws_contacts_extranet_emp"]["2"]="R";
+$PERM["ws_contacts_extranet"]["2"]="R";
+$PERM["ws_calendar_extranet"]["2"]="R";
+$PERM["disk"]["*"]="R";
+$PERM["ws_contacts_crm"]["2"]="R";
+?>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6847</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1419270813</timestamp_x>
+<date_create>1415896710</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Подключение пользователем двухэтапной авторизации </name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<br>
+<p>Для включения двухэтапной авторизации в облачном сервисе <a href="http://www.bitrix24.ru">Битрикс24</a> и <a href="http://www.1c-bitrix.ru/products/intranet/">Битрикс24 в коробке</a> необходимо перейти на страницу <b>Безопасность</b> (<span class="path">Моя страница > Безопасность</span>) профиля пользователя:</p>
+
+<p><img src="cid:resources/res25/Y30eW.personal_page_security_sm.png" border="0" /></p>
+
+
+<br>
+<p>Далее на специальной странице <b>Безопасность</b>, следуя простой инструкции, подключается двухэтапная авторизация:</p>
+
+<p><img src="cid:resources/res25/Q9sGO.security1.png" border="0" /></p>
+
+<br>
+<p>Для продолжения подключения двухэтапной авторизации понадобится приложение <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6819" >Bitrix24 OTP</a> или аналоги. </p>
+
+<p><div class="warning"><b><font color="red">Внимание!</font></b> Перед подключением двухэтапной авторизации проверьте правильность установленного времени и часового пояса в вашем мобильном устройстве.</div></p>
+
+<br>
+
+<p>После подключения двухэтапной авторизации пользователь может ее отключить на странице <b>Безопасность</b> либо <b>Бессрочно</b>, либо на срок от <b>1 до 10 дней</b> (если данная опция была включена администратором).</p>
+
+<p><img src="cid:resources/res25/DCB3o.personal_page_security2_sm.png" border="0" /></p>
+
+<p><div class="hint"><b>Примечание</b>: Опция <b>Отключить</b> будет доступна пользователю, если администратор портала не включил принудительное использование двухэтапной авторизации для всех  на портале.</div></p>
+
+<p>Также пользователь может авторизовать другой телефон, старая связка авторизации с одноразовым паролем при этом будет автоматически деактивирована.</p>
+<p><img src="cid:resources/res25/hp5c2.personal_page_security3.png" border="0" /></p>
+
+<br>
+<p><div class="warning"><b>Примечание:</b> В случае, когда пользователь не может воспользоваться своим устройством для входа на сайт, можно просто на время отключить  двухэтапную авторизацию для него. Для этого обратитесь к администратору. </div></p>
+
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>6847</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

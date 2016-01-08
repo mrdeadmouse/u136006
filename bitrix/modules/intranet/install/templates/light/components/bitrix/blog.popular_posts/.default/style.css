@@ -1,0 +1,16 @@
+.sidebar-blog-title { 
+	font-size: 0.85em;
+	font-weight: bold;
+	margin: 0 0 1em;
+}
+
+.sidebar-blog-meta {
+	font-size: 0.85em;
+	line-height: 1.4em;
+	margin: 0;
+	padding: 0.4em 0 0;
+}
+.sidebar-blog-meta a {
+	color: #969696 !important;
+	text-decoration: none !important;
+}

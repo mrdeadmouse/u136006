@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6445</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1405077902</timestamp_x>
+<date_create>1404910057</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Поиск сотрудника</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>С помощью этой страницы можно легко найти нужного сотрудника. Функционал страницы зависит от уровня прав доступа.</p>
+
+
+  <ul><li><a href="#search" >Поиск сотрудника</a>
+    <ul>           
+         <li><a href="#alphavit_search" >Поиск по алфавиту</a></li>
+         <li><a href="#search_panel" >Поисковая панель</a></li>
+    </ul>
+  </li>
+  <li>    <a href="#export_excel" >Экспорт в Excel</a>  </li>
+
+  <li>    <a href="#outlook" >Синхронизация с Outlook</a>  </li>
+
+<li>    <a href="#carddav" >Синхронизировать CardDAV</a>  </li>
+</ul>
+
+<br />
+<a name="search"></a><h4>Поиск сотрудника</h4>
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Сотрудники"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res171/w0VuT.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>Щелкнув по пункту <b>Поиск сотрудника</b>, на открывшейся странице вы увидите перечень сотрудников компании, расположенный в алфавитном порядке:</p>
+
+<p><img src="/images/curs_b24/company/worker_1.png?1" width="699" height="489"  /></p>
+
+<p>С помощью кнопок можно отфильтровать сотрудников: сотрудников компании и экстранета, уволенных и приглашенных.</p>
+
+<p>В строке каждого сотрудника выводятся индикатор присутствия сотрудника на портале, индикатор администратора, индикатор статуса руководителя, кнопка быстрых команд (перечень команд зависит от прав доступа).</p>
+
+<p><img height="245" border="0" width="403" src="/images/curs_b24/company/worker_2.png?1" /></p>
+
+
+<br />
+<a name="alphavit_search"></a><h4>Поиск по алфавиту</h4>
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Поиск по алфавиту"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res171/pe3Yl.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>Возможен поиск сотрудников по алфавиту. Для этого предназначена <b>Алфавитная строка</b>: </p>
+
+<p><img src="cid:resources/res171/wUWVY.worker_3.png" width="360" height="165"  /></p>
+
+<p>Если выбрать букву в строке, то будут отображены только те сотрудники, фамилии которых начинаются с выбранной буквы.</p>
+
+<p><div class="hint"><b>Примечание: </b>чтобы сбросить фильтр по алфавиту, необходимо выбрать в фильтре <b>А-Я</b>. </div></p>
+
+
+<br />
+<a name="search_panel"></a><h4>Поисковая панель</h4>
+
+<p>Для поиска сотрудника возможно использование специальной панели поиска, расположенной вверху страницы:</p>
+<p><img src="cid:resources/res171/DRwdj.search_panel24.png">  </p>
+
+
+<br />
+<a name="export_excel"></a><h4>Экспорт в Excel  </h4>
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Экспорт в Excel"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res171/a1Ynu.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>Результаты поиска можно экспортировать в файл <b>MS Exсel</b> с помощью <b>Экспортировать в Excel</b> в меню <b>Ещё</b>.</p>
+
+<p>После клика по ссылке появится диалоговое окно загрузки файла:</p>
+
+<p><img src="cid:resources/res171/3EEug.save_file.png" width="436" height="279"  /></p>
+
+<p>При нажатии кнопки <b>Открыть</b> будет запущен <b>MS Excel</b> и в нем показаны результаты поиска в соответствующем формате. Если вы хотите сохранить результаты в формате <b>.xls</b> на локальном носителе, нажмите <b>Сохранить</b>, и выберите подходящее место для сохранения файла.</p>
+
+
+<br />
+<a name="outlook"></a><h4>Синхронизация с Outlook </h4>
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Синхронизация с Outlook"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res171/V0sVH.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>Также вы можете выполнить экспорт сотрудников в MS Outlook с помощью <b>Синхронизировать с Outlook</b> в меню <b>Ещё</b>. Далее пройдите простой и понятный мастер из нескольких шагов.</p>
+
+<p><div class="warning"><b>Внимание! </b>Для полноценной интеграции <b>Битрикс24</b> с Outlook требуется версия Outlook 2007.</div></p>
+
+<p>В результате экспортированный список в <b>MS Outlook</b> будет иметь следующий вид:</p>
+
+<p><a href="javascript:ShowImg('/images/portal_user/personal/outlook_window.png',1164,663,'Экспорт в Outlook')" ><img height="341" border="0" width="600" src="cid:resources/res171/jUyBJ.outlook_window_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+
+
+<br />
+<a name="carddav"></a>
+<h4>Синхронизировать CardDAV</h4>
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Синхронизировать CardDAV"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res171/gCDZ0.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>Пройдя по ссылке <b>Синхронизировать CardDAV</b> в меню <b>Ещё</b>, вам откроется окно следующего вида:</p>
+<p><img src="cid:resources/res171/TGocr.caldav.png" width="728" height="518"  /></p>
+
+<p>На ней представлена статическая информация о том, как с помощью модуля DAV синхронизировать календари и контакты сайта с любыми программами и устройствами, поддерживающими протоколы CalDAV и CardDAV. Эти протоколы поддерживают, например, мобильные устройства iPhone и iPad. Так же поддержка протоколов присутствует в программах Mozilla Sunbird, eM Client и некоторых других.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>6445</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

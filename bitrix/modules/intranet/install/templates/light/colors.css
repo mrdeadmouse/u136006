@@ -1,0 +1,19 @@
+#top-menu a { color: #e00000; }
+#top-menu a:hover { border-color: #e00000; }
+
+#top-menu span.hover a { color: #e00000; }
+
+
+#top-menu span.selected.home .left-corner { background: url(images/theme-sprite.png) no-repeat -12px -72px; }
+#top-menu span.selected.home .root-item-text, #top-menu span.selected.home a:hover .root-item-text { background: url(images/theme-sprite.png) repeat-x 0 -34px; }
+#top-menu span.selected.home .right-corner { background: url(images/theme-sprite.png) no-repeat -18px -72px; }
+
+#top-menu span.home i { background: transparent url(images/theme-sprite.png) no-repeat 2px 9px;}
+#top-menu span.selected.home i { background: transparent url(images/theme-sprite.png) no-repeat -43px 10px;}
+
+#top-menu .root-item-text-line { border-color: #e00000;}
+
+#search-button input { background:#e94949 url(images/theme-sprite.png) no-repeat 0 -125px; color: #fff;}
+
+table.gadgetholder-mainpage td.gd-page-column1 .ghheader-underline, table.gadgetholder-dashboard td.gd-page-column1 .ghheader-underline { border-color:#f7b9b9; background-color: #f39999; }
+table.gadgetholder-mainpage td.gd-page-column2 .ghheader-underline, table.gadgetholder-dashboard td.gd-page-column2 .ghheader-underline { border-color:#d4ddfc; background-color: #bbc9fa; }

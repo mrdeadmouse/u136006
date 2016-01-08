@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3750</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1413561088</timestamp_x>
+<date_create>1342104038</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Моя страница</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Моя страница"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Продолжительность 1 минута 17 секунд.  Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.
+</p>
+
+<p>Ролик озвучен. Если нет возможности прослушать, то с помощью кнопки <b>СС</b> можно включить текстовое сопровождение. </p>
+
+<p><embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="cid:resources/res35/5gnxU.2_my_page.swf" width="800" height="600" ></embed></p></td></tr>
+</tbody>
+</table></div>
+ 
+<p>Для каждого сотрудника доступна <b>Моя страница</b>, на которой представлена как служебная, так и его личная информация. </p>
+ 
+<p><img src="cid:resources/res35/iEbUt.personal_page_sm.png" alt="Моя страница" border="0" width="750" height="491"  /></p>
+ 
+<p>В верхней части страницы расположены ссылки на файлы, календари, сообщения и всё остальное, что относится к странице <a href="#user_page" >сотрудника</a>.</p>
+ 
+<p>При просмотре <a href="#my_page" >своей</a> страницы ссылки относятся к вам и аналогичны ссылкам в левом меню <b>Мои инструменты</b>.</p>
+ 
+<br />
+ 
+<p> 
+<a name="my_page"></a>
+ <b>Просмотр своей страницы</b></p>
+ 
+<p>Чтобы открыть свою страницу, используйте пункт <b>Моя страница</b> меню <b>Личной страницы</b>:</p>
+ 
+<p><img src="/images/curs_b24/personal/personal_menu_{SELF}.png" alt="пункт Моя страница" /></p>
+ 
+<br />
+ 
+<p> 
+<a name="user_page"></a>
+ <b>Просмотр чужой страницы</b></p>
+ 
+<p>Для просмотра данных другого сотрудника нужно воспользоваться ссылкой с его именем. При наведении курсора на такую ссылку, в зависимости от её расположения, во всплывающей подсказке будет отображена краткая информация о пользователе.</p>
+ 
+<p>После перехода по такой ссылке будет отображена страница выбранного сотрудника:</p>
+ 
+<p><img src="cid:resources/res35/ZV0wo.user_profile.png" border="0" /></p>
+
+ 
+<br />
+<a name="edit_profile"></a> 
+<p><b>Редактирование профиля</b></p>
+ 
+<p>Для изменения данных профиля сотрудника воспользуйтесь следующими вариантами:</p>
+ 
+<p><img src="/images/curs_b24/personal/profile_edit_links_{SELF}_sm.png" alt="Изменение данных профиля" border="0" /></p>
+ 
+<p>После чего откроется форма редактирования личных данных:</p>
+
+<p><img src="/images/curs_b24/personal/profile_edit_{SELF}_sm.png" alt="Изменение данных сотрудника" border="0" /></p>
+ 
+<p><div class="hint"><b>Примечание: </b>Поля <b>Права</b> и <b>Подразделения</b> доступны сотруднику с правами <b>Руководитель</b> и выше. </div></p>
+
+
+<br />
+ 
+<a name="admin_socnet"></a>
+ 
+<h4>Режим администратора</h4>
+ 
+<p>В Битрикс24 по умолчанию пользователь с правами администратора (тот, кому в настройках профиля другой администратор установил флажок в поле <b>Разрешить пользователю администрировать портал</b>) присутствует в качестве обычного сотрудника, т.е ему не доступны действия, связанные с правами администратора - не видны скрытые группы, в которых они не состоят, чужие задачи, отчеты и т.п.</p>
+ 
+<p>Если администратору понадобится административные привилегии, их можно включить в профиле пользователя с помощью ссылки <b>Режим администратора</b>: </p>
+ 
+<p><img src="cid:resources/res35/bg7Me.admin_link_sm.png" alt="Ссылка &quot;Режим администратора&quot;" border="0" width="750" height="438"  /></p>
+ 
+<p>При этом на всех страницах портала будет показано оповещение:</p>
+ 
+<p><img src="cid:resources/res35/QnEhC.admin_notify.png" alt="Режим администратора" border="0" width="661" height="46"  /></p>
+ 
+<p>Для выхода из режима администратора необходимо нажать соответствующую ссылку этого уведомления.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>3750</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

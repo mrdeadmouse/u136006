@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5825</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1405494418</timestamp_x>
+<date_create>1386859112</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Элементы управления</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В уроке рассмотрены следующие элементы управления:</p>
+<menu id="topictoc">
+    <li><a href="#tasks_buttons">Кнопки управления</a></li>
+    <li><a href="#navigation_panel">Панель задач</a></li>
+    <li><a href="#view_mode_panel">Панель режимов просмотра</a></li>
+    <li><a href="#info_panel">Панель счетчиков</a></li>
+</menu>
+
+
+
+<br>
+
+
+
+<a name="tasks_buttons"></a><h4>Кнопки управления</h4>
+
+<p>Для управления задачами в списке используются следующие элементы управления:</p>
+<ul>
+
+  <li><img src="cid:resources/res94/5yYnY.but_task_add.png" border="0" width="140" height="28" /> - Кнопка <b>Добавить задачу</b>, которая позволяет <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_create">создать новую задачу</a> в специальной форме;
+  </li>
+
+  <li><img src="cid:resources/res94/7Ydq2.but_task_add_quick.png" border="0" width="26" height="28" /> - Кнопка <b>Создать быструю задачу</b>, которая позволяет создать задачу прямо в списке задач:
+  <p><img src="cid:resources/res94/G3FLn.quick_task_form_2.png" border="0" alt="Создание быстрой задачи" /></p> 
+  </li>
+
+
+  <li><a name="but_task_list_templates"></a><img src="cid:resources/res94/51vOJ.but_task_list_templates.png" border="0" width="38" height="28" /> - Кнопка <b>Добавить задачу по шаблону</b>, которая позволяет создать задачу по заранее подготовленному <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3720">шаблону</a>;
+   <p><img src="cid:resources/res94/srJxS.but_task_list_templates_menu.png" border="0" /></p>
+  
+  <p>Ссылка с <span class="link">названием задачи</span> позволяет перейти к <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719#task_create">форме создания</a> новой задачи с уже заполненными полями, согласно шаблону.</p>
+  
+  <p>Ссылка <b>Список всех шаблонов</b> позволяет перейти на страницу, на которой отображается <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3720">список шаблонов задач</a>.</p>
+  </li>
+
+  <li>Строка поиска задачи по ее названию или идентификатору.
+  </li>
+</ul>
+
+
+<br>
+
+
+
+<a name="navigation_panel"></a><h4>Панель задач</h4>
+   <p><img src="cid:resources/res94/0Ps8O.nav_panel.png" border="0" /></p>
+
+<p>Данная панель содержит:
+<ul>
+  <li>кнопки переключения режима просмотра списка задач, в зависимости от <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05018#roles">роли</a>: ответственный, соисполнитель, постановщик, наблюдатель;  </li>
+  
+  <li>кнопку режима отображения всех задач, к которым вы причастны (вне зависимости от роли);
+  </li>
+
+  <li>кнопку <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5803">Руковожу</a>, которая отображается только для тех сотрудников, у которых есть подчиненные;
+  </li>
+
+  <li>кнопки перехода к <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5820">проектам</a> и <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=06429">отчетам</a>.  </li>
+</ul>
+
+
+<a name="counters"></a>
+<p><b>Счетчики</b></p>
+<p>Над кнопками отображаются счетчики, которые показывают <u>общее</u> количество задач для соответствующей роли, которые требуют внимания:</p>
+
+<p><b>Делаю</b></p>
+<ul>
+  <li>еще не просмотренные;</li> 
+  <li>просроченные; </li>
+  <li>почти просроченные (до крайнего срока которых осталось меньше 24 часов); </li>
+  <li>без крайнего срока.</li> 
+</ul>
+
+<p><b>Поручил</b></p>
+<ul>
+  <li>требующие контроля (проверки);</li> 
+  <li>просроченные (ответственным); </li>
+  <li>без крайнего срока.</li> 
+</ul>
+
+<p><b>Помогаю</b></p>
+<ul>
+  <li>еще не просмотренные;</li> 
+  <li>просроченные; </li>
+  <li>почти просроченные (до крайнего срока которых осталось меньше 24 часов). </li>
+</ul>
+
+<p><b>Наблюдаю</b></p>
+<ul>
+  <li>просроченные. </li>
+</ul>
+
+<br>
+
+<p>Подробная информация по счетчикам отображается на <a href="#info_panel">панели счетчиков</a>.</p>
+
+
+
+
+<br>
+
+
+
+<a name="view_mode_panel"></a><h4>Панель режимов просмотра</h4>
+   <p><img src="cid:resources/res94/uBTA4.view_mode_panel.png" border="0" /></p>
+
+
+
+<p>Панель режимов просмотра кратко поясняет <a href="#navigation_panel">выбранную выше роль</a> и содержит следующие элементы управления:</p>
+<ul>
+  
+  <li><img src="cid:resources/res94/783xa.view_mode_panel_but_1.png" border="0" /> - кнопка, которая позволяет отфильтровать задачи в списке их по статусу:
+    <ul>
+      <li><b>все</b> - все задачи, к которым вы причастны;  </li>
+      <li><b>в работе</b> - задачи, которые выполняются на данный момент;  </li>
+      <li><b>отложенные</b> - задачи, выполнение которых было приостановлено;  </li>
+      <li><b>завершенные</b> - задачи, которые были завершены.  </li>
+    </ul>
+  </li>
+
+<p><div class="hint"><b>Примечание:</b> Для ролей <b>Делаю</b> и <b>Поручил</b> имеется возможность выбирать <i>всех</i> или же <i>конкретного</i> постановщика/ответственного, задачи которого будут отображаться в списке:
+	<p><img src="cid:resources/res94/0TatY.task_originator_selector.png" border="0"></p>
+</div></p>
+
+
+  <li><img src="cid:resources/res94/VxEfQ.view_mode_panel_but_2.png" border="0" /> - кнопка, которая выбрать визуальную форму представления задач на странице:
+    <ul>
+      <li><b>Список</b> -  режим представления задач на странице в виде списка;  </li>
+
+      <li><b>Диаграмма Ганта</b> - режим представления, при котором задачи отображаются в виде <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6388">ленточной диаграммы</a>;  </li>
+
+
+      <li><b>С группами</b> - режим представления, при котором задачи в списке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6387#tasks_list_group">автоматически</a> группируются по рабочим группам (на данный момент отключить автоматическую группировку нельзя);  </li>
+      <li><b>С подзадачами</b> - режим отображения, при котором подзадачи группируются и находятся внутри задачи.
+        <p>В этом режиме по умолчанию все подзадачи свернуты: </p>
+        <p><img src="cid:resources/res94/YZSjV.task_list_expanded_1.png" alt="Задача со свернутыми подзадачами" border="0" ></p>
+        <p>Для того чтобы развернуть подзадачи, нажмите на кнопку <img src="cid:resources/res94/34FVp.but_task_expand.png" border="0" height="11" width="11">, под которой отображается их общее количество. После чего подзадачи будут отображены ниже базовой задачи:</p>
+        <p><img src="cid:resources/res94/Rt6oQ.task_list_expanded_2.png" alt="Задача с развернутыми подзадачами" border="0" ></p> 
+
+        <p>Если режим <b>С подзадачами</b> не включен, то подзадачи <u>не</u> группируются и находятся в списке вместе с задачами.</p>
+      <p><img src="cid:resources/res94/g0ygK.task_list_collapsed.png" alt="" border="0" ></p>
+
+      <p><div class="hint"><b>Примечание:</b> Если при создании задачи была использована опция <b>Копировать задачу нескольким ответственным</b>, то будут созданы копии основной задачи в виде подзадач и основная задача, отмеченная иконкой <img src="cid:resources/res94/jnE8e.group_task_icon.png" border="0" width="19" height="12" />. Эта иконка будет отображаться в обоих режимах представления задач, но только рядом с родительской задачей.</div></p>
+
+      <p><div class="hint"><b>Примечание:</b> Подробнее про подзадачи смотрите в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719">Создание задачи</a>.</div></p>
+       </li>
+
+    </ul>
+  </li>
+</ul>
+
+     <p><div class="hint"><b>Примечание:</b> Для режима отображения <a href="#navigation_panel">всех задач</a> на панели присутствует специальная кнопка:
+<p><img src="cid:resources/res94/VCEBU.but_filter_expand.png" border="0"></p>
+Она служит для вызова <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6389">панели фильтра</a>, с помощью которой можно осуществлять более расширенную фильтрацию задач.  </div></p>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<a name="info_panel"></a><h4>Панель счетчиков</h4>
+   <p><img src="cid:resources/res94/liE3p.info_panel.png" border="0" /></p>
+
+<p>На этой панели отображается детальная информация по <a href="#counters">счетчикам</a>. С помощью соответствующих ссылок можно дополнительно отфильтровать задачи в списке. </p>
+
+
+
+
+
+
+<br>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5825</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

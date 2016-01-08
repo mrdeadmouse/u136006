@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6434</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1405081261</timestamp_x>
+<date_create>1404813400</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Карьера, вакансии</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>У каждой компании есть потребность в персонале. На смену ушедших сотрудников или на новые должности. Для объявления открытых вакансий есть страница <b>Карьера, вакансии</b>. Обычный сотрудник может ее просматривать и заполнять форму резюме, изменять данные могут сотрудники с уровнем прав <b>Отдел кадров</b> или <b>Администрация портала</b>.</p>
+
+<ul>
+<li><a href="#add">Добавление вакансии</a></li>
+<li><a href="#rule">Управление вакансиями</a></li>
+</ul>
+
+<a name="add"></a>
+<h3>Добавление вакансии</h3>
+
+<p>Добавление вакансии осуществляется с помощью кнопки <img src="cid:resources/res167/mbYng.but_add_vacancy24.png">. После нажатия открывается окно добавления вакансии:</p>
+
+<p><img src="cid:resources/res167/e5Wfg.add_vacans11.png" width="709" height="458"></p>
+
+<p>В форме добавления вакансии присутствуют несколько вкладок.</p>
+
+<h4>Вкладка Вакансия</h4>
+
+<ul>
+<li><b>Вакансия активна</b> - снимите галочку, если хотите чтобы вакансия отображалась только в административном режиме.</li>
+
+<li><b>Индекс сортировки в списке вакансий</b> - данный параметр настраивается администратором и определяет очередность следования вакансии в общем списке.</li>
+
+<li><b>Название вакансии</b> - единственное обязательное к заполнению поле, в котором следует написать должность добавляемой вакансии</li>
+
+<li>В случае необходимости, можно указать принадлежность к офису, в полях <b>Офис</b> и <b>Департамент</b></li>
+</ul>
+
+
+<h4>Вкладка Анонс для списка</h4>
+
+<p><b>Описание для показа в списке</b> - введите информацию о вакансии, которая будет отображаться в анонсе. Это можно сделать в трех режимах: <b>Текст</b>, <b>HTML</b>, <b>Визуальный редактор</b>.</p>
+
+<h4>Вкладка Вакансия подробно</h4>
+
+<p>Здесь введите подробную информацию о добавляемой вакансии. Это также можно сделать в трех режимах: <b>Текст</b>, <b>HTML</b>, <b>Визуальный редактор</b>.</p>
+
+<h4>Вкладка Категории</h4>
+
+<p>Левым щелчком мыши выделите нужный раздел, куда вы хотите добавить вакансию:</p>
+
+<p><img src="cid:resources/res167/fRxlc.category.png" width="676" height="355"></p>
+
+<p>Для добавления вакансии нажмите <b>Сохранить</b>.</p>
+
+
+<br>
+<a name="rule"></a>
+<h3>Управление вакансиями</h3>
+
+<p>Управление вакансиями осуществляется по кнопке <img src="cid:resources/res167/9aKlo.but_vacancies24.png">. После нажатия вы попадете в административный раздел управления вакансиями:</p>
+
+<p><img height="380" border="0" width="700" src="cid:resources/res167/m9rZi.edit_vacanse1.png" />
+</p>
+
+<p>Управление вакансиями через административный раздел аналогично управлению новостями, описанному <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=6432#admin">здесь</a>.</p>
+
+<p>Чтобы отредактировать стандартную форму резюме обратитесь к администратору. </p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>6434</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

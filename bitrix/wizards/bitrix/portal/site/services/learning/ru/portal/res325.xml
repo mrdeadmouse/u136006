@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3751</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1417610304</timestamp_x>
+<date_create>1342107379</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Добавить компанию</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Добавить новую компанию можно несколькими способами:</p>
+ 
+<ul> 
+  <li>нажав на кнопку <b>Добавить компанию</b> контекстной панели страницы <b>Компании</b>;</li>
+ 
+  <li>нажав на &quot;+&quot;, появляющийся при наведении курсора мыши на иконку компаний в главном меню CRM: 
+    <p><img src="cid:resources/res325/Cp25F.company_new.png" border="0" width="99" height="112"  /></p>
+   </li>
+ 
+  <li>из формы <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3770" >добавления сделки</a>;</li>
+ 
+  <li>из формы <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >добавления контакта</a>;</li>
+ </ul>
+ 
+<p>В любом из перечисленных способов откроется форма добавления компании:</p>
+ 
+<p><img src="cid:resources/res325/3xdPF.New_company.png" border="0" width="637" height="530"  /></p>
+ 
+<p>Заполните следующие поля:</p>
+ 
+<ul> 
+  <li><b>Название компании</b> - единственное обязательное к заполнению поле, введите, как называется добавляемая компания.</li>
+ 
+  <li><b>Ответственный</b> - здесь указывается имя того сотрудника, который будет взаимодействовать с данной компанией (по умолчанию указаны данные сотрудника, добавляющего компанию). 
+    <p>Чтобы поменять ответственного, нажмите на данное поле и выберите нужного сотрудника в структурном дереве, аналогично выбору сотрудника, описанному в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3740#add" >График отсутствий</a>.</p>
+   </li>
+ 
+  <li><b>Логотип</b> - нажмите <b>Выберите файл</b> и выберите картинку, представляющую эту компанию.</li>
+ 
+  <li><b>Тип компании</b> - нажмите <img src="cid:resources/res325/eMnPB.down.png" width="15" height="17"  /> и укажите к какому типу относится добавляемая компания (по умолчанию выставлено <b>Клиент</b>): 
+    <p><img src="cid:resources/res325/8fIoZ.comp_type.png" width="260" height="185"  /></p>
+   </li>
+ 
+  <li><b>Сфера деятельности</b> - нажмите <img src="cid:resources/res325/ZTVnf.down.png" width="15" height="17"  /> и укажите тип деятельности, которой занимается добавляемая компания (по умолчанию выставлено <b>Информационные технологии</b>): 
+    <p><img src="cid:resources/res325/PuBdO.comp_sphere.png" width="260" height="220"  /></p>
+   </li>
+ 
+  <li><b>Кол-во сотрудников</b> - нажмите <img src="cid:resources/res325/vUlU9.down.png" width="15" height="17"  /> и укажите приблизительное число сотрудников, работающих в данной компании (по умолчанию выставлено <b>менее 50</b>): 
+    <p><img src="cid:resources/res325/tdhw2.counts.png" width="261" height="95"  /></p>
+   </li>
+ 
+  <li><b>Годовой оборот</b> - с помощью цифр укажите годовой денежный оборот компании. Если данное поле оставить пустым, или заполнить словесными обозначениями, годовой оборот будет отображаться как 0.</li>
+ 
+  <li><b>Валюта</b> - нажмите <img src="cid:resources/res325/94Pem.down.png" width="15" height="17"  /> и выберите валюту, в которой вы указываете годовой оборот (по умолчанию выставлено <b>Рубль</b>): 
+    <p><img src="cid:resources/res325/Kn77i.comp_val.png" width="260" height="96"  /></p>
+   </li>
+ 
+  <li><b>Комментарий</b> - введите свой комментарий свободного характера.</li>
+ 
+  <p><b>Доступна для всех</b> - отметьте опцию, чтобы сделать компанию открытой. Это может понадобиться при разграничении прав доступа (подробнее об этом читайте в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3762" >Права доступа</a>).</p>
+ </ul>
+ 
+<br />
+ 
+<p>Поля вкладки <b>Контактная информация</b> описаны в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >Добавить контакт</a>, и очевидны из названия.
+<a name="1komp_nesKon"></a>
+</p>
+
+<p>К одной Компании могут быть добавлены несколько Контактов. На вкладке <b>Контакты</b> нажмите <b>Выбрать</b> и укажите контакты, относящиеся к данной компании: </p>
+
+<p><img src="cid:resources/res325/Hc1sG.choose_boss.png" width="618" height="288"  /></p>
+ 
+<br />
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>при добавлении новой компании может осуществляться проверка на дубликаты. Подробнее об этом читайте в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5068" >Прочее</a>.</div>
+ 
+<p></p>
+ 
+<p>Нажмите <b>Сохранить</b>, чтобы добавить компанию и перейти к странице со списком компаний.</p>
+ 
+<p>Нажмите <b>Сохранить и добавить еще</b>, чтобы добавить компанию и прейти к форме добавления еще одной компании.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3751</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

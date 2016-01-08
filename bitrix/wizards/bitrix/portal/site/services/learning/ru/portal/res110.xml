@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5015</lesson_id>
+<was_chapter_id>1284</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>3</childs_cnt>
+<is_childs>1</is_childs>
+<sort>400</sort>
+<timestamp_x>1418902723</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Календарь</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>С помощью ссылки <b>Календарь</b> вы можете организовать несколько собственных календарей, события которых можно просматривать на одной сетке. Кроме того, в сетку календаря могут быть добавлены ваши <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05018" >задачи</a>:</p>
+ 
+<p><img src="cid:resources/res110/ob4Qv.calendar_14.png"  /></p>
+ 
+<p>Настройка доступа к вашим календарям настраивается отдельно для каждого календаря в форме его <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3706#calendar_add" >создания (редактирования)</a>. </p>
+ 
+<br />
+ <a name="calendar_settings"></a>
+<h4>Настройки календаря</h4>
+ 
+<p>Нажатие на пиктограмму <img src="cid:resources/res110/xPu2j.opt_button.png" width="16" height="15"  /> осуществит переход к пользовательским настройкам календаря:</p>
+ 
+<p><img src="cid:resources/res110/PJuB9.personal_opt.png" width="627" height="346"  /></p>
+ 
+<ul> 
+  <li><b>Календарь для приглашений</b> - если сотрудника приглашают принять участие в каком-либо событии, то это событие будет добавлено в указанный календарь;</li>
+ 
+  <li><b>Использовать визуальное выделение (мигание) неподтвержденных событий</b> - при отмеченной опции неподтвержденные события будут визуально выделены (будут мигать);</li>
+ 
+  <li><b>Отображать панель внешних соединений (CalDAV, MS Outlook)</b> - снимите галочку, если не хотите чтобы на главной странице календаря отображались пиктограммы создания синхронизации с <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3711" >внешними сервисами</a> (<b>Outlook</b> и мобильными устройствами);</li>
+ 
+  <li><b>Показывать события, в которых вы отказались принять участие</b> - снимите галочку, если не хотите видеть в календаре события, от участия в которых вы отказались;</li>
+ 
+  <li><b>Отображать прошедшие события приглушенными</b> - при отмеченной опции будет визуальное затенение в календаре тех событий, которые уже прошли.
+<a name="izbr_calen"></a>
+</li>
+ 
+  <li><b>Настроить избранные календари</b> - после нажатия откроется форма настройки отображения избранных календарей:
+    <p></p>
+   
+    <p><img src="cid:resources/res110/DlNHT.calendar_izbr.png"  /></p>
+   
+    <p>Здесь вы можете добавить в избранное календарь какого-либо пользователя или групп, в которых вы состоите. Для этого необходимо отметить их галочками.</p>
+   
+    <p>Для добавления календаря сотрудника нажмите <b>Добавить календари пользователя</b> и в появившейся форме начните вводить имя, логин или электронный адрес этого пользователя и вам будут отображены подходящие сотрудники:</p>
+   
+    <p><img src="cid:resources/res110/ct74M.add_user_calen_52.png"  /></p>
+   
+    <p>Выберите нужного пользователя, нажмите <b>Добавить</b> и отметьте галочкой его календарь в форме настройки избранных календарей.</p>
+   
+    <p></p>
+  
+    <div class="hint"><b>Примечание:</b> не все календари могут быть доступны для просмотра. Если календари выбранных вами сотрудников не являются открытыми, то вы будете оповещены об этом соответствующим сообщением: 
+      <p><img src="cid:resources/res110/MCETi.not_found.png" width="426" height="74"  /></p>
+     </div>
+  
+    <p></p>
+   </li>
+ 
+  <li><b>Настроить внешние календари (CallDAV)</b> - позволяет выполнить <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3711" >подключение внешнего календаря</a>;</li>
+ 
+  <li><b>Очистить персональные настройки</b> - нажмите на ссылку, если хотите вернуться к настройкам интерфейса по умолчанию. Подтвердите свое решение в появившемся окне.</li>
+ </ul>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>5015</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

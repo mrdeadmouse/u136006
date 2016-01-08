@@ -1,0 +1,7 @@
+<?
+$MESS["CRM_STATUS_TYPE_INVOICE_STATUS"] = "Invoice statuses";
+$MESS["CRM_INVOICE_STATUS_F"] = "Paid";
+$MESS["CRM_INVOICE_STATUS_D"] = "Rejected";
+$MESS["CRM_INVOICE_STATUS_N"] = "Draft";
+$MESS["CRM_INVOICE_STATUS_P"] = "Completed";
+?>

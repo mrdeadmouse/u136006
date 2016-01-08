@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2243</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1404806184</timestamp_x>
+<date_create>1299147796</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Режим правки</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><b>Режим правки</b> предназначен для настройки параметров компонентов, включенных в шаблон портала и в <b>Основную рабочую область</b> конкретной страницы. </p>
+
+<p>Для включения режима нажмите на кнопку <img height="63" width="86" border="0" src="cid:resources/res59/mICci.edit_mode_95_new.png"/>. После включения режима правки станет доступным функционал по настройке компонентов и работе с данными, которые выводятся компонентами.</p>
+
+<p>При проведении указателя мыши над областью страницы, где расположен компонент, появится красная рамка, указывающая область компонента и отобразится меню компонента. Например, в случае с компонентом <b>Меню</b> это будет выглядеть так:</p>
+
+<p><img src="cid:resources/res59/4b75v.edit_punkty_menu.png""></p>
+
+<p>Если какой-либо компонент размещен в шаблоне или в <b>Основной рабочей области</b> страницы, но не выводит данные на страницу (например, по условиям настройки может не отображаться <b>Цепочка навигации</b> на индексной странице), то при включенном <b>Режиме правки</b> компонент отображается таким образом: <img src="cid:resources/res59/PE45H.component_hude_95.png" width="14" border="0" height="14" alt="Компонент, который не выводит данные на редактируемой странице">.</p>
+
+<p>Команды имеют следующее значение:</p>
+
+<table cellspacing=0 cellpadding=0> 		 
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 		 
+    <table cellspacing="1" cellpadding="5"> 			 
+          <tbody> 
+            <tr bgcolor="silver"><td colspan="3"><b>Команды меню компонентов</b> 
+               </td></tr>
+           			 
+            <tr bgcolor="white"> <td align="center"><img height="43" width="11" border="0" src="cid:resources/res59/J1Ces.move_zone_11.png" /></td> <td><b>Зона перемещения</b></td> <td>Наведя курсор мыши на эту зону и нажав на левую кнопку, можно переместить меню компонента в любое место экрана.</td> </tr>
+           			 
+                  			 
+            <tr bgcolor="white"> <td align="center"><img height="42" width="23" border="0" src="cid:resources/res59/fOyKY.fix_but_11.png" /></td> <td><b>Кнопка фиксации положения</b></td> <td>Перемещаемое в другое место экрана меню компонента можно зафиксировать. В этом случае при следующем открытии для редактирования данной страницы и включении <b>Режима правки</b> меню компонента появится в выбранном месте.</td> </tr>
+          			 			 
+            <tr bgcolor="#EEEEEE"> <td align="center" rowspan="2"><img height="40" width="35" border="0" src="cid:resources/res59/zQuMY.menu_component_full_11.png" /></td><td><b>Кнопка вызова меню настройки параметров компонента</b></td> <td>Вызывается меню настройки параметров того компонента, который установлен по умолчанию.</td> </tr>
+
+            <tr bgcolor="EEEEEE"> </td> <td><b>Кнопка выбора компонента для редактирования параметров</b></td> <td>
+<p><table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top"><td>Вызов выпадающего списка компонентов для выбора компонента, параметры которого необходимо редактировать:</td><td><img src="cid:resources/res59/5sPwY.menu_components_11.png" width="457" border="0" height="201" alt=""></td></tr>
+   </tbody>
+ </table></p>
+</td> </tr>
+
+           </td> </tr>
+
+           </tbody>
+         </table>
+       		</td></tr>
+   </tbody>
+ </table>
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>2243</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

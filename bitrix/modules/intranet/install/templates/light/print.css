@@ -1,0 +1,14 @@
+#panel, #header, #footer-wrapper, #sidebar, #site-selector, #bx-notifier-panel
+{
+	display:none;
+}
+
+#workarea
+{
+	width:950px;
+}
+
+body
+{
+	background:white;
+}

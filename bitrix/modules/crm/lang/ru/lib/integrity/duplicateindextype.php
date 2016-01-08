@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_DUP_INDEX_TYPE_PERSON"] = "ФИО";
+$MESS["CRM_DUP_INDEX_TYPE_ORGANIZATION"] = "Название компании";
+$MESS["CRM_DUP_INDEX_TYPE_COMM_PHONE"] = "Телефон";
+$MESS["CRM_DUP_INDEX_TYPE_COMM_EMAIL"] = "E-mail";
+?>

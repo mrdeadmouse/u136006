@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/intranet/core_planner.js" => "14522774573206","/bitrix/js/intranet/outlook.js" => "14522774572408",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

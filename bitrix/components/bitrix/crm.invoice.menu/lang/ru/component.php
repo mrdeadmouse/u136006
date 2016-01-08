@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "Модуль crm не установлен.";
+$MESS["CRM_PERMISSION_DENIED"] = "Доступ запрещен";
+$MESS["INVOICE_ADD"] = "Выставить счёт";
+$MESS["INVOICE_ADD_TITLE"] = "Выставить счёт";
+$MESS["INVOICE_COPY"] = "Копировать";
+$MESS["INVOICE_COPY_TITLE"] = "Копировать счёт";
+$MESS["INVOICE_ADD_ACTIVITY"] = "Добавить";
+$MESS["INVOICE_ADD_ACTIVITY_TITLE"] = "Добавить";
+$MESS["INVOICE_EDIT"] = "Редактировать";
+$MESS["INVOICE_EDIT_TITLE"] = "Редактировать счёт";
+$MESS["INVOICE_SHOW"] = "Просмотреть";
+$MESS["INVOICE_SHOW_TITLE"] = "Просмотреть счёт";
+$MESS["INVOICE_PAYMENT_HTML"] = "Печатать";
+$MESS["INVOICE_PAYMENT_HTML_TITLE"] = "Печатать счёт";
+$MESS["INVOICE_PAYMENT_HTML_BLANK"] = "Печатать без печати и подписей";
+$MESS["INVOICE_PAYMENT_HTML_BLANK_TITLE"] = "Печатать счёт без печати и подписей";
+$MESS["INVOICE_PAYMENT_PDF"] = "Скачать PDF";
+$MESS["INVOICE_PAYMENT_PDF_TITLE"] = "Скачать счёт в формате PDF";
+$MESS["INVOICE_PAYMENT_PDF_BLANK"] = "Скачать PDF без печати и подписей";
+$MESS["INVOICE_PAYMENT_PDF_BLANK_TITLE"] = "Скачать счёт в формате PDF без печати и подписей";
+$MESS["INVOICE_PAYMENT_EMAIL"] = "Отправить по Email";
+$MESS["INVOICE_PAYMENT_EMAIL_TITLE"] = "Отправить счёт по электронной почте";
+$MESS["INVOICE_DELETE"] = "Удалить счёт";
+$MESS["INVOICE_DELETE_TITLE"] = "Удалить счёт";
+$MESS["INVOICE_DELETE_DLG_TITLE"] = "Удаление счёта";
+$MESS["INVOICE_DELETE_DLG_MESSAGE"] = "Вы уверены, что хотите удалить?";
+$MESS["INVOICE_DELETE_DLG_BTNTITLE"] = "Удалить";
+$MESS["INVOICE_LIST"] = "Список счетов";
+$MESS["INVOICE_LIST_TITLE"] = "Список счетов";
+$MESS["INVOICE_EXPORT_CSV"] = "Экспорт счетов в CSV";
+$MESS["INVOICE_EXPORT_CSV_TITLE"] = "Экспорт счетов в CSV";
+$MESS["INVOICE_EXPORT_EXCEL"] = "Экспорт счетов в Excel";
+$MESS["INVOICE_EXPORT_EXCEL_TITLE"] = "Экспорт счетов в Excel";
+?>

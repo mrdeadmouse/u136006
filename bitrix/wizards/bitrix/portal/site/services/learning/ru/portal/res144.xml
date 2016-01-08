@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3716</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1404823160</timestamp_x>
+<date_create>1341326750</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Управление альбомами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<menu id="topictoc">
+  <li><a href="#album_edit">Редактирование основных свойств альбома</a></li>
+  <li><a href="#album_operations">Управление альбомом</a></li>  
+  <li><a href="#ch_album">Изменение альбома</a></li>  
+
+</menu>
+
+
+
+
+<a name="album_edit"></a><p><b>Редактирование основных свойств альбома</b></p>
+
+<p>Перейти к редактированию основных свойств альбома можно прямо со страницы с альбомами по ссылке <b>Изменить</b>, не заходя во внутрь каждого. Здесь же можно и удалить альбом по ссылке <b>Удалить</b>. </p>
+
+
+
+<br />
+
+
+<a name="album_operations"></a><p><b>Управление альбомом</b></p>
+
+<p>Управление альбомом также возможно с помощью группы ссылок, которая отображается вверху страницы просмотра содержимого альбома:</p>
+
+ <p><img src="cid:resources/res144/p3BFS.album_view2.png" border="0" height="629" width="809"></p>
+
+<p>где:</p>
+
+<ul>
+  <li><b>Изменить альбом</b> - переход к форме <a href="#ch_album">изменения альбома</a>;</li>
+  <li><b>Добавить альбом</b> - <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3713#inc_album_create">создание вложенного альбома</a> внутри текущего;</li>
+  <li><b>Загрузить фото</b> - переход к форме <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3714">загрузки фотографий</a>;</li>
+</ul>
+
+
+
+
+
+<br>
+ 
+ 
+<a name="ch_album"></a><p><b>Изменение альбома</b></p>
+
+<p>Для изменения свойств альбома можно воспользоваться ссылкой <b>Изменить альбом</b>, после чего откроется форма <b>Изменение альбома</b>.</p>
+
+ <p><img src="cid:resources/res144/VRsiK.edit_album_page.png" alt="Форма &quot;Изменение альбома&quot;" border="0" width="608" height="576" /></p>
+
+ 
+ 
+<p>Большинство опций в этой форме понятны без объяснений, отметим лишь возможность групповых операций над выбранными фотографиями.</p>
+<p>В режиме редактирования альбома отмеченные фотографии можно удалить или перенести в другой альбом с помощью соответствующих ссылок, расположенных внизу страницы:</p>
+
+ <p><img src="cid:resources/res144/g62yd.edit_album_page_group_operations.png" border="0" width="598" height="328" /></p>
+
+
+
+
+
+
+
+
+<!--
+
+<a name="ch_album_cover"></a><p><b>Изменение обложки альбома</b></p>
+
+<p>Для изменения обложки альбома можно воспользоваться ссылкой <b>Изменить обложку альбома</b>, после чего откроется форма <b>Выбор обложки</b>.</p>
+
+ <p><img src="cid:resources/res144/UnwUs.album_ch_cover_page.png" alt="Форма &quot;Выбор обложки&quot;" border="0" width="627" height="300" /></p>
+
+<p>Выберите одну или несколько фотографий для обложки альбома и нажмите кнопку <b>Сохранить</b>.</p>
+
+
+
+
+
+
+<br>
+ 
+
+<a name="ph_manage"></a><p><b>Управление фотографиями</b></p>
+
+<p>При просмотре альбома над фотографиями можно производить множественные операции, такие как перенос фотографий в другой альбом или удаление. Для этого в верхнем левом углу каждой миниатюры есть флажок выбора, а под миниатюрами набор доступных операций в виде ссылок.</p>
+
+ <p><img src="cid:resources/res144/c569j.ph_sel.png" alt="Флажок выбора фотографии" border="0" width="154" height="154" /></p> 
+
+<p><div class="hint"><b>Примечание:</b> Операции можно производить над любым количеством фотографий, в том числе и над одной. Для выбора всех фотографий сразу используется опция <b>Выбрать все</b>. </div></p>
+
+
+<br>
+
+
+<a name="ph_move"></a><p><b>Перенос фотографий</b></p>
+
+<p>Для переноса фотографий в другой альбом отметьте нужные фотографии с помощью флажка выбора и затем используйте ссылку <b>Перенести</b>.</p>
+
+ <p><img src="cid:resources/res144/yBqzH.ph_move.png" alt="Перенос фотографий" border="0" width="639" height="364" /></p>
+ 
+<p> после чего появится список с альбомами, в которые можно будет перенести фотографии.</p>
+ 
+ <p><img src="cid:resources/res144/PAgVR.ph_move_to.png" alt="Выбор альбома" border="0" width="522" height="36" /></p>
+ 
+ 
+ <br>
+ 
+
+<a name="ph_del"></a><p><b>Удаление фотографий</b></p>
+
+<p>Для удаления фотографий отметьте нужные фотографии с помощью флажка выбора и затем используйте ссылку <b>Удалить</b>.</p>
+
+ <p><img src="cid:resources/res144/0hVbJ.ph_del.png" alt="Удаление фотографий" border="0" width="639" height="364" /></p>
+
+<p>после чего будет выдано предупрежедение об безвозвратном удалении фотографий</p>
+ 
+ <p><img src="cid:resources/res144/FDRHm.ph_del_confirm_dialog.png" alt="Предупрежедение об удалении фотографий" border="0" width="492" height="193" /></p>
+ 
+ 
+<p><div class="hint"><b>Примечание:</b> Операции над фотографиями также доступны в режиме <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2288#detail_view">детального просмотра</a> фотографии. </div></p>
+
+-->]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>3716</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

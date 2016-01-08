@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6306</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1417700839</timestamp_x>
+<date_create>1399466948</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Реализация сценария использования абонементов на посещения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Рассмотрим реализацию продажи абонементов на посещения с помощью инструментов <b>Битрикс24</b>.</p>
+ 
+<ul> 
+  <li><a href="#task" >Постановка задачи</a></li>
+ 
+  <li><a href="#deal" >Создание сделки</a></li>
+ 
+  <li><a href="#bp" >Бизнес-процесс</a></li>
+ 
+  <li><a href="#manager_task" >Оповещение клиента</a></li>
+ 
+  <li><a href="#report" >Подготовка отчета</a></li>
+ </ul>
+ <a name="task"></a> 
+<h3>Постановка задачи</h3>
+ 
+<p>В рассматриваемом сценарии необходимо реализовать продажу двух видов абонементов, различающихся по стоимости - на месяц и на две недели. При этом нужно вести учет посещений и отправлять ответственному менеджеру напоминания о заканчивающемся абонементе какого-либо клиента.</p>
+ 
+<p>В данном примере, средствами <b>Битрикс24</b>, это сделано следующим образом. Для каждого клиента в CRM создается контакт, а под каждый абонемент - товар в каталоге CRM. При продаже абонемента контакту - создается сделка. После создания сделки запускается бизнес-процесс, который отчитывает время до окончания срока действия абонемента, и за несколько дней до его наступления ставит задачу ответственному за данную продажу менеджеру. </p>
+ 
+<a name="deal"></a>
+ 
+<h3>Создание сделки</h3>
+ 
+<p>Рассмотрим поэтапно процедуру реализации данной схемы.</p>
+ 
+<p>В разделе <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=5029#add" >товары</a> создается абонемент:</p>
+ 
+<p><img src="cid:resources/res364/CavA8.abonement_tovar.png"  /></p>
+ 
+<p>Аналогично создается товар <b>Двухнедельный абонемент</b>.</p>
+ 
+<p>Для клиента, при покупке абонемента, создается сделка:</p>
+ 
+<p><img src="cid:resources/res364/gXp31.gennady_add_tovar.png"  /></p>
+ 
+<div class="learnin-post-text"> 
+  <table class="learning-spoiler"> <thead onclick="LearningInitSpoiler(this)"> 
+      <tr><th> 
+          <div>Заполненная форма создания сделки</div>
+         </th></tr>
+    </thead> 
+    <tbody class="learning-spoiler" style="display: none;"> 
+      <tr><td><img src="cid:resources/res364/stcmJ.deal_abonement.png"  /></td></tr>
+     </tbody>
+   </table>
+</div>
+ 
+<p>Заполните необходимые поля в форме <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3770" >создания сделки</a>:</p>
+ 
+<ul> 
+  <li>указывается название и обязательно заполняетcя поле <b>Сумма</b>.</li>
+ 
+  <li>При необходимости выбирается другой ответственный.</li>
+ 
+  <li>Привязка с контакту будет установлена автоматически.</li>
+ 
+  <li>Выбирается товар сделки.</li>
+ </ul>
+ <a name="bp"></a> 
+<h3>Бизнес-процесс</h3>
+ 
+<p>Затем запускается заранее созданный <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3765" >бизнес-процесс</a> с автоматическим запуском при добавлении сделки:</p>
+ 
+<p><img src="cid:resources/res364/jHDnJ.bp_scheme_abonement.png"  /></p>
+ 
+<p>При создании любой сделки проверяется <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3789" >условие</a> выполнения бизнес-процесса (<b>Покупка абонемента</b>), в котором сверяется значение поля <b>Сумма</b>. Рассмотрим пример ветки для месячного абонемента (для двухнедельного абонемента все сделано аналогично):</p>
+ 
+<p><img src="cid:resources/res364/hCrRl.if_5800.png"  /></p>
+ 
+<p>Бизнес-процесс будет выполняться дальше по данной ветке только в случае, если в поле <b>Сумма</b> созданной сделки прописано значение <b>5800</b>. Соответственно, для двухнедельного абонемента это значение меньше.</p>
+ 
+<p>Затем ставится <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3807" >пауза в выполнении</a> на 27 дней:</p>
+ 
+<p><img src="cid:resources/res364/wApDy.27_days.png"  /></p>
+ 
+<p>Для двухнедельного абонемента пауза равна 12 дням.</p>
+ 
+<p>По прошествии 27 дней, менеджеру, заключившему данную сделку (предполагается, что он - ответственный) ставится <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3805" >задача</a> об уведомлении клиента о скором истечении срока действия его абонемента:</p>
+ 
+<p><img src="cid:resources/res364/Zs9vt.task_abonement.png"  /></p>
+ 
+<ul> 
+  <li>В крайнем сроке указано <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3814" >выражение</a> 
+    <pre class="syntax">=Dateadd({=System:Date}, &quot;1 d&quot;)</pre>
+   Оно устанавливает в качестве крайнего срока один день от текущей системной даты.</li>
+ 
+  <li>В качестве постановщика выбирается начальник отдела.</li>
+ 
+  <li>В описании задачи будет выведен идентификатор контакта, привязанного к сделке: 
+    <pre class="syntax">{=Document:CONTACT_ID}</pre>
+  </li>
+ 
+  <li>Вы можете прикрепить задачу к сделке, установив значение <b>Да</b> в поле <b>Привязать к текущей сущности CRM</b>.</li>
+ </ul>
+ <a name="manager_task"></a> 
+<h3>Оповещение клиента</h3>
+ 
+<p>После окончания заданного в бизнес-процессе периода, ответственному за сделку менеджеру придет уведомление о том, что на него поставлена задача:</p>
+ 
+<p><img src="cid:resources/res364/patTj.uved_abonement.png"  /></p>
+ 
+<p>Найдя по ID в <a href="/learning/course/index.php?COURSE_ID=52&CHAPTER_ID=05024" >списке контактов</a> нужного клиента, менеджер уведомляет его об истечении срока действия абонемента и предлагает продление.</p>
+ <a name="report"></a> 
+<h3>Подготовка отчета
+<a name="uchet_posesh"></a>
+</h3>
+ 
+<p>Учет посещений можно вести, <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=5030" >создав отчет</a> по делам:</p>
+ 
+<p><img src="cid:resources/res364/3ZQzn.report_abonement.png"  /></p>
+ 
+<p>В данном отчете будет учитываться любое дело (кроме события), в названии которого есть <b>посещение</b>. То есть, к каждому клиенту, при его визите, ответственному за него менеджеру следует добавлять дело, в названии которого будет слово <b>посещение</b>. В результате можно будет вести учет общего числа визитов по абонементам:</p>
+ 
+<p><img src="cid:resources/res364/9cBHi.show_report_abonement.png"  /></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6306</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

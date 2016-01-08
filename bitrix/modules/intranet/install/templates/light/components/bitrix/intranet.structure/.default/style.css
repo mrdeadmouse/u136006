@@ -1,0 +1,17 @@
+a#bx_head_link b span {
+	padding-right: 8px; 
+	background-image: url('images/arrow.gif'); 
+	background-position: right 7px; 
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+}
+
+.sidebar-links i.sidebar-action-outlook {
+	background:url("images/import_outlook.gif") no-repeat transparent;
+}
+.sidebar-links i.sidebar-action-head {
+	background:url("images/set_head.gif") no-repeat transparent;
+}
+.sidebar-actions-block i.sidebar-action-search {
+	background:url("images/search.gif") no-repeat transparent;
+}

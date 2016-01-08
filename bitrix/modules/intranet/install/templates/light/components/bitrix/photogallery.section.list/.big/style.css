@@ -1,0 +1,7 @@
+#workarea div#photo-main-page-right {
+	display: none;
+}
+
+#workarea .photo-page-main div#photo-main-page-right {
+	display: block;
+}

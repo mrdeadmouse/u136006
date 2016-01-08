@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3706</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1404904089</timestamp_x>
+<date_create>1340974672</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Календари</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>У вас есть возможность создавать разные календари для разных типов событий, отображать их на общей сетке и добавлять важные календари в избранные, для быстрого доступа к ним.</p>
+
+<ul>
+  <li><a href="#calendar_add">Добавление новых календарей</a></li>
+  <li><a href="#calendar_fav_edit">Добавление календарей в избранные</a></li>
+  <li><a href="#calendar_edit">Управление календарями</a></li> 
+</ul>
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Интерактивный видеоролик о работе с календарями</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Продолжительность 3 минуты 8 секунд.  Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если нет возможности прослушать звуковое сопровождение, то с помощью значка <img height="36" width="39" src="cid:resources/res125/U5i8l.audio_11.png" /> в правом верхнем углу ролика можно просмотреть текст. </p>
+
+
+ <iframe src="cid:resources/res125/vxomJ.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div>
+<br>
+
+
+<h4><a name="calendar_add"></a>Добавление новых календарей</h4>
+
+<p>Перейти к добавлению нового календаря можно двумя способами.</p>
+
+<ul>
+<li>Нажмите <b>добавить</b> на области списка календарей:
+  <p><img src="cid:resources/res125/XtFyA.add_calendar1.png" width="263" height="87"></p></li>
+
+<li>или после нажатия стрелки рядом с кнопкой <b>Добавить</b> выберите в меню пункт <b>новый календарь</b>:
+  <p><img src="cid:resources/res125/z42KC.add_calendar2.png" width="263" height="233"></p></li>
+</ul>
+
+<p>Откроется форма следующего вида:</p>
+
+<p><img src="cid:resources/res125/lesln.add_calendar_form.png" border="0" width="532" height="413" alt="Новый календарь" ></p>
+
+<ul>
+<li>Обязательно укажите <b>Название</b> календаря, по желанию введите <b>Описание</b> и укажите цвет.</li>
+<li>Вы можете разрешить добавлять в данный календарь приглашения на события от всех пользователей и добавить его в список <a href="#calendar_fav_edit">избранных календарей</a>.</li>
+<li>Если отметить опцию <b>Разрешить экспорт календаря</b>, то календарь можно будет экспортировать в календари <b>MS Outlook</b> в формате <b>iCal</b>. При этом в поле <b>Экспортировать события</b> можно задать период времени относительно момента экспорта, за который будут экспортированы события.
+<p><div class="warning"><b>Внимание!</b> Для полноценной интеграции требуется версия <b>MS Outlook 2007</b> и выше.</div></p>
+</li>
+</ul>
+
+<p>На закладке <b>Права доступа</b> настраиваются права доступа к календарю для пользователей:</p>
+<p><img src="cid:resources/res125/qN2os.calendar_access_14_5.png"></p>
+
+<p>Ссылка <b>Добавить</b> служит для выбора групп и/или пользователей, которым необходимо назначить некоторое право доступа к календарю.</p>
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Для коробочного Битрикс24</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p><div class="warning"><b>Важно! </b>Помните о том, что права доступа к типу календарей, заданные администратором в настройках модуля, перекрывают по значимости права доступа непосредственно к конкретному календарю данного типа.</div></p>
+</td></tr>
+</tbody>
+</table></div>
+
+
+
+
+
+<br/>
+<a name="calendar_fav_edit"></a><h4>Добавление календарей в избранные</h4>
+
+<p>Для быстрого доступа к календарям их можно <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05015">добавить в список избранных</a>.</p>
+
+<p>Если у вас еще нет избранных календарей, то для добавления календаря в избранные следует в меню его действий выбрать пункт <b>Добавить в избранные</b>:</p>
+
+ <p><img src="cid:resources/res125/7brM3.cal_fav.png" width="277" height="238"></p>
+
+<p>Либо можно добавить календари в избранные с помощью специальной формы настройки избранных календарей. Перейти к этой форме можно одним из двух способов:</p>
+<ul>
+<li>кликнув по кнопке меню настроек <img src="cid:resources/res125/xr6Xs.opt_button.png" width="16" height="15"> и выбрав пункт <b>Настроить избранные календари</b>;</li>
+<li>если уже имеются избранные календари, то нажав ссылку <b>настроить</b>:
+<p><img src="cid:resources/res125/wGBjy.izbr_regulate.png" width="258" height="302"></p>
+</li>
+</ul>
+
+<p>Для удаления календарей из избранных используйте следующие варианты:</p>
+  <p><img src="cid:resources/res125/y3FFN.profile_calendar_favorite_del.png" border="0" width="790" height="520"  ></p>
+
+<br/>
+
+<a name="calendar_edit"></a><h4>Управление календарями</h4>
+
+<p>Основные действия с календарем можно совершить через его меню действий:</p>
+  <p><img src="cid:resources/res125/zT9Hb.calendar_menu1.png" border="0" width="294" height="348" alt="Меню календаря" ></p>
+
+<ul>
+  <li><b>Редактировать</b> - переход к форме редактирования календаря. Форма редактирования аналогична форме <a href="#calendar_add">добавления календаря</a>, за исключением отсутствия опции <b>Добавить в избранные</b> и наличия ссылки <b>Удалить календарь</b>.</li>
+
+  <li><b>Добавить в избранные</b>/<b>Убрать из избранных</b> - добавление либо удаление <a href="#calendar_fav_edit">календарей из избранных</a>;</li>
+
+  <li><b>Соединить с Outlook</b> - двухсторонняя <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3711#export_msoutlook">синхронизация событий календаря с MS Outlook</a>;</li>
+
+ <li><b>Экспорт (iCal)</b> - экспорт данных <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3711#export_ical">календаря в формате iCal</a>. 
+<br/><br/>
+Данный пункт меню доступен, если в настройках календаря отмечена опция <a href="#calendar_add">Разрешить экспорт календаря</a>;</li>
+
+  <li><b>Удалить</b> - удаление выбранного календаря.</li>
+</ul>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>3706</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

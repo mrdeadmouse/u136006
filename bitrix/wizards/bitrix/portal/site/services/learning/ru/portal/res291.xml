@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6440</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1407320097</timestamp_x>
+<date_create>1404830137</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Функционал раздела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Для различных <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3762">ролей</a> доступ к CRM несколько различается. </p>
+
+<p>Ниже в таблице приведен функционал, соответствующий различным ролям сотрудников по умолчанию, и указаны соответствующие страницы:</p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#8C8C8C"><td><b>Функционал</b></td><td><b>Страница</b></td><td><b>Права пользователя</b></td></tr>
+
+<tr bgcolor="#eeeeee"><td>Управление валютами</td>
+<td>CRM > Настройка > Валюты </td>
+<td>Администратор</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td>Добавление почтового шаблона для себя</td>
+<td>CRM > Настройка > Почтовые шаблоны </td>
+<td>Менеджер</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td>Добавление событий</td>
+<td>Страницы разделов контакты, компании, лиды, сделки, либо страница детального просмотра сущности</td>
+<td>Менеджер</td>
+</tr>
+
+
+<tr bgcolor="#ffffff"><td>Добавление дел</td>
+<td>Страницы разделов контакты, компании, лиды, сделки, либо страница детального просмотра сущности</td>
+<td>Менеджер</td>
+</tr>
+          
+  
+<tr bgcolor="#eeeeee"><td>Добавить гаджет</td>
+<td>Рабочий стол CRM</td>
+<td>Менеджер</td>
+</tr>
+    
+    <tr bgcolor="#ffffff"><td>Удаление "чужих" событий с закладки <b>История</b></td>
+<td>Диалог просмотра сущности</td>
+<td>Администратор</td>
+</tr>
+
+
+    <tr bgcolor="#eeeeee"><td>Сбросить текущие настройки</td>
+<td>Рабочий стол CRM</td>
+<td>Менеджер</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Сохранить текущие настройки как настройки по умолчанию</td>
+<td>Рабочий стол CRM</td>
+<td>Менеджер</td></tr>
+
+  
+    <tr bgcolor="#eeeeee"><td>Произвольные действия с любыми сущностями CRM</td>
+<td>Страницы разделов сущностей</td>
+<td>Директор</td></tr>
+
+<tr bgcolor="#ffffff"><td>Удаление сконвертированного лида</td>
+<td>Страница раздела Лиды</td>
+<td>Администратор</td></tr>
+  
+    <tr bgcolor="#eeeeee"><td>Назначение прав доступа</td>
+<td>Права доступа</td>
+<td>Администратор</td></tr>
+  
+    <tr bgcolor="#ffffff"><td>Настройка значений параметров сущностей</td>
+<td>Справочники   
+     </td>
+<td>Администратор</td></tr>
+
+  <tr bgcolor="#eeeeee"><td>Действия с шаблонами бизнес-процессов</td>
+<td>Бизнес-процессы  
+     </td>
+<td>Администратор</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td>Настройка параметров отправки писем</td>
+<td>Настройки (для <b>Битрикс24</b> - <b>Прочее</b>)</td>
+<td>Администратор</td></tr>
+
+  <tr bgcolor="#eeeeee"><td>Отправка писем</td>
+<td>Страницы разделов Контакты, Компании, Лиды</td>
+<td>Менеджер</td></tr>
+
+
+    <tr bgcolor="#ffffff"><td>Создание новых полей</td>
+<td>Настраиваемые поля</td>
+<td>Администратор</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Создание интеграции Send&Save</td>
+<td>Интеграция Send&Save
+     </td>
+<td>Администратор      </td></tr>
+
+<tr bgcolor="#ffffff"><td>Создание заказа в интернет-магазине</td>
+<td>Добавление сделки</td>
+<td>Менеджер</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Добавление товара в каталог</td>
+<td>Каталог</td>
+<td>Администратор</td></tr>
+
+<tr bgcolor="#ffffff"><td>Управление разделами каталога</td>
+<td>Каталог</td>
+<td>Администратор</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Создание интеграции с интернет-магазином</td>
+<td>Интернет-магазины</td>
+<td>Администратор</td></tr>
+  
+
+<tr bgcolor="#ffffff"><td>Просмотр ленты событий</td>
+<td>Лента</td>
+<td>В соответствии с настройками</td></tr>
+   </tbody>
+         </table>
+             </td></tr>
+
+ </tbody>
+         </table>
+             </td></tr>
+
+  </tbody>
+</table>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>6440</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

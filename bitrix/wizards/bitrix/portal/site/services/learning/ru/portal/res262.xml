@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>2374</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>1</childs_cnt>
+<is_childs>1</is_childs>
+<sort>900</sort>
+<timestamp_x>1404986123</timestamp_x>
+<date_create>1303382870</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Техподдержка</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Современный веб-портал насыщен разнообразными функциями, сориентироваться в которых сотруднику бывает порой непросто. Многие компании хотели бы иметь возможность оперативно отвечать на вопросы сотрудников. Решение поставленных задач осуществляется с помощью <b>Технической поддержки</b>, которая позволяет вести работу с обращениями сотрудников.</p>
+<p><b>Создание обращения</b></p>
+<p>Создание обращения в IT-службу выполняется с помощью удобного мастера, состоящего из нескольких шагов.</p>
+<p>На первом шаге укажите <b>Заголовок обращения</b> и выберите тип проблемы.</p>
+
+<p><img border="0" src="cid:resources/res262/CoyIL.sup1.png" /></p>
+
+<p>Нажмите кнопку <b>Далее</b>.</p>
+<p>Количество шагов, а также содержимое следующего шага зависит от выбранного типа проблемы. Например, на втором шаге для вопроса по корпоративному порталу необходимо уточнить проблему:</p>
+
+<p><img border="0" src="cid:resources/res262/MnbKo.sup2.png" /></p>
+
+<p>Отметьте нужную опцию и нажмите кнопку <b>Далее</b>.</p>
+<p>На третьем шаге указывается детальное описание проблемы (для некоторых типов проблем этот шаг может быть вторым по счету):</p>
+
+<p><img border="0" src="cid:resources/res262/MOLtr.sup3.png" /></p>
+
+<p>Подробно опишите проблему и нажмите кнопку <b>Готово</b>. Становится доступным предварительный просмотр обращения:</p>
+
+<p><img border="0" src="cid:resources/res262/b3nV7.sup_preview.png" /></p>
+
+<p>Если вам необходимо внести поправки в обращение, то воспользуйтесь формой, расположенной ниже:</p>
+
+<p><img border="0" src="cid:resources/res262/vKzRD.sup_mes.png" /></p>
+
+<p>Данная форма позволяет прикрепить файлы к обращению, указать критичность, категорию и закрыть его впоследствии.</p>
+<p>Для отправки обращения нажмите кнопку <b>Сохранить</b>. Обращение добавится в список ваших обращений в IT-службу:</p>
+
+<p><img border="0" src="cid:resources/res262/AMcY7.mes_list.png" /></p>
+
+<h4>Просмотр и обсуждение обращений</h4>
+<p>Для просмотра созданных обращений в IT-службу и дальнейшего обсуждения вопросов воспользуйтесь ссылкой <b>Мои обращения</b>, расположенной на странице <b>Техническая поддержка</b>. Откроется страница со списком всех ваших обращений в IT-службу. Также на странице расположена форма фильтра, позволяющая найти обращения по заданным критериям. </p> 
+
+<p>Для каждого обращения указывается индикатор. Для решенных, закрытых обращений индикатор <img src="cid:resources/res262/TUr6U.gray.png" height="14" width="14"/>  серого цвета. Если последний раз в обращении писали вы, то индикатор <img src="cid:resources/res262/1YypV.green.png" height="14" width="14"/> зеленый, а если сотрудник службы, то индикатор <img src="cid:resources/res262/FtBks.red.png" height="14" width="14"/> имеет красный цвет.</p>
+
+<p><img border="0"  src="cid:resources/res262/Zblvy.mes_list2.png" /></p>
+
+<p>Для просмотра ответа службы и внесения изменений в обращение выберите пункт <b>Изменить</b> в меню действий . Откроется страница обсуждения обращения.</p>
+<p><img border="0" src="cid:resources/res262/UHv9w.discuss.png" /></p>
+
+<p>Добавить свой ответ вы можете с помощью формы, расположенной под формой обсуждения (форма аналогична той, с помощью которой вносятся поправки в обращение при его создании).</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>900</edge_sort>
+<id>2374</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

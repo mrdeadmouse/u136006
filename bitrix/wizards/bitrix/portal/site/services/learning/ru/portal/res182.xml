@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6447</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1000</sort>
+<timestamp_x>1405078088</timestamp_x>
+<date_create>1404910673</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Доска почета</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="note"><b>Доска почета</b> - это специальный инструмент для морального поощрения сотрудников.</div>
+
+<p>За особые заслуги сотрудник может быть помещен на <b>Доску почета</b>. В этом случае на странице отображается визитка сотрудника, заголовком которой является краткое описание заслуги:</p>
+
+<p><img src="cid:resources/res182/KZFCP.desk24.png"></p>
+
+<p>Если вы обладаете правами доступа <b>Отдел кадров</b> или <b>Администрация портала</b>, то вам будет доступна кнопка <img src="cid:resources/res182/yKoAY.add_2_desk24.png">, нажав на которую вы можете добавить сотрудника на <b>Доску почета</b>. Заполните поля открывшейся формы:</p>
+<p><img src="cid:resources/res182/8rHXq.desk_of_fame22.png"></p>
+
+<ul>
+<li>Нажмите кнопку <img src="cid:resources/res182/vj9my.button.png">, чтобы выбрать награждаемого сотрудника. Откроется следующая форма:
+<p><img src="cid:resources/res182/nWZfs.leaders_add.png"></p>
+<p>В структуре компании найдите необходимого сотрудника (можно воспользоваться строкой поиска сверху), кликнете по нему и нажмите кнопку <b>Выбрать</b>.</p>
+</li>
+
+<li><b>За какие заслуги помещен на доску</b> - укажите здесь заслугу, за которую сотрудник помещается на доску почета (обязательное к заполнению поле).</li>
+
+<li><b>Начало</b> - нажмите на пиктограмму календаря и выберите дату, и, при необходимости, время начала нахождения на доске почета.</li>
+
+<li><b>Окончание</b> - нажмите на пиктограмму календаря и выберите дату, и, при необходимости, время окончания нахождения на доске почета.</li>
+
+<li><b>Название</b> - укажите здесь заслугу, за которую сотрудник был внесен на доску почета (обязательное к заполнению поле).</li>
+
+<li>В поле <b>Краткое описание заслуги</b> введите описание заслуги сотрудника. Оно будет использоваться в качестве заголовка карточки сотрудника на доске почета.</li>
+</ul>
+
+<p>Для внесения сотрудника на <b>Доску почета</b> нажмите кнопку <b>Сохранить</b>.</p>
+
+<p>Если вы обладаете правами доступа <b>Отдел кадров</b> или <b>Администрация портала</b>, то вам также будет доступна кнопка <img src="cid:resources/res182/xoBMy.desk_manage24.png">, нажав на которую вы получаете доступ к административному разделу для управления <b>Доской почета</b>:</p>
+<p><img src="cid:resources/res182/5EeVj.desk_admin.png"></p>
+
+<p>Здесь представлены имеющиеся записи о заслугах, за которые сотрудники помещаются на <b>Доску почета</b>. Добавление/удаление/редактирование записей осуществляется аналогично работе с другими элементами в административном разделе.</p>
+
+<p><div class="hint"><b>Примечание</b>: подробнее о предоставляемых административным режимом операциях, рассказано в разделе <a href="/learning/course/index.php?COURSE_ID=48&CHAPTER_ID=04675" target="_blank">Работа с инфоблоками</a> курса по администрированию сервиса <b>Битрикс24</b>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000</edge_sort>
+<id>6447</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

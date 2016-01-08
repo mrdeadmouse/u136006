@@ -1,0 +1,8 @@
+<?
+$MESS["MB_TASKS_TASK_TOPIC_REVIEWS_ERR_ACCESS_DENIED_TO_FORUM"] = "Insufficient permissions to view comments.";
+$MESS["MB_TASKS_TASK_TOPIC_REVIEWS_ERR_FORUM_NOT_AVAILABLE"] = "The task comments forum #FORUM_ID# is unavailable.";
+$MESS["MB_TASKS_TASK_TOPIC_REVIEWS_ERR_TASK_NOT_AVAILABLE"] = "The task #TASK_ID# is unavailable.";
+$MESS["MB_TASKS_TASK_FORUM_TOPIC_REVIEWS_COMMENT_MESSAGE_ADD"] = "Added a comment on task \"#TASK_TITLE#\", comment text: \"#TASK_COMMENT_TEXT#\"";
+$MESS["MB_TASKS_TASK_FORUM_TOPIC_REVIEWS_COMMENT_MESSAGE_EDIT"] = "Changed a comment added to task \"#TASK_TITLE#\" to: \"#TASK_COMMENT_TEXT#\"";
+$MESS["MB_TASKS_TASK_FORUM_TOPIC_REVIEWS_COMMENT_SONET_NEW_TASK_MESSAGE"] = "Task created";
+?>

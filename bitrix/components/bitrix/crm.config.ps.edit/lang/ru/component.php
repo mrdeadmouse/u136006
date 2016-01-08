@@ -1,0 +1,35 @@
+<?
+$MESS['CRM_MODULE_NOT_INSTALLED'] = 'Модуль CRM не установлен.';
+$MESS['CRM_SALE_MODULE_NOT_INSTALLED'] = 'Модуль SALE не установлен.';
+$MESS['CRM_PERMISSION_DENIED'] = 'Доступ запрещен';
+$MESS['CRM_PS_NOT_FOUND'] = 'Платежная система не найдена!';
+$MESS['CRM_PS_SECTION_MAIN'] = 'Платежная система';
+$MESS['CRM_PS_FIELD_NAME'] = 'Название';
+$MESS['CRM_PS_FIELD_ACTIVE'] = 'Активность';
+$MESS['CRM_PS_FIELD_SORT'] = 'Сортировка';
+$MESS['CRM_PS_FIELD_NEW_WINDOW'] = 'Открывать в новом окне';
+$MESS['CRM_PS_FIELD_ENCODING'] = 'Кодировка';
+$MESS['CRM_PS_FIELD_PERSON_TYPE_ID'] = 'Тип клиента';
+$MESS['CRM_PS_FIELD_DESCRIPTION'] = 'Описание';
+$MESS['CRM_PS_FIELD_ACTION_FILE'] = 'Обработчик';
+$MESS['CRM_PS_FIELD_LOGOTIP'] = 'Логотип платёжной системы';
+$MESS['CRM_PS_LOGOTIP_DEL'] = 'Удалить файл';
+$MESS['CRM_PS_ACT_PROPERTIES'] = 'Свойства обработчика';
+$MESS['CRM_PS_ADD_UNKNOWN_ERROR'] = 'Во время создания платежной системы произошла ошибка';
+$MESS['CRM_PS_UPDATE_UNKNOWN_ERROR'] = 'Во время обновления платежной системы произошла ошибка';
+$MESS['CRM_PS_DELETE_UNKNOWN_ERROR'] = 'Во время удаления платежной системы произошла ошибка';
+$MESS['CRM_PS_TYPES_OTHER'] = 'Другое значение';
+$MESS['CRM_PS_TYPES_USER'] = 'Параметр пользователя';
+$MESS['CRM_PS_TYPES_ORDER'] = 'Параметр';
+$MESS['CRM_PS_TYPES_PROPERTY'] = 'Свойство';
+$MESS['CRM_PS_JCOUNTRY'] = "страна";
+$MESS['CRM_PS_JCITY'] = "город";
+$MESS['CRM_PS_ERROR_NO_NAME'] = "Не указано название платежной системы.";
+$MESS['CRM_PS_EMPTY_SCRIPT'] = "Не указан скрипт обработчика платежной системы.";
+$MESS['CRM_PS_NO_SCRIPT'] = "Скрипт обработчика платежной системы не существует.";
+$MESS['CRM_PS_ERROR_UPDATE'] = "Ошибка обновления параметров обработчика платежной системы.";
+$MESS['CRM_PS_ERROR_ADD'] = "Ошибка добавления обработчика платежной системы.";
+$MESS['CRM_PS_SHOW_FIELDS'] = "Показать все поля";
+$MESS['CRM_PS_HIDE_FIELDS'] = "Скрыть лишние поля";
+$MESS['CRM_PS_DEL_FILE'] = "Удалить файл";
+?>

@@ -1,0 +1,38 @@
+<?
+$MESS["CRM_ALL"] = "Всего";
+$MESS["CRM_ACTION_SHOW"] = "Просмотреть дело";
+$MESS["CRM_ACTION_EDIT"] = "Редактировать дело";
+$MESS["CRM_ACTION_MARK_AS_NOT_COMPLETED"] = "Отметить как невыполненное";
+$MESS["CRM_ACTION_MARK_AS_COMPLETED"] = "Отметить как выполненное";
+$MESS["CRM_ACTION_DELETE"] = "Удалить";
+$MESS["CRM_ACTION_STATUS_COMPLETED"] = "Выполнено";
+$MESS["CRM_ACTION_STATUS_NOT_COMPLETED"] = "Не выполнено";
+$MESS["CRM_ACTION_IMPORTANT"] = "Важное дело";
+$MESS["CRM_ACTION_TYPE_MEETING"] = "Встреча с клиентом";
+$MESS["CRM_ACTION_TYPE_CALL_OUTGOING"] = "Звонок клиенту";
+$MESS["CRM_ACTION_TYPE_CALL_INCOMING"] = "Звонок от клиента";
+$MESS["CRM_ACTION_TYPE_EMAIL_OUTGOING"] = "Письмо клиенту";
+$MESS["CRM_ACTION_TYPE_EMAIL_INCOMING"] = "Письмо от клиента";
+$MESS["CRM_ACTION_TYPE_TASK"] = "Задача";
+$MESS["CRM_ACTION_COMPLETED"] = "Выполнено";
+$MESS["CRM_ACTION_NOT_COMPLETED"] = "Не выполнено";
+$MESS["CRM_ACTION_CLICK_TO_COMPLETE"] = "Кликните чтобы отметить как выполненное";
+$MESS["CRM_ACTION_CONVERTING_OF_CALENDAR_EVENTS"] = "Найдены события календаря, связанные с CRM, но не представленные в списке. Вы можете <a href=\"#URL_EXECUTE_CONVERTING#\">добавить их в список</a> или <a href=\"#URL_SKIP_CONVERTING#\">пропустить</a>.";
+$MESS["CRM_ACTION_CONVERTING_OF_TASKS"] = "Найдены задачи, связанные с CRM, но не представленные в списке. Вы можете <a href=\"#URL_EXECUTE_CONVERTING#\">добавить их в список</a> или <a href=\"#URL_SKIP_CONVERTING#\">пропустить</a>.";
+$MESS["CRM_ACTION_QUICK_FILTER_SEARCH_RESULT"] = "Результаты поиска";
+$MESS["CRM_ACTION_QUICK_FILTER_TITLE"] = "Показать";
+$MESS["CRM_ACTION_QUICK_FILTER_ALL"] = "Все";
+$MESS["CRM_ACTIVITY_LIST_ADD_TASK"] = "Добавить задачу";
+$MESS["CRM_ACTIVITY_LIST_ADD_CALL"] = "Добавить звонок";
+$MESS["CRM_ACTIVITY_LIST_ADD_MEETING"] = "Добавить встречу";
+$MESS["CRM_ACTIVITY_LIST_ADD_EMAIL"] = "Написать письмо";
+$MESS["CRM_ACTIVITY_LIST_ADD_TASK_SHORT"] = "Задачу";
+$MESS["CRM_ACTIVITY_LIST_ADD_CALL_SHORT"] = "Звонок";
+$MESS["CRM_ACTIVITY_LIST_ADD_MEETING_SHORT"] = "Встречу";
+$MESS["CRM_ACTIVITY_LIST_ADD_EMAIL_SHORT"] = "Письмо";
+$MESS["CRM_ACTIVITY_LIST_ADD_EVENT_SHORT"] = "Событие";
+$MESS["CRM_ACTIVITY_LIST_ADD_EVENT"] = "Добавить событие";
+$MESS["CRM_ACTIVITY_LIST_SHOW_FILTER_SHORT"] = "Фильтр";
+$MESS["CRM_ACTIVITY_LIST_SHOW_FILTER"] = "Показать/скрыть форму фильтра";
+$MESS["CRM_ACTIVITY_LIST_WAIT_FOR_RELOAD"] = "Пожалуйста, дождитесь обновления списка дел";
+?>

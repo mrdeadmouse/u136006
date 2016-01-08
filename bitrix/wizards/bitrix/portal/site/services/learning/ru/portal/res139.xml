@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3703</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1419859029</timestamp_x>
+<date_create>1340959558</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Мой Диск</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Мой Диск</b> содержится ваш персональный файловый архив, доступ к которому для других сотрудников вы можете определить самостоятельно для разных файлов и папок:</p>
+ 
+<p><img src="cid:resources/res139/WQkfR.my_disk.png" border="0" width="696" height="496"  /></p>
+ 
+<p>По умолчанию у пользователя созданы папки: </p>
+ 
+<ul> 
+  <li><b>Общие файлы</b> - папка, доступ к которой будут иметь другие сотрудники в режиме <b>Чтение</b>. Общие файлы можно просматривать только на странице <u>личных файлов</u> сотрудника (ссылка Мой Диск в профиле). </li>
+ 
+  <li><b>Загрузки</b> - в этой папке хранятся файлы, загружаемые в сообщениязадачи на портале. Папка и файлы скрыты от всех пользователей, кроме владельца, но для файлов, загружаемых в сообщения портала, выставляются права <b>Чтение</b> для пользователей. Данная папка не <a target="_blank" href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5287" >синхронизируется с локальной папкой</a> вашего компьютера. 
+    <p></p>
+   
+    <div class="hint"><b>Примечание: </b>удаление файлов из папки <b>Загрузки</b> не ведет к удалению их из сообщений, задач.</div>
+   
+    <p></p>
+   </li>
+ 
+  <li><b>Сохраненные файлы</b> - в этой папке содержатся файлы, сохраненные вами на Диск: 
+    <p><img src="cid:resources/res139/UJU5S.saving.png" border="0" width="439" height="341"  /></p>
+   
+    <p></p>
+   
+    <div class="hint"><b>Примечание: </b>данная папка не отображается в вашем Диске до тех пор, пока вы не сохраните в нее какой-либо файл на вашем локальном компьютере.</div>
+   
+    <p></p>
+   </li>
+ </ul>
+ 
+<p>Остальные папки и файлы недоступны другим пользователям, но при желании к ним тоже можно настроить доступ.</p>
+ 
+<p></p>
+ 
+<p></p>
+ 
+<p>Вы можете сделать личную папку общей, выбрав соответствующий пункт в меню действий:</p>
+ 
+<p><img src="cid:resources/res139/69LGB.common.png" border="0" width="333" height="261"  />
+<a name="prava"></a>
+</p>
+ 
+<p>В появившемся окне выберите сотрудников, для которых будет открыт доступ:</p>
+ 
+<p><img src="cid:resources/res139/3lYKI.common_dos.png" border="0" width="575" height="406"  /></p>
+ 
+<p>Добавьте сотрудников и группы, которым следует открыть доступ к этой папке, укажите уровень доступа (<b>Чтение</b>, <b>Редактирование</b>, <b>Полный доступ</b>). После этого сотрудники, которых вы подключили, получат соответствующее уведомление, а сама папка появится в их личных дисках.</p>
+ При вступлении в группу ее хранилище появится в вашем диске. Физически это означает, что вашему диску передается ссылка на папку, но сама папка не копируется на диск. Для подключения дискапапки группы, не вступая в нее, нажмите на контекстном меню соответствующую кнопку: 
+<p><img src="cid:resources/res139/PB9vM.group2.png" border="0" width="497" height="135"  /></p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание! </b>Данная кнопка будет доступна при наличии прав на дискпапку группы не ниже <b>Изменение</b>.</div>
+ 
+<p></p>
+ 
+<p>Общие папки в разделе Мой Диск будут помечены пиктограммой <img src="cid:resources/res139/gffYl.two-users-5.png" border="0" width="47" height="37"  />. </p>
+ 
+<p>При необходимости можно отключить папку от Диска, выбрав в контекстном меню пункт <b>Отключить</b> и подтвердив свое намерение во всплывающем окне:</p>
+ 
+<p><img src="cid:resources/res139/VtEMX.otkl.png" border="0" width="679" height="279"  /></p>
+ 
+<br />
+ Вы можете управлять настройками своей личной библиотеки. Переход к настройкам осуществляется по ссылке <b>Настроить список </b>в меню действий контекстной панели: 
+<br />
+ 
+<br />
+ <img src="cid:resources/res139/VfIRd.nastr1.png" border="0" width="543" height="721"  /> 
+<br />
+ 
+<p>Операции с файлами, настройка прав доступа и подключение общей папки к личному диску рассмотрены <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=06830" target="_blank" >здесь</a>.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3703</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6459</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>500</sort>
+<timestamp_x>1419841016</timestamp_x>
+<date_create>1405081257</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p></p>
+ 
+<div class="note"><b>Бизнес-процесс</b> - это процесс обработки документа, для которого задана одна точка входа и несколько точек выхода и последовательность действий (шагов, этапов, функций), совершаемых в заданном порядке и в определенных условиях.</div>
+ 
+<p></p>
+ 
+<p>Инструмент <b>Бизнес-процессы</b> интегрирован с <b>Общими документами</b> и включает в себя действия, позволяющие согласовать, утвердить и опубликовать некоторый документ. Для создания новых и редактирования шаблонов бизнес-процессов используется <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3733" target="_blank" ></a><a target="_blank" href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3735" >Дизайнер бизнес-процессов</a>.</p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание:</b> Функционал <b>Бизнес-процессы</b>, помимо <b>Общего диска</b>, также доступен и для <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05011" >Диска групп</a>. </div>
+ 
+<p></p>
+ 
+<br />
+
+<h4>Включение бизнес-процессов</h4>
+ 
+<p>По умолчанию Бизнес-процессы не включены. Для их включения:</p>
+ 
+<ul> 
+  <li>С помощью кнопки настроек вызовите диалог настройки свойств Общего диска: </li>
+ </ul>
+ 
+<ul> 
+  <p><img src="cid:resources/res216/bU2LL.nastr_bp.png" border="0" width="234" height="176"  /></p>
+ </ul>
+ 
+<ul> 
+  <li>Поставьте флажок в поле <b>Активировать бизнес-процессы</b></li>
+ </ul>
+ 
+<p><img src="cid:resources/res216/6amCQ.biz_proc.png" border="0" width="543" height="184"  /></p>
+ 
+<ul> 
+  <li>Сохраните внесённые изменения.</li>
+ </ul>
+ 
+<p>После этого в меню кнопки настроек появится возможность работы с Бизнес-процессами:</p>
+ 
+<p><img src="cid:resources/res216/2fvrH.biz_proc1.png" border="0" width="232" height="207"  /></p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание:</b> Работа с бизнес-процессами распространяется и на подключение общих документов как <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=03731" >сетевого диска</a>. 
+  <br />
+ Другими словами, при работе с файлами через сетевой диск на портале для них можно создавать и запускать различные шаблоны бизнес-процессов.</div>
+ 
+<p></p>
+ 
+<br />
+
+<h4>Типы бизнес-процессов</h4>
+ 
+<p>Описание типов бизнес-процессов приведено в уроке <a href="/learning/course/index.php?COURSE_ID=52&CHAPTER_ID=04945" target="_blank" >Типы бизнес-процессов</a>.</p>
+ 
+
+<p>Подробнее про работу с бизнес-процессами можно посмотреть в курсе <a href="/learning/course/index.php?COURSE_ID=57&INDEX=Y" target="_blank" >Бизнес-процессы</a>. 
+ 
+<p> 
+  <br />
+ </p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6459</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

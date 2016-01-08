@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6352</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>860</sort>
+<timestamp_x>1418050985</timestamp_x>
+<date_create>1401883092</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Коммерческие предложения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p></p>
+
+<div class="note"><b>Коммерческое предложение</b> в CRM представляет собой сущность, ориентированную на ознакомление клиента с предметом потенциальной сделки.</div>
+
+<p></p>
+ 
+<p>Менеджер, получая согласие от клиента на коммерческое предложение, может далее создавать сделку, высылать договор, выписывать счет и т.п..</p>
+ 
+<br />
+ 
+<div class="hint"><b>Примечание: </b>Так как конечной целью и желаемым результатом связей с контактами и фирмами является сделка, то финальный список товаров и услуг, а также итоговая сумма фиксируются в форме сделки и счета. Таким образом, первичное коммерческое предложение может существенно отличаться от сделки. </div>
+ 
+<p>На странице <span class="path">CRM &gt; Предложения</span> представлен список предложений. Здесь возможно отслеживать и менять <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3758" >статусы</a> предложений:</p>
+ 
+<p><img src="cid:resources/res334/xGMyF.predl.png" border="0" width="684" height="403"  /></p>
+ 
+<p>Способы создания предложения аналогичны методам <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5362" >выставления счета</a>.</p>
+ 
+<p>Рассмотрим форму добавления предложения:</p>
+ 
+<p><img src="cid:resources/res334/vxugM.kp_new.png"  /></p>
+ 
+<p>Поля и наименования разделов предложения можно редактировать и удалять. Для этого используйте значки карандаша и крестика, доступные при наведении курсора мыши:</p>
+ 
+<p><img src="cid:resources/res334/DJ1cq.edit_opt.png"  /></p>
+ 
+<p></p>
+
+<div class="hint"><b>Примечание:</b> по ссылке <b>Показать поле</b> можно вернуть в форму скрытые поля: 
+  <p><img src="cid:resources/res334/DaVWu.opt_client.png"  /></p>
+ </div>
+
+<p></p>
+ 
+<p>Зажав левой кнопкой мыши, поле можно переносить по форме.</p>
+ 
+<p>Чтобы добавить свое поле, кликните по ссылке <b>Добавить поле</b>, появляющейся при наведении курсора мыши на область группы полей:</p>
+ 
+<p><img src="cid:resources/res334/31EgH.add_opt.png"  /></p>
+ 
+<p>Выберите тип создаваемого поля. Выбрав тип <b>Раздел</b>, можно создать свою группу параметров предложения.</p>
+ 
+<p></p>
+
+<div class="warning"><b>Внимание!</b> Изменения формы добавления предложения будут сохранены даже если отменить его создание.</div>
+
+<p></p>
+ 
+<p>Вы можете отменить изменения формы, либо сохранить их для всех пользователей (доступно для администраторов), используя кнопку контекстной панели формы создания предложения:</p>
+ 
+<p><img src="cid:resources/res334/3OBYA.reset_opt.png"  /></p>
+ 
+<p>После создания предложения его можно распечатать, скачать в виде PDF, отправить по email, выставить по нему <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5362" >счет</a> или добавить <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05028#add_event" >событие</a>:</p>
+ 
+<p><img src="cid:resources/res334/oMTrw.view_offer.png"  /></p>
+ 
+<p>После отправки предложения на e-mail на ваш адрес придет копия письма в качестве подтверждения отправки.</p>
+ 
+<p></p>
+
+<div class="hint"><b>Примечание:</b> вид печатной формы предложения настраивается на странице <span class="path">CRM &gt; Настройки &gt; Способы оплаты</span>, где выбирается для редактирования предложение для компаний\контактов.</div>
+
+<p></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>860</edge_sort>
+<id>6352</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

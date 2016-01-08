@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3737</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1356611955</timestamp_x>
+<date_create>1341831813</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Создание шаблона последовательного бизнес-процесса</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>При проектировании шаблона <b>последовательного бизнес-процесса</b> после <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3736">настройки и сохранения его параметров</a> сразу становится доступным <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3735#viz_constr">визуальный конструктор</a> для конструирования шаблона:</p>
+
+<p><img src="cid:resources/res222/my8FV.sequence_templ1_sm.png" border="0" height="374" width="600" /></p>
+
+<p>Конструирование шаблона выполняется путем добавления в рабочую область необходимых действий с последующей настройкой их параметров:</p>
+
+<p><img src="cid:resources/res222/Fc8mi.sequence_templ2_sm.png" border="0" height="376" width="600" /></p>
+<p><img src="cid:resources/res222/EypHO.sequence_templ3_sm.png" border="0" height="376" width="600" /></p>
+
+<br />
+<p>Настройка параметров каждого действия осуществляется в специальной форме, открываемой с помощью кнопки <img src="cid:resources/res222/l9bqa.bizproc_action_settings_but.png" border="0" height="15" width="15">, причем набор параметров зависит от конкретного действия. </p>
+
+<p>Рассмотрим настройку параметров на примере действия <b>Почтовое сообщение</b>:</p>
+
+<p><img src="cid:resources/res222/o8qHJ.biz_action_form.png" border="0" height="476" width="700" /></p>
+
+<p>Заполните необходимым поля. Для упрощения процедуры заполнения полей служит кнопка <img src="cid:resources/res222/JYlbU.but_dots.png" height="18" width="16">, при нажатии которой открывается зависящая от типа поля форма выбора значений:</p>
+
+<p><table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top"><td><img src="cid:resources/res222/dEZAk.biz_action_field.png" border="0" height="393" width="350" /></td><td>Форма выбора значений позволяет подставлять в поля значения из следующих пяти групп (количество отображаемых групп зависит от типа заполняемого поля):
+<ul>
+<li><b>Параметры шаблона</b> - значения из параметров, заданных для данного шаблона бизнес-процесса;</li>
+<li><b>Переменные</b> - значения из переменных, заданных для данного шаблона бизнес-процесса;</li>
+<li><b>Поля документа</b> - значения из параметров, заданных для используемого информационного блока;</li>
+<li><b>Дополнительные результаты</b> - значения из результатов других действий в шаблоне бизнес-процессы;</li>
+<li><b>Пользователи</b> - пользователи системы (по группам и списком), имеющие доступ к данному инфоблоку не ниже, чем <b>Бизнес-процессы</b>.</li>
+</ul></td></tr>
+   </tbody>
+ </table></p>
+
+<p>Для выбора значения откройте нужную группу, затем выберите необходимое значение и нажмите кнопку <b>Вставить</b> (либо дважды кликнете по выбранному значению). Для вставки нескольких значений необходимо повторно вызвать форму выбора значения. Значение или его код будут подставлены в настраиваемое поле (Например, в данном случае <code>{=Document:NAME}</code> и <code>{=Document:CREATED_BY_PRINTABLE}</code>):</p>
+
+<p><img src="cid:resources/res222/thRJZ.biz_action_form1.png" border="0" height="476" width="700"></p>
+
+<p>По окончании настройки параметров действия, сохраните его. Система вернется к созданию (редактированию) шаблона бизнес-процесса.</p>
+
+<p>Когда в шаблон будут добавлены и настроены все необходимые действия, не забудьте сохранить его. Шаблон отобразится в списке всех шаблонов бизнес-процессов.</p>
+
+<br>
+
+<p>Имеется возможность вычислять значения выражений в параметрах действий, для этого необходимо поставить знак <code>=</code> в поле перед операциями. </p>
+
+<b>Пример:</b> <code>="Ответ:" & (1+3)</code> или <code>=if({Document:ID}=5, "текст1", "текст2")</code>.
+<p><img src="cid:resources/res222/uUXp3.bizproc_calc_example.png" border="0" height="429" width="695" /></p>
+
+<p>Доступны следующие операторы:</p>
+<p>+; -; *; /; >>; =; <<; ==; <; >; (); &; ^; abs; and; dateadd; false; if; intval; min; not; or; substr; true.</p>
+<p><div class="hint"><b>Примечание:</b> Синтаксис символьных операторов аналогичен синтаксису соответствующих php-функций.</div></p>
+
+<p>Если синтаксис выражения будет неправильным, то оно будет отображено как текст.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3737</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6446</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1100</sort>
+<timestamp_x>1405062616</timestamp_x>
+<date_create>1404910311</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Дни рождения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Если в личной информации сотрудника указана дата его рождения, то визитная карточка сотрудника будет отображена на странице <b>Дни рождения</b>:</p>
+
+<p><img src="cid:resources/res183/KjTyZ.birthday24.png"></p>
+
+<p>Показ года рождения определяется настройками компонента, с помощью которого создана данная страница. В данном примере год рождения отображается только для мужчин.</p>
+
+<p>Используя фильтр по подразделениям, вы можете указать подразделение или отдел, дни рождения сотрудников которых хотите просмотреть. Об использовании фильтра по подразделениям рассказано на странице <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=6444">Кадровые изменения</a>.</p>
+
+<p>С помощью ссылки <b>написать сообщение</b> вы можете поздравить именинника с днем рождения. Кроме того, день рождения сотрудника отображается специальным ярлычком на странице <b>Структура компании</b> и на личной странице сотрудника.</p>
+
+<p><div class="hint"><b>Примечание:</b> для сотрудников, обладающих правом доступа <b>Отдел кадров</b>, дополнительно в карточке доступна ссылка <b>редактировать</b>. Она служит для открытия формы, в которой можно отредактировать личные данные сотрудника.</div></p>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1100</edge_sort>
+<id>6446</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

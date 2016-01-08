@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3754</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1416835255</timestamp_x>
+<date_create>1342518962</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Добавить лид</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Есть несколько способов добавления лида:</p>
+ 
+<ul> 
+  <li>клик по кнопке <b>Добавить лид</b> на контекстной панели страницы со списком лидов;</li>
+ 
+  <li>нажав на &quot;+&quot;, появляющийся при наведении курсора мыши на иконку лидов в главном меню CRM: 
+    <p><img src="cid:resources/res332/besyB.Plus_lid.png" border="0" width="96" height="108"  /></p>
+   </li>
+ 
+  <li><a href="/community/blogs/chaos/crm-sozdanie-lidov-iz-drugikh-servisov.php" >через rest api</a>;</li>
+ 
+  <li><a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3767" >из входящего письма</a> на почту;</li>
+ 
+  <li>на основе заполненной веб-формы на вашем сайте; подробнее об этом читайте в курсе <a href="/learning/course/index.php?COURSE_ID=41&LESSON_ID=3642" >Администратор. Модули</a>.</li>
+ </ul>
+ 
+<p>В первых двух случаях возникнет форма добавления лида:</p>
+ 
+<p><img src="cid:resources/res332/dgEP8.new-lead.png" border="0" width="658" height="624"  /></p>
+ 
+<p><b>Название лида</b> - единственное обязательное для заполнения поле. Введите имя добавляемого лида.</p>
+ 
+<h3>Группа полей &quot;О лиде&quot;</h3>
+ 
+<ul> 
+  <li><b>Статус</b> - выберите состояние вашего лида: 
+    <p><img src="cid:resources/res332/yVqUv.lead_status.png" width="260" height="167"  /> </p>
+   
+    <p>Возможна установка статуса сразу для нескольких лидов из списка. Данное действие аналогично описанному в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >Добавить контакт</a> групповому назначению ответственного.</p>
+   </li>
+ 
+  <li><b>Дополнительно о статусе</b> - введите информацию, раскрывающую выбранный статус.</li>
+ 
+  <li><b>Валюта</b> - нажмите на пиктограмму стрелочки и в выпадающем списке выберите валюту, в которой будет совершаться сделка. 
+    <p></p>
+   
+    <div class="hint"><b>Примечание</b>: список валют настраивается на странице <span class="path">CRM &gt; Настройки &gt; Валюты</span>.</div>
+   
+    <p></p>
+   </li>
+ 
+  <li><b>Возможная сумма сделки</b> - введите рассчитываемую сумму, которой будут оперировать в процессе сделки. 
+    <p></p>
+   
+    <div class="hint"><b>Примечание</b>: в данном поле должны быть записаны только цифры, без пробелов. В противном случае лид не добавится и будет выведено сообщение о некорректном вводе.</div>
+   
+    <p></p>
+   </li>
+ 
+  <li><b>Источник</b> - нажмите на пиктограмму стрелочки и в раскрывшемся списке выберите вариант того, как вы узнали о контакте: 
+    <p><img src="cid:resources/res332/dL8QD.ist.png" width="260" height="239"  /></p>
+   
+    <p></p>
+   
+    <div class="hint"><b>Примечание</b>: настроить свои названия источников и статусов вы можете на странице <span class="path">CRM &gt; Настройки &gt; Справочники</span>.</div>
+   
+    <p></p>
+   </li>
+ 
+  <li><b>Дополнительно об источнике</b> - при желании напишите дополнительную информацию об источнике.</li>
+ 
+  <li><b>Ответственный</b> - здесь указываются данные, идентифицирующие ответственное за данный лид лицо. Изначально выставляется E-mail и ID пользователя, который вносит данные о лиде. Указать другого сотрудника из структуры портала, можно нажав на ссылку <b>Добавить из структуры</b>. Это делается аналогично выбору компании, описанному в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3724#panel" >Поиск</a>. 
+    <p>Возможно групповое добавление ответственного. Оно описано в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >Добавить контакт</a>.</p>
+   </li>
+ 
+  <li><b>Доступен для всех</b> - отметьте опцию, чтобы сделать лид открытым. Это может понадобиться при разграничении <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3762#role" >прав доступа</a>.</li>
+ </ul>
+ 
+<h3>Группа полей &quot;О контакте&quot;</h3>
+ 
+<p>Поля данной вкладки аналогичны полям, заполняемым при <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746" >добавлении контакта</a>.</p>
+ 
+<h3>Группа полей &quot;Дополнительно&quot;</h3>
+ 
+<p>Здесь расположены созданные для лидов <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3766" >пользовательские поля</a>.</p>
+ 
+<h3>Возможные товары</h3>
+ 
+<p>Данная вкладка аналогична таковой для <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3770" >добавления сделки</a>.</p>
+ 
+<br />
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>при добавлении нового лида может осуществляться проверка на дубликаты. Подробнее об этом читайте в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5068" >Прочее</a>.</div>
+ 
+<p></p>
+ 
+<p>Для добавления нового лида и перехода на страницу со списком лидов нажмите <b>Сохранить</b>.</p>
+ 
+<p>Чтобы добавить лид и перейти к созданию еще одного нажмите <b>Сохранить и добавить еще</b>.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>3754</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

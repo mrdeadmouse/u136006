@@ -1,0 +1,2 @@
+function addElement(e,n){if(document.getElementById("main_"+e)){var t=document.getElementById("main_"+e).getElementsByTagName("div");if(t&&t.length>0&&t[0]){var d=t[0].parentNode;d.appendChild(t[t.length-1].cloneNode(true))}}return}function addElementFile(e,n){var t=document.getElementById("main_"+e);var d=document.getElementById("main_add_"+e);if(t&&d){d=d.cloneNode(true);d.id="";d.style.display="";t.appendChild(d)}return}
+//# sourceMappingURL=script.map.js

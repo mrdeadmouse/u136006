@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3736</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1356609461</timestamp_x>
+<date_create>1341831666</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Настройка параметров шаблона</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Форма настройки параметров шаблона бизнес-процесса разделена на несколько закладок, с помощью которых задаются параметры запуска и настройки бизнес-процесса.</p>
+
+<p>На закладке <b>Основное</b> указываются название шаблона бизнес-процесса, его описание и определяются параметры автоматического запуска:</p>
+
+<p><img src="cid:resources/res221/UQIFt.bizparams1.png" border="0" height="523" width="700" /></p>
+
+<p>Бизнес-процесс может быть автоматически запущен при создании и/или при изменении элемента информационного блока. Если оба флага сняты, то бизнес-процесс может быть запущен только вручную.</p>
+
+<br />
+<p>На закладке <b>Параметры</b> осуществляется создание необходимых параметров запуска бизнес-процесса:</p>
+
+<p><img src="cid:resources/res221/ptpe5.bizparams2.png" border="0" height="372" width="700" /></p>
+
+<p>Чтобы добавить параметр запуска процесса, следует нажать ссылку <b>Добавить параметр</b> и заполнить следующие поля:</p>
+
+<p><img src="cid:resources/res221/VPhBd.bizparams2_add.png" border="0" height="576" width="700" /></p>
+
+<ul>
+<li><b>Идентификатор</b> - символьный идентификатор параметра;</li>
+<li><b>Название</b> - название параметра;</li>
+<li><b>Описание</b> - произвольное описание параметра;</li>
+<li><b>Тип</b> - с помощью выпадающего списка указывается тип данных параметра запуска;</li>
+<li><b>Обязательный</b> - если опция отмечена, то обязательно должно быть указано значение данного параметра для запуска бизнес-процесса;</li>
+<li><b>Множественный</b> - при отмеченной опции может быть задано несколько значений параметра;</li>
+<li><b>Значение по умолчанию</b> - в зависимости от выбранного типа данных указывается значение параметра, используемое по умолчанию.
+<br/><br/>
+<div class="hint"><b>Примечание:</b> для некоторых типов данных значение по умолчанию можно указать с помощью кнопки <b>[...]</b>, по нажатии которой открывается форма с возможными вариантами значений:
+<br/><br/>
+<img src="cid:resources/res221/pKW6f.bizparams2_users.png" border="0" height="503" width="452"></div></li>
+</ul>
+
+<p>Для сохранения параметра служит кнопка <b>OK</b>. В результате параметр создастся и отобразится в общем списке:</p>
+
+<p><img src="cid:resources/res221/rd9v0.bizparams2_list.png" border="0" height="389" width="700" /></p>
+
+<p>Описанным способом создаются все необходимые параметры запуска бизнес-процесса. С помощью ссылок <b>Изменить</b> и <b>Удалить</b>, расположенных в колонке <b>Действия</b> для каждого параметра, можно соответственно отредактировать или удалить требуемый параметр.</p>
+
+<br />
+<p>Аналогично, как и параметры бизнес-процесса, на закладке <b>Переменные</b> создаются переменные бизнес-процесса:</p>
+
+<p><img src="cid:resources/res221/wedRe.bizparams3.png" border="0" height="397" width="700"></p>
+
+<br />
+<p>На закладке <b>Доступ</b> для пользователей задаются права на доступ к бизнес-процессу, причем права доступа могут быть заданы как явно, так и с помощью переменных:</p>
+
+<p><img src="cid:resources/res221/wsJRG.bizparams4.png" border="0" height="545" width="700" /></p>
+
+<p>После выполнения всех настроек параметров шаблона бизнес-процесса нажмите кнопку <b>Сохранить</b>, чтобы сохранить внесенные изменения.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>3736</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

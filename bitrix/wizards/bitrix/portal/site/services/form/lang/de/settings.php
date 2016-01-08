@@ -1,0 +1,3 @@
+<?
+$MESS['FSMENUT'] = 'Anfrage einstellen';
+?>

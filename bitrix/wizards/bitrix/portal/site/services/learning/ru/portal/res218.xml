@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3734</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1419856456</timestamp_x>
+<date_create>1341585076</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Работа с бизнес-процессами</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>В зависимости от настроек запуск любого бизнес-процесса может быть осуществлен как автоматически, так и вручную. Автоматический запуск бизнес-процесса возможен при создании и/или изменении документа (элемента бизнес-процесса).</p>
+ <menu id="topictoc"> 
+  <li><a href="#bizproc_autostart" >Настройка автозапуска для бизнес-процессов</a></li>
+ 
+  <li><a href="#bizproc_manual" >Запуск бизнес-процессов вручную</a></li>
+ 
+  <li><a href="#bizproc_view" >Бизнес-процессы сотрудника</a></li>
+ </menu> 
+<br />
+ <a name="bizproc_start"></a> 
+<h4>Настройка автозапуска для бизнес-процессов</h4>
+ 
+<a name="bizproc_autostart"></a>
+ 
+<p>Настройка автозапуска для бизнес-процессов документов выполняется на странице <b>Шаблоны бизнес-процессов</b> выбранного раздела документов. Для этого необходимо:</p>
+ 
+<ul> 
+  <li>нажать кнопку настроек и выбрать пункт меню <b>Бизнес-процессы</b>: 
+    <p><img src="cid:resources/res218/olDy4.bp6.png" border="0" width="230" height="209"  /></p>
+   </li>
+ 
+  <li>на странице <b>Шаблоны бизнес-процессов</b> в меню действий выбрать способ автозапуска бизнес-процесса - <b>Запускать при создании</b> или <b>Запускать при изменении</b>: 
+    <p><img src="cid:resources/res218/PraVZ.bp11.png" border="0" width="665" height="533"  /></p>
+   </li>
+ 
+  <li>статус запуска бизнес-процесса отобразится в колонке <b>Автозапуск</b>. 
+    <p></p>
+   
+    <div class="hint"><b>Примечание: </b> 
+      <p>Например, в данном случае будет автоматически запускаться бизнес-процесс <b>Утверждение документа со статусами</b> при загрузке документов. Когда сотрудник будет загружать файл в данный раздел документов, то он должен будет указать все необходимые параметры запуска бизнес-процесса:</p>
+     
+      <p><img src="cid:resources/res218/NvKY9.bp12.png" border="0" width="578" height="356"  /></p>
+     </div>
+   
+    <p></p>
+   </li>
+ </ul>
+ 
+<h4>Запуск бизнес-процессов вручную</h4>
+ 
+<br />
+ 
+<a name="bizproc_manual"></a>
+ 
+<p>Чтобы запустить вручную бизнес-процесс для некоторого документа, необходимо выполнить следующее:</p>
+ 
+<ul> 
+  <li> 
+    <p>В меню действий документа выбрать пункт <b>Бизнес-процессы</b>, а затем из предложенного списка выбрать необходимый бизнес-процесс (например, Простое утверждение/голосование):</p>
+   
+    <p><img src="cid:resources/res218/2jFtt.bp14.png" border="0" width="653" height="489"  /></p>
+   </li>
+ 
+  <li> 
+    <p>Указать необходимые параметры запуска бизнес-процесса и нажать кнопку <b>Запустить</b>:</p>
+   
+    <p><img src="cid:resources/res218/ulTaU.bp15.png" border="0" width="618" height="354"  /></p>
+   </li>
+ </ul>
+ 
+<p>Бизнес-процесс запустится и начнет выполняться в соответствии со своим шаблоном и произведенными настройками.</p>
+ 
+<h4>Бизнес-процессы сотрудника</h4>
+ 
+<a name="bizproc_view"></a>
+ 
+<p>Каждому сотруднику отображается список запущенных им бизнес-процессов с помощью анимированных иконок в колонке <b>Название</b> после названия файла в списке документов. Если вы участвуете в бизнес-процессе, то рядом с анимированной иконкой будет отображаться восклицательный знак:</p>
+ 
+<p><img src="cid:resources/res218/f6r4Q.bp17.png" border="0" width="686" height="346"  /></p>
+ 
+<p> </p>
+ 
+<br />
+ 
+<p>Выполнение назначенных заданий по бизнес-процессу осуществляется на закладке <b>Бизнес-процессы</b> раздела <b>Мои инструменты</b>. Перейти к выполнению назначенных вам Бизнес-процессов можно с помощью команды <b>Бизнес-процессы</b> в меню конкретного документа:</p>
+ 
+<p><img height="432" border="0" width="373" src="cid:resources/res218/aos2u.bp_4.png"  /></p>
+ 
+<p>Откроется страница свойств документа на закладке <b>Бизнес процессы</b>:</p>
+ 
+<p><img src="cid:resources/res218/xKH5T.bp_6.png" border="0" height="329" width="700"  /></p>
+ 
+<p>Нажмите на ссылку в строке <b>Задачи по бизнес-процессу</b> и в открывшемся окне выполните задание:</p>
+ 
+<p><img height="561" border="0" width="700" src="cid:resources/res218/TQtRT.bp_7.png"  /></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3734</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

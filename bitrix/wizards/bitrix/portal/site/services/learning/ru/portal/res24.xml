@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6818</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>7</childs_cnt>
+<is_childs>1</is_childs>
+<sort>100</sort>
+<timestamp_x>1419269734</timestamp_x>
+<date_create>1415264981</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Двухэтапная авторизация (OTP)</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В целях защиты бизнеса от злоумышленников в продукты «1C-Битрикс» встроена дополнительная защита - с использованием <b>двухэтапной авторизации</b>.</p>
+
+<p><div class="note"><b>Двухэтапная авторизация</b> - это два фактора защиты. Первый - это основной пароль пользователя. Второй фактор защиты - это секретный код, который пользователь получает в своем мобильном телефоне (через Bitrix OTP, приложения для OTP по стандарту <a href="https://ru.wikipedia.org/wiki/HOTP" target="_blank">HOTP</a>, а также аппаратные устройства).</div></p>
+
+<p>Современные угрозы:</p>
+<ul>
+<li>Похищение логинов и паролей шпионскими программами и с помощью бот-сетей.</li>
+<li>Подбор паролей по словарю.</li>
+<li>Похищение с помощью вирусов паролей, запомненных в браузере.</li>
+</ul>
+
+<p>Система одноразовых паролей дополняет стандартную систему авторизации и позволяет значительно усилить систему безопасности продукты «1С-Битрикс». </p>
+
+<p>При каждой авторизации пользователь получает новый секретный код, что исключает возможность его получения злоумышленниками. При включении системы OTP в продукте «1C-Битрикс» можно авторизоваться только с использованием дополнительного одноразового пароля.</p>
+
+<p><img src="cid:resources/res24/uiZ5g.otp.png" border="0" /></p>
+
+
+<a name="algorithm"></a>
+<p>В продуктах «1C-Битрикс» поддерживаются два алгоритма генерации одноразовых паролей:</p>
+<ul>
+    <li><b>по счетчику</b> (<a href="http://ru.wikipedia.org/wiki/HOTP">HMAC-Based One-time Password</a>, <b>HOTP</b>) - код будет доступен до тех пор, пока пользователь не запросит новый;	</li>
+    <li><b>по времени</b> (<a href="http://ru.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm">Time-based One-time Password</a>, <b>TOTP</b>) - код будет доступен в течение 30 секунд с момента его получения, после чего он автоматически обновится.	</li>
+</ul>
+
+
+<p><div class="warning"><b><font color="red">Внимание!</font></b> Перед подключением двухэтапной авторизации проверьте правильность установленного времени и часового пояса в вашем мобильном устройстве.</div></p>
+
+
+<br>
+<a name="otp_app"></a>
+<p>Перечень некоторых совместимых приложений:</p>
+
+
+<table cellspacing="0" cellpadding="0"> 
+  <tbody> 
+    <tr bgcolor="white"> <td bgcolor="#8c8c8c"> 
+        <table cellspacing="1" cellpadding="5"> 
+          <tbody> 
+
+    <tr bgcolor="silver"> <td align="center" width="10%"><b>Устройство</b></td> <td align="center" width="30%"><b>Приложение</b></td> <td align="center"><b>Примечания</b></td>  </tr>
+
+    <tr bgcolor="white">
+    <td align="center"><b>Apple iOS</b></td>  
+<td align="center">
+<p><a href="https://itunes.apple.com/ru/app/bitrix24-otp/id929604673?mt=8" target="_blank" />Bitrix24 OTP</a> </p>
+<p><a href="https://itunes.apple.com/ru/app/google-authenticator/id388497605?mt=8" target="_blank" />Google Authenticator</a> </p>
+<p><a href="https://itunes.apple.com/ru/app/freeotp/id872559395?mt=8" target="_blank" />FreeOTP Authenticator</a></p>
+</td>
+
+<td>
+<p>iOS 6.0 и выше. По времени (TOTP) и по счетчику (HOTP).</p>
+<p>iOS 5.0 и выше. По времени (TOTP) и по счетчику (HOTP).</p>
+<p>iOS 7.0 и выше. По времени (TOTP) и по счетчику (HOTP).</p>
+</td>  
+</tr>
+          
+    <tr bgcolor="#eeeeee"> 
+<td align="center"><b>Google Android</b></td> 
+<td align="center">
+<p><a href="https://play.google.com/store/apps/details?id=com.bitrixsoft.otp&hl=ru" target="_blank" />Bitrix24 OTP</a> </p>
+<p><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=ru" target="_blank" />Google Authenticator</a> </p>
+<p><a href="https://play.google.com/store/apps/details?id=org.fedorahosted.freeotp&hl=ru" target="_blank" />FreeOTP Authenticator</a></p>
+</td> 
+<td>
+<p>Android 3.0 и выше. По времени (TOTP) и по счетчику (HOTP).</p>
+<p>Android 2.2 и выше. По времени (TOTP) и по счетчику (HOTP).</p>
+<p>Android 4.0 и выше. По времени (TOTP) и по счетчику (HOTP).</p>
+</td>  </tr>
+
+    <tr bgcolor="white">
+    <td align="center"><b>J2ME</b></td>  
+<td align="center">
+<p><a href="https://code.google.com/p/gauthj2me/" target="_blank" />Google Authentification in Java Mobile, j2me</a> </p>
+<p><a href="https://code.google.com/p/lwuitgauthj2me/" target="_blank" />Google Authenticator for J2ME phones</a> </p>
+</td>
+
+<td>
+<p>Для мобильных с J2ME. По времени (TOTP), ручной ввод секретного ключа.</p>
+<p>Для мобильных с J2ME на основе LWUIT-GUI. По времени (TOTP), ручной ввод секретного ключа.</p>
+</td>  
+</tr>
+
+    <tr bgcolor="#eeeeee"> 
+<td align="center"><b>Palm OS</b></td> 
+<td align="center">
+<p><a href="https://code.google.com/p/gauthj2me/downloads/detail?name=gauth.prc&can=2&q=" target="_blank" />Google Authenticator for Palm OS</a> </p>
+</td> 
+<td>
+<p>По времени (TOTP), ручной ввод секретного ключа.</p>
+</td>  </tr>
+
+
+    <tr bgcolor="white">
+    <td align="center"><b>MS Windows Phone</b></td>  
+<td align="center">
+<p><a href="http://www.windowsphone.com/ru-ru/store/app/authenticator/e7994dbc-2336-4950-91ba-ca22d653759b" target="_blank" />Authenticator</a> </p>
+
+</td>
+
+<td>
+<p>MS Windows Phone 7.5 и выше. По времени (TOTP).</p>
+</td>  
+</tr>
+
+    <tr bgcolor="#eeeeee"> 
+<td align="center"><b>MS Windows</b></td> 
+<td align="center">
+<p><a href="https://code.google.com/p/gauthj2me/downloads/detail?name=gauth.prc&can=2&q=" target="_blank" />WinAuth</a> </p>
+</td> 
+<td>
+<p>MS Windows 7|8, .NET Framework 4. По времени (TOTP), портативность, защита приложения паролем.</p>
+</td>  </tr>
+	
+	
+		  </tbody>
+		</table> 
+		</tr>
+	</tbody>
+  </table>
+
+
+
+
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>6818</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

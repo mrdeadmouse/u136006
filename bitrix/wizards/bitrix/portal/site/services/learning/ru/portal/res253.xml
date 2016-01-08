@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2378</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1405081212</timestamp_x>
+<date_create>1303394834</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Обучение</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Раздел <b>Обучение</b> портала позволяет организовать обучение сотрудников посредством учебных курсов.</p> 
+
+<p>По умолчанию в разделе представлены обучающие курсы по различным направлениям, например <b>Курс для новых сотрудников</b> и <b>Курс по работе с порталом</b>:</p>
+
+<p><img border="0"  src="cid:resources/res253/IwfW3.learning_1.png" /></p>
+
+<p>Каждый учебный курс состоит из цикла уроков, некоторые уроки могут быть объединены в главы:</p>
+
+<p><img border="0" src="cid:resources/res253/lcC37.learning_2.png" /></p>
+
+<p>В курс также могут быть включены тесты для самопроверки и итоговые сертификационные тесты, позволяющие проверить полученные знания и после успешного тестирования получить сертификат.</p>
+
+<p><img  border="0" src="cid:resources/res253/y9CCv.learning_3.png" /></p>
+
+<p>Результаты вашего тестирования и полученные сертификаты можно просмотреть на страницах <b>Журнал обучения</b> и <b>Мои сертификаты</b> соответственно.</p>
+
+<div class="hint"><b>Примечание</b>: создание и редактирование курсов возможно для пользователя с уровнем прав не ниже Администратор КП.</div>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>2378</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

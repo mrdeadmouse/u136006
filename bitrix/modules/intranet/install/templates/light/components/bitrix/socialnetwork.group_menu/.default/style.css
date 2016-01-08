@@ -1,0 +1,29 @@
+.profile-menu-popup-item-message .profile-menu-popup-item-icon { background: url(images/icon_message.gif) no-repeat;}
+.profile-menu-popup-item-groupedit .profile-menu-popup-item-icon { background: url(images/edit.gif) no-repeat;}
+.profile-menu-popup-item-groupdelete .profile-menu-popup-item-icon { background: url(images/del.gif) no-repeat;}
+.profile-menu-popup-item-editfeatures .profile-menu-popup-item-icon { background: url(images/settings.gif) no-repeat;}
+.profile-menu-popup-item-modedit .profile-menu-popup-item-icon { background: url(images/mod_edit.gif) no-repeat;}
+.profile-menu-popup-item-modview .profile-menu-popup-item-icon { background: url(images/mod_view.gif) no-repeat;}
+.profile-menu-popup-item-memberedit .profile-menu-popup-item-icon { background: url(images/memb_edit.gif) no-repeat;}
+.profile-menu-popup-item-memberview .profile-menu-popup-item-icon { background: url(images/memb_view.gif) no-repeat;}
+.profile-menu-popup-item-blacklist .profile-menu-popup-item-icon { background: url(images/blacklist.gif) no-repeat;}
+.profile-menu-popup-item-invite .profile-menu-popup-item-icon { background: url(images/invite.gif) no-repeat;}
+.profile-menu-popup-item-requests .profile-menu-popup-item-icon { background: url(images/request.gif) no-repeat;}
+.profile-menu-popup-item-join .profile-menu-popup-item-icon { background: url(images/join.gif) no-repeat;}
+.profile-menu-popup-item-leave .profile-menu-popup-item-icon { background: url(images/leave.gif) no-repeat;}
+.profile-menu-popup-item-subscribe .profile-menu-popup-item-icon { background: url(images/subscribe.gif) no-repeat;}
+
+.sonet-sgm-error-text-block { padding: 20px; }
+.sonet-sgm-wait-cont { height: 31px; }
+.sonet-sgm-wait-icon { height: 31px; width: 31px; background: url('images/wait.gif') no-repeat 0 0; display: inline-block; position: relative; left: 1px; top: 1px; }
+.sonet-sgm-wait-text { height: 31px; display: inline-block; position: relative; padding: 0 10px 0 5px; left: 1px; top: -11px; color: #7F7F7F; }
+.sonet-sgm-notify-hint-content { padding: 8px; }
+.profile-menu-notify-btn {
+	display: inline-block;
+	width:34px;
+	height: 32px;
+	background: url(images/button_subscribe.png) no-repeat 0 0;
+}
+.profile-menu-notify-btn:hover {	background-position: 0 -29px; }
+.profile-menu-notify-btn:active, .profile-menu-notify-btn-active { background-position: 0 -59px; }
+.profile-menu-notify-btn-active:hover { background-position: 0 -59px!important; }

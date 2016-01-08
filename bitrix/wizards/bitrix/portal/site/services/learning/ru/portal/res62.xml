@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2247</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1359620929</timestamp_x>
+<date_create>1299167842</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Внешний вид редактора</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>При добавлении (редактировании) на портал, например, новостей, вы можете воспользоваться визуальным редактором.</p>
+
+<p>Рассмотрим внешний вид редактора и его панели:</p>
+
+<p><img src="cid:resources/res62/62zRh.vis_editor.png" border="0" width="763" height="452"  /></p>
+
+
+<p><font color="#ff0000" size="4">1</font>- панель инструментов</p>
+
+<p><font color="#0000ff" size="4">2</font> - панель переключения режимов редактирования</p>
+
+<p><font color="#00a650" size="4">3</font> - рабочая область</p>
+
+<p><font color="#f7941d" size="4">4</font> - панель задач (сниппеты)</p>
+
+<p><font color="#91278f" size="4">5</font> - панель отображения свойств объектов</p>
+
+<p><font color="#00aeef" size="4">6</font> - кнопки вклоткл панелей <font color="#f7941d" size="4">4</font> и <font color="#91278f" size="4">5</font></p>
+
+
+
+<h3>Панель инструментов</h3>
+
+<p>Общая панель инструментов визуального редактора состоит из нескольких меньших панелей, в каждой из которых объединены кнопки по своему назначению. Детальное описание панелей приводится на страницах с описанием конкретных видов работ.</p>
+
+<ul>
+  <li>Стандартные 
+    <p><img src="cid:resources/res62/0ulS4.standart_panel.png" border="0" width="398" height="28"  /></p>
+  </li>
+
+  <li>Стиль 
+    <p><img src="cid:resources/res62/ncxaz.style_panel.png" border="0" width="446" height="29"  /></p>
+  </li>
+
+  <li>Форматирование 
+    <br />
+  
+    <br />
+  <img src="cid:resources/res62/Um0Ph.format_panel.png" border="0" width="217" height="26"  /> </li>
+</ul>
+
+<br />
+
+<div class="warning"><b>Внимание!</b> Состав и набор кнопок на панели инструментов может отличаться, в зависимости от режима работы редактора и настроек администратора.</div>
+
+<h3 class="hint">Панель задач (Сниппеты)</h3>
+
+<p><div class="hint"><b>Примечание:</b> при наличии необходимых прав доступа в панели может быть доступна закладка <b>Компоненты</b>.</div> </p>
+
+<p>Отображать и скрывать панель <b>Сниппеты</b> можно с помощью соответствующих кнопок панели <font color="#00aeef" size="4">6</font>. Доступны следующие действия управления панелью задач:</p>
+
+<p><table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top"><td><img src="cid:resources/res62/0gWRw.task_actions.png" height="139" width="283"  /></td><td><ul>
+  <li>По кнопке <strong>Свернуть</strong> можно временно скрыть панель. Вернуть ее можно, используя кнопки панели <font color="#00aeef" size="4">6</font>. </li>
+
+  <li>Кнопка <strong>Обновить закешированные данные</strong> позволяет сбросить кеш, например, если были добавлены новые сниппеты. </li>
+
+  <li>Кнопка <strong>Настроить</strong> вызывает форму настройки внешнего вида редактора, которая также доступна по кнопке <img src="cid:resources/res62/VRoge.settings_button.png" border="0" height="22" width="22"  /> <strong>Настройки</strong> панели инструментов. </li>
+
+  <li>Кнопка <strong>Закрыть</strong> закрывает отображаемую панель. Восстановить ее отображение можно с помощью формы настройки редактора (кнопка <img src="cid:resources/res62/r79GP.settings_button.png" border="0" height="22" width="22"  />). </li>
+</ul></td></tr>
+   </tbody>
+ </table></p>
+
+<h3>Панель переключения режимов редактирования</h3>
+
+<p>Панель переключения режимов редактирования состоит из следующих кнопок: </p>
+
+<p><img src="cid:resources/res62/YWdbd.mode_panel.png" border="0" height="26" width="72"  /> </p>
+
+<p>Кнопка <img src="cid:resources/res62/bJEDK.textrej.gif" border="0"  /> служит для перехода от визуального режима к работе с исходным кодом. Доступной остается кнопка <img src="cid:resources/res62/vLoCj.settings_button.png" border="0" height="22" width="22"  />. Остальные кнопки панели редактирования заблокированы. </p>
+
+<p>Кнопка <img src="cid:resources/res62/9KnkK.wysiwyg.gif" border="0"  /> служит для перехода обратно к режиму визуального редактирования.</p>
+
+<p>Кнопка <img src="cid:resources/res62/hyo5r.split.gif" border="0"  /> служит для перехода в совмещенный режим редактирования, при котором можно работать одновременно и с визуальной частью, и с исходным кодом: </p>
+
+<p><img src="cid:resources/res62/IxKr5.united_mode.png" border="0" height="267" width="552"  /></p>
+
+<p>При работе с исходным кодом и в совмещенном режиме редактирования становится доступной кнопка <img src="cid:resources/res62/QIsfx.wrap.gif" border="0"  />, которая служит для переноса не поместившейся на текущей строке части кода на следующие строки. Заметим, что эта кнопка присутствует и работает только в браузере <strong>Internet Explorer</strong>.</p>
+
+<div class="warning"><b>Внимание!</b> Режим работы с исходным кодом рекомендуется использовать только подготовленным пользователям.</div>
+
+<h3>Панель отображения свойств объектов (Свойства)</h3>
+
+<p>В области <b>Свойства</b> отображаются свойства того объекта, на котором установлен курсор мыши в данный момент. Панель <b>Свойства</b> также является скрывающейся, что регулируется кнопкой панели <font color="#00aeef" size="4">6</font>. Доступны следующие действия управления панелью <strong>Свойства</strong>:</p>
+
+<table width="100%" cellpadding="5"> 
+  <tbody> 
+    <tr valign="top"><td><img src="cid:resources/res62/gVTae.properties_actions.png" height="91" width="136"  /></td><td><ul>
+  <li>По кнопке <strong>Свернуть</strong> можно временно скрыть панель. Вернуть ее можно, используя кнопки панели <font color="#00aeef" size="4">6</font>. </li>
+
+  <li>Кнопка <strong>Настроить</strong> вызывает форму настройки внешнего вида редактора, которая также доступна по кнопке <img src="cid:resources/res62/25rRq.settings_button.png" border="0" height="22" width="22"  /> <strong>Настройки</strong> панели инструментов. </li>
+</ul></td></tr>
+   </tbody>
+ </table>
+<p><div class="hint"><b>Примечание</b>: Подробное и детальное описание <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=631" target="_blank">визуального редактора</a>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>2247</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

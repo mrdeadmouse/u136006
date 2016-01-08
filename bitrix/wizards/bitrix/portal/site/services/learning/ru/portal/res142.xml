@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3714</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords>пользователь кп, битрикс24, фотографии</keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1404820645</timestamp_x>
+<date_create>1341326500</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Загрузка фотографий</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Для загрузки фотографий перейдем к просмотру альбома и воспользуемся ссылкой <b>Загрузить фото</b>. Откроется форма загрузки фотографий:</p>
+
+<p><img src="cid:resources/res142/1K5tG.uploader_14_5.png"></p>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Внешний вид формы до версии 14.5</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<br/>
+Упрощенная форма загрузки фотографий до версии 14.5 модуля <b>Фотогалерея</b> выглядела следующим образом:
+<p><img src="cid:resources/res142/tq48h.upload_photo4.png"></p>
+</td></tr>
+</tbody>
+</table></div>
+</p>
+
+<p>Загрузка фотографий возможна с использованием двух форм: <b>упрощенной</b> и формы <b>множественной</b> загрузки. Переключение между формами осуществляется с помощью ссылки, расположенной в правом верхнем углу формы. При использовании упрощенной формы загрузки фотографии добавляются в рабочую область с помощью &laquo;drag'n'drop&raquo; либо выбираются из диалогового окна, открывающегося с помощью кнопки <b>Загрузить</b> (если рабочая область еще пуста).</p>
+
+<p><img src="cid:resources/res142/W6q0I.uploader_simple.png"></p>
+
+<p>Для добавления дополнительных фотографий можно также воспользоваться механизмом &laquo;drag'n'drop&raquo; либо нажать кнопку <b>Добавить еще</b>.</p>
+
+<p>При наведении курсора мыши на фотографию можно задать ее описание, изменить фотографию, выполнить поворот или удалить.</p> 
+
+<p><div class="hint"><b>Примечание:</b> если выбрано действие <i>изменить</i>, то фотография будет открыта в новом окне для редактирования:
+<p><img src="cid:resources/res142/WR5Tw.uploader_edit.png"></p>
+<ul>
+<li>с помощью соответствующего поля можно изменить описание фотографии;</li>
+<li><img src="cid:resources/res142/rTi72.upload_but1.png"> - поворот фотографии против часовой стрелки;</li>
+<li><img src="cid:resources/res142/OlWEj.upload_but2.png"> - поворот по часовой стрелки;</li>
+<li><img src="cid:resources/res142/64nv5.upload_but3.png"> - вертикальное отражение изображения;</li>
+<li><img src="cid:resources/res142/RSQw3.upload_but4.png"> - горизонтальное отражение изображения;</li>
+<li><img src="cid:resources/res142/j5TfG.upload_but5.png"> - обрезка фотографии;</li>
+<li><img src="cid:resources/res142/l3Pqz.upload_but6.png"> - градация в сером цвете;</li>
+<li><img src="cid:resources/res142/npqc4.upload_but7.png"> - добавление подписи к фотографии.</li>
+</ul>
+<p>Кнопки <b>Применить</b> и <b>Отменить</b> позволяют сохранить или отменить внесенные изменения.</p></div></p>
+
+<p>По кнопке <b>Загрузить</b> все фотографии из рабочей области будут загружены в указанный существующий или новый альбом. </p>
+<br/>
+
+<p>Форма <b>множественной</b> загрузки выглядит следующим образом:</p>
+
+<p><img src="cid:resources/res142/SnX7C.upload_photo1.png" alt="Форма загрузки фотографий" border="0" width="735" height="348" /></p>
+
+<p>Фотографии добавляются в рабочую область по кнопке <b>Добавить изображения</b>, причем для выбора нескольких фотографий необходимо удерживать нажатой кнопку <b>Ctrl</b>.</p>
+
+ <p><img src="cid:resources/res142/F3iOG.upload_photo2_sm.png"></p>
+
+<p>При нажатии на ссылку <b>Дополнительные настройки</b> становятся доступными следующие возможности форматирования фотографий:</p>
+
+<p><img src="cid:resources/res142/uOogB.upload_photo3_sm.png"></p>
+<ul>
+ <li>видимость фотографий в альбоме;</li>
+ <li>выбор размера отправляемых фотографий - доступны следующие размеры фотографий:</li>
+     <ul>
+       <li>1280х960;</li>
+       <li>1024х768;</li>
+       <li>800х600.</li>
+     </ul>
+   <li>добавление авторского знака - здесь может быть введено любое слово или символ, который будет нанесен на фото.</li>
+</ul>
+</p>
+
+<p>По кнопке <b>Загрузить</b> все фотографии из рабочей области будут загружены в указанный существующий или новый альбом. </p>
+
+<br/>
+
+<p><div class="hint"><b>Примечание:</b> в процессе загрузки каждая фотография генерируется в двух видах:</p>
+
+<ul>
+  <li>предпросмотр (эскиз или анонс) - минимальный размер;</li>
+  <li>оригинал (максимальный размер).</li>
+</ul>
+Кроме того, если используется форма множественной загрузки, то вне зависимости от формата добавляемых фотографий в альбом они будут загружены в формате <b>*.jpg</b>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3714</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

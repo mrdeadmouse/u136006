@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2242</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1404806699</timestamp_x>
+<date_create>1299081032</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Панель управления</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Панель управления всегда располагается вверху окна браузера и видна только авторизованным сотрудникам, обладающим достаточным уровнем прав для управления контентом портала. У сотрудника могут быть разные права на разные разделы. Поэтому панель может быть видна на одних страницах и не видна на других. Так же в зависимости от прав сотрудника, будут отображаются на Панели управления только те функции, которые соответствуют этому уровню прав. Часть кнопок отображается на Панели управления только если открыта страница с определенными компонентами.</p>
+ 
+<p>Панель управления имеет:</p>
+ 
+<p><img height="117" width="700" src="cid:resources/res57/C9Y2h.panel_cp.png" /></p>
+
+<ul> 
+  <li>кнопку <b>Меню</b> - позволяет осуществлять быстрый переход на любую страницу <a href="/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=634">административного раздела</a>.</li>
+ 
+  <li>закладку <b>Сайт</b> -  инструмент для работы с контентом портала, настройки компонентов, выполнения других операций по работе.
+<br/>
+<br/>
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Команды закладки Сайт</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<br/>
+
+<table cellspacing="0" cellpadding="0"> 		 
+  <tbody> 
+    <tr bgcolor="white"> <td bgcolor="#8c8c8c"> 	
+        <table cellspacing="1" cellpadding="5"> 			 
+          <tbody> 
+          
+           			 
+            <tr bgcolor="#FFFFFF"> <td align="center" rowspan="2"><img height="84" width="64" src="cid:resources/res57/lGVHp.edit_page_95_new.png"/></td><td>Иконка <b>Изменить страницу</b></td> <td>Изменение содержимого страницы. </td> </tr>
+           			 
+            <tr bgcolor="#FFFFFF"> <td>Меню <b>Изменить страницу</b></td> <td>Нажмите на эту кнопку, чтобы вызвать диалог редактирования страницы через документооборот, а также просмотреть историю изменений страницы.</td> </tr>  
+                     			 
+            <tr bgcolor="#eeeeee"> <td align="center"><img height="24" width="110" border="0" src="cid:resources/res57/gdNRM.component_95_new.png"  /></td> <td>Кнопка <b>Компоненты</b></td> <td>Выбор компонента для редактирования его параметров. Активна только при включенном режиме <b>Правка</b>.</td> </tr>
+           			                       
+            <tr bgcolor="#FFFFFF"> <td align="center"><img height="24" width="105" border="0" src="cid:resources/res57/vV6PQ.statistic_95_new.png"  /></td> <td>Кнопка <b>Статистика</b></td> <td>Просмотр графика посещаемости страницы или статистики переходов.</td></tr>
+    			 			 
+            <tr bgcolor="#eeeeee"> <td align="center"><img height="63" width="86" border="0" src="cid:resources/res57/1lGaL.edit_mode_95_new.png"/></td> <td>Переключатель <b>Режим правки</b></td> <td>Включение режима контекстного редактирования сайта. При включенном режиме наведите курсор на выбранный блок информации и используйте всплывающие панели инструментов.</td> </tr>
+           
+            <tr bgcolor="#FFFFFF"> <td align="center"><img height="19" width="76" border="0" src="cid:resources/res57/x8PZs.hide_95_new.png"  /></td> <td>Переключатель <b>Свернуть/Развернуть</b></td> <td>Перевод панели в свернутый или развернутый вид.</td> </tr>
+           </tbody>
+         </table>
+       		</td></tr>
+   </tbody>
+ </table></td></tr>
+</tbody>
+</table></div>
+<p><div class="hint"><b>Примечание:</b> если вы обладаете достаточным уровнем прав доступа, то на закладке <b>Сайт</b> вам могут быть доступны дополнительные команды (см. <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1831" target="_blank">полный перечень команд</a>). </div></p>
+</li>
+  
+  <li>закладку <b>Администрирование</b> - переход в административный раздел системы.</li>
+ 
+  <li>индикатор <b>Уведомления</b> - отображается только при наличии системных уведомлений.</li>
+ 
+  <li>индикатор авторизованного пользователя <img src="cid:resources/res57/iATv0.user_button_11.png" width="142" border="0" height="34"/> - позволяет в один клик перейти к форме настройки параметров аккаунта пользователя. </li>
+ 
+  <li>ссылку <b>Выйти</b> - ссылка завершает работу системы под правами авторизованного пользователя.</li>
+
+  <li>кнопку <b>Горячие клавиши</b> - кнопка <img height="19" border="0" width="20" src="cid:resources/res57/9r8iX.hot_keys_95_new.png" /> вызывает окно настроек горячих клавиш и позволяет их <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3567" target="_blank">настроить</a> для удобства текущей работы. Функционал может быть отключен администратором портала.</li>
+ 
+  <li>кнопку фиксации панели - панель может быть зафиксирована вверху экрана с помощью кнопки в правом верхнем углу: <img src="cid:resources/res57/tVIba.panel_fix_95_new.png" width="24" border="0" height="18"  />.</li>
+ </ul>
+ 
+ 
+<h4>Свернутый режим панели</h4>
+
+<p><img src="cid:resources/res57/Udej9.hide_panel.png" /></p>
+
+<p>Свернутый режим работы позволяет освободить экранное пространство за счет уменьшения размера панели. Свернутый режим сохраняет часть управленческих функций. Можно включить или выключить <b>Режим правки</b>.</p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>2242</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

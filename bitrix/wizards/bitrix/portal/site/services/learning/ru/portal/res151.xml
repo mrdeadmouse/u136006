@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5011</lesson_id>
+<was_chapter_id>1279</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>6</childs_cnt>
+<is_childs>1</is_childs>
+<sort>600</sort>
+<timestamp_x>1414403943</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Группы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="note"><b>Группы</b> - виртуальное объединение людей для решения или обсуждения общих вопросов, целей и задач.  </div></p>
+ 
+
+<br /> 
+<p>Пункт главного меню <b>Группы</b> по умолчанию представлен только ссылкой на страницу <b>Все группы</b>:</p>
+ <p><img src="cid:resources/res151/Lb9ie.group_menu_default.png" border="0" /></p>
+
+<p>По мере вступления в группы данное меню будет автоматически заполнятся ссылками на эти группы:
+ <p><img src="cid:resources/res151/9hTHG.group_menu.png"  border="0" /></p>
+
+<!--
+<p>Если в группах появляются новые события: сообщения, задачи, комментарии и т.п, в меню будет присутствовать индикатор количества событий в данных группах:
+ <p><img src="cid:resources/res151/eBTgI.group_menu_notify.png" height="246" width="203" border="0" /></p>
+-->
+
+<br />
+<p>Сотрудникам с разными правами доступа к группе доступен различный функционал. Ниже в таблице приведены функции (<b>Функционал</b>), соответствующие различным сотрудникам (<b>Права пользователя</b>).
+</p>
+
+<p><div class="hint"><b>Примечание: </b>Администратор портала имеет полные права на все группы портала, даже если он не является Участником, Владельцем или Модератором данных групп. </div></p>
+
+<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#8C8C8C"><td><b>Функционал</b></td><td><b>Права пользователя</b></td></tr>
+          
+   
+<tr bgcolor="#ffffff"><td>Просмотр описания видимой группы</td>
+<td>Любой сотрудник</td></tr>
+  
+<tr bgcolor="#eeeeee"><td>Просмотр невидимой группы</td>
+<td>Участник группы, Владелец группы, Модератор группы, Администратор портала</td></tr>
+
+<tr bgcolor="#ffffff"><td>Просмотр модераторов, участников видимой группы</td>
+<td>Любой сотрудник</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Вступить в открытую группу</td>
+<td>Любой сотрудник</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Вступить в закрытую группу</td>
+<td>Любой сотрудник (после одобрения Модератором, Владельцем группы, Администратором портала)</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Выйти из группы</td>
+<td>Любой участник</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Управление подпиской</td>
+<td>Любой участник</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Пригласить в группу</td>
+<td>Зависит от настроек группы</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Редактировать состав</td>
+<td>Владелец группы, Администратор портала</td></tr>
+  
+<tr bgcolor="#eeeeee"><td>Управление запросами на вступление в группу</td>
+<td>Зависит от настроек группы</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Управление приглашениями вступить в группу</td>
+<td>Зависит от настроек группы</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Редактирование группы</td>
+<td>Владелец группы, Администратор портала</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Создать группу</td>
+<td>Любой сотрудник</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Редактирование настроек группы</td>
+<td>Владелец группы, Администратор портала</td></tr>
+
+ <tr bgcolor="#ffffff"><td>Редактирование модераторов</td>
+<td>Владелец группы, Администратор портала</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Удалить группу</td>
+<td>Владелец группы, Администратор портала</td></tr>
+
+<tr bgcolor="#ffffff"><td>Написать сообщение (или воспользоваться сервисом, доступным в группе)</td>
+<td>Любой участник</td></tr>
+
+<tr bgcolor="#eeeeee"><td>Подключение хранилища группы к личному диску</td>
+<td>Любой сотрудник с правами на хранилище не ниже <b>Изменение</b></td></tr>
+  
+   </tbody>
+         </table>
+             </td></tr>
+
+  </tbody>
+</table>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>5011</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

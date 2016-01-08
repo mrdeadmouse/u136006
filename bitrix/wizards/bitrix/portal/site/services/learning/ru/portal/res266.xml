@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3198</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1250</sort>
+<timestamp_x>1405075142</timestamp_x>
+<date_create>1323082475</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Журнал изменений</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><b>Журнал изменений</b> является в большей мере инструментом контроля за событиями, произошедшими на корпоративном портале. И предназначен он для руководителей и администраторов. Вид выводимой информации зависит от настроек заданных администратором. Могут выводиться типы событий:</p>
+
+<ul>
+<li>Появление новых пользователей;</li>
+<li>Изменение страниц;</li> 
+<li>Изменение пунктов меню;</li> 
+<li>События форума;</li> 
+<li>События библиотеки документов.</li>
+ </ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1250</edge_sort>
+<id>3198</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

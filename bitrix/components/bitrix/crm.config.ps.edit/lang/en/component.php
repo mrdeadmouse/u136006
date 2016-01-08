@@ -1,0 +1,35 @@
+<?
+$MESS["CRM_MODULE_NOT_INSTALLED"] = "The CRM module is not installed.";
+$MESS["CRM_SALE_MODULE_NOT_INSTALLED"] = "The e-Store module is not installed.";
+$MESS["CRM_PERMISSION_DENIED"] = "Access denied";
+$MESS["CRM_PS_NOT_FOUND"] = "Payment system was not found.";
+$MESS["CRM_PS_SECTION_MAIN"] = "Payment system";
+$MESS["CRM_PS_FIELD_NAME"] = "Name";
+$MESS["CRM_PS_FIELD_ACTIVE"] = "Active";
+$MESS["CRM_PS_FIELD_SORT"] = "Sort";
+$MESS["CRM_PS_FIELD_NEW_WINDOW"] = "Open in new window";
+$MESS["CRM_PS_FIELD_ENCODING"] = "Charset";
+$MESS["CRM_PS_FIELD_PERSON_TYPE_ID"] = "Client type";
+$MESS["CRM_PS_FIELD_DESCRIPTION"] = "Description";
+$MESS["CRM_PS_FIELD_ACTION_FILE"] = "Handler";
+$MESS["CRM_PS_FIELD_LOGOTIP"] = "Payment system logo";
+$MESS["CRM_PS_LOGOTIP_DEL"] = "Delete file";
+$MESS["CRM_PS_ACT_PROPERTIES"] = "Handler properties";
+$MESS["CRM_PS_ADD_UNKNOWN_ERROR"] = "Error creating a payment system.";
+$MESS["CRM_PS_UPDATE_UNKNOWN_ERROR"] = "Error updating the payment system.";
+$MESS["CRM_PS_DELETE_UNKNOWN_ERROR"] = "Error deleting the payment system.";
+$MESS["CRM_PS_TYPES_OTHER"] = "Other";
+$MESS["CRM_PS_TYPES_USER"] = "User parameter";
+$MESS["CRM_PS_TYPES_ORDER"] = "Parameter";
+$MESS["CRM_PS_TYPES_PROPERTY"] = "Property";
+$MESS["CRM_PS_JCOUNTRY"] = "country";
+$MESS["CRM_PS_JCITY"] = "city";
+$MESS["CRM_PS_ERROR_NO_NAME"] = "The payment system name is missing.";
+$MESS["CRM_PS_EMPTY_SCRIPT"] = "Payment system handler script is not specified.";
+$MESS["CRM_PS_NO_SCRIPT"] = "The specified payment system handler script does not exist.";
+$MESS["CRM_PS_ERROR_UPDATE"] = "Error updating payment system handler parameters.";
+$MESS["CRM_PS_ERROR_ADD"] = "Error adding a payment system handler.";
+$MESS["CRM_PS_SHOW_FIELDS"] = "Show all fields";
+$MESS["CRM_PS_HIDE_FIELDS"] = "Hide extra fields";
+$MESS["CRM_PS_DEL_FILE"] = "Delete file";
+?>

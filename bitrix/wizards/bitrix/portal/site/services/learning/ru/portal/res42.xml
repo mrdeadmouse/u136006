@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5389</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1416992169</timestamp_x>
+<date_create>1373378031</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Видеозвонки</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В версии 12.5 продукта появилcя функционал видеозвонков, позволяющий звонить коллегам и видеть собеседника через корпоративный портал. Для этого достаточно зайти на портал, в <b>Бизнес-чате</b> выбрать сотрудника и нажать специальную кнопку. Вы будете общаться через браузер без установки плагинов и дополнений - благодаря поддержке <a href="http://www.1c-bitrix.ru/products/intranet/new/#webrtc" target="_blank" />WebRTC</a>. </p>
+
+<p><div class="warning"><b>Внимание</b>: На данный момент функционал видеозвонков доступен только для браузеров версий (и выше): Google Chrome v29, Mozilla Firefox v27, Opera v18, Яндекс.Браузер v13. А также для осуществления голосового и видеозвонка необходим микрофон и видеокамера. 
+
+<p><b>Вниманию администраторов</b>. При работе по протоколу <b>https</b> в десктопном приложении сертификат SSL должен быть валидный, не выдавать ошибку в Chrome.</p>
+</div></p>
+
+
+<h4>Звонки и видеозвонки сотрудникам</h4>
+
+<p>Чтобы позвонить сотруднику:</p>
+
+<ul>
+
+<li>Найдите сотрудника в списке контактов <b>Бизнес-чата</b> и инициируйте простой голосовой звонок или видеозвонок с помощью клика правой кнопкой мыши на иконке:
+<p><img src="cid:resources/res42/uGVDD.videocall_1.png" border="0" /></p>
+
+<p><div class="warning"><b>Внимание</b>: Иконка видеозвонка доступна, только если сотрудник в онлайне и используется поддерживаемый браузер.</div></p>
+</li>
+
+<li>Подтвердите доступ к аудио- и видео-устройствам:
+<p><img src="cid:resources/res42/y1Mo6.videocall_2.png" border="0" /></p>
+</li>
+
+<li>Установится соединение, и, если коллега ваш не занят, в браузере откроется окно видеосвязи::
+<p><img src="cid:resources/res42/4VfQf.videocall_3.png" border="0" /></p>
+</li>
+   
+</ul>
+
+<br />
+<p>Во время видеосвязи с коллегой можно распахнуть окно на весь экран и потом его «схлопнуть» обратно. Или перейти в обычный чат, чтобы отправить коллеге текстовое сообщение. Также можно, не закрывая окно видеосвязи, написать что-то другому сотруднику. </p>
+
+<p>Все это время видеосвязь не рвется. Видеозвонок сворачивается в узкую полоску в верхней части окна сообщений Бизнес-чата, и вы продолжаете видеть собеседника в маленьком видео-окне. </p>
+
+<p><img src="cid:resources/res42/ctJZn.videocall_4.png" border="0" /></p>
+
+
+
+<br />
+<a name="im_group_call"></a>
+<h4>Групповые звонки</h4>
+<p>Для осуществления группового звонка (аудио- или видеозвонка) необходимо сначала создать <a href="/learning/course/index.php&COURSE_ID={SELF}&LESSON_ID=5121#im_group_chat">групповой чат</a> и потом выбрать в меню <b>Видеозвонок</b> или <b>Звонок</b>:</p>
+
+<p><img src="cid:resources/res42/1qyq5.group_call1.png" border="0" /></p>
+
+<p>В результате чего будет осуществлен групповой звонок всем участникам группового чата: </p>
+<p><img src="cid:resources/res42/Ip21z.group_call2.png" border="0" /></p>
+
+<p><div class="warning"><b>Внимание</b>: Пока что лимит на количество участников групповых звонков - 4 сотрудника. В групповом чате с количеством сотрудников больше 4, кнопка группового звонка будет недоступна. </div></p>
+
+
+
+<br />
+<h4>История звонков</h4>
+
+<p>Если кто-то звонил в ваше отсутствие, вы получите сообщение Бизнес-чата об этом. Информация о пропущенных звонках хранится в истории Бизнес-чата. </p>
+
+
+
+
+
+
+<br />
+<h4>Особенности</h4>
+
+<p>Как уже было сказано выше, функционал видеозвонков доступен на данный момент только для браузеров версий (и выше): Google Chrome v29, Mozilla Firefox v27, Opera v18, Яндекс.Браузер v13. Поэтому при звонке коллеге, который использует другой браузер или младшую версию, будет выводиться соответствующее уведомление:</p>
+
+<p><img src="cid:resources/res42/fd3Pu.videocall_error_1.png" border="0" /></p>
+
+
+
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>5389</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

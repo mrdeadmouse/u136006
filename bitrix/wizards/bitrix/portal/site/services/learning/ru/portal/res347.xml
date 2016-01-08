@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6353</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1405587889</timestamp_x>
+<date_create>1401894108</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Единицы измерения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице можно управлять единицами измерения, используемыми при <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5029#add">работе с товарами</a>. Представлены следующие стандартные единицы:</p>
+
+<p><img src="cid:resources/res347/CcO0T.units_52.png"></p>
+
+<p>Чтобы добавить новую единицу измерения, нажмите <b>Добавить</b> на контекстной панели. Откроется форма создания:</p>
+
+<p><img src="cid:resources/res347/M4Box.fut.png"></p>
+
+<p>Заполните необходимые поля.</p>
+
+<p>Код представляет собой числовое значение, идентифицирующее создаваемую единицу измерения.</p>
+
+<p>Отметьте опцию <b>По умолчанию</b>, если хотите, чтобы данная единица автоматически выставлялась при добавлении товаров.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6353</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

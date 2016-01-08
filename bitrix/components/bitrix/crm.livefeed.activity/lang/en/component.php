@@ -1,0 +1,8 @@
+<?
+$MESS["C_CRM_LFA_TASKS_TITLE_CREATE_M"] = "#USER_NAME# created a task #TITLE#";
+$MESS["C_CRM_LFA_TASKS_TITLE_CREATE_F"] = "#USER_NAME# created a task #TITLE#";
+$MESS["C_CRM_LFA_TASKS_TITLE_CREATE"] = "#USER_NAME# created a task #TITLE#";
+$MESS["C_CRM_LFA_TASKS_TITLE_COMPLETE_M"] = "#USER_NAME# completed the task #TITLE#";
+$MESS["C_CRM_LFA_TASKS_TITLE_COMPLETE_F"] = "#USER_NAME# completed the task #TITLE#";
+$MESS["C_CRM_LFA_TASKS_TITLE_COMPLETE"] = "#USER_NAME# completed the task #TITLE#";
+?>

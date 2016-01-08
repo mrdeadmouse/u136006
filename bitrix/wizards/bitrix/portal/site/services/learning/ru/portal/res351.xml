@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6811</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1418049691</timestamp_x>
+<date_create>1415189562</date_create>
+<created_user_name>(birdys) Ольга Пичужкина</created_user_name>
+<created_by>279527</created_by>
+<active>Y</active>
+<name>Правила обработки почты в CRM</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[ 
+<p>Для консолидации всех возможных работ с клиентом в одном месте - <b>CRM</b> - менеджеру необходимо получать почту от существующих и потенциальных клиентов непосредственно в CRM.</p>
+ 
+<p></p>
+ 
+<p>После настройки интеграции все письма, отправленные на адрес интегрированного почтового ящика, будут попадать в CRM, и информация из них будет распределяться следующим образом:</p>
+ 
+<ul> 
+  <li> Если адрес отправителя</li>
+ </ul>
+ <img src="cid:resources/res351/Vlr1n.pismo.png"  /> 
+<br />
+ 
+<br />
+ уже зарегистрирован как <b>адрес клиента или лида</b> в CRM, то: 
+<ul> 
+  <ul> 
+    <li>в <i>Мои дела</i> появляется новое дело для этого клиента (лида)</li>
+   </ul>
+ </ul>
+ 
+<p><img src="cid:resources/res351/whew9.delo1.png"  /></p>
+ 
+<ul> 
+  <ul> 
+    <li> соответственно, оно же появляется в форме просмотра клиента, во вкладке <i>Дела</i></li>
+   </ul>
+ </ul>
+<img src="cid:resources/res351/fABkR.delo2-1.png"   />
+<ul>
+  <ul>
+    <li><i>Сроком</i> дела является дата и время получения письма </li>
+   
+    <li> названием дела является тема письма </li>
+   
+    <li> содержимым дела является содержимое письма </li>
+
+<div class="hint"><b>Примечание</b>: Если лид уже сконвертирован в контакт и компанию, то дело появится только в форме просмотра контакта.</div>
+   
+    <p>После получения письма в CRM в почтовом клиенте оно может отмечаться как прочитанное. </p>
+   </ul>
+ </ul>
+ 
+<ul> 
+  <li>Если адрес отправителя уже зарегистрирован как <b>адрес сотрудника</b></li>
+ </ul>
+ 
+<p><img src="cid:resources/res351/Jr182.sotrudnk.png"   /></p>
+ 
+<p> на портале, то:</p>
+ 
+<ul> 
+  <ul> 
+    <li> просматривается тело письма на предмет содержания внутри электронного адреса</li>
+   
+    <li> если адрес содержится и он уже зарегистрирован на портале, то дело приписывается к этому клиенту</li>
+   
+    <li> если адрес содержится и он не зарегистрирован, то создается новый лид и новое дело, приписанное к этому лиду </li>
+   </ul>
+ </ul>
+ 
+<p><img src="cid:resources/res351/vJO2u.new_lid1.png"  /></p>
+ 
+<ul> 
+  <ul> 
+    <li> если адрес не содержится, то новая сущность не создается, но письмо в почтовом клиенте также может быть отмечено как прочитанное</li>
+   
+    <li> если в теме письма содержится <a target="_blank" href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=03767 #shablon" >конструкция</a> вида [LID#1], то письмо будет привязано как дело (во вкладке <i>Дела</i> формы просмотра лида) к лиду с соответствующим номером ID вне зависимости от наличия в письме электронного адреса. </li>
+   
+    <br />
+   </ul>
+ </ul>
+ <img src="cid:resources/res351/D9JSW.pismo_klidu.png"   /> 
+<ul> 
+  <ul> 
+      </ul>
+ </ul>
+ 
+<ul> 
+  <li>Если адрес отправителя <b>не зарегистрирован</b> на портале и в настройках интеграции флажок в пункте <i>Создавать лид для неизвестного отправителя</i>:</li>
+ 
+  <ul> 
+    <li> проставлен, </li>
+   </ul>
+ </ul>
+<img src="cid:resources/res351/Kv6vb.sozd_lid-1.png"   />
+<p>то будет создан новый лид</p>
+ <img src="cid:resources/res351/PCDlc.new_lid.png"  /> 
+<ul> 
+  <ul> 
+    <li> не проставлен, то новая сущность создаваться не будет.</li>
+   </ul>
+ </ul>
+ 
+<p></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>6811</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

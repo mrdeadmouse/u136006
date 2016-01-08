@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2718</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416488945</timestamp_x>
+<date_create>1310119585</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Панель фильтра</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[ 
+<p>Фильтр позволяет отобрать элементы в списке по каким-либо параметрам. По умолчанию фильтрация происходит по параметру <b>Раздел</b>.</p>
+ 
+<div class="hint"><b>Примечание</b>: Для экономии места на экране компьютера фильтр можно свернуть. 
+  <br />
+ 
+  <br />
+ <img src="cid:resources/res249/V03j5.Sver_Filtr.png" border="0" width="668" height="139"  /> 
+  <br />
+ </div>
+ 
+<br />
+ <b>Настройка формы фильтра</b> 
+<p>Для настроек фильтра используется следующее меню:</p>
+ 
+<p><img src="cid:resources/res249/lKg25.Nastr_Filtr.png" border="0" width="696" height="417"  /></p>
+ 
+<p>Отметив флажком нужные поля, вы сформируете новый фильтр. Например, добавим с помощью этого меню поля <b>Название</b> и <b>Руководитель</b>. Мы получили новый фильтр. Фильтры можно сохранять, удалять. Сохранённые фильтры отображаются в виде закладок. </p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание</b>: Поле <b>Раздел</b> должно присутствовать среди параметров фильтра. Если отбор не ведется по этому полю, то его значение можно установить (любой).</div>
+ 
+<p>Если какой-то из сохранённых фильтров активен (то есть данные отфильтрованы по нему), то закладка меняет свой цвет.</p>
+ 
+ 
+<h4>Пример создания фильтра</h4>
+ 
+<p>Создадим фильтр, включающий все поля данного списка<b></b>.</p>
+ 
+<ul> 
+  <li>Нажмите на закладку со знаком <b>+</b>, откроется окно для ввода названия нового фильтра.</li>
+ 
+  <li>Введите название <b>Полный</b> и сохраните. Создастся новая закладка и сразу же она станет активной.</li>
+ 
+  <li>Добавьте в закладку фильтра все поля списка.</li>
+ 
+  <li>Сохраните фильтр: </li>
+ </ul>
+ 
+<p><img src="cid:resources/res249/DxJge.Full_Filtr.png" border="0" width="680" height="452"  /></p>
+ 
+<ul> 
+  <p> 
+    <br />
+   </p>
+ 
+  <p> 
+    <br />
+   </p>
+ </ul>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>2718</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

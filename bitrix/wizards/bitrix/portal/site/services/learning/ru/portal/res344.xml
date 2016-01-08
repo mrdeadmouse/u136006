@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5370</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>260</sort>
+<timestamp_x>1417603046</timestamp_x>
+<date_create>1372083464</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Способы оплаты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Способы оплаты используются при <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5362" >выставлении счёта</a> и создании <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6352" >коммерческого предложения</a>.</p>
+ 
+<p>Первоначально в системе есть следующие методы оплаты:</p>
+ 
+<p><img src="cid:resources/res344/Fjojj.pay_method_52.png"  /></p>
+ 
+<p>Для добавления нового метода оплаты нажмите <b>Добавить</b> на контекстной панели, откроется форма создания:</p>
+ 
+<p><img src="cid:resources/res344/dusDJ.onyx_52.png"  /></p>
+ 
+<p>Разберём некоторые поля:</p>
+ 
+<ul> 
+  <li>выберите тип клиента, для которого будет доступен данный способ оплаты: 
+    <p><img src="cid:resources/res344/wIcSO.client_type_52.png"  /></p>
+   </li>
+ 
+  <li>укажите <a href="/learning/course/index.php?COURSE_ID=42&LESSON_ID=3076#1_pay_system" >обработчик платежей</a>, осуществляемых с помощью данной платежной системы: 
+    <p><img src="cid:resources/res344/jKntG.handler_payments_52.png"  /></p>
+   </li>
+ 
+  <li>при необходимости заполните <b>Свойства обработчика</b>, данная информация будет помещена в реквизиты.</li>
+ 
+  <li>
+<a name="pechat"></a>
+В свойствах обработчика вы можете загрузить логотип компании, печать и подписи, которые будут отображены в счетахпредложениях: 
+    <p><img src="cid:resources/res344/nMEHX.logotip_52.png"  /></p>
+   
+    <p></p>
+  
+    <div class="hint"><b>Примечание: </b>в режиме показа всех полей, значения отступов, отличные от <b>Другое значение</b>, не имеют смысла.</div>
+  
+    <p></p>
+   
+    <p>Задайте значения отступов для изменения места расположения данных по счету.</p>
+   
+    <p>Здесь же можно указать фон счета и выбрать его формат отображения:</p>
+   
+    <ul> 
+      <li><b>Как есть</b> - разместить фоновое изображение в его изначальном виде;</li>
+     
+      <li><b>Замостить</b> - для заполнения всего фонового пространства изображение будет копироваться;</li>
+     
+      <li><b>Растянуть</b> - фоновое изображение будет растянуто на все пространство фона.</li>
+     </ul>
+   </li>
+ </ul>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>260</edge_sort>
+<id>5370</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

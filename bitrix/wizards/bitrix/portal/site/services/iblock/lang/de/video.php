@@ -1,0 +1,11 @@
+<?
+$MESS["VIDEO_FORM_1"]="Video";
+$MESS["VIDEO_FORM_2"]="Name";
+$MESS["VIDEO_FORM_3"]="Datei";
+$MESS["VIDEO_FORM_4"]="Lдnge";
+$MESS["VIDEO_FORM_5"]="Vorschau";
+$MESS["VIDEO_FORM_6"]="Kurzbeschreibung";
+$MESS["VIDEO_FORM_7"]="Zusдtzlich";
+$MESS["VIDEO_FORM_8"]="Sortierung";
+$MESS["VIDEO_FORM_9"]="Bereiche";
+?>

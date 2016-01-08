@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3727</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1413992821</timestamp_x>
+<date_create>1341561605</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Функционал группы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Функционал группы (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res154/JvaxA.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p>После того, как вы зашли в профиль группы, можно увидеть меню группы:</p>
+
+<p><img src="cid:resources/res154/K8UP9.main_gr_panel.png" alt="Меню группы" /></p>
+
+<p>В нем представлены следующие вкладки:</p>
+
+<ul>
+  <li><b>Основное</b> - Это главная вкладка профиля группы, на ней размещена основная информация и меню управлениявзаимодействия с группой.</li>
+
+  <li><b>Диск</b> - В данном разделе вы можете просматривать, хранить и создавать файлы. Подробнее смотрите на странице <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3703">Мой Диск</a> раздела <b>Мои инструменты</b>.</li>
+
+  <li><b>Задачи</b> - Здесь вы можете узнавать о поставленных <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=1287" />задачах</a> и менять их статус.</li>
+
+  <li><b>Календарь</b> - На вкладке <b>Календарь</b> можно узнавать о грядущих и прошедших событиях в группе. Работа с календарем описана в <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=1284">одноименной главе</a>.
+
+<p><div class="hint"><b>Примечание: </b>событие календаря группы будет отображено и в личных календарях участников события.</div></p>
+</li>
+
+  <li><b>Сообщения</b> - Данный раздел дает возможность обмениваться сообщениями с другими участниками группы. Подробнее об использовании сообщений смотрите в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3697">Сообщения</a>.</li>
+
+  <li><b>Фото</b> - Здесь расположены альбомы группы. Подробнее об использовании фотогалереи смотрите в подразделе <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3713">Фото</a> раздела <b>Мои инструменты</b>.</li>
+
+<li><b>Списки</b> - Здесь вы можете просматривать, и при наличии достаточных прав, создавать списки каких-либо элементов. Подробнее о работе со списками смотрите <a href="/learning/course/index.php?COURSE_ID=52&CHAPTER_ID=03476">здесь</a>.</li>
+
+ <li><b>Wiki</b> - База знаний, сборник статей, создаваемых для обобщения и накопления знаний. Подробнее о работе с функционалом <b>Wiki</b> вы можете прочитать в уроке <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=2049">здесь</a>.</li>
+</ul>
+
+
+<br />
+<h4>Поиск</h4>
+
+<p><div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Поиск (Интерактивный видеоролик)</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если у вас нет возможности прослушать, то ориентируйтесь на всплывающий текст: он дублирует звуковое сопровождение.</p>
+
+
+ <iframe src="cid:resources/res154/LIJch.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div></p>
+
+<p>Поиск внутри группы осуществляется несколькими способами:</p>
+ 
+<p>Можно выполнить поиск, щелкая по ключевым словам в облаке тегов, построенным на основе тегов в событиях группы:</p>
+    <p><img src="cid:resources/res154/NSNHf.tags.png" width="260" height="30"></p>
+
+    <p>Если нужных слов для поиска в облаке тегов нет, нажмите на кнопку <img src="cid:resources/res154/LDm8O.search_but.png" width="27" height="27">, введите их в поле поиска и нажмите <b>Enter</b>:</p>
+    <p><img src="cid:resources/res154/nNZPi.search_in_group.png" width="671" height="71"></p>
+
+    <p>Можно ограничить поиск каким-либо одним функционалом, либо определенной датой изменения. Для этого нажмите ссылку <b>Расширенный поиск</b>, после чего появятся дополнительные настройки поиска:</p>
+      <p><img src="cid:resources/res154/ZRMbh.adv_search_in_group.png" width="462" height="247"></p>
+
+    <p>В поле <b>По функционалу</b> в открывающемся списке выберите, в каком функционале следует производить поиск:</p>
+      <p><img src="cid:resources/res154/iqXX8.anywhere.png" width="79" height="104"></p>
+
+    <p>В поле <b>По дате изменения</b> для выставления даты используйте кнопку <img src="cid:resources/res154/cK5xc.date.png" width="23" height="23">.</p> 
+
+    <p>Поставьте дату только в первое текстовое поле, чтобы поиск осуществлялся в период с нее по текущее число. Поставьте дату только во второе текстовое поле, если хотите чтобы в результатах поиска были все измененные до этого числа записи. Поставьте даты в оба текстовых поля, если хотите осуществить поиск за конкретно определенный период.</p>
+
+
+
+<br />
+<h4>Уведомления</h4>
+
+<p>Подписка на уведомления событий группы очень проста - для этого нужно нажать на кнопку <img src="cid:resources/res154/AoCXo.subscription_but.png" width="27" height="28">:</p>
+
+<p><img src="cid:resources/res154/7itqF.subscription_panel.png" width="672" height="71"></p>
+
+<p>Настройку отправки уведомлений о событиях в группе (Сайт и приложения, Электронная почта) можно сделать в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5121#im_options" target="_blank" />расширенных настройках уведомлений</a> на портале. За это отвечает опция <b>Активность и обновления в группе</b>:</p>
+
+<p><img src="cid:resources/res154/A4bFT.options_subsription.png" width="582" height="500"></p>
+
+
+<br />
+<h4>Информацию о группе</h4>
+
+<p>Справа от меню группы можно посмотреть ее участников и узнать другую информацию о группе, а также отредактировать модераторов и пригласить в группу (при наличии соответствующих прав):</p>
+
+<p><img src="cid:resources/res154/zZTzp.gr_members1.png" width="280" height="590"></p>
+
+  <p>Посмотреть список участников также можно, нажав на кнопку <b>Действия</b> группы и в появившемся меню выбрать <b>Участники</b>:</p>
+
+<p><img src="cid:resources/res154/OiZrN.gr_members2_sm.png" width="700" height="117"></p></li>
+</ul>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>3727</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

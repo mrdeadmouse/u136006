@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="TES"><id>4</id>
+<course_id>3</course_id>
+<timestamp_x>1223028494</timestamp_x>
+<sort>500</sort>
+<active>Y</active>
+<name>Итоговый тест</name>
+<description><![CDATA[<p>Итоговый тест по курсу включает в себя 5 вопросов. Для успешного прохождения теста необходимо ответить хотя бы на 4 вопроса.</p>]]></description>
+<description_type>html</description_type>
+<attempt_limit>0</attempt_limit>
+<time_limit>0</time_limit>
+<completed_score>80</completed_score>
+<questions_from>A</questions_from>
+<questions_amount>0</questions_amount>
+<random_questions>Y</random_questions>
+<random_answers>Y</random_answers>
+<approved>Y</approved>
+<include_self_test>N</include_self_test>
+<passage_type>0</passage_type>
+</content>

@@ -1,0 +1,75 @@
+body { color: #000; }
+
+
+a:link { color: #0069c4;}
+a:visited { color: #0069c4; }
+a:hover { color: #e00000;}
+a:active { color: #0069c4;}
+
+h1, h2, h3, h4, h5, h6 { font-family: Arial, sans-serif;}
+h1 { color: #000; font-size: 1.65em; font-weight:normal; margin: 0 0 7px;}
+h1#pagetitle { margin: 0 0 7px; }
+
+/*Data table*/
+table.data-table
+{
+	border:1px solid #fff;
+	border-collapse: collapse;
+}
+
+/*Any cell*/
+table.data-table td
+{
+	border:1px solid #efefef;
+	border-left:none;
+	border-right:none;
+	background-color:#FFFFFF;
+	padding:6px 5px;
+}
+
+/*Head cell*/
+table.data-table thead td, table.data-table th, table.data-table thead th
+{
+	background-color:#ebebeb;
+	font-weight:bold;
+	font-size:12px;
+	background-image:none;
+	border:1px solid #fff;
+	padding:8px;
+	color:#072838;
+	text-align:left;
+}
+
+/*Head cell selected*/
+table.data-table thead td.selected, table.data-table th.selected, table.data-table thead th.selected
+{
+	background-color:#f6f6f5;
+}
+
+/*Body cell*/
+table.data-table tbody td
+{
+	background-color:#FFF;
+	background-image:none;
+}
+
+/*Selected cell*/
+table.data-table td.selected, table.data-table tr.selected td
+{
+	background-color:#f6f6f6;
+}
+
+/*Foot cell*/
+table.data-table tfoot td
+{
+	background-color:#f6f6f5;
+	padding:4px;
+}
+
+/*End data table*/
+
+
+.bx-birthday-layout-include .bx-user-info { border: none;}
+.bx-honour-layout-include .bx-user-info { border: none; }
+.bx-new-layout-include .bx-user-info{ border: none; }
+.bx-user-info { border: none;} 

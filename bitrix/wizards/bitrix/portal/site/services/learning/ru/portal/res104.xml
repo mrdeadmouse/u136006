@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5820</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>700</sort>
+<timestamp_x>1403619160</timestamp_x>
+<date_create>1386325441</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Проекты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Проекты</b> отображается распределение задач по статусам для проектов/групп, в которых вы состоите.</p>
+
+	<p><img src="cid:resources/res104/2UE2f.tasks_projects.png" border="0"></p>
+
+<p>В колонках таблицы для статусов отображается <u>общее количество задач</u> и количество задач, <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5825#counters">требующих внимания</a> (счетчики).</p>	
+	
+<br>	
+
+<p>Ссылка <span style=" border-bottom-color: #717272; border-bottom-style: dashed; border-bottom-width: 1px;">еще хх участник</span> позволяет просмотреть список все сотрудников, состоящих в группе.</p>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>700</edge_sort>
+<id>5820</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

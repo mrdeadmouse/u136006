@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5803</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>800</sort>
+<timestamp_x>1403619409</timestamp_x>
+<date_create>1385557840</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Руковожу</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Если вы являетесь руководителем отдела, то на <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5825#naigation_panel">панели задач</a> для вас будет доступна кнопка <b>Руковожу</b>, которая позволяет просматривать задачи подчиненных по отделам и подотделам.</p>
+
+	<p><img src="cid:resources/res105/53PZ7.tasks_departments.png" border="0"></p>
+
+<p>В колонках таблицы для каждой <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05018#roles">роли</a> отображается <u>общее количество задач</u> и количество задач, <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5825#counters">требующих внимания</a> (счетчики).</p>
+
+<br>
+
+<p>Для перехода к просмотру задач сотрудника соответствующей роли нужно воспользоваться ссылкой в колонке.</p>
+
+<br>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>800</edge_sort>
+<id>5803</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

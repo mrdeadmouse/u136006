@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5817</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>390</sort>
+<timestamp_x>1418226981</timestamp_x>
+<date_create>1386253256</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Лента</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Данный инструмент, на странице <span class="path">CRM &gt; Лента</span> предназначен для удобного мониторинга событий CRM, обсуждения их с коллегами, а также для работы с сущностями.</p>
+ 
+<p><img src="cid:resources/res294/tOsPh.Lenta_CRM.png" border="0" width="700" height="350"  /></p>
+ 
+<p>Изначально активен режим <b>Моё</b>, при котором пользователю показываются следующие события:
+<a name="sobitija"></a>
+</p>
+ 
+<ul> 
+  <li>автором которых является сам пользователь;</li>
+ 
+  <li>в которых он значится адресатом;</li>
+ 
+  <li>является ответственным за сущности, с которыми эти события происходили. Чтобы не видеть события какой-либо сущности, используйте кнопку <img src="cid:resources/res294/Bjkvi.not_trace.png"  /> формы ее просмотра;</li>
+ 
+  <li>к сущностям, за которыми он следит.</li>
+ </ul>
+ 
+<div class="hint"><b>Примечание: </b>Пользователь не может отказаться следить за сущностями, автором которых он является.</div>
+ 
+<p>При переключении на режим <b>Вся CRM</b> будут показаны все события, просмотр которых не ограничен правами доступа пользователя.</p>
+ 
+<p>Для выборки событий ленты CRM можно использовать фильтр:</p>
+ 
+<p><img src="cid:resources/res294/xiVfb.lenta_filter.png"  /></p>
+ 
+<p>При выборе значения <b>Фильтр...</b> можно осуществить поиск событий по дате и автору:</p>
+ 
+<p><img src="cid:resources/res294/5S9hA.filter.png"  /></p>
+ 
+<p>Написание сообщений в ленту CRM осуществляется аналогично таковому для живой ленты. При выборе получателей сообщения вы можете указать сущности CRM, в ленту которых это сообщение будет добавлено:</p>
+ 
+<p><img src="cid:resources/res294/fggJ7.Soob_CRM.png" border="0" width="593" height="493"  /></p>
+ 
+<p>Начните вводить название сущности и она отобразится в форме выбора.</p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Важно! </b>Для выбора доступны только те сущности, к которым вы имеете права доступа.</div>
+ 
+<p></p>
+ 
+<p>Из ленты вы также можете создавать <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3757" >звонки</a>, задачи, <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3757" >встречи</a>, <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05028#letter" >e-mail</a>.</p>
+ 
+<p>В области <b>Нужно сделать</b> показаны пять наиболее просроченных дел. Если просроченных дел нет, то выводятся дела с наиболее близким к текущему крайним сроком выполнения. При отметке галочкой дело переводится в статус завершенного.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>390</edge_sort>
+<id>5817</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

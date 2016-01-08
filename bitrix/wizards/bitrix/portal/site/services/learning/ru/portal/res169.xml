@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6443</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>12</childs_cnt>
+<is_childs>1</is_childs>
+<sort>800</sort>
+<timestamp_x>1405426451</timestamp_x>
+<date_create>1404904010</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Сотрудники</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Раздел предназначен для вывода всей необходимой информации о сотрудниках и структуре компании.</p>
+
+<p>В разделе представлены следующие страницы:</p>
+
+<ul>
+<li><b>Поиск сотрудника</b> - здесь вы можете найти сотрудника и/или узнать краткую информацию о нем.</li>
+<li><b>Телефонный справочник</b> - на данной странице представлены телефоны всех сотрудников компании.</li>
+<li><b>Структура компании</b> - приведено наглядное представление иерархии филиалов, подразделений и отделов компании  в виде схемы.</li>
+<li><b>Кадровые изменения</b> - тут вы можете отследить изменения, произошедшие в карьере сотрудников.</li>
+<li>Отсутствия сотрудников по каким-либо причинам фиксируются в <b>Графике отсутствий</b>.</li>
+
+<li>Отработанные часы за каждый день можно посмотреть на странице <b>Рабочее время</b>.</li>
+
+
+<li>На странице <b>Рабочие отчеты</b> представлены данные по рабочим отчетам.</li>
+
+<li>Провести оценку производительности на основе отчетов можно на странице <b>Эффективность</b>.</li>
+
+<li><b>Доска почета</b> - на этой странице вы увидите сотрудников с особыми заслугами.</li>
+<li><b>Дни рождения</b> - здесь вы можете поздравить сотрудника с Днем рождения или посмотреть, у кого день рождения в ближайшее время.</li>
+<li>На странице <b>Фотогалерея</b> доступны для просмотра фотографии и галереи сотрудников портала (страница доступна при включенном функционале фотогалерей сотрудников).</li>
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>800</edge_sort>
+<id>6443</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

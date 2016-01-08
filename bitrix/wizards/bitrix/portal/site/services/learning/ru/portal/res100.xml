@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3720</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1404980501</timestamp_x>
+<date_create>1341473173</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Шаблоны задач</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик по работе с задачами</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td><p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже.</p>
+
+<p>Ролик озвучен. Если нет возможности прослушать звуковое сопровождение, то с помощью значка <img height="36" width="39" src="cid:resources/res100/1pNEu.audio_11.png" /> в правом верхнем углу ролика можно просмотреть текст. </p>
+
+
+ <iframe src="cid:resources/res100/RdrIj.story.html" width="820" height="671"></iframe></td></tr>
+</tbody>
+</table></div>
+
+<p>Шаблоны позволяют упростить создание однотипных задач.</p>
+
+<p>Для перехода на страницу со списком шаблонов воспользуйтесь ссылкой <b>Список всех шаблонов</b> кнопки <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5825#but_task_list_templates">Добавить задачу по шаблону</a> или ссылкой <b>Шаблоны</b> на <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6389#tasks_filter">панели фильтра</a>.</p>
+
+ <p><img src="cid:resources/res100/I3uc7.templates_list.png" border="0" height="175" width="618"></p>
+
+ 
+<br>
+
+
+<a name="task_template_create"></a><h4>Создание шаблона задачи</h4>
+<p>Для создания нового шаблона используется кнопка <b>Добавить шаблон</b>.</p>
+ 
+<p>Процесс создания шаблона аналогичен <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3719">созданию обычной задачи</a>.</p>
+
+
+<p>Опция <b>Крайний срок через ... дней после создания задачи</b> позволяет указать в шаблоне дату крайнего срока, которая будет автоматически задаваться для создаваемой по шаблону задачи путем прибавления указанного количества дней к дате ее создания.</p>
+
+ <p><div class="hint"><b>Примечание:</b> Если при создании шаблона отметить опцию <b>Повторять задачу каждый</b>, то новые задачи будут создаваться автоматически, в зависимости от указанных настроек. Для того чтобы задачи больше не создавались необходимо удалить исходный шаблон.
+<br><br>
+Также, при создании задачи с повтором, она автоматически превратится в шаблон.</div></p>
+
+ 
+<br>
+
+
+<a name="task_template_use"></a><h4>Создание задачи на основе шаблона</h4>
+
+<p>Создание задачи по шаблону сводится к тому, что необходимо выбрать желаемый шаблон с помощью кнопки <b>Добавить задачу по шаблону</b> на странице со списком задач и затем в открывшийся форме создания задачи с уже заполненными полями согласно шаблону нажать кнопку <b>Поставить задачу</b>.</p>
+
+ <p><img src="cid:resources/res100/oEFYQ.but_task_list_templates_menu.png" border="0" height="156" width="238"></p>
+ 
+ 
+<br>
+
+
+<a name="task_template_edit"></a><h4>Редактирование шаблона</h4>
+<p>Изменение шаблона задачи осуществляется аналогично его созданию.</p>
+<p>Перейти к форме редактирования шаблона задачи возможно с помощью пункта меню действий <b>Редактировать</b> в списке шаблонов.</p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>3720</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

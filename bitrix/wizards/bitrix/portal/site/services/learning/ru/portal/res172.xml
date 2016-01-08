@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6452</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1404995346</timestamp_x>
+<date_create>1404995245</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Телефонный справочник</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Телефонный справочник</b> представлены телефоны всех сотрудников компании:</p>
+
+<p><img src="cid:resources/res172/wCSg7.phonebook24.png" /></p>
+
+<p>Сотрудники отсортированы по подразделениям. Найти интересующего сотрудника и его номер телефона можно с помощью панели поиска.</p> ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>6452</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6391</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>910</sort>
+<timestamp_x>1417518544</timestamp_x>
+<date_create>1403615495</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Сравнение интранет и экстранет пользователя</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="note"><b>Экстранет</b> – инструмент, который позволяет компании осуществлять конфиденциальную связь с поставщиками, дистрибьюторами и другими внешними пользователями без допуска их к внутрикорпоративной информации.</div></p>
+
+<p>В экстранете сотрудники компании могут приглашать внешних пользователей и обсуждать с ними вопросы в рабочей группе (в форумах, блогах), совместно работать с общими документами, планировать активность в календаре, ставить задачи и следить за их выполнением, публиковать отчеты и т.д.</p>
+
+
+<p>Хоть возможности экстарнет-пользователей достаточно схожи с возможностями обычных сотрудников, но они имеют некоторые ограничения. В таблице представлено сравнение возможностей интранет и экстранет пользователей, сгруппированное по функционалу левого меню:</p>
+
+
+<table cellspacing="0" cellpadding="0"> 
+  <tbody> 
+    <tr bgcolor="white"> <td bgcolor="#8c8c8c"> 
+        <table cellspacing="1" cellpadding="5"> 
+          <tbody> 
+
+    <tr bgcolor="silver"> <td align="center" width="20%"><b>Функционал</b></td> <td align="center"><b>Интранет</b></td><td align="center"><b>Экстранет</b></td> <td align="center"><b>Примечания</b></td>  </tr>
+
+    <tr bgcolor="silver"><td  colspan="4">Общее</td>    </tr>
+
+    <tr bgcolor="white"> <td>Просмотр чужого профиля</td> <td align="center">+</td> <td align="center">+</td> <td>Доступно: Информация профиля, Диск, Задачи, Сообщения. </td>  </tr>
+          
+    <tr bgcolor="#eeeeee"> <td>Живая лента</td> <td align="center">+</td> <td align="center">+</td> <td>Пользователю экстранета доступен весь функционал кроме благодарностей и событий календаря. Видны все сообщения <a href="#group">групп</a> и сообщения и события, адресованные лично ему.</td>  </tr>
+
+    <tr bgcolor="white"> <td>Задачи</td>  <td align="center">+</td> <td align="center">+</td> <td>Пользователь экстранета может ставить задачи всем, кто есть в списке <a href="#employee">Сотрудники</a> и <a href="#contacts">Контакты</a>. В рамках группы может ставить задачи только участникам этой <a href="#group">группы</a>.</td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Календарь</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="white"> <td>Мой диск</td>  <td align="center">+</td> <td align="center">+</td> <td>Пользователь экстранета может настроить права доступа на свои папки и файлы. <br><br> Не может "расшарить" свои личные папки. На него также нельзя "расшарить" папку (опция диска "Сделать общей").</td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Почта</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="white"> <td>Сообщения</td>  <td align="center">+</td> <td align="center">+</td> <td>Пользователь экстранета может писать только тем, кто есть в контакт-листе (<a href="#employee">Сотрудники</a> и <a href="#contacts">Контакты</a>) и может писать на <a href="#group">группу</a>.</td>  </tr>
+
+    <tr bgcolor="#eeeeee">  <td>Бизнес процессы</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="white"> <td>Фотографии</td>  <td align="center">+</td> <td align="center">–</td> <td><i>Пользователь экстранета может использовать функционал фотографий только в рамках <a href="#group">групп</a></i>.</td>  </tr>
+
+    <tr bgcolor="#eeeeee">  <td>CRM</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="silver"><td  colspan="4">Группы</td>    </tr>
+
+    <tr bgcolor="white"> <td>Группы</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td><a name="group"></a>Группы экстранет</td>  <td align="center">+</td> <td align="center">+</td> <td>Пользователь экстранета видит весь контент группы (если иное не приписано настройками). Права на доступ (контент) ограничены только настройками самой группы. 
+    <br><br>
+    В рамках группы доступен следующий функционал: Диск, Задачи, Календарь, Сообщения, Фото, Списки, Wiki.
+    </td>  </tr>
+
+    <tr bgcolor="silver"><td  colspan="4">Компания</td>    </tr>
+
+    <tr bgcolor="white"> <td><a name="employee"></a>Сотрудники</td>  <td align="center">+</td> <td align="center">+</td> <td>Список доступных сотрудников компании, которые вместе с пользователем экстранета состоят в общих <a href="#group">группах</a>.</td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td><a name="contacts"></a>Контакты</td>  <td align="center">–</td> <td align="center">+</td> <td>Список доступных внешних экстранет-пользователей (не сотрудников компании), которые вместе состоят в общих <a href="#group">группах</a>.</td>  </tr>
+
+    <tr bgcolor="white"> <td>Общий диск</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Структура компании</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="white"> <td>Рабочее время</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Списки</td>  <td align="center">+</td> <td align="center">–</td> <td><i>Пользователь экстранета может использовать функционал списков только в рамках <a href="#group">групп</a></i>.</td>  </tr>
+
+    <tr bgcolor="white"> <td>Собрания и планерки</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>График отсутствий</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+
+    <tr bgcolor="silver"><td  colspan="4">Коммуникации</td>    </tr>
+
+
+    <tr bgcolor="white"> <td>Настройка уведомлений</td>  <td align="center">+</td> <td align="center">+</td> <td> </td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Мгновенные сообщения / Звонки / Видеозвонки</td>  <td align="center">+</td> <td align="center">+</td> <td>Пользователь экстранета может писать только тем, кто есть в контакт-листе (<a href="#employee">Сотрудники</a> и <a href="#contacts">Контакты</a>). Возможность совершения звонков/видеозвонков <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5389">зависит типа браузера</a>.</td>  </tr>
+
+    <tr bgcolor="white"> <td>Телефония</td>  <td align="center">+</td> <td align="center">–</td> <td> </td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Битрикс24 Network</td>  <td align="center">+</td> <td align="center">+</td> <td>Доступен, как и обычному сотруднику. На портале присутствует ссылка на профиль в Битрикс24 Network.</td>  </tr>
+
+    <tr bgcolor="white"> <td>Мобильное приложение</td>  <td align="center">+</td> <td align="center">+</td> <td>Контент и права аналогичны версии в браузере.</td>  </tr>
+
+    <tr bgcolor="#eeeeee"> <td>Десктоп-приложение</td>  <td align="center">+</td> <td align="center">+</td> <td>Возможности аналогичны версии в браузере.</td>  </tr>
+
+
+
+ 
+          </tbody>
+       </table> 
+    </tr>
+ </tbody>
+</table>
+
+
+
+<br>
+
+
+
+<p><table bgcolor="#cecece" cellpadding="0" cellspacing="0" height="1" width="100%"> 
+  <tbody> 
+    <tr><td></td></tr>
+   </tbody>
+</table></p>
+
+
+
+<h4>Ссылки по теме:</h4>
+<ul>
+	<li><a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5012">Группы экстранет</a></li>
+
+</ul>	
+
+
+
+
+
+<br><br>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>910</edge_sort>
+<id>6391</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

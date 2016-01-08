@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2265</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1405343874</timestamp_x>
+<date_create>1299251405</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Файловое хранилище</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Функционал модуля <b>Библиотека документов</b> позволяет организовать на портале файловое хранилище, т.е. к порталу может быть подключена некоторая физическая папка на сервере с имеющимися в ней файлами и документами.</p>
+
+<p><div class="warning"><b>Важно! </b>Подключить физическую папку сервера к порталу может только сотрудник с необходимыми правами. По умолчанию это <b>Администратор</b> портала. </div></p>
+
+<p>В результате к порталу будет подключена указанная папка и все ее содержимое будет доступно в рамках библиотеки документов портала:</p>
+
+<p><img src="cid:resources/res215/gmZcO.file_storage_sm.png" border="0" height="289" width="600"></p>
+
+<p>Работа с файлами и подпапками данной папки возможна как с помощью <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=2262">средств портала</a>, так и традиционными средствами операционной системы.</p>
+
+
+
+<p><div class="hint"><b>Обратите внимание, что</b> в библиотеке документов на основе физической папки <b>отсутствует</b> документооборот/бизнес-процессы, а также недоступен просмотр и изменение некоторых свойств файла.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>2265</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

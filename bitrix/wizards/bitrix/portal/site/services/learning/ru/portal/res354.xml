@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5286</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>900</sort>
+<timestamp_x>1407316794</timestamp_x>
+<date_create>1363702492</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Почтовые шаблоны</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице представлены шаблоны <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05028#letter">отправки писем</a> на электронные адреса сущностей CRM:</p>
+
+<p><img src="cid:resources/res354/KDKxs.mail_sh_52.png"></p>
+
+<p><div class="hint"><b>Примечание: </b>у вас могут быть установки отправки писем, которые можно добавить в качестве почтовых шаблонов. Нажмите на ссылку <link>добавить их в список</link> в сообщении, которое будет на странице <b>Почтовые шаблоны</b>:
+
+<p><img src="cid:resources/res354/mNJ7a.mail_message.png"></p>
+</div></p>
+<br>
+
+<p>С помощью меню действий вы можете редактировать или удалить почтовый шаблон:</p>
+
+<p><img src="cid:resources/res354/qgJo6.pattern_menu_52.png"></p>
+
+<p>Почтовый шаблон можно выбрать в форме создания письма:</p>
+
+<p><img src="cid:resources/res354/h1J3w.choose_pattern_52.png"></p>
+
+<p>После указания почтового шаблона форма создания письма будет заполнена в соответствии с параметрами выбранного шаблона. Создание почтового шаблона рассмотрено далее.</p>
+<br>
+
+<p>Нажмите на контекстной панели <b>Добавить почтовый шаблон</b>. Откроется форма создания:</p>
+
+<p><img src="cid:resources/res354/AKlqK.new_pattern_52.png"></p>
+
+
+<p>Рассмотрим некоторые поля данной формы:</p>
+
+<ul>
+<li>В поле <b>Доступен</b> укажите кто сможет воспользоваться создаваемым шаблоном:
+
+<p><img src="cid:resources/res354/vUBSp.only_me_52.png"></p>
+
+<p><div class="hint"><b>Примечание: </b>данная опия есть только у администраторов. Обычные сотрудники могут добавлять шаблоны только для себя.</div></p>
+</li>
+
+<li>В поле <b>От кого</b> укажите e-mail, который будет указан в качестве обратного адреса.</li>
+
+<li>В поле <b>Тема</b> введите тему письма, которая будет прописана для данного шаблона.</li>
+
+<li>В поле <b>Сущность</b> выберите сущность CRM, для которой может быть использован данный шаблон:
+
+<p><img src="cid:resources/res354/haeiY.essence_52.png"></p>
+
+
+
+<p>Для других сущностей он будет недоступен для выбора.</p>
+</li>
+
+<li><b>Выбор полей</b> - указываются параметры выбранной выше сущности, которые будут автоматически прописаны в тексте письма, использующего данный шаблон. 
+
+<p>Для добавления параметра сущности (в нашем случае - сделки) выберите его из общего списка:</p>
+
+<p><img src="cid:resources/res354/PMxV6.field_list_52.png"></p>
+
+<p>Затем нажмите кнопку <b>Добавить</b>.</p>
+
+<p>Мы добавили три параметра: ID сделки, валюту сделки и полное имя ответственного сделки. Все эти параметры отображаются в поле ниже:</p>
+
+<p><img src="cid:resources/res354/IpoZk.deal_id.png" width="283" height="126"></p>
+</li>
+</ul>
+
+<p><div class="warning"><b>Внимание! </b>При отправке письма сразу нескольким контактам, в письме не будут автоматически проставлены данные каждого отдельного элемента, поэтому шаблоны следует использовать только при отправке письма одному клиенту.</div></p>
+
+<br>
+<p>После выбора созданного нами шаблона создаваемое для какой-либо сделки письмо будет выглядеть следующим образом:</p>
+
+<p><img src="cid:resources/res354/QwhRK.my_pattern_52.png"></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>900</edge_sort>
+<id>5286</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

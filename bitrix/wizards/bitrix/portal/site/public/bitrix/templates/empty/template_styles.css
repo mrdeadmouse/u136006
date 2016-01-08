@@ -1,0 +1,19 @@
+body{
+	background:#4a507b url(images/bg_fill.gif) repeat;
+	margin:0;
+	padding:0;
+}
+
+a:link {color:#2747BF;}
+a:visited {color:#1E1885;}
+a:hover {color:red;}
+
+/* Authorization form */
+body, div.bx-auth-form td {font-family:Verdana,Arial;}
+div.bx-auth-form {margin:16px; padding:8px; width:500px; background-color:#F9FAFD; box-sizing:border-box; -moz-box-sizing:border-box;}
+div.bx-auth-form div.bx-auth-header {font-size:70%; text-align:left; font-weight:bold; padding:0px 3px 8px 3px; margin:0px; background-image:url(images/dots_auth.gif); background-position:left bottom; background-repeat:repeat-x;}
+div.bx-auth-form div.bx-auth-picture {width:105px; height:120px; margin:0px; background-image:url(images/auth_pict.gif); background-position:center; background-repeat:no-repeat;}
+div.bx-auth-form td {font-size:70%; padding:3px;}
+div.bx-auth-form div.bx-auth-table {margin-top:8px;}
+div.bx-auth-form p {line-height:140%;}
+span.starrequired {color:red;}

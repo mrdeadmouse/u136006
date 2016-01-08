@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6454</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>600</sort>
+<timestamp_x>1405081193</timestamp_x>
+<date_create>1404997089</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Wiki</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="note"><b>База знаний (Wiki)</b> — раздел портала, структуру и содержимое которого пользователи могут сообща изменять с помощью инструментов, предоставляемых самим порталом.</div>
+
+<p>Wiki идеально подходит для создания базы знаний, технических заданий и подготовки различных документов, над которыми происходит совместная работа нескольких пользователей.</p>
+
+<p>Каждая страничка имеет комментарии и систему контроля версий. Первая функция позволяет обсуждать контент странички не покидая страницы. Вторая - контролировать, кто и какие изменения внес, и, если нужно, вернуться к одной из предыдущих версий.</p>
+
+
+
+<h4>Возможности Базы знаний</h4>
+<p>Wiki позволяет:</p>
+
+<ul>
+<li>Редактирование вики-страниц разными пользователями как с помощью вики-разметки, так и с помощью визуального редактора.</li>
+<li>Автоматическое построение оглавления.</li> 
+<li>Вставлять изображения в страницу.</li> 
+<li>Возможность задавать категории и тэги страницам.</li>
+<li>Искать интересующую категорию.</li> 
+<li>Комментировать вики-страницы.</li> 
+<li>Вести историю изменений страницы.</li>
+<li>Сравнивать разные версии вики-страниц.</li> 
+<li>Восстанавливать вики-страницу до более ранней версии. </li> 
+<li>Искать вики-страницы с помощью стандартной формы поиска.</li>
+ </ul>
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>6454</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

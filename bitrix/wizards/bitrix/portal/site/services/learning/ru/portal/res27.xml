@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6920</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>150</sort>
+<timestamp_x>1419270242</timestamp_x>
+<date_create>1419262367</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Резервные коды</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Функционал резервных кодов используется для доступа на сайт, в тех случаях, когда нет возможности использовать устройство двухэтапной авторизации. Например, при утере брелка или телефона с приложением.</p>
+
+<p><div class="hint"><b>Примечание:</b> Для включения функционала резервных кодов обратитесь к администратору сайта. </div></p>
+
+
+<p>Для получения списка резервных кодов необходимо перейти в раздел <b>Моя страница</b> и перейти по ссылке <b>Резервные коды</b>, где можно их <b>Распечатать</b>, <b>Сохранить в текстовый файл</b> или <b>Сгенерировать новые коды</b>: </p>
+
+<p><img src="cid:resources/res27/NOf9o.otp_reserve_codes2_sm.png" border="0" /> </p>
+
+
+<p>Действительны только коды, созданные последними.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>150</edge_sort>
+<id>6920</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

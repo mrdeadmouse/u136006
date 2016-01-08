@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3581</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>950</sort>
+<timestamp_x>1405068713</timestamp_x>
+<date_create>1337261408</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Рейтинги</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Система позволяет проголосовать за понравившийся контент (сообщение, комментарий, фотография и.т.д.) с помощью кнопки <b>Мне нравится</b>, тем самым увеличивая его рейтинг. Благодаря этому контент, при поиске с помощью соответствующего функционала портала, будет отображаться выше, чем схожие результаты. </p>
+
+<p>Также в блоке <b>Популярное</b>, расположенного в правой части страницы <b>Живая лента</b>, будут отображаться сообщения с высоким рейтингом. Информация в этом блоке обновляется каждые 8 дней, а каждый час проходит проверка на новые, более популярные сообщения.</p>
+
+<p><div class="hint"><b>Примечание:</b> Внешний вид элементов оценки контента и работа системы рейтингов может различаться, в зависимости от настроек, заданных администратором.</div></p>
+
+
+<br>
+
+<p>При наведении на символ <b>&#9733;</b> будет отображен список сотрудников, которым тоже понравился этот контент. Список строится на основе иерархии компании. Самым первым отображается Ваше имя, затем идут начальники, после обычные сотрудники. Если авторитет одинаков (например, равноценные начальники или обычные сотрудники), то сортировка идет по схеме - чей контент больше нравится, тот и выше. Так как список строится на основе иерархии, то для каждого сотрудника, в зависимости от его положения в компании, сортировка в нем будет разной. </p>
+
+ <p><img src="cid:resources/res53/X99as.like_list.png" height="141" width="183"></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>950</edge_sort>
+<id>3581</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

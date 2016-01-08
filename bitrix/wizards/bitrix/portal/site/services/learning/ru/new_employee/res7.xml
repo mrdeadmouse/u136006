@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>21</id>
+<timestamp_x>1222090405</timestamp_x>
+<date_create>1222067829</date_create>
+<created_by>119</created_by>
+<active>Y</active>
+<course_id>3</course_id>
+<chapter_id></chapter_id>
+<name>Порядок предоставления отчетности </name>
+<sort>250</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Все сотрудники компании и их непосредственные руководители ежемесячно составляют в одном экземпляре отчетную ведомость о проделанной работе. Отчет подписывается руководителем и заверяется печатью.</p>
+<p>В отчете необходимо указать:</p>
+<table>
+<tr>
+<td><img src="cid:resources/res7/7MPfY.report.jpg" width="200" height="152" /></td>
+
+<td>
+<ul> 
+<li>ФИО ответственного исполнителя (полностью); </li>
+<li>Должность исполнителя;</li>
+<li>Телефон;</li> 
+<li>Объем выполненной работы;</li>
+<li>Даты фактического выполнения работы;</li>
+<li>Отметить соответствие выполненной работы составленным ранее планам. В случае расхождений с планами отобразить причины отклонений;</li>
+<li>Отдельно выделить сверхнормативную или сверхплановую работу.</li>
+</ul> 
+</td>
+
+</tr>
+</table>
+
+<p>При отсутствии или несвоевременном предоставлении отчета будет использована финансовая санкция.</p>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

@@ -1,0 +1,41 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+IncludeModuleLangFile($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/intranet/public/.top.menu.php");
+
+$aMenuLinks = Array(
+	Array(
+		GetMessage("TOP_MENU_COMPANY"),
+		"#SITE_DIR#about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("TOP_MENU_EMPLOYEES"),
+		"#SITE_DIR#company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("TOP_MENU_DISCS"),
+		"#SITE_DIR#docs/", 
+		Array(), 
+		Array(), 
+		"CBXFeatures::IsFeatureEnabled('CommonDocuments')" 
+	),
+	Array(
+		GetMessage("TOP_MENU_SERVICES"),
+		"#SITE_DIR#services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("TOP_MENU_GROUPS"),
+		"#SITE_DIR#workgroups/", 
+		Array(), 
+		Array(), 
+		"CBXFeatures::IsFeatureEnabled('Workgroups')" 
+	),
+);
+?>

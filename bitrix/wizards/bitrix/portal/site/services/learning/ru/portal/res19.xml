@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2192</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>50</sort>
+<timestamp_x>1407407731</timestamp_x>
+<date_create>1298292621</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Регистрация и авторизация</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В большинстве случаев доступ на корпоративный портал ограничен сотрудниками компании. Кроме того, администратором портала настраивается способ регистрации и авторизации на портале.</p>
+
+<h4>Авторизация и регистрация</h4>
+
+<p>Если настройки портала позволяют неавторизованным пользователям просматривать портал, то в верхнем правом углу портала располагается ссылка <b>Авторизация</b>, позволяющая пользователю авторизоваться на портале и вести полноценную работу. При нажатии на ссылку открывается форма авторизации:</p>
+
+<p><img src="cid:resources/res19/3ypt3.author.png" ></a></p>
+
+<p>Если неавторизованным пользователям запрещено просматривать портал, то при открытии портала сразу будет отображаться следующая форма авторизации:</p>
+
+<p><img height="329" border="0" width="500" src="cid:resources/res19/NKBKy.auth_form2_sm.png" /></p>
+
+<p>Введите в открывшейся у вас форме авторизации свой <b>Логин</b>, <b>Пароль</b> и нажмите кнопку <b>Войти</b>. Страница обновится и теперь вы можете приступать к работе на портале.</p>
+
+<div class="hint"><b>Примечание</b>: Для авторизации на портале через социальные сети необходимо предварительно заполнить <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3750#edit_profile" target="_blank" />в профиле сотрудника</a> соответствующие поля в разделе <b>Социальные сети</b>.</p>
+ </div>
+
+
+<br />
+
+
+<p><div class="hint"><b>Примечание</b>: Администратором портала может быть включено использование <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=02339#one_time_password" target="_blank">одноразовых паролей</a>. О включении этой опции пользователей должны предупредить заранее. если такой режим авторизации включён, то вместо стандартного устройства можно использовать <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=2340" target="_blank">Bitrix OTP</a></div></p>
+
+
+<p>Если настройки портала разрешают самостоятельную регистрацию пользователей, то для регистрации на портале служит ссылка <b>Регистрация</b>, которая располагается на форме авторизации. Форма регистрации имеет следующий вид:
+
+<p><img src="cid:resources/res19/CtWLM.reg_form2.png" /></p></li></ul>
+
+
+<p>В форме укажите регистрационные данные: <b>Имя</b>, <b>Фамилию</b>, <b>Логин</b>, <b>Пароль</b>, <b>Подтверждение пароля</b>, <b>E-Mail</b>.
+
+<p>Нажмите кнопку <b>Регистрация</b>, страница обновится и вы можете приступать к работе на портале.</p>
+
+<p><div class="hint"><b>Примечание:</b> если самостоятельная регистрация запрещена, то добавление пользователя выполняется администратором портала или сотрудником, обладающим необходимыми правами. В этом случае администратор портала пришлёт вам приглашение на e-mail.</div></p>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>50</edge_sort>
+<id>2192</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

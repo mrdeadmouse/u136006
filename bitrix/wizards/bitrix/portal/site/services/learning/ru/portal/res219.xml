@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3735</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1406557465</timestamp_x>
+<date_create>1341585222</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Дизайнер бизнес-процессов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><b>Дизайнер бизнес-процессов</b> предназначен для проектирования, создания и изменения бизнес-процессов.</p>
+
+<p>Механизм проектирования бизнес-процессов реализован за счет визуального программирования по технологии <b>drag&amp;drop</b>, понятной и известной любому пользователю компьютера. Шаблон бизнес-процессов создается в особом <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=3735#viz_constr">визуальном конструкторе</a>, который позволяет сотруднику, не владеющему программированием, задать нужный порядок бизнес-процесса, отобразить его специфичные потребности с помощью простых графических схем.</p>
+<p><div class="hint"><b>Примечание</b>: Создание БП - это программирование, хоть и без написания кода (в большинстве случаев). Требуется постановка задачи, алгоритмирование,  тестирование - для этого нужны определенные навыки и базовая подготовка.</div></p>
+
+<p>Созданный шаблон бизнес-процесса может быть выполнен автоматически или вручную, в зависимости от настроек. В любое время может одновременно выполняться несколько экземпляров бизнес-процесса, и система занимается управлением выполнения этих экземпляров, сохраняя и восстанавливая их состояние по требованию. Ведется лог каждого экземпляра бизнес-процесса для дальнейшего анализа работы схемы и корректировки ее под новые условия.</p>
+
+
+<p><div class="note"><b>Визуальный конструктор</b> - инструмент <b>Дизайнера бизнес-процессов</b>, который позволяет создавать и редактировать шаблоны бизнес-процессов.</div></p>
+
+<p>Для вызова визуального конструктора необходимо:</p>
+<ul>
+<li>нажать кнопку <b>Еще</b> в контекстном меню списка документов и выбрать пункт меню <b>Бизнес-процессы</b>:
+
+<p><img src="cid:resources/res219/r7NUt.doc_4.png"  border="0"/></p> 
+
+<li>на странице <b>Шаблоны бизнес-процессов</b> используйте кнопки контекстной панели <b>Создать &lt;тип_бизнес-процесса&gt;</b> или команду меню действий <b>Изменить</b>:
+<p><img src="cid:resources/res219/aHXo9.bp_2.png" width="700" height="418" border="0" /></p>
+</li>
+
+</ul>
+
+<div class="hint"><b>Примечание:</b> Вид <b>Визуального конструктора</b> будет отличаться в зависимости от того, какой процесс редактируется. </div>
+
+
+<br><br>
+
+<a name="viz_constr"></a><p><b>Внешний вид визуального конструктора</b></p>
+
+<p><img src="cid:resources/res219/3gMmj.bp_8.png" width="700" height="455" border="0" /></p>
+
+
+<p>Действия в статусах, как и шаблон последовательного процесса, настраиваются с помощью <b>визуального конструктора</b>, состоящего из следующих областей:</p>
+
+<ul>
+  <li><a href="#menu">контекстная панель</a> <font color="blue"><b>(1)</b></font></li>
+  <li><a href="#main">основная рабочая область</a> <font color="red"><b>(2)</b></font></li>
+  <li><a href="#actions">панель действий конструктора</a> <font color="green"><b>(3)</b></font></li>
+  <li><a href="#but">кнопки управления</a> <font color="gray"><b>(4)</b></font></li>
+</ul>
+
+<br><br> 
+
+  
+<a name="menu"></a><p><b>Контекстная панель</b></p>
+
+<p>Контекстная панель визуального конструктора состоит из следующего набора кнопок:</p>
+
+<ul>
+  <li><b>Параметры шаблона</b> - позволяет задать/изменить основные параметры и параметры запуска бизнес-процесса;</li>
+  <li><b>Список шаблонов</b> - позволяет перейти к списку шаблонов бизнес-процессов;</li>
+  <li><b>Создать шаблон &lt;тип_бизнес-процесса&gt;</b> - позволяет перейти к созданию одного из типов бизнес-процессов:</li>
+   <ul> 
+     <li><b>Бизнес-процесс со статусами</b> - длительный бизнес-процесс с разделением прав доступа при работе с документами в разных статусах;</li>
+     <li><b>Последовательный бизнес-процесс</b> - простой бизнес-процесс, позволяющий запустить документ в последовательную обработку.</li>
+  </ul>
+  <li><b>Экспорт</b> - позволяет экспортировать текущий шаблон бизнес-процесса;</li>
+  <li><b>Импорт</b> - позволяет импортировать шаблон бизнес-процесса взамен текущего.</li>
+
+</ul>
+
+
+
+<br><br>
+
+
+
+<a name="main"></a><p><b>Основная рабочая область</b></p>
+
+<p>Внешний вид основной рабочей области зависит от типа бизнес процесса:</p>
+<ul>
+
+<li>В случае шаблона <b>бизнес-процесса со статусами</b> основная рабочая область будет иметь вид:
+
+<p><img src="cid:resources/res219/RzpRb.bizproc_visedit_status_sm.png" border="0" height="389" width="600"></p>
+
+<p>При редактировании каждого отдельного действия будет открываться форма редактирования последовательного <b>подпроцесса</b>.</p>
+</li>
+
+<li>В случае с <b>последовательным бизнес-процессом</b> основная рабочая область будет иметь вид как на третьей иллюстрации этого урока.</li>
+
+</ul>
+
+<br />
+<p>Создание и редактирование шаблона бизнес-процесса, т.е. добавление некоторых действий осуществляется простым перетягиванием действия на основную рабочую область конструктора в нужном месте шаблона бизнес-процесса:</p>
+
+<p><img width="600" height="413" border="0" src="cid:resources/res219/QsR5t.bizproc_create_action_sm.png"></a></p>
+
+<br />
+<p>Для удаления ненужного действия служит кнопка <img align="top" width="15" height="15" border="0" src="cid:resources/res219/utweT.bizproc_action_del_but.png" />, а для выполнения детальной настройки размещенного в шаблоне действия служит кнопка <img align="top" width="15" height="15" border="0" src="cid:resources/res219/ynYgt.bizproc_action_settings_but.png" />. При ее нажатии открывается форма <b>Настройка параметров действия</b>:</p>
+
+<p><img width="700" height="496" border="0" src="cid:resources/res219/UHOTC.bizproc_action_settings_form.png"></a></p>
+
+<p><div class="hint"><b>Примечание:</b> Для экономии места на экране некоторые действия можно сворачивать с помощью соответствующей кнопки.
+ <p><img src="cid:resources/res219/chHTy.action_minimize.png" border="0" width="260" height="79"></p>
+</div></p>
+
+
+<br /><br />
+
+<a name="actions"></a><h4>Панель действий конструктора</h4>
+
+<p>Панель действий визуального конструктора состоит из четырех групп, которые содержат следующие действия:</p>
+
+<table cellpadding=0 cellspacing=0>
+		<tr bgcolor="white">
+		<td bgcolor="black">
+		<table cellpadding=5 cellspacing=1>
+			<tr bgcolor="silver">
+				<td colspan="3"><b>Обработка документа</b> - действия, связанные с этапами обработки документа:</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/UHFxy.approveactivity.gif" width="24" border="0" height="24"></td>
+				<td>Утверждение документа</td>
+				<td>Производится утверждение (или нет) документа, по поводу которого запущен бизнес-процесс.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/0Pqya.controllerremoteiblockactivity.gif" width="18" border="0" height="18"></td>
+				<td>Публикация на подключенных сайтах</td>
+				<td>Позволяет опубликовать элемент инфоблока на подключенных сайтах.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/cznS6.createdocumentactivity.gif" width="24" border="0" height="24"></td>
+				<td>Создание нового документа</td>
+				<td>Создание нового документа (элемента инфоблока).</td>
+			</tr>		
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/bWCEn.deletedocumentactivity.gif" width="24" border="0" height="24"></td>
+				<td>Удаление документа</td>
+				<td>Удаляется документ, по поводу которого запущен бизнес-процесс.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/kkj91.lockdocumentactivity.gif" width="24" border="0" height="24"></td>
+				<td>Блокировка документа</td>
+				<td>Блокируется документ от действий других бизнес-процессов.
+				<br/><br/><div class="hint"><b>Примечание</b>: блокировка документа происходит для действий других процессов, а не пользователей. Другой пользователь, если он обладает правами на изменение, сможет изменить документ.</div>
+				</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/1cfja.publishdocumentactivity.gif" width="24" border="0" height="24"></td>
+				<td>Публикация документа</td>
+				<td>Документ публикуется.</td>
+			</tr>
+<tr bgcolor="white">
+				<td><img src="cid:resources/res219/BDS08.act_icon.gif" width="24" border="0" height="24"></td>
+				<td>Запрос дополнительной информации</td>
+				<td>Создается дополнительное задание для выполнения бизнес-процесса.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/ccx4Z.reviewactivity.gif" width="24" border="0" height="24"></td>
+				<td>Ознакомление с документом</td>
+				<td>Указанным в настройках пользователям будет выдано задание ознакомиться с документом. Ведется вычисление процента ознакомившихся.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/j0FSi.savehistoryactivity.gif" width="24" border="0" height="24"></td>
+				<td>Сохранение истории</td>
+				<td>Делается копия документа с внесенными на момент запуска действия изменениями. Доступно автоматическое задание названия копии с настройками параметров.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/PaUno.setfieldactivity.gif" width="24" border="0" height="24"></td>
+				<td>Изменение документа</td>
+				<td>Позволяет в автоматическом режиме изменить любой параметр и содержание документа.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/VSNub.unlockdocumentactivity.gif" width="24" border="0" height="24"></td>
+				<td>Разблокировка документа</td>
+				<td>Документ разблокируется для других бизнес-процессов.</td>
+			</tr>			
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/efhES.unpublishdocumentactivity.gif" width="24" border="0" height="24"></td>
+				<td>Снятие документа с публикации</td>
+				<td>Документ будет снят с публикации.</td>
+			</tr>
+
+			<tr bgcolor="white">
+				<td> </td>
+				<td>Создание новой компании	<br>
+					Создание нового контакта<br>
+					Создание новой сделки<br>
+					Создание нового лида<br>
+					Запись события в crm
+				</td>
+				<td>Действия доступны при установленном модуле <b>CRM</b>. 
+				<br><br>
+				<b>Примечание:</b> Действие <b>Запись события в crm</b> выполняется только в контексте бизнес-процессов, работающих с crm.</td>
+			</tr>	
+
+
+			<tr bgcolor="silver">
+				<td colspan="3"><b>Конструкции</b> - управляющие конструкции:</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/xbZdT.handleexternaleventactivity.gif" width="24" border="0" height="24"></td>
+				<td>Команда</td>
+				<td>Действие останавливает течение бизнес-процесса до выполнения определенного действия нужным пользователем или системой.</td>
+			</tr>	
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/dcGp5.ifelseactivity.gif" width="24" border="0" height="24"></td>
+				<td>Условие</td>
+				<td>Действие, позволяющее направить бизнес-процесс по разным сценариям в зависимости от заданных условий.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/qZYMh.listenactivity.gif" width="24" border="0" height="24"></td>
+				<td>Параллельное ожидание действия</td>
+				<td>Действие позволяющее направить бизнес-процесс по разным сценариям в зависимости от того, какое из событий наступит раньше.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/L3B0N.parallelactivity.gif" width="24" border="0" height="24"></td>
+				<td>Параллельное выполнение</td>
+				<td>Действие, позволяющее выполнять параллельные сценарии бизнес-процесса.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/64H6p.whileactivity.gif" width="24" border="0" height="24"></td>
+				<td>Цикл</td>
+				<td>Действие, позволяющее циклично выполнять сценарий бизнес-процесса в зависимости от заданных условий.</td>
+			</tr>				
+			<tr bgcolor="silver">
+				<td colspan="3"><b>Уведомления</b> - уведомления о событии:</td>
+			</tr>
+<tr bgcolor="white">
+				<td><img src="cid:resources/res219/ovtyz.socnetmessageactivity.gif" width="24" border="0" height="24"></td>
+				<td>График отсутствия</td>
+				<td>Добавление события в график отсутствия.</td>
+			</tr>	
+<tr bgcolor="white">
+				<td><img src="cid:resources/res219/pYves.socnetmessageactivity.gif" width="24" border="0" height="24"></td>
+				<td>Календарь</td>
+				<td>Добавление события в календарь.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/3Yj0r.mailactivity.gif" width="24" border="0" height="24"></td>
+				<td>Почтовое сообщение</td>
+				<td>Уведомление о событии будет отправляться на e-mail, указанный в настройках действия.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/p0iuz.setstatetitleactivity.gif" width="24" border="0" height="24"></td>
+				<td>Установить текст статуса</td>
+				<td>Действие позволяет изменить текст статуса документа, что облегчает отслеживание состояния документа в общем списке бизнес-процессов во время выполнения бизнес-процесса.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/bcOLP.socnetmessageactivity.gif" width="24" border="0" height="24"></td>
+				<td>Сообщение соц.сети</td>
+				<td>Уведомление о событии будет отправлено пользователю социальной сети.</td>
+			</tr>
+<tr bgcolor="white">
+				<td><img src="cid:resources/res219/HSuM6.socnetmessageactivity.gif" width="24" border="0" height="24"></td>
+				<td>Задача</td>
+				<td>Добавление задачи. Действие аналогично созданию задачи в публичной части.</td>
+			</tr>
+
+
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/LlurH.socnetmessageactivity.gif" width="24" border="0" height="24"></td>
+				<td>Задача (устаревшие)</td>
+				<td>Добавление задачи.</td>
+			</tr>
+
+			<tr bgcolor="silver">
+				<td colspan="3"><b>Прочее</b> - прочие команды:</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/G9BoA.codeactivity.gif" width="24" border="0" height="24"></td>
+				<td>PHP код</td>
+				<td>Выполнение заданного в настройках действия кода.</td>
+			</tr>
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/WADnP.delayactivity.gif" width="24" border="0" height="24"></td>
+				<td>Пауза в выполнении</td>
+				<td>Указание срока задержки. Выполнение бизнес-процесса приостанавливается на срок, указанный в настройках действия.</td>
+			</tr>
+
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/mNItl.blockactivity.png" border="0" height="24" width="24"></td>
+				<td>Блок действий</td>
+				<td>Предназначен для группировки набора действий в один блок.
+<p><div class="hint"><b>Примечание</b>: Обратите внимание на это действие. Оно позволяет существенно сэкономить трудозатраты на типовых блоках действий при создании шаблона бизнес-процесса. Однажды созданный и настроенный блок действий можно сохранить в группе <b>Мои действия</b> и многократно использовать.</div>
+</p>
+
+</td>
+			</tr>
+
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/hzapx.default_activity_icon.png" width="18" border="0" height="18"></td>
+				<td>Выбор сотрудника</td>
+				<td>Выбор сотрудника на доступ к документу.</td>
+			</tr>
+
+		<tr bgcolor="white">
+			<td><img src="cid:resources/res219/UDDUp.default_activity_icon.png" width="18" border="0" height="18"></td>	<td>Запись в отчет</td>
+			<td>Позволяет добавлять в отчет и лог соответственно произвольные записи.  
+Если в параметрах действия установить опцию <b>Загрузить отчет для доступа из бизнес-процесса</b>, то тогда содержимое всего  отчета можно будет получить в рамках бизнес-процесса для дальнейших действий (например, отправить по почте) используя форму <b>Вставка значения</b>, секция <b>Дополнительные результаты</b>. В противном случае данные отчета нельзя будет получить в рамках бизнес-процесса и просмотреть возможно будет только в логе. <br><br>
+В секции <b>Дополнительные результаты</b> на каждую запись в отчет  будет создана своя переменная, и если для действия была отмечена опция <b>Загрузить отчет для доступа из бизнес-процесса</b>, то с её помощью можно будет получить отчет, который уже был сформирован на этапе этого действия. Отчет каждого последующего действия будет включать отчет предыдущих действий. Если опция не была отмечена, то переменная будет пустой. <br><br>
+Опцию <b>Загрузить отчет для доступа из бизнес-процесса</b> логично использовать на этапе завершения бизнес-процесса для формирования конечного отчета без лишних запросов к базе.
+</td>
+		</tr>
+
+			<tr bgcolor="white">
+				<td><img src="cid:resources/res219/fBJ44.default_activity_icon.png" width="18" border="0" height="18"></td>
+				<td>Установка прав</td>
+				<td>Установка прав на доступ к документу.</td>
+			</tr>
+<tr bgcolor="white">
+				<td><img src="cid:resources/res219/dyEgQ.setvariableactivity.gif" width="24" border="0" height="24"></td>
+				<td>Изменение переменных</td>
+				<td>Изменение значений заданных в настройках шаблона переменных.</td>
+			</tr>
+
+<tr bgcolor="white">
+	<td><img src="cid:resources/res219/nW09F.default_activity_icon.png" width="18" border="0" height="18"></td>
+	<td>Прерывание процесса</td>
+	<td>Позволяет прекратить выполнение бизнес-процесса.</td>
+</tr>
+
+			<tr bgcolor="silver"><td colspan="3"><b>Мои действия</b> - позволяет сохранять настроенные блоки действий и использовать их повторно.
+			</td></tr>
+
+<tr bgcolor="white"> <td colspan="3"><img src="cid:resources/res219/DwTT4.actions_save_area.png" border="0" width="674" height="413"> </td> </tr>
+
+		</table>
+		</table>
+
+<p><div class="hint"><b>Примечание:</b> Состав действий зависит от установленных в системе модулей.</div></p>
+
+<br /><br />
+<a name="but"></a><h4>Кнопки управления</h4>
+
+<p>Если осуществляется создание/редактирование шаблона <b>последовательного бизнес-процесса</b>, то отображаются следующие кнопки:</p>
+<ul>
+<li><b>Сохранить</b> - для сохранения шаблона и переходу к списку шаблонов.</li>
+<li><b>Применить</b> - для сохранения шаблона и продолжения процесса редактирования шаблона.</li>
+<li><b>Отменить</b> - для отмены внесенных изменений и переходу к списку шаблонов.</li>
+</ul>
+
+<p>Если же выполняется создание/редактирование шаблона <b>бизнес-процесса со статусами</b>, то отображается только кнопка <b>Вернуться к настройке статусов</b>, которая служит для перехода к схеме шаблона, где и выполняется сохранение/отмена внесенных изменений в статусы и их действия:</p>
+
+<p><img src="cid:resources/res219/AUslF.bizproc_status_edit_sm.png" border="0" height="257" width="600" /></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>3735</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

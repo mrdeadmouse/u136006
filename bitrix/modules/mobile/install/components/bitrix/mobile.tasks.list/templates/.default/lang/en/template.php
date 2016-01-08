@@ -1,0 +1,8 @@
+<?
+$MESS["MB_TASKS_TASKS_LIST_PULLDOWN_PULL"] = "Pull down to refresh";
+$MESS["MB_TASKS_TASKS_LIST_PULLDOWN_DOWN"] = "Release to refresh";
+$MESS["MB_TASKS_TASKS_LIST_PULLDOWN_LOADING"] = "Updating data...";
+$MESS["MB_TASKS_TASKS_LIST_NO_TASKS"] = "No tasks";
+$MESS["MB_TASKS_TASKS_LIST_MENU_CREATE_NEW_TASK"] = "New task";
+$MESS["MB_TASKS_TASKS_LIST_MENU_GOTO_FILTER"] = "Configure filter";
+?>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3694</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1414143368</timestamp_x>
+<date_create>1340792726</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Структура страниц портала</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Структура страниц портала одинакова на всех страницах:</p>
+ 
+<p><a href="javascript:ShowImg('/images/curs_b24/base/interface_1.png',1301,784,'Структура страниц портала')" > <img src="cid:resources/res22/KYLnT.interface_1_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+ 
+<ul> 
+  <li><b>1</b> - название вашей компании.</li>
+ 
+  <li><b>2</b> - верхняя панель уведомлений.</li>
+ 
+  <li><b>3</b> - панель <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3701" target="_blank" >поиска</a>.</li>
+ 
+  <li><b>4</b> - панель <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=1286" target="_blank" >Рабочий день</a>.</li>
+ 
+  <li><b>5</b> - меню <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3750" target="_blank" >Личного раздела</a>.</li>
+ 
+  <li><b>6</b> - инструмент быстрой справки.</li>
+ 
+  <li><b>7</b> - инструмент быстрых команд.</li>
+ 
+  <li><b>8</b> - название информационной зоны.</li>
+ 
+  <li><b>9</b> - гаджет <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5395" target="_blank" >Пульс компании</a>.</li>
+ 
+  <li><b>10</b> - левая колонка: основное меню. Инструмент для перехода по страницам портала. Разделы меню можно настроить, свернуть и развернуть для более удобной работы.</li>
+ 
+  <li><b>11</b> - информационная зона. В этом месте выводится вся информация на портале.</li>
+ 
+  <li><b>12</b> - правая колонка: дополнительное меню. Может отсутствовать на некоторых страницах.</li>
+ 
+  <li><b>13</b> - нижняя панель уведомлений.</li>
+ </ul>
+ 
+<h4>Панели уведомлений</h4>
+ 
+<p>Верхняя и нижняя панели уведомлений предназначены для информирования пользователя портала о том, что ему пришло какое-то сообщение или уведомление с портала. Это может быть как сообщение в веб-мессенджере, так и уведомление о задаче, комментарии и прочем.</p>
+ 
+<p>Нижняя панель позволяет дополнительно вызвать окно <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3702" target="_blank" >веб-мессенджера</a> для написания сообщения.</p>
+ 
+<h4>Инструмент быстрых команд</h4>
+ 
+<p>Инструмент виден на любой странице и позволяет в минимальное число кликов мышки добавить практически любой вид информации на портале:</p>
+ 
+<p><img height="324" border="0" width="231" src="cid:resources/res22/eiz5J.interface_2.png"  /></p>
+ 
+<h4>Название информационной зоны</h4>
+ 
+<p>В этой зоне выводится не только название, но и дополнительные команды и кнопки, которые принадлежат тому или иному инструменту, открытому в самой информационной зоне. Например, в <b>Сообщениях</b> выводятся преднастроенные фильтры:</p>
+ 
+<p><img src="cid:resources/res22/ru8PY.interface_3.png"  /></p>
+ <a name="setting"></a>
+<h4>
+<a name="nast_osn_menu"></a>
+Настройка основного меню</h4>
+ 
+<p>
+  <table cellpadding="5" width="100%"> 
+    <tbody> 
+      <tr valign="top"><td>
+          <p><img src="cid:resources/res22/x14fq.interface_3_1.png"  /></p>
+        </td><td>
+          <p>Основное меню можно настроить под свои потребности. Для этого нажмите на иконку правее надписи <b>Избранное</b> и меню сменит свой вид: появятся кнопки управления. </p>
+        В <b>Избранное</b> можно добавить/удалить любой пункт основного меню. Для этого достаточно воспользоваться командой <b>Добавить в избранное/Удалить из избранного</b>. 
+          <p>Пункты меню можно перемещать по порядку (с помощью иконки правее названия пункта), или скрывать (команда <b>Скрыть</b>).</p>
+         </td></tr>
+     </tbody>
+   </table>
+</p>
+ 
+<h4>Дополнительное меню</h4>
+ 
+<p>В отличие от основного меню, которое единое на весь портал, дополнительное меню меняется в зависимости от раздела. Кроме меню в этом месте также могут располагаться фильтры, различные списки (например, Дни рождения сотрудников) и другие информационные материалы. На некоторых страницах меню может быть свёрнуто и вызываться нажатием на кнопке, расположенной в <b>Названии информационной зоны</b>.</p>
+
+<br />
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>3694</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

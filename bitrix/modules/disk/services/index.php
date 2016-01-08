@@ -1,0 +1,46 @@
+<?php
+define("NOT_CHECK_PERMISSIONS", true);
+define("EXTRANET_NO_REDIRECT", true);
+define("STOP_STATISTICS", true);
+define("PUBLIC_AJAX_MODE", true);
+define("NO_KEEP_STATISTIC", "Y");
+define("NO_AGENT_STATISTIC","Y");
+define("DisableEventsCheck", true);
+
+if(isset($_GET['action']) && ($_GET['action'] === 'showFile' || $_GET['action'] === 'downloadFile'))
+{
+    define('BX_SECURITY_SESSION_READONLY', true);
+}
+
+
+require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_before.php");
+
+if(!\Bitrix\Main\Loader::includeModule('disk'))
+{
+	die;
+}
+$httpRequest = \Bitrix\Main\Context::getCurrent()->getRequest();
+if(!$httpRequest->getQuery('action'))
+{
+	die;
+}
+
+$oauthToken = $httpRequest->getQuery('auth');
+if($oauthToken && \Bitrix\Main\Loader::includeModule('rest'))
+{
+	$authResult = null;
+	if(\CrestUtil::checkAuth(
+		$oauthToken,
+		array(\Bitrix\Disk\Driver::INTERNAL_MODULE_ID),
+		$authResult
+	))
+	{
+	    \CRestUtil::makeAuth($authResult);
+	}
+}
+
+$controller = new \Bitrix\Disk\DownloadController();
+$controller
+	->setActionName($httpRequest->getQuery('action'))
+	->exec()
+;

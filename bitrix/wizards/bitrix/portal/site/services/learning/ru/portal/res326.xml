@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5026</lesson_id>
+<was_chapter_id>1296</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>700</sort>
+<timestamp_x>1417701134</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Сделки</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Сделки являются конечной целью и желаемым результатом связей с контактами и фирмами.</p>
+ 
+<p>В CRM сделки можно просматривать, редактировать, экспортировать.</p>
+ 
+<p>На данной странице представлен список всех сделок:</p>
+ 
+<p><img src="cid:resources/res326/wCIp3.spisok_sdelok.png" border="0" width="644" height="760"  /></p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>в списке сущностей максимум может отображаться 5000 элементов. Остальные будут храниться, но не будут видны, если не применять фильтры.</div>
+ 
+<p></p>
+ 
+<p>Красным цветом шрифта выделены дата и время невыполненного дела сделки с истекшим сроком завершения.</p>
+ 
+<p>Розовым цветом фона выделяются колонки дел у незакрытых сделок с отсутствием дел, за которые вы являетесь ответственным.</p>
+ 
+<p></p>
+ 
+<div class="hint"><b>Примечание: </b>в главном меню CRM цифра на пиктограмме сделок обозначает число незавершенных сделок, за которые вы являетесь ответственным (если в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5068" >настройках</a> не указано иное): 
+  <p>
+<a name="stadii_sdelki"></a>
+<img src="cid:resources/res326/yIe0d.sdelki.png" border="0" width="87" height="104"  /></p>
+ </div>
+ 
+<p></p>
+ 
+<p>На странице списка сделок можно менять стадии сделки:</p>
+ 
+<p><img src="cid:resources/res326/0qgqR.deal_stade.png" width="328" height="159"  /></p>
+ 
+<p>Каждая секция соответствует определенной стадии, каждая из которых идет одна за другой. Для выбора определенной стадии кликните по ней левой кнопкой мыши.</p>
+ 
+<p>Действия, доступные с помощью колонки <b>Дела</b>, просмотр, импорт, экспорт сделок и меню действий идентичны таковым для <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05024" >контактов</a>.</p>
+ 
+<p>Если в одной сделке участвует несколько товаров, то каждый из них в файле экспорта будет представлен отдельной строкой, при одинаковом <b>ID</b> сделки:</p>
+ 
+<p><a href="javascript:ShowImg('/images/curs_b24/crm/deals/exp_deals.png',913,98,'Файл экспорта')" > <img height="64" border="0" width="600" src="cid:resources/res326/UIX67.exp_deals_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+ 
+<p>При импорте сделок ситуация обратная - все сделки по разным товарам, идущие разными строками, но имеющие одинаковый <b>ID</b>, после импорта в системе CRM будут объединены в одну сделку с несколькими товарами в ней.</p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>700</edge_sort>
+<id>5026</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

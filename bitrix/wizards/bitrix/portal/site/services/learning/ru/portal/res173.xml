@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6458</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1405075301</timestamp_x>
+<date_create>1405071606</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Структура компании</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<ul>
+<li><a href="#view_viz_struct">Просмотр структуры компании</a></li>
+<li><a href="#edit_viz_struct">Редактирование структуры компании</a></li>
+</ul>
+
+<a name="view_viz_struct"></a><h4>Просмотр структуры компании</h4>
+<br />
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Просмотр структуры компании"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res173/fasoh.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>На данной странице дано графическое представление структурной организации компании:</p>
+
+<p><img height="599" border="0" width="600" src="cid:resources/res173/wcVx5.visual_struct_sm.png"></p>
+
+<p>Каждый прямоугольник обозначает одну структурную единицу иерархии компании:</p>
+
+<p><img src="cid:resources/res173/EKVsW.otdel_detail.png" width="192" height="145"  /></p>
+
+<p>Помимо названия, в нем указано: </p>
+<ul>
+<li><font color="red" size="4">1</font> - имя руководителя данной структурной единицы;</li>
+<li><font color="green" size="4">2</font> - иконки сотрудников данной структурной единицы;</li>
+<li><font color="blue" size="4">3</font> - ссылка с количеством на полный список сотрудников данной структурной единицы;</li>
+</ul>
+
+
+<p>По клику на ссылку с именем руководителя (<font color="#ff0000" size="4">1</font>) будет отображена страница профайла руководителя. При наведении стрелки мыши на иконку сотрудника (<font color="green" size="4">2</font>) отобразится тултип с подробной информацией о нем:</p>
+<p><img src="cid:resources/res173/KQ520.pri_naved2.png" width="423" height="345"/></p>
+
+<p>При клике по ссылке с количеством сотрудников (<font color="blue" size="4">3</font>) откроется список всех сотрудников отдела:</p>
+<p><img src="cid:resources/res173/INEPS.otdel_spisok.png" width="423" height="338"  /></p>
+
+
+<p>У некоторых прямоугольников в нижней части присутствует ссылка, указывающая на то, что в данном случае есть еще и вложенная структура:</p>
+
+<p><img src="cid:resources/res173/C0uE5.struct.png" width="192" height="159"  /></p>
+
+Посмотреть вложенные подразделения можно, щелкнув левой кнопкой мыши по этой ссылке:
+<p><a href="javascript:ShowImg('/images/portal_user/company/viz_str/view_struct.png',916,905,'Показать структуру подразделения')">
+<img height="593" border="0" width="600" src="cid:resources/res173/ybaEo.view_struct_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+
+<p>Если вы просматриваете достаточно крупное подразделение компании, то на странице детального его просмотра будет отображаться только список дочерних подразделений и отделов. Если же перейти к просмотру более мелкого подразделения или отдела, то на странице детального просмотра, кроме списка дочерних отделов (при наличии), будут отображаться и карточки сотрудников подразделения или отдела:</p>
+
+<p><img src="/images/curs_b24/company/viz_str_1.png?1" width="601" height="483"  /></p>
+
+
+<br />
+<a name="edit_viz_struct"></a><h4>Редактирование структуры компании</h4><br />
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Видеоролик "Редактирование структуры компании"</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Интерактивный видеоролик (требуется выполнение действий пользователем). Ролик может отставать от текущей версии программы. Более актуальное текстовое описание - ниже. Ролик озвучен.</p>
+ 
+ <iframe src="cid:resources/res173/kzEQV.story.html" width="820" height="671"></iframe>
+</td></tr>
+</tbody>
+</table></div>
+
+<p><div class="warning"><b>Внимание: </b>редактирование структуры компании может осуществлять сотрудник с правами <b>Отдел кадров</b>, <b>Администрация портала</b> и выше.</div></p>
+
+<p>Сотруднику, обладающим достаточным уровнем прав доступа, вверху визуальной структуры компании будет кнопка <img src="cid:resources/res173/204oW.visual_str_add24.png">, при нажатии на которую появится диалог создания нового подразделения:</p>
+
+<p><img height="312" border="0" width="502" src="cid:resources/res173/11i5W.viz_str_3.png" /></p>
+
+<p>Указав название, вышестоящее подразделение и руководителя, после нажатия кнопки <b>Добавить</b> новое подразделение появится в общей структуре компании. </p>
+
+<p>Кроме того, такому сотруднику отображаются специальные кнопки управления при наведении на любой отдел в структуре компании:</p>
+<p><img src="cid:resources/res173/tNKAh.add_struct2.png" width="192" height="145"/></p>
+<ul>
+<li><b>Редактировать подразделение</b> (диалог редактирования аналогичен созданию нового подразделения, описанного выше);</li>
+<li><b>Добавить дочернее подразделение</b> (диалог добавления аналогичен созданию нового подразделения, описанного выше);</li>
+<li><b>Удалить подразделение</b>.</li>
+</ul>
+
+<br />
+<p>Также структуру компании на портале можно редактировать простым перетаскиванием элементов структуры компании:</p>
+<ul>
+<li>варианты добавленияперевода сотрудников, назначение руководителя:
+<ol>
+<li><br /><img src="cid:resources/res173/rRvxv.add_viz_sotr1.png" width="421" height="166"  /></li>
+<li><br /><img src="cid:resources/res173/mkvid.add_viz_sotr2.png" width="242" height="147"  /></li>
+<li><br /><img src="cid:resources/res173/pHelu.add_viz_sotr3.png" width="577" height="398"  /></li>
+</ol>
+</li>
+
+<li>варианты добавления отделовподотделов:
+<ol>
+<li><br /><img src="cid:resources/res173/HyghP.add_viz_podrzd1.png" width="423 height="335"  /></li>
+<li><br /><img src="/images/portal_user/company/viz_str/add_viz_podrzd2_sm.png?1" width="600" height="686"  /></li>
+</ol>
+</li>
+</ul>
+
+<p>Изменения структуры сопровождаются информационными сообщениями в левом верхнем углу страницы. Если назначение произведено ошибочно, его можно отменить:</p>
+
+<p><img height="87" border="0" width="298" src="cid:resources/res173/6ohOX.viz_str_4.png" /></p>
+
+<p><div class="warning"><b>Внимание: </b>Если необходимо, чтобы один сотрудник числился в нескольких подразделениях компании, то это можно сделать несколькими способами:
+<ul>
+<li>в публичном интерфейсе: на странице <b>Структура компании</b>, удерживая клавишу <b>Shift</b>, перенести сотрудника в нужный отдел или подразделение;</li>
+<li>в административном интерфейсе: в профиле сотрудника в закладке <a href="/learning/course/index.php?COURSE_ID=48&amp;LESSON_ID=2004" target="_blank">Пользователь</a> внести изменения в поле <b>Подразделения</b> с помощью множественного выбора (Ctrl + клик).</li>
+</ul>
+ Эти действия может осуществлять сотрудник с правами <b>Отдел кадров</b>, <b>Администрация портала</b> и выше.</div></p>
+<br>
+
+<p>Дополнительно на странице детального просмотра подразделения для сотрудников с правами <b>Отдел кадров</b>, <b>Администрация портала</b> и выше доступны следующие действия по управлению подразделением:</p>
+
+<p><img src="cid:resources/res173/3mRKj.department_action24.png" /></p>
+
+<p>Причем для добавления/изменения подразделения используется форма одного и того же вида, описанная <a href="#edit_viz_struct">выше</a>.</p>
+
+<p><div class="hint"><b>Примечание</b>: глубина вложенности подразделений в структуре компании не ограничена.</div></p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>6458</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5453</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1405426114</timestamp_x>
+<date_create>1377875168</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Видеоматериалы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<table cellspacing=0 cellpadding=0>        
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+<table cellspacing="1" cellpadding="5">
+          <tbody>
+            <tr bgcolor="#eeeeee"><td><b>Название видеоролика</b></td><td><b>Длительность, мин:сек</b></td></tr>
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Основные сведения</b></td></tr>
+
+<tr bgcolor="#ffffff"><td><a width="800" height="600" href="/docs/swf/5_form_report.swf">Как работать с формами отчётов</a></td>
+<td>Интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a width="800" height="600" href="/docs/swf/2_my_page.swf">Моя страница</a></td>
+<td>Интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a width="800" height="600" href="/docs/swf/6_search.swf">Инструменты поиска</a></td>
+<td>Интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a width="800" height="600" href="/docs/swf/4_access_levels.swf">Уровни доступа</a></td>
+<td>Интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a width="800" height="600" href="/images/curs_b24/base/webmessenger/story.html">Бизнес-чат (Веб-мессенджер)</a></td>
+<td>Интерактивный видеоролик</td>
+</tr>
+
+
+<tr bgcolor="#eeeeee"><td><a width="800" height="600" href="/docs/swf/3_invitation_users.swf">Работа с пользователями</a></td>
+<td>Интерактивный видеоролик</td>
+</tr>
+
+
+
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Календари</b></td></tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/personal/calendar/calendar/story.html">Работа с календарями</a></td>
+<td>3:08</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/personal/tasks/task events/story.html">События и задачи</a></td>
+<td>7:19</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/external_connections_1/story.html">Внешние соединения</a></td>
+<td>0:44</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/external_connections_2/story.html">Подключение к Битрикс24 внешних календарей</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/external_connections_3/story.html">Соединение календарей сервиса с Microsoft Outlook</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/external_connections_4/story.html">Экспорт календарей сервиса Битрикс24 в формате iCal</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/external_connections_5/story.html">Соединение календарей сервиса Битрикс24 с мобильными устройствами</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Задачи</b></td></tr>
+
+<tr bgcolor="#ffffff"><td><a href="http://dev.1c-bitrix.ru/community/blogs/rsv-dev/projects-and-tasks-20-for-web-studio.php">Использование проектов и задач для веб-студии</a> (из блога)</td>
+<td>34:43</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/personal/tasks/task_list/story.html">Список задач</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/personal/tasks/review_task/story.html">Просмотр задачи</a> </td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/personal/tasks/create_task/story.html">Создание задачи</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/personal/tasks/patterns_task/story.html">Шаблоны задач</a> </td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/personal/tasks/export_task/story.html">Экспорт задач</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/personal/tasks/example_work/story.html">Пример работы с задачами</a> </td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Конструктор отчётов</b></td></tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/personal/tasks/report designer/story.html">Конструктор отчётов</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Учёт рабочего времени</b></td></tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/docs/swf/8_working_day.swf">Рабочий день</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Библиотека документов</b></td></tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/1_connecting_the_folder_as_a_network_drive/story.html">Подключение папки как сетевого диска</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/2_connecting_a_folder_by_using_the_add_network_location/story.html">Подключение папки с помощью мастера добавления сетевого подключения</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/3_disabling/story.html">Отключение папки, подсоединенной как сетевой диск</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/1_create_and_delete_folders/story.html">Создание и удаление папки</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/2_download_docs/story.html">Загрузка документов</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/3_edit_document_properties/story.html">Изменение свойств документа</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/4_public_links/story.html">Публичные ссылки</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/5_starting_a_business_process/story.html">Запуск бизнес-процесса</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/6_revision_history/story.html">История изменений</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/7_delete_documents/story.html">Удаление документов</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/8_trash/story.html">Работа с корзиной</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/1_connecting_the_folder_as_a_network_drive/story.html">Подключение папки</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/2_connecting_a_folder_by_using_the_add_network_location/story.html">Подключение папки с помощью мастера</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/docs/3_disabling/story.html">Отключение папки</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/docs/9_edit_documents_in_ms_office/story.html">Изменение документов в Битрикс24 с помощью MS Office</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+
+
+
+
+
+
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Группы</b></td></tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/create_groups/story.html">Создание групп</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/work_of_groups_1/story.html">Работа с группами</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/work_of_groups_2/story.html">Вступление в группу</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/work_of_groups_3/story.html">Отправка сообщений</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/work_of_groups_5/story.html">Выход из группы</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/functional_groups_1/story.html">Функционал группы</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/functional_groups_2/story.html">Поиск</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/group_management/story.html">Управлением группами</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+
+
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Сотрудники</b></td></tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/staff/story.html">Сотрудники</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/search_by_alphabet/story.html">Поиск по алфавиту</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/export_to_excel/story.html">Экспорт в Excel</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/contact_list/story.html">Синхронизация с Outlook</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/synchronization_carddav/story.html">Синхронизировать CardDAV</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/company/review_company_structure/story.html">Просмотр структуры компании</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/company/editing_company_structure/story.html">Редактирование структуры компании</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+
+<tr><td colspan="2" bgcolor="#8C8C8C"><b>Wiki</b></td></tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/wiki/general_form_of_a_wiki_page/story.html">Общий вид Wiki-страницы</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/wiki/category/story.html">Работа с категориями в Wiki</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#eeeeee"><td><a href="/images/curs_b24/group/wiki/version_history/story.html">История редактирования страницы Wiki</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+<tr bgcolor="#ffffff"><td><a href="/images/curs_b24/group/wiki/create_first_page/story.html">Создание первой страницы</a></td>
+<td>интерактивный видеоролик</td>
+</tr>
+
+
+
+</tbody>
+</table>
+
+</tbody>
+</table>
+
+<br><br>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>5453</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

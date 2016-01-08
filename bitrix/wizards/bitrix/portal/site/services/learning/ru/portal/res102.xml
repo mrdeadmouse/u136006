@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6433</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1404980671</timestamp_x>
+<date_create>1404809477</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Синхронизация задач с Microsoft Exchange</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Если администратор портала <u>настроил</u> и <u>разрешил</u> синхронизацию с <b>Microsoft Exchange</b>, то синхронизация задач Exchange и на портале будет происходить автоматически.</p>
+
+<p>О правильной <u>настройке</u> соединения с <b>Microsoft Exchange</b> будет свидетельствовать надпись в панели внешних подключений на странице <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=3711#exchange">Календарь</a>:</p>
+   <p><img src="cid:resources/res102/D2IDr.exchange_yes.png" ></p>
+
+<p><div class="warning"><b>Внимание!</b> Администратор может включать синхронизацию для календарей и задач по отдельности. Это значит, что при наличие такого баннера соединение может быть <u>установлено</u>, но сама синхронизация - <u>отключена</u>.
+<br><br>
+При возникновении трудностей обратитесь к администратору портала.
+</div>
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>6433</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,54 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+IncludeModuleLangFile($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/intranet/public/about/company/.left.menu.php");
+$aMenuLinks = Array(
+	Array(
+		GetMessage("ABOUT_MENU_COMPANY"),
+		"index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("ABOUT_MENU_TOPS"),
+		"tops.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("ABOUT_MENU_MISSION"),
+		"mission.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("ABOUT_MENU_HISTORY"),
+		"history.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("ABOUT_MENU_STYLE"),
+		"style.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("ABOUT_MENU_CONTACTS"),
+		"contacts.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		GetMessage("ABOUT_MENU_BANK"),
+		"bank_info.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

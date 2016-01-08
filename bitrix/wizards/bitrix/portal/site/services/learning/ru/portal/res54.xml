@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5839</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>968</sort>
+<timestamp_x>1418384460</timestamp_x>
+<date_create>1387741929</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Использование IP-телефонии</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[ 
+<p>В Битрикс24 теперь есть функционал звонков на стационарные и мобильные телефоны как России и стран СНГ, так и США и Европу.</p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание</b>: На данный момент функционал ip-телефонии доступен для версий браузеров (и выше): Google Chrome 29, Mozilla Firefox 27, Opera 18, Яндекс.Браузер 13. А также для осуществления голосового звонка необходима гарнитура с микрофоном. Технические требования для сети указаны <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=02564" target="_blank" >.</a></div>
+ 
+<p></p>
+ <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=02564" target="_blank" > 
+  <p></p>
+ </a> 
+<div class="note"><b>Внимание</b>: Тарифы на звонки опубликованы на сайте <a target="_blank" href="http://www.bitrix24.ru/prices/tariffs.php" >Битрикс24</a>. </div>
+ 
+<p></p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание</b>: Пользователи <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5012" target="_blank" >Экстранета</a> не могут совершать звонки. </div>
+ 
+<p></p>
+ <menu id="topictoc"> 
+  <li><a href="#calls" >Звоните вы</a></li>
+ 
+  <li><a href="#calls_to_you" >Звонят вам</a></li>
+ </menu> 
+<br />
+ <a name="calls"></a> 
+<h4>Звоните вы</h4>
+ 
+<p>Звонки совершать в Битрикс24 просто:</p>
+ 
+<ul> 
+  <li>C помощью:</li>
+ 
+  <ul> 
+    <li>иконки панели панели уведомлений: 
+      <p><img src="cid:resources/res54/01dud.phone2.png" border="0" width="297" height="368"  /></p>
+     </li>
+   
+    <li>иконки возле строки поиска контакта в окне мессенджера: 
+      <p><img src="cid:resources/res54/JuU5j.phone1_sm.png" border="0" width="800" height="459"  /></p>
+     </li>
+   </ul>
+ <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5121" target="_blank" > </a> 
+  <li><a target="_blank" href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=5374" >Десктопного приложения Битрикс24</a>: 
+    <p><img src="cid:resources/res54/6C8pN.phone3_sm.png" border="0" width="800" height="483"  /></p>
+   </li>
+ </ul>
+ 
+<p>После набора номера и нажатия кнопки <b>Позвонить</b> будет осуществлен звонок: </p>
+ 
+<p><img src="cid:resources/res54/gGiTg.phone4_sm.png" border="0" width="800" height="459"  /></p>
+ 
+<p> </p>
+ 
+<br />
+ <a name="calls_to_you"></a> 
+<h4>Звонят вам</h4>
+ 
+<p>При звонке клиента на портал система автоматически перенаправит звонок менеджеру согласно правилам <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=4878#setting_number" target="_blank" >настройки номера</a>. У менеджера всплывёт такое окно (если номер звонящего есть в CRM):</p>
+ 
+<p><img src="cid:resources/res54/gnJ7d.phone_5.png"  /></p>
+ 
+<p> либо такое (если номер не известен для CRM):</p>
+ 
+<p><img src="cid:resources/res54/6CXUb.phone_7.png"  /></p>
+ 
+<p>После ответа звонящему откроется окно Бизнес-чата:</p>
+ 
+<p><img src="cid:resources/res54/nnss7.phone_6.png"  /></p>
+ 
+<p>Если номер известен для CRM, то будет выведен список сущностей CRM, привязанных к этому контакту, а также кнопки перехода к этим сущностям. То есть менеджер может в один клик получить всю информацию о звонящем и состоянии дел, сделок, счетов, связанных с ним.</p>
+ 
+<p>Панель управления позволяет:</p>
+ 
+<ol> 
+  <li>Завершить звонок.</li>
+ 
+  <li>Отключить/включить микрофон.</li>
+ 
+  <li>Поставить звонок на ожидание.</li>
+ 
+  <li>Переадресовать звонок другому сотруднику.</li>
+ 
+  <li>Вызвать цифровую клавиатуру для дополнительных действий (например: задать <a href="https://ru.wikipedia.org/wiki/IVR" target="_blank" >IVR</a>).</li>
+ 
+  <li>Открыть текстовый чат с абонентом.</li>
+ 
+  <li>Развернуть окно во весь экран.</li>
+ 
+  <li>Задать комментарий к звонку.</li>
+ </ol>
+ 
+<a name="crm_contact"></a><p>Информация о входящих и исходящих звонках фиксируется как событие в <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52&LESSON_ID=5817" >Ленте CRM</a>. В описании события будет указано: дата и время звонка, ответственный, клиент, тема, длительность и статус звонка. Также может быть приложен файл с записью разговора, если такая опция была указана при <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52&LESSON_ID=4878#zapis" >настройке телефонии</a>. Запись можно прослушать непосредственно в Ленте CRM, или работать с нею как с файлом из <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52&CHAPTER_ID=05016" >Общего диска</a>.</p>
+
+ <img src="cid:resources/res54/PIOXl.ishod1.png" border="0" width="616" height="344"  /> 
+
+<p>Кроме того, во вкладку <b>Дела</b> соответствующего <b>Клиента</b> CRM добавляется запись о входящем или исходящем телефонном звонке.</p>
+<p></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>968</edge_sort>
+<id>5839</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

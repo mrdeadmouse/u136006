@@ -1,0 +1,57 @@
+div.bx-group-sidebar-block b { background-color: #f3f3f3; }
+div.bx-group-sidebar-block b.r1 { border-left: 1px solid #f9f9f9; border-right: 1px solid #f9f9f9; }
+div.bx-group-sidebar-block b.r2 { border-left: 1px solid #f7f7f7; border-right: 1px solid #f7f7f7; }
+div.bx-group-sidebar-block i.r2 { background-color: #ebebeb; border-left: 1px solid #f2f2f2; border-right: 1px solid #f2f2f2;}
+div.bx-group-sidebar-block i.r1 { background-color: #f0f0f0; }
+div.bx-group-sidebar-block i.r0 { background-color: #f0f0f0; border-left: 1px solid #f2f2f2; border-right: 1px solid #f2f2f2; }
+div.bx-group-sidebar-block div.bx-group-sidebar-block-inner { background-color: #f0f0f0; border-right:1px solid #ebebeb; padding: 10px 13px 10px 10px;  font-family: Arial, sans-serif; }
+
+div.bx-group-users b { background-color: #e6e6e6; }
+div.bx-group-users b.r2 { border-left: 1px solid #eaeaea; border-right: 1px solid #eaeaea; }
+div.bx-group-users b.r1 { border-left: 1px solid #e7e7e7; border-right: 1px solid #e7e7e7; }
+div.bx-group-users b.r0 { border-left: 1px solid #eaeaea; border-right: 1px solid #eaeaea; }
+
+span.bx-group-owner { color:#329020; }
+div.bx-group-member { margin-top: 14px; }
+div.bx-group-users-inner { background-color: #e6e6e6; padding: 1px 8px 5px; }
+div.bx-group-member div.bx-group-users-inner, div.bx-group-moderator div.bx-group-users-inner { padding-top: 5px; }
+div.bx-group-member div.bx-group-user, div.bx-group-moderator div.bx-group-user { margin-bottom: 8px; }
+
+div.bx-group-users-title { border-bottom: 1px solid #dadada; color: #797979; padding: 0 0 7px 0; position: relative; zoom: 1; }
+div.bx-group-users-title .webform-field-action-link { margin: 0 0 0 10px; display: inline-block !important; position: absolute; right: 2px; top: 0; color: #999; border-color: #999; }
+div.bx-group-users-list { margin: 9px 0 0 4px; }
+
+a.bx-group-user-avatar { display: block; width: 30px; height: 30px; background: url('images/avatar.png') no-repeat center center; border: 1px solid #aaa; float: left; margin: 0 11px 0 0; }
+div.bx-group-user-info { overflow: hidden; }
+div.bx-group-user-name {font-size: 14px; line-height:14px; padding-bottom:3px; }
+div.bx-group-user-name a { color: #000 !important; text-decoration: none !important; }
+div.bx-group-user-name a:hover { text-decoration: underline !important; }
+div.bx-group-user-position { color: #808080; }
+div.bx-group-more-members { color: #737373; font-size: 11px; font-family: Arial, sans-serif; text-align: right; }
+div.bx-group-more-members a.bx-group-members-text { color: #737373; border-bottom: 1px dashed #8f8f8f; text-decoration: none; }
+div.bx-group-more-members a.bx-group-members-text:hover,
+div.bx-group-more-members a.bx-group-members-text:link,
+div.bx-group-more-members a.bx-group-members-text:visited,
+div.bx-group-more-members a.bx-group-members-text:active { color: #737373; text-decoration: none; outline: none; }
+div.bx-group-bord { border-bottom: 1px solid #CFCFCF; height: 0; }
+
+table.bx-group-layout { margin: 17px 0 15px 6px; width: 227px; }
+table.bx-group-layout td.bx-group-layout-column { vertical-align: top; }
+td.bx-group-layout-left-column { color: #797979; text-align: right; padding: 0 5px 6px 0; white-space: nowrap; }
+td.bx-group-layout-right-column { color: #181818; font-size: 13px; text-align: left; padding: 0 5px 6px 0; }
+
+.bx-group-description-hide-table { display: none; }
+
+td.bx-group-description { vertical-align: top; text-align: left; }
+
+td.bx-group-description-left-col { vertical-align: top; color: #7f7f7f; padding: 0 17px 0 0; width: 80px; }
+td.bx-group-photo {text-align: right !important; padding: 0 10px 0 10px; }
+
+span.bx-group-pagetitle-link  { color: #7f7f7f; cursor: pointer; font-size: 12px; font-family: Arial, sans-serif; border-bottom: 1px solid #7f7f7f; right: 14px; top: 10px; position: absolute; }
+span.bx-group-pagetitle-link-arrow-open { background:url('images/link-arrow.png') no-repeat 0 0; height: 3px; right: -8px; top: 8px; position: absolute; width: 5px;}
+span.bx-group-pagetitle-link-arrow-closed { background:url('images/link-arrow.png') no-repeat 0 0; height: 3px; right: -8px; top: 8px; position: absolute; width: 5px;}
+
+h1.sonet-group-pagetitle { margin: 20px 0 7px 0; }
+.sonet-group-pagetitle { position: relative; }
+.sonet-group-pagetitle-underline { background: url("images/pagetitle-underline.png") no-repeat scroll right 0 #F2F2F2; border-left: 1px solid #F7F7F7; height: 2px; margin-bottom: 15px; }
+

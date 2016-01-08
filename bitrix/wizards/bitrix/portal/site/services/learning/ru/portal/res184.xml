@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6457</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1200</sort>
+<timestamp_x>1405070306</timestamp_x>
+<date_create>1405069437</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Фотогалерея</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Если на портале сотрудники загружали фотографии, то они отобразятся на странице <b>Фотогалерея</b>.</p>
+
+<p><img src="cid:resources/res184/D9zrv.gallery24.png"></p>
+
+<p>В разделе <b>Фотогалерея</b> есть фильтр фотографий, позволяющий отобрать самые новые, просматриваемые или комментируемые фотографии за определенный период:</p>
+
+<p><img src="cid:resources/res184/h77gV.photos24.png"></p>
+
+<p>После щелчка кнопкой мыши по желаемому свойству отбора, можно выбрать период времени, за который производить поиск, нажав на пиктограмму календаря:</p>
+<p><img src="cid:resources/res184/gMKQ7.new_photo24.png"></p>
+
+<p><div class="hint"><b>Примечание</b>: если оставить данные поля пустыми, то фотографии будут сортироваться за все время.</div></p>
+
+<p>Галочка в опции <b>Сортировать сначала по дате</b> приведет к выводу в первую очередь наиболее ранних по дате создания, среди отсортированных по указанному параметру,  фотографий.</p>
+
+<p>Для просмотра фотографий из выбранного периода нажмите кнопку <b>Показать</b>. Для отмены фильтра и очистки его полей нажмите кнопку <b>Сбросить</b>.</p>
+
+<p>Галереи сотрудников доступны по ссылкам в секции <b>Галереи пользователей</b>.</p>
+
+<p><div class="hint"><b>Примечание</b>: подробнее о работе с фотогалереями смотрите в разделе <a href="/learning/course/index.php?COURSE_ID=71&CHAPTER_ID=06436&LESSON_PATH=6415.6420.6436">Фотографии</a>.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1200</edge_sort>
+<id>6457</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

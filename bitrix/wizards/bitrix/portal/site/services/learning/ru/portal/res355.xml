@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5265</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>9</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1400</sort>
+<timestamp_x>1405018551</timestamp_x>
+<date_create>1361457742</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Сценарии использования CRM</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Рассмотрим несколько случаев того, как и когда может использоваться CRM в работе менеджера.</p>
+
+<p><div class="hint"><b>Примечание: </b>интерфейс облачного <b>Битрикс 24</b> может отличаться от приведенных в данных уроках скриншотов.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1400</edge_sort>
+<id>5265</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,8 @@
+<?
+$MESS["EXTRANET_LEFT_MENU_LIVE_FEED"] = "Живая лента";
+$MESS["EXTRANET_LEFT_MENU_TASKS"] = "Задачи";
+$MESS["EXTRANET_LEFT_MENU_CALENDAR"] = "Календарь";
+$MESS["EXTRANET_LEFT_MENU_DISK"] = "Мой диск";
+$MESS["EXTRANET_LEFT_MENU_PHOTO"] = "Фотографии";
+$MESS["EXTRANET_LEFT_MENU_BLOG"] = "Сообщения";
+?>

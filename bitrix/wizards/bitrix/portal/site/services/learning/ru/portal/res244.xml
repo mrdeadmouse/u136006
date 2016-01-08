@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>3476</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>6</childs_cnt>
+<is_childs>1</is_childs>
+<sort>175</sort>
+<timestamp_x>1412077363</timestamp_x>
+<date_create>1329126137</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Универсальные списки</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="note"><b>Универсальные списки</b> - инструмент для удобного хранения и работы с любой структурированной информацией.</div></p>
+
+<p>Инструмент доступен только для тарифного плана <b>Компания</b>.</p>
+
+<p>Возможности инструмента:</p>
+<ul>
+<li>конструирование произвольных хранилищ объектов;</li>
+
+<li>фильтрация и сортировка данных, карточка и списки с настройкой колонок и полей, групповое редактирование, права доступа и т.п; </li>
+
+<li>возможна любая иерархия хранения объектов;</li>
+
+<li>как варианты применения: FAQ, справочники и базы знаний, списки контрагентов, структурированные архивы, библиотеки, файловые хранилища и другое. </li>
+</ul>
+
+<p><b>Универсальные списки</b> доступны для всех пользователей портала, если они расположены в разделе <span class="path">Компания</span>, и только для участников рабочей группы, если они расположены в какой-то конкретной рабочей группе.</p>
+
+<p><div class="warning"><b>Внимание!</b> Создавать списки могут только пользователи с правами <b>администратора</b>. Доступ к тем или иным спискам определяется настройками списков, заданными администратором.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>175</edge_sort>
+<id>3476</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

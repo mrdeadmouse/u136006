@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>2381</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>1</childs_cnt>
+<is_childs>1</is_childs>
+<sort>800</sort>
+<timestamp_x>1405081166</timestamp_x>
+<date_create>1303394969</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Опросы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Страница <b>Опросы</b> позволяет организовать различные голосования, опросы и публиковать их результаты на портале.</p>
+
+<p>Использование механизма разграничения прав доступа дает возможность управлять доступом сотрудников к участию в тех или иных опросах и голосованиях, а также к просмотру данных о ходе голосований и их результатов.</p>
+
+<!-- для старого шаблона:
+<p>Текущий активный опрос отображается на главной странице портала:</p>
+
+<p><img src="cid:resources/res260/nZSXX.voting_main.png" border="0"/></p>
+
+<p>Вы можете принять участие в опросе, находясь на главной странице, или по ссылке <b>опросы</b> перейти на страницу <b>Опросы</b>, на которой представлены все активные опросы:</p>
+-->
+
+<p><img border="0"  src="cid:resources/res260/RgI2M.voiting_page.png" /></p>
+
+<p>Чтобы принять участие в опросе используйте ссылку <b>Голосовать</b>. В открывшейся форме голосования установите флаг в поле с нужным ответом и нажмите кнопку <b>Голосовать</b>:</p> 
+
+<p><img border="0"  src="cid:resources/res260/oRWXx.voiting.png" /></p>
+
+<p>Кнопка <b>Сбросить</b> предназначена для очистки формы голосования.</p>
+
+<p>Для просмотра результатов всех голосований сотрудников служит ссылка <b>Результаты</b>. По ее нажатии открывается форма следующего вида:</p>
+
+<p><img  border="0"  src="cid:resources/res260/3Qv4h.voiting_results.png" /></p>
+
+<p><div class="hint"><b>Примечание:</b> управлять <b>Опросами</b> может сотрудник, обладающим уровнем прав доступа не ниже <b>Отдел кадров</b>.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>800</edge_sort>
+<id>2381</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

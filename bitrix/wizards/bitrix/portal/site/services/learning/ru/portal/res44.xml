@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5374</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>250</sort>
+<timestamp_x>1418900156</timestamp_x>
+<date_create>1372322213</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Десктопное приложение Битрикс24</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<a name="im_desktop"></a><h4>Десктопное приложение Битрикс24 для Windows и Mac OS X</h4>
+
+<p>С десктопным приложением для Windows и Mac OS X можно закрыть браузер с порталом и при этом оставаться на связи. Приложение всегда держит в курсе текущих событий: позволяет получать самые важные нотификации о новых событиях в «Живой ленте», лайках и комментариях к ним, о поставленных задачах и ходе их выполнения.</p>
+
+
+<br />
+<p>Чтобы начать пользоваться десктопным приложением <b>Битрикс24</b> необходимо:</p>
+
+<ul>
+<li>Перейти в раздел <b>Бизнес-чат + Видео</b> по адресу: <a href="http://www.bitrix24.ru/features/communications.php">http://www.bitrix24.ru/features/communications.php</a>, скачать дистрибутив и установить его.
+
+<p><img src="cid:resources/res44/GwUj8.desktop_app1_new_sm.png" border="0" width="700" height="435" ></p>
+
+<p><div class="hint"><b>Примечание</b>: Скачать приложение <b>Битрикс24</b> можно также с помощью виджета в правом верхнем углу портала:
+<p><img src="cid:resources/res44/ReXqF.mob_app_link.png" border="0" width="309" height="484" ></p>
+
+ </div></p>
+
+</li>
+
+<li>После установки на Рабочем столе системы появится иконка приложения.</li>
+
+<li>При запуске приложения откроется окно авторизации, где необходимо ввести:
+<ul>
+<li><b>адрес</b> вашего портала «Битрикс24 в коробке».</li>
+<li><b>логин</b> (если используется «Битрикс24 в коробке») или <b>e-mail</b> (если используется облачный сервис «Битрикс24»).
+<li><b>пароль</b>.</li>
+</ul>
+<p>Выбор портала («Битрикс24 в коробке» или облачный сервис «Битрикс24») осуществляется по ссылке внизу окна авторизации:</p>
+<p><img src="cid:resources/res44/3mhMU.desktop_app_login_kp.png" border="0"  width="336" height="533"> <img src="cid:resources/res44/VRvuV.desktop_app_login_b24.png" border="0" width="336" height="533"> </p>
+
+</li>
+
+<li>Если на портале включена <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=06818" target="_blank" />двухэтапная авторизация</a>, то понадобится еще  ввести одноразовый код:
+
+<p><img src="cid:resources/res44/133eo.desktop_app_login_otp1.png" border="0" width="336" height="533" > <img src="cid:resources/res44/L7R8b.desktop_app_login_otp2.png" border="0" width="336" height="533"> </p>
+</li>
+
+
+<li>После запуска окно приложения можно свернуть в нижнюю панель, в панели задач вывести значок:
+
+<p><img src="cid:resources/res44/7yWLQ.desktop_app2_sm.png" border="0" width="700" height="354" ></p>
+</li>
+</ul>
+
+
+
+
+
+<p>В окне приложения есть 2 панели:</p>
+
+<p><img src="cid:resources/res44/1CTZk.desktop_app3_sm.png" border="0" width="700" height="382" ></p>
+
+<p>В верхней панели отображается вкладки <b>Бизнес-чата</b> текущего портала и сервиса <a href="http://www.bitrix24.net" target="_blank" />Битрикс24 Network</a>. </p>
+
+<p>В боковой панели отображается кнопки управления приложением: </p>
+
+<ul>
+<li><img src="cid:resources/res44/ZwZBM.chat_but.png" border="0" width="30" height="30" > - <b>Сообщения</b>: отображает счетчик личных сообщений в Бизнес-чате и осуществляет переход в диалог последнего чата;</li>
+<li><img src="cid:resources/res44/ImfXM.warn_but.png" border="0" width="30" height="30" > - <b>Уведомления</b>: отображает счетчик уведомлений на портале и осуществляет переход в окно <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5121#im_notify" target="_blank" />уведомлений</a>;</li>
+<li><img src="cid:resources/res44/zalgk.phone_but.png" border="0" width="30" height="30" > - <b>Телефонный звонок</b>: открывает окно набора <a href="/learning/course/index.php?COURSE_ID=52&LESSON_ID=5839" target="_blank" />телефонного номера</a> (<b>только для облачного сервиса «Битрикс24»</b>); </li>
+<li><img src="cid:resources/res44/ry5ee.disk_but.png" border="0" width="30" height="30" > - <b>Битрикс24.Диск</b>: открывает окно <a href="/learning/course/index.php?COURSE_ID=71&LESSON_ID=5287" target="_blank" />Битрикс24.Диск</a>;</li>
+<li><img src="cid:resources/res44/PZA8B.options_but.png" border="0" width="30" height="30" > - <b>Настройки</b>: открывает окно настроек приложения;</li>
+<li><img src="cid:resources/res44/0MmG0.lenta_but.png" border="0" width="30" height="30" /> - <b>Живая лента</b>: отображает счетчик сообщений в Живой ленте и осуществляет переход в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3698" target="_blank" />Живую ленту</a> портала;</li>
+<li><img src="cid:resources/res44/XVdTn.exit_but.png" border="0" width="30" height="30" /> - <b>Сменить пользователя</b>: позволяет выйти из учетной записи приложения в окно авторизации.</li>
+</ul>
+
+
+<p>Остальные функции приложения <b>Битрикс24 для Windows и Mac OS X</b> аналогичны встроенному в портал <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5121" target="_blank" />Бизнес-чату</a>.</p>
+
+
+
+
+
+
+
+
+<br />
+<p>Если кликнуть правой кнопкой мыши на иконке в области уведомлений, то появится меню приложения:</p>
+
+<p><img src="cid:resources/res44/e7Dgu.desktop_app4.png" border="0" width="250" height="292" ></p>
+
+<ul>
+
+<li>Пункт меню <b>Настройки</b> вызывает настройки приложения (см. <b>Настройки Бизнес-чата</b>).</li>
+
+<li>Пункт меню <b>Битрикс24.Диск</b> позволяет подключить одноименный функционал <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5287" target="_blank" />Битрикс24.Диск</a>.</li>
+
+<li>Если на у вас есть новые личные <b>Сообщения</b>, <b>Уведомления</b> или сообщения в <b>Живой ленте</b> на портале, то их количество будет указано около соответствующих пунктов, кликнув по которым, вы сможете их прочитать.</li>
+
+<li>Пункт меню <b>Сихронизировать сейчас</b> позволяет принудительно запустить синхронизацию личных файлов в Битрикс24.Диске.</li>
+
+
+<li>Чтобы посмотреть версию и проверить вручную наличие обновления приложения, необходимо выбрать пункт меню <b>О программе</b>.
+<p><img src="cid:resources/res44/xtA6u.desktop_app_about.png" border="0" width="336" height="518" ></p>
+</li>
+
+<li>Пункты меню <b>Сменить пользователя</b> и <b>Закрыть приложение</b> позволяют деавторизоваться и закрыть приложение соответственно.</li>
+</ul>
+
+
+<p><div class="hint"><b>Примечание</b>: При авторизации в приложении для Windows или Mac OS X, уведомления и сообщения не будут всплывать в панели Бизнес-чата портала, но их всегда можно просмотреть на портале. </div></p>
+
+
+<br />
+<p><div class="hint"><b>Примечание</b>: О настройке запуска приложения <b>Битрикс24 для Windows</b> с использование прокси-сервера читайте на <a href="http://www.bitrix24.ru/support/forum/forum1/topic1109/" target="_blank" />форуме поддержки</a>. </div></p>
+
+
+<br />
+<h4>Битрикс24.Диск</h4>
+<p>Из десктопного приложения можно подключить <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5287" target="_blank" />Битрикс24.Диск</a> и работать с файлами на портале с любого устройства. <b>Битрикс24.Диск</b> доступен пользователям <b>Windows</b> и <b>Mac OS X</b> и подключается к компьютеру как отдельная папка.</p>
+
+
+
+<br />
+<h4>Горячие клавиши и форматирование текста</h4>
+<p>В десктопном приложении есть возможность использовать горячие клавиши:</p>
+
+<ul>
+<li><b>ALT + 1</b>, <b>ALT + 2</b>,... <b>ALT + 0</b> - позволяет открыть последние вкладки переписки;</li>
+<li><b>CTRL + T</b> - позволяет изменить раскладку выделенного текста;</li>
+<li><b>CTRL + клик на вкладке «Последние»</b> - выводит все последние групповые чаты;</li>
+<li><b>стрелка вверх</b> - быстрое редактирование предыдущего сообщения;</li>
+<li><b>CTRL + R</b> - обновление окна приложения;</li>
+<li><b>CTRL + B</b>, <b>CTRL + I</b>, <b>CTRL + U</b>, <b>CTRL + S</b> - для <b>жирного</b>, <i>наклонного</i>, <u>подчеркнутого</u> или <s>зачеркнутого</s> текста;</li>
+<li><b>клик по аватарке пользователя в окне чата</b> - в поле ввода сообщения вставляется упоминание имени пользователя;</li>
+<li><b>CTRL + клик по аватарке пользователя в окне чата</b> - в поле ввода сообщения вставляется упоминание о пользователе с возможностью <b>Написать сообщение</b> и просмотреть <b>Историю</b> сообщений.  
+
+<p><div class="hint"><b>Примечание</b>: Если выключены уведомления в чате или приложение находится в статусе <b>Не беспокоить</b> уведомление все равно всплывет. </div></p>
+
+</li>
+</ul>
+
+<p>А также BB-коды для форматирования выделенного текста в сообщении: </p>
+
+<ul>
+<li><code>[b]жирный[/b]</code> (Ctrl + B): <b>жирный</b>; </li>
+<li><code>[i]курсив[/i]</code> (Ctrl + I): <i>курсив</i>;</li>
+<li><code>[u]подчеркивание[/u]</code> (Ctrl + U): <u>подчеркивание</u>;</li>
+<li><code>[s]зачеркивание[/s]</code> (Ctrl + S): <s>зачеркивание</s>;</li>
+<li><code>&gt;&gt;</code>: текст после двух угловых скобок будет отображен в чате как цитата;</li>
+<li><code>[url=http://1c-bitrix.ru]1C-Битрикс[/s]</code>: <a href="http://1c-bitrix.ru">1C-Битрикс</a> (если в тексте сообщения указана прямая ссылка, то она автоматически преобразуется в кликабельную ссылку в диалоге);</li>
+<li><code>[img]ссылка на картинку[/img]</code>: картинка (если указана прямая ссылка на картинку в тексте сообщения, то превью этой картинки будет показано в диалоге).</li>
+</ul>
+
+
+
+<br /><br />
+<p><div class="hint"><b>Примечание</b>: Решение технических вопросов по работе с десктопным приложением <b>Битрикс24</b> см. на странице <a href="http://www.bitrix24.ru/support/kb/?ID=5877" target="_blank" />Типовые вопросы</a> на сайте сервиса. </div></p>
+
+
+
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>250</edge_sort>
+<id>5374</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

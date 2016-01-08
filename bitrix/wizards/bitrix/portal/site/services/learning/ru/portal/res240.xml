@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>4870</lesson_id>
+<was_chapter_id>1094</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>125</sort>
+<timestamp_x>1404895079</timestamp_x>
+<date_create>1349854131</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Планерки и собрания</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p><div class="note">Сервис <b>Собрания и планерки</b> - инструмент автоматизирующий подготовку к собранию, его ведение и контроль за исполнением поставленных на собрании целей, хранение истории, обеспечивающий &quot;прозрачность&quot; всего процесса для руководства. </div></p>
+ 
+<p><img  border="0" src="cid:resources/res240/pMlLO.plan_1.png"  /></p>
+ 
+<p>В общем списке собраний цветами помечены:</p>
+ 
+<ul> 
+  <li>черным - планируемые собрания;</li>
+ 
+  <li><span style="color: rgb(172, 172, 172);">серым</span> - завершенные;</li>
+ 
+  <li><span style="color: rgb(0, 174, 239);">синим</span> - идущие в данный момент.</li>
+ </ul>
+ 
+<p>Участники собрания распределяются по ролям и действуют в соответствии с ними:</p>
+ 
+<ul> 
+  <li><b>Организатор</b> создает собрание, распределяет обязанности между участниками и закрывает его;</li>
+ 
+  <li><b>Участники</b> отчитываются по вопросам повестки дня;</li>
+ 
+  <li><b>Секретарь</b> пишет отчет.</li>
+
+<div class="hint"><b>Примечание</b>: Организатор собрания считается ее секретарем, пока не назначит кого-либо вместо себя.</div>
+
+ </ul>
+ 
+<p>Все накопленные материалы собрания уходят в архив и доступны в дальнейшем для просмотра участниками собрания и руководством компании. Между однотипными собраниями устанавливается связь - незакрытые вопросы из предыдущих планерок наследуются, а на текущем совещании планируется следующее. </p>
+ 
+<p>Руководители подразделений имеют доступ к собраниям, в которых участвуют их подчиненные, даже если руководители не входят в состав участников собрания.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>125</edge_sort>
+<id>4870</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5197</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416919988</timestamp_x>
+<date_create>1359460095</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Работа со сделкой из интернет-магазина</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[
+<p>Рассмотрим сценарий использования CRM, при котором клиент делает заказ из публичной части интернет-магазина под управлением <b>1С-Битрикс: Управление сайтом</b>:</p>
+ 
+<p><img src="cid:resources/res357/P7WXa.korzina.png" border="0" width="700" height="677"  /></p>
+ 
+<p>После нажатия кнопки <b>Оформить заказ</b> данные о заказе по протоколу <b>CommerceML</b> пересылаются в CRM корпоративного портала.</p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание! </b>У вас должна быть настроена <a href="/learning/course/index.php?COURSE_ID=42&LESSON_ID=3645" >интеграция интернет-магазина и CRM</a>.</div>
+ 
+<p></p>
+ 
+<p>В CRM у вас:</p>
+ 
+<ul> 
+  <li>создастся сделка с привязкой к интернет-магазину;</li>
+ 
+  <li>создастся новый контакт (если такового еще нет).</li>
+ </ul>
+ 
+<p>При настройке интеграции интернет-магазина и CRM можно указать менеджера, который будет назначаться ответственным на сделки, связанные с заказами из магазина:</p>
+ 
+<p><img src="cid:resources/res357/OVzd4.otvets.png" border="0" width="510" height="409"  /></p>
+ 
+<p>При необходимости можно настроить <a href="/learning/course/index.php?COURSE_ID=45&CHAPTER_ID=04614" >бизнес-процесс</a>, при запуске которого ответственному менеджеру будет приходить уведомление о создании новой сделки.</p>
+ 
+<br />
+ 
+<p>Далее менеджер знакомится со сделкой, проверяет данные и регистрирует <a href="/learning/course/index.php?COURSE_ID=45&LESSON_ID=4657#add_call" >звонок</a> клиенту с целью уточнения деталей:</p>
+ 
+<p><img src="cid:resources/res357/Mtk9v.ring.png" border="0" width="527" height="477"  /></p>
+ Через определенное количество времени ответственный менеджер получает уведомление в мессенджере портала о том, что нужно совершить звонок: 
+<p><img src="cid:resources/res357/8CHjG.uved.png" border="0" width="580" height="142"  /></p>
+ 
+<p>При телефонном разговоре выясняется, что клиент хочет увеличить количество одного из товаров и просит доставить товар, поэтому менеджер переходит к редактированию заказа:</p>
+ 
+<p><img src="cid:resources/res357/fIGkM.izm_tov1.png" border="0" width="264" height="101"  /></p>
+ 
+<p></p>
+ 
+<div class="warning"><b>Внимание! </b>Если при нажатии кнопки <b>Изменить</b> или <b>Просмотреть</b> выдается сообщение <b>External site is not found</b>, то вам следует изменить поле <b>Адрес</b> в настройках интеграции интернет-магазина и CRM, прописав в нем не буквенный адрес интернет-магазина, а его ip.</div>
+ 
+<p></p>
+ 
+<p>В открывшейся форме доступен весь функционал работы с заказом интернет-магазина:</p>
+ 
+<p><img src="cid:resources/res357/DU6aL.izm_zak1.png" border="0" width="631" height="480"  /></p>
+ 
+<p>После сохранения изменений состав заказа и итоговые суммы автоматически обновятся.</p>
+ 
+<p>Далее в форме просмотра сделки идет постановка задачи курьеру на доставку заказа. В форме создания задачи задаются нужные сроки и необходимые пояснения:</p>
+ 
+<p><img src="cid:resources/res357/6kdXY.dost_tov.png" border="0" width="597" height="447"  /></p>
+ 
+<p>Через некоторое количество времени менеджер получает уведомление о том, что курьер выполнил задачу:</p>
+ 
+<p><img src="cid:resources/res357/e6uon.close_task.png" width="607" height="132"  /></p>
+ 
+<p>После этого менеджер переходит в форму просмотраредактирования сделки, чтобы закрыть ее.</p>
+ 
+<p>На закладке <b>Товары сделки</b> нажимает кнопку <b>Изменить</b> и в в форме редактирования заказа меняет статус заказа и статус оплаты:</p>
+ 
+<p><img src="cid:resources/res357/MUtki.order_status.png" width="263" height="52"  /></p>
+ 
+<p><img src="cid:resources/res357/2K3zm.order_pay_yes.png" width="297" height="39"  /></p>
+ 
+<p>В группе полей <b>О сделке</b> статус заказа автоматически сменится на <b>Сделка заключена</b>:</p>
+ 
+<p><img src="cid:resources/res357/I3z4c.sdel_zakl.png" border="0" width="509" height="420"  /></p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5197</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

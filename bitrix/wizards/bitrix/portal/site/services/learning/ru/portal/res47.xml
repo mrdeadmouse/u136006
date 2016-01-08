@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3632</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100950</sort>
+<timestamp_x>1405008883</timestamp_x>
+<date_create>1339060179</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>XMPP-клиент</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<a name="xmpp"></a><h4>Обмен сообщениями через протокол XMPP</h4>
+
+<p><div class="note"><b>XMPP</b> (<i>Extensible Messaging and Presence Protocol</i> — расширяемый протокол обмена сообщениями и информацией о присутствии), ранее известный как <b>Jabber</b>) — основанный на XML, открытый, свободный для использования протокол для мгновенного обмена сообщениями и информацией о присутствии в режиме, близком к режиму реального времени. Изначально спроектированный легко расширяемым, протокол, помимо передачи текстовых сообщений, поддерживает передачу голоса, видео и файлов по сети.</div></p>
+
+
+<p>Сотрудники имеют возможность общаться на портале, используя привычные для себя XMPP-мессенджеры: <b>Miranda</b>, <b>QIP Infium</b>, <b>Pidgin</b>, <b>Psi</b> и т.п.</p>
+
+<p><div class="hint"><b>Примечание:</b> Начиная с 11 версии модуля добавлена поддержка передачи файлов.</div></p>
+
+
+<p>Чтобы начать общение, необходимо выполнить следующие настройки в выбранной вами программе:</p>
+<ul>
+<li>укажите ваш <b>логин</b> и <b>пароль</b> для доступа <u>на портал</u>;</li>
+<li>в качестве <b>сервера</b> укажите домен вашего портала;</li>
+<li>уточните у администратора портала <b>порт</b> для XMPP-сервера, если он отличается от используемого по умолчанию, то введите необходимое значение;</li>
+<li>уточните у администратора, используется ли <b>SSL</b>-шифрование, если используется, то установите флажок в одноименном поле.</li>
+</ul>
+
+<p>Например, если вами выбрана <b>Miranda</b>, то форма ее настроек имеет следующий вид:</p>
+
+<p><img src="cid:resources/res47/O5yV5.miranda_set.png" border="0" alt="Пример настройки Miranda" width="648" height="476" /></p>
+
+
+<p>В результате, после сохранения настроек и выполнения входа в сеть, будет подгружен список сотрудников портала:</p>
+
+<p><img src="cid:resources/res47/X4e4u.miranda_list.png" border="0" alt="Список контактов" width="223" height="493" /></p>
+
+<p>Для <b>QIP</b> форма настроек имеет следующий вид:</p>
+
+<p><img src="cid:resources/res47/5DGSH.xmpp_qip_settings.png" border="0" alt="Пример настройки QIP" width="672" height="491" /></p>
+
+<p><div class="hint"><b>Примечание:</b> Подробнее про настройку вашего XMPP-клиента читайте в документации к нему.</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100950</edge_sort>
+<id>3632</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

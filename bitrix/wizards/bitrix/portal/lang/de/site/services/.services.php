@@ -1,0 +1,35 @@
+<?
+$MESS["SERVICE_MAIN_SETTINGS"] = "Einstellungen des Intranet-Portals";
+$MESS["SERVICE_VOTE"] = "Umfragen und Abstimmungen";
+$MESS["SERVICE_COMPANY_STRUCTURE"] = "Unternehmensstruktur";
+$MESS["SERVICE_FORUM"] = "Forum";
+$MESS["SERVICE_PHOTOGALLERY"] = "Fotogalerie";
+$MESS["SERVICE_USERS"] = "Nutzer";
+$MESS["SERVICE_IBLOCK_DEMO_DATA"] = "Demodaten";
+$MESS["SERVICE_ADVERTISING"] = "Banner";
+$MESS["SERVICE_LEARNING"] = "e-Learning";
+$MESS["SERVICE_FORM"] = "Web-Formulare";
+$MESS["SERVICE_SUBSCRIBE"] = "Abonnemente";
+$MESS["SERVICE_BLOG"] = "Blogs";
+$MESS["SERVICE_SOCIALNETWORK"] = "Soziales Netzwerk";
+$MESS["SERVICE_SUPPORT"] = "Technischer Support";
+$MESS["SERVICE_WORKFLOW"] = "Workflow";
+$MESS["SERVICE_FILEMAN"] = "Datei-Manager";
+$MESS["SERVICE_STATISTIC"] = "Statistik";
+$MESS["SERVICE_LISTS"] = "Allgemeine Listen";
+$MESS["SERVICE_INTRANET"] = "Einstellungen des Intranet-Portals";
+$MESS["SERVICE_FILES"] = "Dateien";
+$MESS["SERVICE_SEARCH"] = "Suchen";
+$MESS["SERVICE_DEPARTMENTS_HEAD"] = "Abteilungsleiter";
+$MESS["SERVICE_VIDEO"] = "Videokonferenz";
+$MESS["SERVICE_BPV"] = "Geschдftsprozesse";
+$MESS["SERVICE_WIKI"] = "Wissensdatenbank (Wiki)";
+$MESS["SERVICE_CRM"] = "CRM";
+$MESS["SERVICE_TIMEMAN"] = "Arbeitszeitmanagement";
+$MESS["SERVICE_MEETING"] = "Briefings und Meetings";
+$MESS["SERVICE_MEDIALIBRARY"] = "Medienbibliothek";
+$MESS["SERVICE_MEDIALIBRARY_DESC"] = "Medienbibliothek Beispielinhalte";
+$MESS["SERVICE_XDIMPORT"] = "Verцffentlichung im Activity Stream";
+$MESS["SERVICE_CALENDAR"] = "Terminkalender";
+$MESS["SERVICE_TASKS"] = "Aufgaben";
+?>

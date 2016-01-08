@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3765</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1416905488</timestamp_x>
+<date_create>1343035735</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На данной странице вы можете работать со списком шаблонов бизнес-процессов для сделок, лидов, контактов и компаний:</p>
+
+<p><img src="cid:resources/res346/cN3gR.bp_52.png"></p>
+
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Для сервиса Битрикс24</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>О бизнес-процессах и действиях с ними вы можете узнать из главы <a href="/learning/course/index.php?COURSE_ID=52&CHAPTER_ID=05142">Бизнес-процессы для администратора</a>.</p>
+</td></tr>
+</tbody>
+</table></div>
+<br>
+
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Для коробочного Битрикс24</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>О бизнес-процессах и действиях с ними вы можете узнать из курса <a href="/learning/course/index.php?COURSE_ID=48&CHAPTER_ID=04744">Администратор корпоративного портала</a>.</p>
+</td></tr>
+</tbody>
+</table></div>
+
+
+<br>
+
+
+<p>В CRM включено несколько шаблонов бизнес-процессов: <b>Обработка лида</b>, <b>Обработка контакта</b>, <b>Выполнение по стадиям</b>, <b>Сделка интернет-магазина</b>.</p>
+
+<p>Чтобы добавить шаблон для какого-либо типа сущностей пройдите по ссылке <b>Добавить шаблон</b>, откроется страница настройки параметров шаблона, которая подробно описана в главе <b>Настройка параметров шаблона</b>.</p>
+
+<p>Нажмите на <b>Список шаблонов</b> чтобы попасть на страницу с шаблонами для данной сущности:</p>
+
+<p><img src="cid:resources/res346/Cdjfe.shablon_52.png"></p>
+
+<p>В меню действий можно определить параметры автоматического запуска, изменить, либо удалить шаблон:</p>
+
+<p><img src="cid:resources/res346/oYQRw.sh_menu_52.png"></p>
+
+<p>Для бизнес-процессов были разработаны специальные действия: <b>создание лида</b>, <b>создание сделки</b>, <b>создание контакта</b>, <b>создание компании</b>, <b>запись события в CRM</b>. </p>
+
+<p>Отследить состояние запущенного бизнес-процесса можно на странице <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3732">профиля</a> сущности. </p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>3765</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

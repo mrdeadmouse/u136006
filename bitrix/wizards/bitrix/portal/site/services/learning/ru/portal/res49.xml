@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5287</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>900</sort>
+<timestamp_x>1419862715</timestamp_x>
+<date_create>1364203026</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Битрикс24.Диск</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[ 
+<p><b>Битрикс24.Диск</b> позволяет: </p>
+ 
+<ul> 
+  <li>Работать с файлами, где бы вы ни находились, с любого устройства.</li>
+ 
+  <li>Отправить файлы коллегам, обсуждать, совместно редактировать, отслеживать историю изменений.</li>
+ 
+  <li>Работать с файлами на своем компьютере (при этом все изменения автоматически окажутся у ваших коллег).</li>
+ </ul>
+ 
+<p>Подключается <b>Битрикс24.Диск</b> на персональном компьютере как отдельная папка (по умолчанию - <b>Мои ДокументыBitrix24</b>, вы можете изменить папку, пройдя по ссылке &quot;<u>изменить директорию</u>&quot; при <a href="#otkl_sinhr" >отключенной синхронизации</a> файлов) в одноименной закладке десктопного приложения <b>Битрикс24</b> с помощью кнопки <b>Подключить</b>: 
+  <br />
+ </p>
+ 
+<p><img src="cid:resources/res49/t7IF3.b25_disk_02.png"  />
+<a name="neskolko"></a>
+</p>
+ 
+<p>Таким образом можно подключить несколько папок, если вы работаете в нескольких порталах. Каждая папка будет синхронизироваться со своим порталом.</p>
+ 
+<h4>Панель управления</h4>
+ 
+<p>Панель управления состоит из двух кнопок:</p>
+ 
+<p><img src="cid:resources/res49/pqjq0.b24disk_panel.png" border="0" width="687" height="50"  /></p>
+ 
+<ul> 
+  <li><b>Открыть проводник Windows</b> - при клике откроется папка, где можно хранить свои файлы (по умолчанию - <b>Мои ДокументыBitrix24</b>): </li>
+ </ul>
+ 
+<p><img src="cid:resources/res49/ocuKN.b24_disk_03.png" border="0" width="699" height="677"  /></p>
+ 
+<br />
+ Добавьте документ в эту папку - и он синхронизируется с вашими файлами на портале: 
+<br />
+ 
+<br />
+ <img src="cid:resources/res49/Atf7U.b24_disk_05.png" border="0" width="690" height="357"  /> 
+<br />
+ 
+<p></p>
+ Подробнее работа с файлами на портале описана в соответствующей <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=06830" target="_blank" >главе</a>. 
+<p></p>
+ 
+<ul> 
+  <li><b>Перейти в Битрикс24</b> - при клике по этой кнопке в браузере будет открыта страница <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3703" target="_blank" >Мой диск</a> портала, под учетной записью которого вы авторизованы в десктопном приложении. </li>
+ </ul>
+ 
+<h4>Настройки</h4>
+ Настройки <b>Битрикс24.Диска</b> вызываются с помощью кнопки <img src="cid:resources/res49/aidnp.options_button.png" border="0" width="32" height="28"  /> бокового меню и перехода в одноименную закладку: 
+<p><img src="cid:resources/res49/lTZjO.b24disk_07.png" border="0" width="573" height="207"  /> <a name="otkl_sinhr"></a> </p>
+ 
+<h4>Отключение синхронизации файлов</h4>
+ 
+<p>Для отключения синхронизации файлов с <b>Битрикс24.Диск</b> нужно снять птичку с опции &quot;Включить Битрикс24.Диск&quot; в настройках приложения. Локальные файлы останутся нетронутыми. </p>
+ 
+<p><img src="cid:resources/res49/LPe9w.settings.png" border="0" width="639" height="488"  /></p>
+ 
+<h4>История</h4>
+ 
+<p>Лог всех изменений показывается в области истории. Также из этой области можно открыть файл для просмотра или редактирования:</p>
+ 
+<p><img src="cid:resources/res49/453Ho.history_2.png" border="0" width="700" height="382"  /></p>
+ 
+<p>При отключении синхронизации обнуляется история загрузок файлов. То есть файлы не будут доступны из этой области, но по-прежнему будут доступны на Моем Диске и в папке локального компьютера. </p>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>900</edge_sort>
+<id>5287</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

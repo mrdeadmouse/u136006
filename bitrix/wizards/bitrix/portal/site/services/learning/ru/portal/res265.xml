@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2373</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>1100</sort>
+<timestamp_x>1404987031</timestamp_x>
+<date_create>1303382538</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Подписка</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Страница <b>Подписка</b> (<span class="path">Сервисы > Подписка</span>) служит для организации рассылки различных почтовых сообщений с портала. Например, это могут быть сообщения с информацией о последних новостях компании, анонсы планируемых мероприятий и т.п.</p>
+
+<p>Чтобы подписаться на рассылку, на странице в форме подписки выберите рассылку(ки), укажите формат подписки (<b>Текст</b>/<b>HTML</b>) и нажмите кнопку <b>Подписаться</b>:</p>
+
+<p><img src="cid:resources/res265/zNPBq.subscribe_form.png" border="0"/></p>
+
+<p>После оформления подписки система выдаст сообщение: <b>Подписка успешно изменена</b>.</p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1100</edge_sort>
+<id>2373</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6860</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1419266162</timestamp_x>
+<date_create>1416318864</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Аппаратное устройство одноразовых паролей (eToken)</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Система одноразовых паролей дополняет стандартную систему авторизации и позволяет значительно усилить систему безопасности интернет-проекта. Для включения системы можно использовать аппаратное устройство (например, <a href="http://www.aladdin.ru/catalog/etoken/models/etoken_pass/" target="_blank" />Aladdin eToken PASS</a>).</p>
+
+<p><img src="cid:resources/res33/bVBOB.etoken_pass.png" width="235" height="153" border="0"/></a></p>
+
+<p>Использование системы одноразовых паролей позволяет <b>избежать</b>: </p>
+<ul>
+<li>последствий такого вида компьютерного мошенничества, как <b>сниффинг</b> - перехват иили анализ сетевого трафика, предназначенного для других узлов, т.е перехват пользовательских логинов и паролей, которые в ряде сетевых протоколов передаются в незашифрованном или слабозашифрованном виде;</li>
+<li>использования злоумышленником <b>закешированных паролей</b> на чужих компьютерах (Интернет-кафе и т.п);</li>
+<li><b>последствий работы вирусов</b>, сканирующих трафик на предмет наличия в нем секретных сведений, или <b>кейлоггеров</b>, записывающих набираемые символы на компьютере и отправляющих полученную информацию создателям вредоносных программ.</li>
+</ul>
+
+<p>Таким образом, использование одноразовых паролей для авторизации на сайте существенно затрудняет злоумышленникам получить несанкционированный доступ к интернет-проекту.</p>
+
+<p><div class="hint"><b>Примечание: </b>Подробнее о системе одноразовых паролей (OTP) см. раздел <a href="http://www.1c-bitrix.ru/products/cms/security/#tab-autentification-link" target="_blank" />Безопасность</a> на сайте «1C-Битрикс».</div></p>
+
+<br />
+<p>Для авторизации на сайте с включенной системой одноразовых паролей необходимо:</p>
+<ul>
+<li>Сгенерировать одноразовый пароль на устройстве OTP;</li>
+<li>Ввести данные для авторизации на сайте:</li>
+<p><img src="cid:resources/res33/vJ3YI.otp_auth.png" width="235" height="260" border="0" /></p>
+<ul>
+<li><b>Логин</b> пользователя;</li>
+<li><b>Пароль</b>: сначала вводится основной пароль (см. <b>1</b> на рисунке выше) и одноразовый (см. <b>2</b> на рисунке выше) без пробелов.</li>
+</ul>
+</li>
+
+</ul>
+
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>6860</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

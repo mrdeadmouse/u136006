@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5046</lesson_id>
+<was_chapter_id>1318</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>4</childs_cnt>
+<is_childs>1</is_childs>
+<sort>1000100</sort>
+<timestamp_x>1404826916</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Первая часть, организационная</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Рассмотрим организационные моменты, связанные с внедрением KPI. Какие проблемы и какие трудности могут возникнуть и какими инструментами Битрикс24 их можно решить.</p>
+
+<h4>Как работает система KPI в целом</h4>
+
+<ol>
+<li>Создаётся задача, определяющая объем работ. Задача может быть создана руководителем, сотрудником, автоматически из списка работ.</li>
+<li>Задача выполняется ответственным за её исполнение.</li> 
+<li>Руководитель проверяет выполнение задачи и добавляет коэффициенты за её выполнение.</li> 
+<li>По истечении отчётного периода с помощью корпоративного портала составляется отчёт по выполненным задачам.</li>
+<li>Руководитель отдела по данным отчёта составляет ведомость премий и передаёт в бухгалтерию.</li> 
+ </ol>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>1000100</edge_sort>
+<id>5046</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

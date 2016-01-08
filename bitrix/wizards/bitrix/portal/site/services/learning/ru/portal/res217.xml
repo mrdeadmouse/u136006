@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3733</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1419844284</timestamp_x>
+<date_create>1341582086</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Типовые бизнес-процессы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<div class="note"><b>Типовые бизнес-процессы</b> - образцы часто используемых процессов, которые включены в состав сервиса <b>Битрикс24</b> по умолчанию. </div>
+ <menu id="topictoc"> 
+  <li><a href="#bizproc_create" >Создание шаблонов типовых бизнес-процессов</a></li>
+ 
+  <li><a href="#bizproc_del" >Удаление шаблонов типовых бизнес-процессов</a></li>
+ </menu> 
+<br />
+ <a name="bizproc_create"></a> 
+<h4>Создание шаблонов типовых бизнес-процессов</h4>
+ 
+<p>Для перехода к управлению шаблонами бизнес-процессов нажмите на кнопку настроек, расположенную на контекстной панели списка документов, и выберите <b>Бизнес-процессы</b>:</p>
+ 
+<p><img src="cid:resources/res217/UxdTg.bp6.png" border="0" width="230" height="209"  /></p>
+ 
+<p>Типовые шаблоны бизнес-процессов не создаются автоматически при создании вашего портала на сервисе <i>Битрикс24</i>, а в таблице списка при первом посещении вы увидите надпись:</p>
+ 
+<p><img src="cid:resources/res217/8juBn.bp8.png" border="0" width="692" height="174"  /></p>
+ 
+<ul> 
+  <li>Нажмите на ссылку <b>Создать стандартные бизнес-процессы</b>. Запустится процесс создания шаблонов и отобразится список с типовыми шаблонами:</li>
+  </ul>
+  <p><img src="cid:resources/res217/FIjBR.bp9.png" border="0" width="666" height="472"  /></p>
+
+   <p></p>
+
+<a name="bizproc_del"></a>
+ 
+<h4>Удаление шаблонов типовых бизнес-процессов</h4>
+ 
+<ul> 
+  <li>Для удаления шаблона бизнес-процесса используйте пункт меню действий <b>Удалить</b>:</li>
+ 
+  <p></p>
+ 
+  <div class="warning"><b>Важно:</b> удалить шаблон незавершенного бизнес-процесса нельзя. То есть, если бизнес-процесс запущен на каком-то документе, то шаблон этого процесса не удаляется.</div>
+ 
+  <p></p>
+ </ul>
+ ]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>3733</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

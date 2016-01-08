@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3763</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>150</sort>
+<timestamp_x>1415879500</timestamp_x>
+<date_create>1342705604</date_create>
+<created_user_name>(andrey-ka) Андрей Качалов</created_user_name>
+<created_by>64579</created_by>
+<active>Y</active>
+<name>Сценарии использования живой ленты</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Живая лента занимает важное место в работе портала. Она позволяет всегда быть в курсе всех происходящих в компании событий.</p>
+
+
+<p>Есть несколько способов общения в живой ленте:</p>
+<ul>
+  <li><a href="#all">Обсудить со всеми</a></li>
+  <li><a href="#group">Обсудить в группе</a></li>
+  <li><a href="#favorite">Сообщение всем + избранным</a></li>
+</ul>
+
+
+<br>
+
+
+<a name="all"></a><h4>Обсудить со всеми</h4>
+
+<p>Если необходимо обсудить какой-то вопрос, идею, услышать мнения сотрудников, просто напишите сообщение в живой ленте. Сообщение появится в живой ленте у всех сотрудников, они смогут оставить свой комментарий, отметить &quot;мне нравится&quot;. </p>
+
+  <p><img src="cid:resources/res68/iiDzm.1.jpg" border="0" width="800" height="455"></p>
+   
+ 
+<br>
+
+ 
+<a name="group"></a><h4>Обсудить в группе</h4>
+
+<p>Необходимо отправить сообщение всем участникам группы? Укажите в поле <b>Кому</b> необходимую группу, и ваше сообщение получат все сотрудники, состоящие в этой группе. В сообщении можно указать тему, изменить текст в редакторе.   </p> 
+
+  <p><img src="cid:resources/res68/vfIXA.2.jpg" border="0" width="801" height="478"></p>
+   
+
+<br>
+   
+   
+<a name="favorite"></a><h4>Сообщение всем + избранным</h4>
+
+<p>Бывает, что необходимо отправить сообщение всем, но обратить особое внимание отдельных сотрудников.</p>
+<p>Для этого в поле <b>Кому</b>, помимо всех сотрудников, необходимо перечислить дополнительных пользователей. Также вы можете воспользоваться новой функцией &quot;добавить упоминание&quot; (меншен).</p>
+<p>В этом случае, все пользователи портала увидят новое событие в живой ленте, а перечисленные сотрудники, получат сообщение в панель уведомлений.  </p> 
+
+  <p><img src="cid:resources/res68/xoESU.3.jpg" border="0" width="798" height="347"></p>
+
+<p>В сообщение можно указать не только текст, но и прикрепить файл, вставить видео, изображение, задать ссылку на материал или человека.</p>
+<p>Живая лента интерактивна, все события можно комментировать, отмечать понравившиеся. При этом автор увидит все эти изменения, они появятся у него в панели уведомлений.</p>
+
+  <p><img src="cid:resources/res68/97e6n.4.jpg" border="0" width="461" height="275"></p>
+
+<p>Если сообщение важно для вас, и вы хотели бы иметь к нему быстрый доступ, можно добавить его в избранное.</p>
+
+  <p><img src="cid:resources/res68/8eobg.5.jpg" border="0" width="801" height="362"></p>
+  
+<p>Также можно настроить подписку, получить ссылку.</p>
+<p>Вы можете отсортировать события живой ленты с помощью вкладок в верху ленты либо воспользоваться фильтром.  </p> 
+
+  <p><img src="cid:resources/res68/wLDbh.6.jpg" border="0" width="794" height="327"></p>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>150</edge_sort>
+<id>3763</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

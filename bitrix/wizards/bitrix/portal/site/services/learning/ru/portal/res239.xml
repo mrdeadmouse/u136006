@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2266</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1404894306</timestamp_x>
+<date_create>1299253238</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Резервирование переговорных</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Переговорные</b> доступен список переговорных и ссылка на календарь бронирования.</p>
+  <p><img src="cid:resources/res239/702Io.meeting_page.png" alt="Список переговорных" ></p>
+
+<p>Поиск свободных переговорных на тот или иной промежуток времени осуществляется с помощью удобного фильтра, который доступен по кнопке <b>Поиск переговорных</b>:</p>
+  <p><img src="cid:resources/res239/jNnl7.meeting_search.png" alt="Список переговорных" ></p>
+<p>Под фильтром будет отображен список свободных переговорных по заданным параметрам поиска.</p>
+
+<p>Задавая условия поиска, вы можете найти переговорную на необходимый вам период и зарезервировать ее, если у вас достаточно прав доступа. В противном случае, вам следует обратиться к сотруднику, ответственному за резервирование переговорных.</p>
+
+<p>Скрыть фильтр и результаты поиска позволяет кнопка <b>Список переговорных</b>, расположенная на контекстной панели страницы.</p>
+
+<p>Если для некоторой переговорной вызвать меню действий, то при нажатии на пункт <b>График переговорной</b> откроется страница с графиком занятости переговорной:</p>
+  <p><img src="cid:resources/res239/8BzYo.meeting_graph.png" alt="График переговорной" "></p>
+
+<p>Чтобы иметь возможность одновременно просматривать занятость нескольких переговорных на одной сетке календаря и/или забронировать переговорную (при наличии достаточных прав), перейдите по ссылке <b>Резервирование переговорных с помощью календаря</b>. Будет открыта следующая страница:</p>
+  <p><a href="javascript:ShowImg('/images/portal_user/services/meeting/meeting_calendar.png',683,974,'Календарь бронирования переговорных')">
+<img src="cid:resources/res239/od0Cv.meeting_calendar_sm.png" style="CURSOR: pointer" height="600" alt="Нажмите на рисунок, чтобы увеличить" width="421" border="0"/></a></p>
+
+<p>Список <b>Календари</b> служит для выбора переговорных, информация о занятости которых должна быть отображена на сетке календаря:</p>
+  <p><img src="cid:resources/res239/wEVSD.meeting_calendar_list.png" alt="Список календарей" ></p>
+
+<p>Для более детального просмотра информации о бронировании используйте специальный значок просмотра событий:</p>
+  <p><img src="cid:resources/res239/8CrGy.meeting_calendar_view_button.png"></p>
+
+<p>По его нажатии отобразится окно с подробной информацией:</p>
+  <p><img src="cid:resources/res239/d1Ash.meeting_calendar_event_detail.png" ></p>
+
+<p>Вы можете просмотреть график занятости помещений по дням/неделям/месяцам. Для этого используйте вкладки календаря <b>День</b>, <b>Неделя</b> или <b>Месяц</b> соответственно:</p>
+  <p><a href="javascript:ShowImg('/images/portal_user/services/meeting/meeting_calendar_week.png',680,665,'Календарь бронирования переговорных')">
+<img src="cid:resources/res239/zZL25.meeting_calendar_week_sm.png" style="CURSOR: pointer" height="469" alt="Нажмите на рисунок, чтобы увеличить" width="480" border="0"/></a></p>
+
+<p>Для резервирования переговорной необходимо найти на календаре время, когда она не занята, затем связаться с менеджером, чтобы он подтвердил вашу бронь и внес ее в расписание занятости переговорных.</p>
+
+<p><div class="hint"><b>Примечание:</b> Бронирование переговорных может осуществлять сотрудник, обладающим достаточным уровнем прав.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>2266</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

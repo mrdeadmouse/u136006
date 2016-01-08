@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6839</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1419265922</timestamp_x>
+<date_create>1415870513</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Настройки для администратора «Битрикс24»</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<br>
+<p>Система OTP включается и отключается на портале администратором сразу для всех пользователей.</p>
+
+<p>Для включения двухэтапной авторизации для всех на портале нужно перейти в раздел <b>Настройки портала</b> (<span class="path">Настройки > Настройки портала</span>) и включить опцию <b>Требовать подключение двухэтапной авторизации у всех сотрудников</b>.</p>
+
+<p><img src="cid:resources/res29/U4e7E.otp_public_admin1_sm.png" border="0" /></p>
+
+<p>В опции <b>Укажите период, в течение которого все сотрудники должны будут включить двухэтапную авторизацию</b> указывается максимальный период, после которого не подключившие двухэтапную авторизацию пользователи не смогут зайти на портал. В таком случае нужно будет обратиться к администратору портала.</p>
+
+
+<br>
+<p>Администратор может отключить двухэтапную авторизацию в профиле отдельного сотрудника, если это необходимо, <b>Бессрочно</b> либо на срок <b>от 1 до 10 дней</b>.</p>
+
+<p><img src="cid:resources/res29/qz96V.otp_pers_sm.png" border="0" /></p>
+
+
+
+
+
+<br><br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>6839</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

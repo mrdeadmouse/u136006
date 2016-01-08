@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2254</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>200</sort>
+<timestamp_x>1356779669</timestamp_x>
+<date_create>1299239290</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Редактирование страниц</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Информация на портале представлена как в статическом, так и в динамическом виде.</p>
+
+<div class="hint"><P><B>Статическая информация</B> – это информация, которая редко изменяется с течением времени. Например, рекламные тексты, история компании, контактная информация и т.п. Статическая информация создается, редактируется, дополняется и удаляется пользователями, обладающими правом на редактирование страниц сайта. Такое редактирование производится, как правило, в визуальном редакторе непосредственно в тексте самой страницы.</P>
+
+<P><B>Динамическая информация</B> - информация, выводимая с помощью специальных программных компонентов системы. Примерами динамической информации могут служить:</P>
+
+<UL>
+<LI><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2269">календарь событий</a>;</LI>
+<LI><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2267">наша жизнь</a>;</LI>
+<LI><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2270">фотогалерея</a>;</LI>
+<LI><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2270">видеогалерея</a>;</LI>
+<LI><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2271">карьера, вакансии</a>;</LI>
+<LI><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&LESSON_ID=2268">новости отрасли</a>;</LI>
+</UL>
+<p>Подробнее о статической и динамической информации смотрите в курсе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1848">Контент-менеджер</a>.</p></div>
+
+<p>Информация на статических страницах, в отличие от динамических (таких как <b>Новости отрасли</b>), носит, как правило, долгосрочный характер, и вносится вручную с помощью визуального редактора.</p>
+
+<div class="hint"><b>Примечание</b>: для редактирования страниц в визуальном редакторе нужно быть включенным в группу <b>Работает в панели управления</b>. Если у Вас недостаточно прав - обратитесь к администратору портала.</div>
+
+<p><div class="warning"><b>Внимание!</b> Если сотруднику в силу его профессиональных обязанностей необходимо работать как со статическим, так и динамическим содержанием портала в рамках не оговоренных в этом учебном курсе, рекомендуем обратиться к курсу <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34" target="_blank">Контент-менеджер</a>.</div></p>
+
+<h4>Общий порядок работ по редактированию страниц</h4>
+
+<p>Чтобы перейти к редактированию текущей страницы, нажмите кнопку <b>Изменить страницу</b> на <b>Административной панели</b>:</p>
+<img height="84" width="64" src="cid:resources/res63/GKeQB.edit_page_95_new.png"/>
+
+<p><div class="hint"><b>Примечание</b>: изображенный на пиктограмме кнопки замочек означает, что к используемой в данный момент странице ограничен доступ определенных групп сотрудников. За подробностями обращайтесь к администратору портала.</div></p>
+
+<p>В Публичной части загрузится окно редактора над поверхностью сайта, с помощью которого внесите изменения в содержание страницы.</p>
+
+<p><img height="425" width="700" src="cid:resources/res63/U5fHz.edit_page.png" /></p>
+Визуальный редактор обладает широкими возможностями для редактирования текста. В курсе <b>Контент-менеджер</b> рассмотрены основные операции по работе с текстом такие, как: 
+<ul>
+  <li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1846" >форматирование текста веб-страниц, используя набор основных инструментов текстового редактора MS Word</a>; </li>
+
+  <li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1861" >вставка текста напрямую из редактора MS Word с автоматической очисткой кода</a>; </li>
+
+  <li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1868" >проверка орфографии и грамматики текстов сайта в визуальном редакторе</a>. </li>
+
+  <li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1874" >создание таблиц</a>; </li>
+
+  <li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1873" >создание ссылок</a>. </li>
+</ul>
+
+<p>Визуальный редактор также позволяет работать с графическими данными и видеороликами. Подробно о этом написано в курсе <b>Контент-менеджер</b>:</p>
+<ul>
+  <li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1871">загрузка и размещение изображения</a>; </li>
+
+<li><a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1872">загрузка и размещение flash-ролика</a>; </li>
+
+</ul>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>2254</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

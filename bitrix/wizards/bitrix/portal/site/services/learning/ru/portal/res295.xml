@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5180</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>400</sort>
+<timestamp_x>1414495711</timestamp_x>
+<date_create>1357908678</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Мои дела</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <span class="path">CRM > Мои дела</span> представлен список запланированных дел: звонков/встреч/задач/отправленных писем:</p>
+
+<p><img src="cid:resources/res295/CcB7B.my_dela_03.png" width="700" height="328"></p>
+
+
+<p><div class="warning"><b>Внимание! </b>Помните о том, что в списке дел отображаются задачи только с установленным сроком завершения и привязанные к какой-либо сущности CRM.</div></p>
+
+<p>В случае, если до появления в системе связи дел с календарем, у вас уже имелись календарные события и задачи с привязкой на сущности CRM, то на странице <b>Мои дела</b> вы увидите информационную табличку с предложением провести конвертацию таких событий и задач в дела (доступно только администраторам):</p>
+
+<p><img src="cid:resources/res295/CE5gW.last_tasks.png" width="566" height="58"></p>
+<br>
+
+<p>При наличии соответствующих прав вы можете просмотреть дела другого сотрудника. Для этого на странице <b>Мои дела</b> укажите в фильтре интересующего сотрудника в поле <b>Ответственный</b> и нажмите <b>Найти</b>:</p>
+
+<p><img src="cid:resources/res295/WkhjU.dela_stas_bandurin.png"></p>
+<br>
+
+<p>С помощью меню действий вы можете:</p>
+
+<p><img src="cid:resources/res295/AAx1u.delo_menu.png"></p>
+
+<ul>
+<li><b>Просмотреть дело</b> - нажмите, чтобы перейти в режим просмотра дела.</li>
+
+<li><b>Редактировать дело</b> - нажмите, чтобы перейти в форму редактирования параметров дела. </li>
+
+<li><b>Отметить как выполненное</b> - выберите данный пункт, если дело закончено, после чего оно будет помечено флажком:
+
+<p><img src="cid:resources/res295/9YLMu.finish_delo.png" width="676" height="40"></p>
+</li>
+
+<li><b>Удалить</b> - нажмите, чтобы удалить дело из списка.</li>
+</ul>
+
+<p><div class="hint"><b>Примечание</b>: для задач в меню действий отсутствует пункт <b>Редактировать дело</b>, и отличается форма просмотра, через которую и можно произвести редактирование задачи.</div></p>
+<br>
+
+<p>С помощью панели групповых действий вы можете отметить несколько дел как выполненные/невыполненные. Отметьте их галочками в колонке флажков и выберите соответствующий пункт в меню групповых действий:</p>
+
+<p><img src="cid:resources/res295/Do71C.dela_group_act.png" width="531" height="77"></p>
+
+<p><div class="warning"><b>Внимание! </b>Данный способ не работает для писем. Письмо автоматически отмечается выполненным после его открытия на просмотр, либо следует самому отметить его флажком завершенного дела.</div></p>
+
+<p>Перевести просроченные\невыполненные дела в статус завершенных можно в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5817">ленте CRM</a>.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>5180</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

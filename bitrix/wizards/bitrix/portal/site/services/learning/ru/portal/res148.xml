@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6475</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>600</sort>
+<timestamp_x>1406119634</timestamp_x>
+<date_create>1406035380</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Настройка Outlook для подключения почты Битрикс24</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Чтобы вы могли работать с вашим почтовым ящиком <b>Битрикс24</b> через <b>Outlook</b>, необходимо добавить в него вашу учетную запись почты. Это можно сделать в разделе <b>Файл</b> программы <b>Outlook</b>, кликнув по соответствующей кнопке:</p>
+
+<p><img src="cid:resources/res148/p6Aj3.add_in_outlook.png"></p>
+
+<p>Затем выберите ручную настройку и нажмите <b>Далее</b>:</p>
+
+<p><img src="cid:resources/res148/udx8l.hand_made.png"></p>
+
+<p>Выберите пункт <b>Электронная почта Интернета</b>:</p>
+
+<p><img src="cid:resources/res148/3Jzsd.email_internet.png"></p>
+
+<p><div class="hint"><b>Примечание: </b>если у вас подключен собственный домен, то следует выбрать второй вариант списка и обратиться к администратору. </div></p>
+
+<p>Нажмите кнопку <b>Далее</b>.</p>
+
+<p>В следующем окне следует указать все необходимые настройки:</p>
+
+<p><img src="cid:resources/res148/GOdix.email_parameters.png"></p>
+
+<p>Разберем некоторые из них:</p>
+
+<ul>
+<li><b>Адрес электронной почты</b> - укажите адрес подключаемого ящика.</li>
+
+<li><b>Тип учетной записи</b> - рекомендуется выбирать <b>IMAP</b>: 
+
+<p><img src="cid:resources/res148/Zy2ts.imap.png"></p></li>
+
+<li><b>Сервер входящей почты</b> - для <b>Яндекса</b> это <b>imap.yandex.ru</b>.
+
+<p><div class="hint"><b>Примечание: </b>при работе по протоколу <b>POP3</b> следует указать <b>pop.yandex.ru</b>.</div></p>
+</li>
+
+<li><b>Сервер исходящей почты</b> - для <b>Яндекса</b> это <b>smtp.yandex.ru</b>.</li>
+
+<li><b>Пользователь</b> - полностью введите имя вашего почтового ящика на <b>Битрикс24</b>.</li>
+
+<li><b>Пароль</b> - укажите пароль от вашего почтового ящика <b>Битрикс24</b>.</li>
+</ul>
+
+<p>Нажмите на кнопку <b>Другие настройки...</b> и на закладке <b>Сервер исходящей почты</b> укажите параметры как на скриншоте ниже:</p>
+
+<p><img src="cid:resources/res148/qwKSA.smtp_real2.png"></p>
+
+<p>На закладке <b>Дополнительно</b> выставьте порты и тип шифрованного подключения в соответствии с показанным на скриншоте ниже:</p>
+
+<p><img src="cid:resources/res148/IVVHa.993_465.png"></p>
+
+<p><div class="hint"><b>Примечание: </b>для типа учетной записи <b>POP3</b> указываются следующие порты:
+<ul>
+<li><b>POP3-сервер:</b> 995;</li>
+
+<li><b>SMTP-сервер:</b> 465.</li>
+</ul>
+</div></p>
+
+<p>Сохраните внесенные изменения и нажмите <b>Далее</b>.</p>
+
+<p>Вы будете оповещены о результатах проверки почты:</p>
+
+<p><img src="cid:resources/res148/WJCXx.success.png"></p>
+
+<p>Успешное создание учетной записи завершится окном следующего содержания:</p>
+
+<p><img src="cid:resources/res148/l9tuD.finish.png"></p>
+
+<p>Теперь подключенный ящик будет показываться в <b>Outlook</b>:</p>
+
+<p><img src="cid:resources/res148/ynITp.mail_box.png"></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>600</edge_sort>
+<id>6475</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

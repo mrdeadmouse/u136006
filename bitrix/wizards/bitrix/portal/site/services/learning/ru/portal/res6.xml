@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>6416</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>17</childs_cnt>
+<is_childs>1</is_childs>
+<sort>400</sort>
+<timestamp_x>1414046648</timestamp_x>
+<date_create>1404722129</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Основные сведения</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>В главе приводятся основные сведения о сервисе <b>Битрикс24</b>, которые необходимо знать пользователю перед началом работы:</p>
+
+<ul>
+<li>Как регистрироваться и авторизоваться на корпоративном портале;</li>
+<li>Структура корпоративного портала;</li> 
+<li>Страница "Мой портал";</li>
+<li>Поиск на корпоративном портале;</li> 
+<li>Система прав доступа к информации на портале;</li> 
+<li>Интерфейс программы;</li>
+<li>Навигация по порталу.</li> 
+<li>Работа с формами отчета;</li> 
+<li>Работа с визуальным редактором.</li>
+ </ul>
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>400</edge_sort>
+<id>6416</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

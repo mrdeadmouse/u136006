@@ -1,0 +1,3 @@
+<?
+$MESS ['W_IB_OUR_LIFE_TAB1'] = "cedit1--#--Vorschautext--,--NAME--#--*Ьberschrift--,--ACTIVE_FROM--#--  Datum--,--PREVIEW_TEXT--#--  Vorschautext--;--cedit2--#--Details--,--TAGS--#--  Tags--,--DETAIL_TEXT--#--  Detaillierte Beschreibung--;--cedit3--#--Bild--,--PREVIEW_PICTURE--#--  Vorschaubild (wenn nicht angegeben, wird das Bild automatisch generiert)--,--DETAIL_PICTURE--#--  Detailbild--;--";
+?>

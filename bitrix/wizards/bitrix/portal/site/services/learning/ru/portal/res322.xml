@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>3749</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416822599</timestamp_x>
+<date_create>1342087185</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Экспорт контактов</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>О запуске функции экспорта контактов читайте в уроке <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05024#contekst_panel">Контакты</a>.</p>
+
+<p><div class="warning"><b>Важно! </b>Для успешного экспорта в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3746">настройках контакта</a> должна быть отмечена опция <b>Участвует в экспорте контактов</b>. С помощью панели групповых операций возможно единовременное снятиеустановка данной галочки для нескольких контактов, предварительно отмеченных в колонке флажков:
+
+<p><img src="cid:resources/res322/d1uZ2.group_export.png"></p>
+</div></p>
+
+<p>Есть три варианта выбора:</p>
+
+<ul>
+<li><b>Экспорт контактов в CSV</b> - после выбора этого пункта появится диалоговое окно сохранения файла в формате <b>.csv</b>:
+
+<p><img src="cid:resources/res322/5W3bT.cont_exp_csv.png" width="447" height="319"></p>
+
+<p><div class="hint"><b>Примечание</b>: вы можете не сохранять файл, а сразу открыть его в каком-либо приложении. Для этого выберите не <b>Сохранить файл</b>, а <b>Открыть в</b> и выберите подходящую программу.</div></p> 
+
+<p>Нажмите <b>ОК</b>, после чего появится диалоговое окно выбора места сохранения файла:</p>
+
+<p><a href="javascript:ShowImg('/images/curs_b24/crm/contacts/cont_exp_csv_step2.png',707,457,'Сохранение файла')">
+<img height="387" border="0" width="600" src="cid:resources/res322/ah26m.cont_exp_csv_step2_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p>Выберите где будет храниться файл и нажмите <b>Сохранить</b>.</p>
+</li>
+
+<li><b>Экспорт контактов в Excel</b> - после выбора этого пункта появится диалоговое окно сохранения файла в формате <b>.xls</b>, работа с которым аналогична экспорту в формате <b>.csv</b>.</li>
+
+<li><b>Экспорт контактов в Outlook</b> - выбор этого пункта позволит передать все записи таблицы списка контактов в <b>Outlook</b>.
+
+<p>После щелчка левой кнопкой мыши по данному пункту появится окно запуска приложения:</p>
+
+<p><img src="cid:resources/res322/fDY2T.cont_exp_outl.png" width="375" height="396"></p>
+
+<p>По умолчанию выбран <b>Microsoft Office Outlook</b>. Для выбора другого приложения нажмите кнопку <b>Выбрать</b>.</p>
+
+<p>Нажмите <b>ОК</b>, после чего будет выполнен запрос авторизации:</p>
+
+<p><img src="cid:resources/res322/pehPP.cont_exp_login.png" width="437" height="310"></p>
+
+<p>Введите ваши учетные данные на <b>Битрикс24</b> и нажмите <b>ОК</b> для начала отправки элементов:</p>
+
+<p><img src="cid:resources/res322/w8yvM.send_element.png" width="532" height="332"></p>
+
+<p>После завершения обмена данными вы сможете посмотреть экспортируемые контакты в <b>MS Outlook</b>:</p>
+
+<p><a href="javascript:ShowImg('/images/curs_b24/crm/contacts/outlook_cont.png',828,218,'Карточки контактов')">
+<img height="157" border="0" width="600" src="cid:resources/res322/HgdO2.outlook_cont_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a>
+</p>
+
+<p><div class="hint"><b>Примечание</b>: в <b>MS Outlook</b> чтобы перейти к экспортируемым контактам нажмите <span class="path">Переход > Контакты</span>.</div></p>
+
+<p><div class="warning"><b>Внимание! </b>Для полноценной и безошибочной интеграции с Outlook необходим минимум <b>Outlook 2007</b>.</div></p>
+</li>
+</ul>
+
+
+<p>При экспорте учитывается, применен ли <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3724">фильтр</a>. Это значит, что если вы хотите экспортировать скажем только контакты с именем <b>Иван</b>, то перед тем, как выбрать вид экспорта в контекстном меню, вам следует с помощью поисковой панели отсортировать контакты по имени <b>Иван</b>.</p>
+
+<p>Набор колонок в итоговом файле экспорта будет повторять колонки списка отображения контактов:</p>
+
+<p><a href="javascript:ShowImg('/images/curs_b24/crm/contacts/set_col.png',778,41,'Колонки списка')">
+<img height="31" border="0" width="600" src="cid:resources/res322/C0WAl.set_col_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a></p>
+
+<p><div class="hint"><b>Примечание</b>:  настроить колонки списка контактов можно, нажав на кнопку настройки списка и выбрав нужный пункт меню:
+<p><img src="cid:resources/res322/Fmd5v.set_list.png" width="293" height="169"></p>
+</div></p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>3749</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

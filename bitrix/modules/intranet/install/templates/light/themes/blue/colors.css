@@ -1,0 +1,17 @@
+#top-menu a { color: #0069c4; }
+#top-menu a:hover { border-color: #0069c4; }
+#top-menu span.hover a { color: #0069c4; }
+
+#top-menu span.selected.home .left-corner { background: url(images/theme-sprite.png) no-repeat -12px -72px; }
+#top-menu span.selected.home .root-item-text, #top-menu span.selected.home a:hover .root-item-text { background: url(images/theme-sprite.png) repeat-x 0 -34px; }
+#top-menu span.selected.home .right-corner { background: url(images/theme-sprite.png) no-repeat -18px -72px; }
+
+#top-menu span.home i { background: transparent url(images/theme-sprite.png) no-repeat 2px 9px;}
+#top-menu span.selected.home i { background: transparent url(images/theme-sprite.png) no-repeat -43px 10px;}
+
+#top-menu .root-item-text-line { border-color: #0069c4;}
+
+#search-button input { background:#3387d0 url(images/theme-sprite.png) no-repeat 0 -125px; color: #fff;}
+
+table.gadgetholder-mainpage td.gd-page-column1 .ghheader-underline, table.gadgetholder-dashboard td.gd-page-column1 .ghheader-underline { border-color:#b1d1ed; background-color: #8cbbe4; }
+table.gadgetholder-mainpage td.gd-page-column2 .ghheader-underline, table.gadgetholder-dashboard td.gd-page-column2 .ghheader-underline { border-color:#efe7af; background-color: #e8dd8f; }

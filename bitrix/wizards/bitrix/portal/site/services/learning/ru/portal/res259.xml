@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>2380</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>700</sort>
+<timestamp_x>1405081179</timestamp_x>
+<date_create>1303394945</date_create>
+<created_user_name>(Robert Basyrov) Роберт Басыров</created_user_name>
+<created_by>21419</created_by>
+<active>Y</active>
+<name>Вопросы и ответы</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>На странице <b>Вопросы и ответы</b> содержится список наиболее часто задаваемых вопросов по той или иной проблеме. Здесь вы можете быстро найти ответ на интересующий вас вопрос.</p>
+
+<p>Все вопросы и ответы разбиты на категории, в зависимости от принадлежности к той или иной теме.</p>
+
+<p>Чтобы просмотреть вопросы и ответы определенной категории, перейдите по ссылке с названием этой категории. В результате страница обновится, и на ней будет доступна следующая информация:</p>
+<ul>
+
+  <li>список вопросов;</li>
+  <li>блоки, в заголовках которых представлены вопросы, а в теле - ответы.</li>
+</ul>
+
+<p><img border="0" src="cid:resources/res259/Dxehy.faq.png" /></p>
+
+
+<p><div class="hint"><b>Примечание:</b> управлять <b>Вопросами и ответами</b> (добавлять и редактировать вопросы) может сотрудник, обладающим уровнем прав доступа не ниже <b>Отдел кадров</b>.</div></p>
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>700</edge_sort>
+<id>2380</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

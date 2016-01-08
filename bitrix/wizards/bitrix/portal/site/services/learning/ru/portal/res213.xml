@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5335</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>150</sort>
+<timestamp_x>1405014467</timestamp_x>
+<date_create>1368785098</date_create>
+<created_user_name>(tanya_bx) Tatiana Starkova</created_user_name>
+<created_by>8891</created_by>
+<active>Y</active>
+<name>Работа с документами через Google Docs</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Если администратор портала разрешил работу с документами через внешние службы (<a href="http://ru.wikipedia.org/wiki/Google_Docs">Google Docs</a> или <a href="http://ru.wikipedia.org/wiki/Skydrive">SkyDrive</a>), то при клике по ссылке с названием документа вы сразу перейдете к его просмотру. По-умолчанию это будет в <b>Google Docs</b>, он и используется в дальнейшем описании. Таким образом, вы теперь сможете работать в <b>Битрикс24</b> с файлами популярных форматов даже при отсутствии офисного программного обеспечения.</p>
+
+
+<div class="learnin-post-text">
+<table class="learning-spoiler">
+<thead onclick="LearningInitSpoiler(this)">
+<tr><th>
+<div>Для облачного сервиса Битрикс24</div>
+</th></tr></thead>
+<tbody style="display:none;" class="learning-spoiler">
+<tr><td>
+<p>Возможность работы с документами через <b>Google Docs</b> определяется настройками <b>Битрикс24</b> (<span class="path">Настройки &gt; Настройки портала</span>):</p>
+
+<p><img height="100" border="0" width="424" src="cid:resources/res213/C5PAd.portal_set_doc.png" /></p>
+</td></tr>
+</tbody>
+</table></div>
+
+<p>Если администратор <b>Битрикс24</b> установил соответствующую возможность, то каждый пользователь портала или владелец группы, самостоятельно определяет возможность работы с файлами через <b>Google Docs</b> в настройках личной библиотеки или библиотеки группы соответственно.</p>
+
+<p><img height="487" border="0" width="710" src="cid:resources/res213/nXgJw.group_google.png" /></p>
+
+
+<br >
+<a name="work_googledoc"></a>
+<p>В результате, если работа с документами через <b>Google Docs</b> разрешена, то по ссылке с именем документа (доступной в списке файлов библиотеки или в сообщениях живой ленты) вы перейдете к его просмотру. Просмотр файлов осуществляется с помощью слайдера. Вы можете просмотреть сразу все документы некоторой папки библиотеки, перелистывая файлы вперед или назад:</p> 
+
+<p><img height="222" border="0" width="700" src="cid:resources/res213/jYFch.forvard.png" /></p>
+
+<p><div class="warning"><b>Внимание! </b>В случае невозможности работы с документами в <b>Google Docs</b> пройдите авторизацию в <b>Google</b>.</div></p>
+
+<p>При просмотре документа можно увеличивать/уменьшать масштаб, а также открыть документ в новом окне в <b>Google Docs Viewer</b>.</p>
+
+<p>С помощью стрелки рядом с кнопкой <b>Редактировать</b>, вы можете выбрать сервис, с помощью которого выполнить изменение документа:</p>
+
+<p><img height="117" border="0" width="449" src="cid:resources/res213/wqndy.edit_in_google.png" /></p>
+
+<p>После указания разрешений для приложения откроется окно редактирования:</p>
+
+<p><img height="348" border="0" width="700" src="cid:resources/res213/qqzjc.edit_doc_2.png" /></p>
+
+<p>Внесите свои изменения и сохраните результат.</p>
+
+<p><div class="warning"><b>Внимание! </b>Вы можете выполнять совместное одновременное редактирование документов с помощью внешних сервисов. Следует иметь в виду, что служба, в которой откроется документ у каждого последующего сотрудника, начиная со второго, будет такой же, какую выбрал для работы с документом сотрудник, открывший этот документ первым.</div></p>
+
+<p>Если же просмотр документов через <b>Google Docs</b> запрещен, то при клике по ссылке с названием документа откроется окно следующего вида:</p>
+
+<p><img height="361" border="0" width="604" src="cid:resources/res213/9cu0q.doc_no_google.png" /></p>
+
+<p>Вы можете скачать документ в Битрикс24.Диск или локальный компьютер:</p>
+
+<p><img height="118" border="0" width="462" src="cid:resources/res213/vExgR.save_doc.png" /></p>
+
+<p>Пример работы с документами с помощью <b>Google Docs</b> рассмотрен в уроке <b>Организация работы отдела маркетинга</b>.</p>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>150</edge_sort>
+<id>5335</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

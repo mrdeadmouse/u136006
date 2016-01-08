@@ -1,0 +1,19 @@
+<?
+$MESS["CRM_TAB_1"] = "Lead";
+$MESS["CRM_TAB_1_TITLE"] = "Lead Properties";
+$MESS["CRM_TAB_2"] = "Log";
+$MESS["CRM_TAB_2_TITLE"] = "Lead log";
+$MESS["CRM_TAB_3"] = "Business Processes";
+$MESS["CRM_TAB_3_TITLE"] = "Lead business processes";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_SUMMARY_TITLE"] = "Matches found";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_WARNING_DLG_TITLE"] = "Possible clones";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_WARNING_ACCEPT_BTN_TITLE"] = "Ignore and save";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_WARNING_CANCEL_BTN_TITLE"] = "Cancel";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_FULL_NAME_SUMMARY_TITLE"] = "by full name";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_COMPANY_TTL_SUMMARY_TITLE"] = "by company name";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_PHONE_SUMMARY_TITLE"] = "by phone";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_EMAIL_SUMMARY_TITLE"] = "by e-mail";
+$MESS["CRM_LEAD_EDIT_DUP_CTRL_SHORT_SUMMARY_TITLE"] = "found";
+$MESS["CRM_LEAD_EDIT_TITLE"] = "Lead ##ID# &mdash; #TITLE#";
+$MESS["CRM_LEAD_CREATE_TITLE"] = "New lead";
+?>

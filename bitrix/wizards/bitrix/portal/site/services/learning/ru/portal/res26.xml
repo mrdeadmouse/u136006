@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6921</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>100</sort>
+<timestamp_x>1419271266</timestamp_x>
+<date_create>1419268294</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Подключение пользователем двухэтапной авторизации</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<br>
+<p><div class="warning"><b><font color="red">Внимание!</font></b> Перед подключением двухэтапной авторизации проверьте правильность установленного времени и часового пояса в вашем мобильном устройстве.</div></p>
+
+<h4>Публичная часть</h4>
+<p>Для включения двухэтапной авторизации в публичной части сайта необходимо перейти на специальную страницу <b>Настройка дополнительной защиты</b>, где следуя простой инструкции, подключается двухэтапная авторизация:</p>
+
+<p><img src="cid:resources/res26/u5x3E.security1.png" border="0" /></p>
+
+<br>
+<p>Для продолжения подключения двухэтапной авторизации понадобится приложение <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=6819" >Bitrix24 OTP</a> или аналоги. </p>
+
+
+
+
+
+<br><br>
+
+<h4>Административная часть</h4>
+<p>Если у контент-менеджера есть доступ в административную часть сайта, то для подключения мобильного приложения, необходимо перейти на страницу <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35&LESSON_ID=2004">редактирования пользователя</a> (<span class="path">Настройки &gt; Пользователи &gt; Список пользователей</span>), вкладка <b>Двухэтапная авторизация</b>:</p>
+	<p><img src="cid:resources/res26/4IITt.user_otp.png" border="0"></p>
+
+<p><div class="hint"><b>Примечание:</b> Вкладка отображается <u>только</u> если в системе <b>включено</b> использование механизма двухэтапной авторизации.</div></p>
+
+
+<ul>
+	<li>С помощью кнопки <b>Подключить телефон</b> выберите алгоритм генерации паролей, который будет использоваться для двухэтапной авторизации сайта и поддерживается приложением:
+<ul>
+    <li><b>по счетчику</b> (<a href="http://ru.wikipedia.org/wiki/HOTP">HMAC-Based One-time Password</a>, <b>HOTP</b>) - код будет доступен до тех пор, пока пользователь не запросит новый;	</li>
+    <li><b>по времени</b> (<a href="http://ru.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm">Time-based One-time Password</a>, <b>TOTP</b>) - код будет доступен в течение 30 секунд с момента его получения, после чего он автоматически обновится.	</li>
+</ul>
+	</li>
+
+	<li>В открывшейся форме отсканируйте с помощью приложения <b>QR-код</b>:
+		<p><img src="cid:resources/res26/XNgmQ.user_otp_mobile_time_qr.png" border="0"></p>
+	
+		<ul>
+			<li>В случае использования алгоритма <b>по счетчику</b> получите <i>первый код</i> и введите его в <b>первое поле</b>. 
+			<br>Затем сгенерируйте <i>второй код</i> и введите его во <b>второе поле</b>.</li>
+			<li>В случае использования алгоритма <b>по времени</b> получите <i>код</i> и введите его в <b>единственное поле</b>.</li>
+		</ul>
+	<br>
+	
+	<p>В случае отсутствия возможности отсканировать QR-код, воспользуйтесь ссылкой <b>Ввести данные вручную</b>: </p>
+		<ul>
+			<li><b>Адрес сайта</b> вида <code>www.site.ru</code>; </li>
+			<li><b>E-mail</b>, с которым был зарегистрирован пользователь на сайте;</li>
+			<li><b>Секретный ключ</b>, который указан на картинке (можно не обращать внимания на пробелы);</li>
+			<li><b>Тип ключа</b>.</li>
+		</ul>
+			<p><img src="cid:resources/res26/r8hu2.user_otp_mobile_time_text.png" border="0"></p>		
+		
+	</li>	
+	
+	<li>Сохраните внесенные изменения.</li>
+</ul>
+
+<p>После чего подключение будет завершено, а форма на вкладке <b>Двухэтапная авторизация</b> примет следующий вид:</p>
+	<p><img src="cid:resources/res26/niMMo.user_otp_enabled.png" border="0"></p>
+
+<ul>
+	<a name="otp_off"></a>
+	<li><b>Отключить</b> - позволяет отключить двухэтапную авторизацию <b>бессрочно</b> или же на <b>определенное</b> количество дней.</li>
+
+	<li><b>Резервные коды</b> - позволяет перейти к форме работы с <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41&LESSON_ID=5007">резервными кодами</a>.
+	<p><div class="hint"><b>Примечание:</b> Резервные коды доступны, если на странице настроек двухэтапной авторизации отмечена соответствующая опция.</div></p>
+	</li>
+	
+	<li><b>Синхронизировать</b> - позволяет перейти к форме <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41&LESSON_ID=5008">синхронизации</a> устройств.</li>
+	
+	<li><b>Подключить новый брелок/телефон</b> - позволяет произвести подключение нового устройства двухэтапной авторизации.
+	<p><div class="warning"><b>Внимание!</b> Одновременно можно использовать лишь одно средство (мобильное приложение/аппаратное устройство) для двухэтапной авторизации. При подключении нового авторизация со старым будет уже невозможно.</div></p>
+	</li>
+	
+</ul>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>100</edge_sort>
+<id>6921</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

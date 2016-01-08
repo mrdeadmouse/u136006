@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>6819</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>300</sort>
+<timestamp_x>1419266043</timestamp_x>
+<date_create>1415265214</date_create>
+<created_user_name>(Pulse) Александр Суворов</created_user_name>
+<created_by>18113</created_by>
+<active>Y</active>
+<name>Мобильное приложение Bitrix24 OTP</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Компания «1С-Битрикс» разработала новое мобильное приложение <b>Bitrix OTP</b> для поддержки двухэтапной авторизации. Приложение генерирует секретные коды для входа на порталы и сайты под управлением «Битрикс24» и «1С-Битрикс» и позволяет обойтись без использования аппаратных устройств (например, Aladdin eToken PASS) или соответствующих программных аналогов.</p>
+
+<p>Новое мобильное приложение <b>Bitrix OTP</b> работает быстро и не требует ввода избыточных данных. Данные для подключения в приложение можно ввести как вручную, так и автоматически с использованием QR-кода. </p>
+
+
+<h3>Подключение мобильного устройства</h3>
+
+<p><div class="warning"><b><font color="red">Внимание!</font></b> Перед подключением двухэтапной авторизации проверьте правильность установленного времени и часового пояса в вашем мобильном устройстве.</div></p>
+
+<ol>
+<li>Для начала необходимо скачать приложение <b>Bitrix24 OTP</b>:
+
+<p><img src="cid:resources/res32/aFjdj.otpapp.png" width="103" height="103" border="0" /> 
+
+<p><b>Ссылки для скачивания</b>:</p>
+<p><a href="https://itunes.apple.com/ru/app/bitrix24-otp/id929604673?mt=8" target="_blank" /><img src="cid:resources/res32/vppUL.appstore_icon.png" width="123" height="40" border="0" /></a> <a href="https://play.google.com/store/apps/details?id=com.bitrixsoft.otp&hl=ru" target="_blank" /><img src="cid:resources/res32/9JUYW.googlemarket_icon.png" width="123" height="40" border="0" /></a> </p>
+
+<p><div class="hint"><b>Примечание:</b> Подключить двухэтапную авторизацию на портале или сайте можно с помощью <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=06818#otp_app" target="_blank" />других программных средств</a>.</div></p>
+
+</li>
+
+
+<li>После запуска приложения выбирается удобный способ получения кода:
+
+<ul>
+
+<li><b>Сканировать QR-код</b>
+<p>Для того, чтобы сканировать код, поднесите камеру мобильного телефона к монитору с картинкой QR-кода на странице подключения OTP и подождите, пока приложение сканирует код.<p>
+
+<p><img src="cid:resources/res32/Fk4TT.otp_qr_scan.png" border="0" /></p>
+
+</li>
+
+<li><b>Ввести данные вручную</b>
+<p>Если вам не удалось сканировать код, выберите ручной ввод данных. </p>
+
+<p><img src="cid:resources/res32/vtmpB.otp_manual1.png" border="0" /> <img src="cid:resources/res32/VsKdJ.otp_manual2.png" border="0" /></p>
+
+
+<p>При ручном вводе необходимо указать:</p>
+<ul>
+<li><b>Адрес сайта</b> вида <span class="link">www.site.ru</span> или портала <b>Битрикс24</b> вида <span class="link">example.bitrix24.ru</span></b>;</li>
+
+<li><b>E-mail</b>, с которым был зарегистрирован пользователь на сайте или портале;</li>
+
+<li><b>Секретный ключ</b>, который указан на картинке (можно не обращать внимания на пробелы);</li>
+<li>выбрать тип ключа: 
+<ul>
+<li><b>по времени</b> - означает, что код будет доступен в течение 30 секунд с момента его получения, после чего он автоматически обновится; </li>
+или 
+<li><b>по счетчику</b> - означает, что код будет доступен до тех пор, пока пользователь не запросит новый.</li>
+</ul>
+<p><div class="warning"><b>Внимание!</b> Тип ключа, используемый на проекте, зависит от настроек администратора.</div></p>
+
+</li>
+</ul>
+</li>
+
+</ul>
+</ul>
+
+
+
+<li>Скопируйте этот код в буфер обмена, если вход осуществляется c помощью мобильного устройства: 
+
+<p><img src="cid:resources/res32/z3tns.otp_qr_scan3.png" border="0" /></p>
+
+<p>Или введите полученный код на странице подключения в браузере: </p>
+<p><img src="cid:resources/res32/26uQb.security2_sm.png" border="0" /></p>
+
+<p><div class="warning"><b>Примечание:</b> Если используется тип ключа <b>по счетчику</b>, то нужно будет ввести второй код подтверждения, нажав соответствующую кнопку.</div></p>
+</li>
+
+<li>Двухэтапная авторизация на сайте или портале успешно подключена.
+<p><img src="cid:resources/res32/ySise.otp_ok.png" border="0" /> </p>
+</li>
+
+</ol>
+
+
+
+
+<br>
+<h3>Авторизация с помощью приложения</h3>
+
+<p>Приложение запоминает аккаунты пользователей продуктов «1С-Битрикс». Для авторизации на сайте или портале необходимо:
+<ul>
+
+<li>Ввести в поле авторизации логин и пароль:</p>
+
+<p><img src="cid:resources/res32/yv4T0.login1_sm.png" border="0" /> </p>
+</li>
+
+<li>Получить одноразовый код для входа на сайт или портал, выбрав аккаунт из списка в приложении:</p>
+
+<p><img src="cid:resources/res32/G8hcx.otp_list.png" border="0" /> <img src="cid:resources/res32/GltaN.otp_code.png" border="0" /> </p>
+</li>
+
+
+<li>Ввести полученный одноразовый код в соответствующее поле:</p>
+
+<p><img src="cid:resources/res32/nnmVH.login2_sm.png" border="0" /> </p>
+
+<p><div class="hint"><b>Примечание:</b> Опция <b>Запомнить одноразовый пароль</b> позволяет сохранять авторизацию до тех пор, пока не нажата кнопка <b>Выход</b> из учетной записи, либо на срок, согласно настройкам прав группы пользователей.</div></p>
+</li>
+
+<li>Все, авторизация на сайте или портале успешно произведена.
+
+
+</li>
+</ul>
+
+<p><div class="warning"><b>Внимание!</b> При авторизации через соцсети будет запрашиваться OTP.</div></p>
+
+
+<br>
+
+<p>Для редактирования или удаления аккаунта из списка приложения нужно смахнуть влево нужный пункт:
+
+<p><img src="cid:resources/res32/Tx29d.otp_list_edit1.png" border="0" /> <img src="cid:resources/res32/4eegf.otp_list_edit2.png" border="0" /></p>
+
+
+
+<br>
+
+<p><div class="warning"><b>Внимание!</b> Все генеририруемые приложением <b>Bitrix24 OTP</b> коды доступа являются одноразовыми, повторное их использование для авторизации невозможно.</div></p>
+
+<br><br>
+
+
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>300</edge_sort>
+<id>6819</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

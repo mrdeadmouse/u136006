@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5520</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>2</childs_cnt>
+<is_childs>1</is_childs>
+<sort>800</sort>
+<timestamp_x>1418716876</timestamp_x>
+<date_create>1380536639</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Интеграция с почтой</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>У сотрудника есть возможность подключить свой почтовый ящик с ряда почтовых сервисов к сервису <b>Битрикс 24</b> по протоколу IMAP. Для этого используйте пункт <b>Почта</b> в левом меню, либо пункт меню личной страницы:</p>
+
+<p><img src="cid:resources/res146/oJQil.regulate_mail_integration.png"></p>
+
+<p>Нажмите <b>Подключить</b> в области <b>Почтовые сервисы</b>:</p>
+
+<p><img src="cid:resources/res146/vvvMj.mail_services_new.png"></p>
+
+<p>Затем кликните по иконке вашего почтового сервиса и введите данные учетной записи:</p>
+
+<p><img src="cid:resources/res146/8ODQS.my_mail_box.png"></p>
+
+<p>Нажмите <b>Подключить</b> и в случае успешной авторизации вы увидите соответствующее сообщение:</p>
+
+<p><img src="cid:resources/res146/LbLxM.yandex_success.png"></p>
+
+<p>По ссылке <b>Перейти в почту</b> в новом окне откроется ваш почтовый аккаунт.</p>
+
+<p><div class="warning"><b>Внимание! </b>Следует иметь в виду, что администратор <b>Битрикс24</b> будет иметь полный доступ к интегрированной вами почте.</div></p>
+<br>
+
+<p>После этого в вашем левом меню будет показано количество новых писем, а щелчок по пункту <b>Почта</b> левой кнопкой мыши откроет новую вкладку для просмотра почты:</p>
+
+<p><img src="cid:resources/res146/dKIg7.50.png"></p>
+
+<p>Позднее вы всегда можете перейти к удалениюнастройкепроверке интеграции с почтой с помощью  личного меню, упомянутого в начале урока:</p>
+
+<p><img src="cid:resources/res146/RcqVy.yandex_drive.png" ></p>
+
+<h4>IMAP и MS Exchange</h4>
+
+<p>При использовании почтового сервера, не указанного в списке логотипов, или существующего корпоративного почтового сервера воспользуйтесь, соответственно кнопкой <b>IMAP </b> или <b>MS Exchange</b>. Кроме логина и пароля в обоих случаях вам нужно будет указать параметры сервера:</p>
+
+<p><img src="cid:resources/res146/gU3V7.imap_1.png" /></p>
+
+<p>Где:</p>
+
+<ul>
+<li><b>Адрес веб-интерфейса почтового сервера</b> - вида <span class="link">https://owa.company.ru</span> (<span class="link">https://company.ru/owa</span>), уточните у администратора.</li> 
+<li><b>Адрес сервера</b> -  адрес вашего IMAP сервера (уточните у администратора).</li>
+<li><b>Порт</b> - указать порт защищенного соединения.</li> 
+<li><b>Защищенное соединение</b> - да, если есть.</li> 
+ </ul>
+
+<p>После подключения сервера необходимо будет вновь вести логин и пароль в открывшемся окне веб-клиента для запоминания учётных данных в файлах <b>cookie</b>.</p>
+
+<br>]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>800</edge_sort>
+<id>5520</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

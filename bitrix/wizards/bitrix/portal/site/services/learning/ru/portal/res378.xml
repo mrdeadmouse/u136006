@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="LES"><lesson_id>5465</lesson_id>
+<was_chapter_id></was_chapter_id>
+<keywords></keywords>
+<childs_cnt>0</childs_cnt>
+<is_childs>0</is_childs>
+<sort>500</sort>
+<timestamp_x>1416990052</timestamp_x>
+<date_create>1378212896</date_create>
+<created_user_name>(Решецкий Егор) Егор Решецкий</created_user_name>
+<created_by>82996</created_by>
+<active>Y</active>
+<name>Абонентское обслуживание</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Рассмотрим, как с помощью CRM можно организовать систему абонентского обслуживания. От клиента ежемесячно приходит оплата за определенное число часов работы, заявки на которую поступают от него в течении месяца.</p>
+
+<p>В процессе работы может происходить общение с клиентом для уточнения каких-либо вопросов. После окончания работы должно фиксироваться потраченное на нее время. По окончании месяца создается отчет о выполненной работе и общем затраченном на нее времени, получаемым сложением затраченного времени на каждую заявку.</p>
+<br>
+
+<p>Клиенты присутствуют в CRM в виде контактов. После достигнутой договоренности клиенту <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5362">выставляется счет</a>:</p>
+
+<p><img src="cid:resources/res378/gm77P.inv_20_hours.png" width="700" height="562"></p>
+
+<p>После оплаты клиент письмом присылает заявку на выполнение какого-либо задания на ящик CRM. При настроенной интеграции почты и CRM это письмо автоматически привяжется к нужному контакту, а ответственному за данный контакт придет соответствующее уведомление:</p>
+
+<p><img src="cid:resources/res378/UHlJY.new_interface.png" width="610" height="196"></p>
+
+<p>Пройдя по ссылке в виде темы письма, вы попадете в <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3732#dela">список дел контакта</a>, где можно просмотреть данное письмо, переслать или ответить на него:</p>
+
+<p><img src="cid:resources/res378/vELNp.letter_new_interface.png" width="559" height="356"></p>
+
+<p>Далее, все еще находясь в списке дел контакта, добавьте задачу и заполните форму необходимыми данными:</p>
+
+<p><img src="cid:resources/res378/YsINJ.interface_task.png" width="700" height="391"></p>
+
+<p><a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05028#add_task">Задача</a> создается в специальной <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=2306#group_create">группе</a>, созданной для проектов данного клиента. Отметьте начало выполнения задачи.</p>
+
+<p>Не переходя на другую страницу, можно вести общение с клиентом по поставленной задаче с помощью <a href="/learning/course/index.php?COURSE_ID={SELF}&CHAPTER_ID=05028#letter">электронной почты</a>:</p>
+
+<p><img src="cid:resources/res378/09beG.write_letter.png" width="588" height="234"></p>
+
+<p>Аналогичным образом обрабатываются и регистрируются другие заявки клиента. После выполнения поставленные задачи завершаются.</p>
+
+<p>Все общение с клиентом и работа с задачами будут зафиксированы на закладке <b>История</b> <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3732#history">профиля</a> его контакта в CRM.</p>
+<br>
+
+<p>Создадим отчет по выполненным задачам и затраченному на них времени, который ежемесячно предоставляется клиенту:</p>
+
+<p><img src="cid:resources/res378/aWc1J.create_otch.png" width="658" height="735"></p>
+
+<p><div class="warning"><b>Важно! </b>Имейте в виду, что автоматический подсчет времени выполнения задачи ведется только при включении задачи в план дня. Подробнее об этом читайте в соответствующем <a href="/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=3718#tasks_view_info_panel">уроке</a>.</div></p>
+
+<p>В отчете мы оставили нужные колонки, указали сортировку по времени выполнения задачи и указали вывод в него только задач из группы, созданной для нашего клиента. Единожды созданный отчет по одному щелчку мыши будет автоматически обрабатывать новые данные по задачам каждый месяц.</p>
+
+<p>Составленный отчет будет иметь следующий вид:</p>
+
+<p><img src="cid:resources/res378/QxkZJ.otch.png" width="695" height="380"></p>
+
+<p>Можно экспортировать его в <b>Excel</b> и выслать клиенту.</p>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>500</edge_sort>
+<id>5465</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<content type="CHA"><lesson_id>5018</lesson_id>
+<was_chapter_id>1287</was_chapter_id>
+<keywords></keywords>
+<childs_cnt>9</childs_cnt>
+<is_childs>1</is_childs>
+<sort>200</sort>
+<timestamp_x>1404991960</timestamp_x>
+<date_create>1349854135</date_create>
+<created_user_name>(badmin) Admin Bitrix</created_user_name>
+<created_by>1</created_by>
+<active>Y</active>
+<name>Задачи</name>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_text><![CDATA[<p>Раздел <b>Задачи</b> служит для создания и просмотра личных задач, поставленных сотруднику/сотрудником.</p>
+
+<p><div class="note"><b>Задачи</b> - инструмент для организации персональной и групповой работы. Задачи обладают свойствами: контроля по времени, контроля по эффективности работы, приоритету выполнения, ролями и другими.
+<p>Работа с задачами доступна сотрудникам с любым уровнем прав.</p>
+
+</div></p>
+
+<p><img src="cid:resources/res69/5wpR2.tasks_page_sm.png" alt="Задачи" border="0" /></p>
+
+
+
+<a name="roles"></a><p>Работа с задачами использует механизм ролей:</p>
+<ul>
+
+  <li><b>Ответственный</b> - сотрудник, которому была непосредственно поставлена задача.  </li>
+
+  <li><b>Постановщик</b> - сотрудник, который поставил задачу (например, начальник отдела).  </li>
+
+  <li><b>Соисполнитель</b> - сотрудник, которому была поставлена та же задача, что и другому сотруднику (например, задача была поставлена на весь отдел, сотрудники которого и будут соисполнителями). 
+  <br>
+  Cоисполнителям назначаются права ответственного (возможность начинать задачу, завершать и т.д.). </li>
+
+  <li><b>Наблюдатель</b> - сотрудник, который получает уведомления о ходе задачи, но не может участвовать в ней или изменять ее (например, начальник  отдела, который должен получать информацию о выполненных задачах другого отдела).
+    <br>
+  Наблюдатели имеют возможность самостоятельно прекратить наблюдение за задачей.
+  </li>
+
+</ul>
+
+
+<br>
+
+
+<p>Задачи поддерживают отправку различных уведомлений средствами модуля <b>Веб-мессенджер</b>.</p>
+
+<p>Выбрать желаемые уведомления и способ их доставки можно в форме настроек <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID={SELF}&LESSON_ID=5373">Веб-мессенджера</a>:</p>
+    <p><img src="cid:resources/res69/sOhY7.tasks_im_notfy_settings.png" border="0" ></p>
+
+
+
+<br>
+
+
+<h4>Видео</h4>
+<p>Видеозапись с <a href="http://www.bitrix24.ru/support/webinars.php">вебинара</a>, в которой рассказывается о задачах и работе с ними:</p>
+  <iframe width="700" height="394" src="//www.youtube.com/embed/1LoNLopyRqg" frameborder="0" allowfullscreen></iframe>
+<p><div class="hint"><b>Примечание:</b> Функционал в продукте может меняться со временем и отличаться от показанного в ролике.</div></p>
+
+
+
+
+
+<br>
+
+
+<p><table width="100%" height="1" cellspacing="0" cellpadding="0" bgcolor="#cecece"> 
+  <tbody> 
+    <tr><td></td></tr>
+   </tbody>
+ </table></p>
+
+<p>Список ссылок по теме:</p>
+
+<ul>
+<!--
+<li><a href="http://www.youtube.com/watch?v=1LoNLopyRqg" target="_blank">Управление задачами и проектами в Битрикс24</a> (видеозапись вебинара). </li>
+-->
+<li><a href="http://dev.1c-bitrix.ru/community/blogs/rsv-dev/projects-and-tasks-20-for-web-studio.php" target="_blank"> Пример использования проектов и Задач 2.0</a> (видео).</li>
+ </ul>
+
+]]></detail_text>
+<detail_picture></detail_picture>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+<code></code>
+<active_from></active_from>
+<active_to></active_to>
+<rating></rating>
+<rating_type></rating_type>
+<scorm></scorm>
+<linked_lesson_id></linked_lesson_id>
+<course_id></course_id>
+<course_sort></course_sort>
+<edge_sort>200</edge_sort>
+<id>5018</id>
+<meta_publish_prohibited>N</meta_publish_prohibited>
+</content>
